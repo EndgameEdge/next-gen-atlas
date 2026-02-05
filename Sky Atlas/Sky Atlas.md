@@ -27044,6 +27044,7 @@ Spark Product Backstop is set manually by Spark governance per [A.6.1.1.1.3.4.2.
 
 Operational expense reserve is calculated as the higher of past month’s operating expenses multiplied by Target Runway (in months), or total operating expenses incurred in trailing period equal to Target Runway.
 
+
 ###### A.6.1.1.1.3.4.2.2.3 - Parameters [Core]  <!-- UUID: 7410ed94-db95-437a-a4d2-9120036ec7bd -->
 
 The current Target SubDAO Proxy Value parameters are:
