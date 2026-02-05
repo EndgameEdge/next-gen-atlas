@@ -1,0 +1,13 @@
+name: PR Trigger Test
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  test-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: PR trigger reached
+        run: echo "✅ Workflow triggered by Pull Request"
