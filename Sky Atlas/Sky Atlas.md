@@ -25195,7 +25195,7 @@ The documents herein specify Spark's strategy and operational processes for mana
 
 ###### A.6.1.1.1.3.2.1 - SparkLend [Core]  <!-- UUID: d9ff0cd2-8999-4d3d-9670-2c7b49c1fe51 -->
 
-The documents herein define the parameters and operational processes related to SparkLend. Control of SparkLend is being transitioned to Spark.
+The documents herein define the parameters and operational processes related to SparkLend.
 
 ###### A.6.1.1.1.3.2.1.1 - Parameters [Core]  <!-- UUID: a15a6203-23b1-4921-8bdb-fe0ef6013bf6 -->
 
@@ -25228,7 +25228,7 @@ The Interest Rate Model ("IRM") is defined by four main parameters:
 
 The Base Rate, Slope 1, and Slope 2 parameters are further defined in: [A.6.1.1.1.3.2.1.1.1.13 - Base Rate Definition](9372deb9-5115-4010-bf72-34023b846525); [A.6.1.1.1.3.2.1.1.1.15 - Slope 1 Definition](c16b2b24-d663-4877-8bb3-cbd32e977360); and [A.6.1.1.1.3.2.1.1.1.17 - Slope 2 Definition](56bc7808-5ef8-42af-ba17-708b995194cc). 
 
-All markets except Dai use this IRM. The IRM for Dai is independent of utilization and is defined as a spread over the Sky Savings Rate set forth in [A.3.1.2.2 - Sky Savings Rate](2674cccb-d779-4868-b83f-8cb86648c88a). The spread is determined by the Stability Facilitators, in consultation with the Core Council Risk Advisor.
+All markets except Dai use this IRM. The IRM for Dai is independent of utilization and is defined as a spread over the Sky Savings Rate set forth in [A.3.1.2.2 - Sky Savings Rate](2674cccb-d779-4868-b83f-8cb86648c88a). The spread is determined by Spark Governance, in consultation with the Spark Risk Council.
 
 ###### A.6.1.1.1.3.2.1.1.1.4 - LTV Definition [Core]  <!-- UUID: 586478a3-51cb-4a2e-8bb1-b96e6520fdcc -->
 
@@ -25264,7 +25264,7 @@ The optimal utilization represents the desired target utilization of the borrowi
 
 ###### A.6.1.1.1.3.2.1.1.1.12 - Isolated Debt Ceiling Definition [Core]  <!-- UUID: ccb5b20f-8fe0-487c-9d61-d038c87e04f0 -->
 
-The isolated debt ceiling represents the maximum amount that can be borrowed against designated isolated assets, as determined by the Stability Facilitators in consultation with the Core Council Risk Advisor. Only Stablecoins may be borrowed against isolated assets.
+The isolated debt ceiling represents the maximum amount that can be borrowed against designated isolated assets, as determined by Spark Governance, in consultation with the Spark Risk Council. Only Stablecoins may be borrowed against isolated assets.
 
 ###### A.6.1.1.1.3.2.1.1.1.13 - Base Rate Definition [Core]  <!-- UUID: 9372deb9-5115-4010-bf72-34023b846525 -->
 
@@ -25422,7 +25422,7 @@ The current Dai risk parameters are:
 
 - Flash Loan Enabled: Yes
 
-The Dai Borrow Rate is set through the Interest Rate Model as a spread over the Sky Savings Rate. The spread is set directly by the Stability Facilitators in consultation with the Core Council Risk Advisor.
+The Dai Borrow Rate is set through the Interest Rate Model as a spread over the Sky Savings Rate. The spread is determined by Spark Governance, in consultation with the Spark Risk Council.
 
 ###### A.6.1.1.1.3.2.1.1.2.1.3 - USDS Risk Parameters [Core]  <!-- UUID: d9a146b8-f101-4cd6-916c-85142bb8deec -->
 
@@ -25466,7 +25466,7 @@ The current USDS risk parameters are:
 
 - Flash Loan Enabled: Yes. 
 
-The USDS Borrow Rate is set through the Interest Rate Model as a spread over the Sky Savings Rate. The spread is set directly by the Stability Facilitators in consultation with the Core Council Risk Advisor.
+The USDS Borrow Rate is set through the Interest Rate Model as a spread over the Sky Savings Rate. The spread is determined by Spark Governance, in consultation with the Spark Risk Council.
 
 ###### A.6.1.1.1.3.2.1.1.2.1.4 - WETH Risk Parameters [Core]  <!-- UUID: b1a1fb8a-29d7-4bbd-8204-25c74263c25d -->
 
@@ -26826,7 +26826,7 @@ The kill switch disables all borrowing across SparkLend markets in the event of 
 
 The kill switch is defined in terms of a threshold for specified pegged assets. If the ratio of the price of a specified asset to its peg is equal to or less than the threshold, then any user can trigger the kill switch to disable borrowing across all SparkLend markets.
 
-After the kill switch is triggered, markets can be reactivated by Sky Governance after resetting the kill switch. Resetting the kill switch is subject to the Governance Security Delay specified in [A.1.9.3 - Governance Security Delay Requirements](c5f0e955-0441-42e0-a6fc-eab875bba568).
+After the kill switch is triggered, Spark Governance can decide to reactivate the markets by resetting the kil switch. Resetting the kill switch is done by Sky Governance and is subject to the Governance Security Delay specified in [A.1.9.3 - Governance Security Delay Requirements](c5f0e955-0441-42e0-a6fc-eab875bba568). 
 
 ###### A.6.1.1.1.3.2.1.1.4.1 - SparkLend Risk Parameters Kill Switch Current Configuration [Core]  <!-- UUID: d9e7ca3f-53f9-46aa-9e2c-c09f9d6392e1 -->
 
@@ -26841,38 +26841,23 @@ The documents herein define the process for the ongoing management of SparkLend.
 
 ###### A.6.1.1.1.3.2.1.2.1 - SparkLend Risk Parameters Modification [Core]  <!-- UUID: 6029a425-ad81-46c5-866d-94e2ff663873 -->
 
-The modification of SparkLend parameters is temporarily controlled by Sky Core, but will be transitioned to Spark in the future. Currently, the Stability Facilitators, in consultation with the Core Council Risk Advisor and Phoenix Labs, may recommend changes to any of the parameters specified in the subdocuments of [A.6.1.1.1.3.2.1.1.1 - SparkLend Risk Parameters Definitions](667abf8c-64a3-4029-b218-e7a6e7000bbd) or [A.6.1.1.1.3.2.1.1.3.1 - SparkLend Risk Parameters Cap Automator Parameter Definitions](e6bc54e6-91df-4095-a032-0e1128c2cab7).
+The modification of SparkLend parameters is controlled by Spark Governance. Currently, the Nested Contributor Phoenix Labs may recommend changes to any of the parameters specified in the subdocuments of [A.6.1.1.1.3.2.1.1.1 - SparkLend Risk Parameters Definitions](667abf8c-64a3-4029-b218-e7a6e7000bbd) or [A.6.1.1.1.3.2.1.1.3.1 - SparkLend Risk Parameters Cap Automator Parameter Definitions](e6bc54e6-91df-4095-a032-0e1128c2cab7), in consultation with the Spark Risk Council.
 
-As a general rule, the modification of said parameters is pursuant to the Operational Weekly Cycle and can be effected directly via an Executive Vote, without requiring a Governance Poll. 
-
-Changes to the parameters defined in the following documents are exceptions to the general rule and require a Governance Poll followed by an Executive Vote: 
-
-- [A.6.1.1.1.3.2.1.1.1.5 - Liquidation Threshold Definition](2dd2045c-6a33-4229-b6c8-e531d6ecd27a) 
-- [A.6.1.1.1.3.2.1.1.1.7 - Liquidation Bonus Definition](173ff961-bf1f-4c6c-992c-4a67b269e544)
+The modification of said parameters is executed by Sky Governance. 
 
 ###### A.6.1.1.1.3.2.1.2.2 - Collateral Onboarding/Offboarding [Core]  <!-- UUID: 1a1f4bef-d19d-42ff-8ac4-746498df9fbc -->
 
-The onboarding/offboarding of SparkLend collateral is temporarily controlled by Sky Core, but will be transitioned to Spark in the future. Currently, it is implemented by the Stability Facilitators, in consultation with the Core Council Risk Advisor and Phoenix Labs, through the Operational Weekly Cycle.
+The onboarding/offboarding of SparkLend collateral is controlled by Spark Governance in consultation with Spark Risk Council.
 
 ###### A.6.1.1.1.3.2.1.2.3 - Spark Protocol-Aave Revenue Share [Core]  <!-- UUID: a9529f7f-c2fa-4d56-a2b1-0a75e78fd135 -->
 
 Spark Protocol must pay out 10% of the income it generates from operating the borrowing and lending functionality of the protocol that is based on the Aave codebase. The documents herein define the Spark Protocol-Aave Revenue Share and its associated operational processes.
 
-###### A.6.1.1.1.3.2.1.2.3.1 - Sky Core Governance Responsibility For Virtual Revenue Share Prior to Launch of SPK [Core]  <!-- UUID: f84a1cb6-7f77-4bd0-904f-8bf7b368d2d6 -->
+###### A.6.1.1.1.3.2.1.2.3.1 - Standard Agreement [Core]  <!-- UUID: bb867551-5231-4a5b-ac37-09d545bf70ce -->
 
-Before the launch of Agent tokens, Sky Governance is temporarily responsible for paying out a "virtual revenue share" on behalf of Spark Protocol. It is calculated by taking the total amount of Dai borrowed from Spark Protocol, and then assuming a "virtual income" equivalent to 1% of this supply, and calculating a revenue share of 10% on that basis. The calculations and payments must be done manually by the Support Facilitators at the end of each quarter. 
+The revenue share payment must be calculated manually at the end of each quarter by Spark and manually paid as Dai to a smart contract under the control of Aave Governance from Spark.
 
-As an example: if, before the launch of Agent tokens, 200 million Dai is borrowed on Spark Protocol, then the virtual income is 1% of 200 million Dai, which gives 2 million Dai; and of that 2 million Dai the virtual revenue share is 200,000 Dai. 
-
-This 200,000 Dai must be paid out in incremental payments each quarter directly by Sky Governance from the Sky Surplus Buffer to a smart contract under the control of Aave Governance. If, before the launch of Agent tokens, less than 100 million Dai is borrowed from Spark Protocol by the Sky Protocol, accrual towards the virtual revenue share payments are paused (unpaid virtual revenue share that already accrued is still paid out at the end of the quarter), and the counting down of the revenue share duration is paused. The virtual revenue share payments and the counting down of the remaining revenue share duration is resumed when at least 100 million Dai is again borrowed from Spark Protocol by the Sky Protocol. 
-
-Once SPK tokens launch, the virtual revenue share system will be discontinued, and the standard rules of the Spark Protocol Aave Revenue Share Ecosystem Agreement shall take effect. See [A.6.1.1.1.3.2.1.2.3.2 - Standard Agreement Post SPK Launch](bb867551-5231-4a5b-ac37-09d545bf70ce).
-
-###### A.6.1.1.1.3.2.1.2.3.2 - Standard Agreement Post SPK Launch [Core]  <!-- UUID: bb867551-5231-4a5b-ac37-09d545bf70ce -->
-
-Post SPK launch, the following revenue-share operational process takes effect. The revenue share payment must be calculated manually at the end of each quarter by the Spark and manually paid as Dai to a smart contract under the control of Aave Governance from Spark. The payments must occur for the revenue share duration of two (2) years, starting from September 25th, 2023. 
-
-If at any point in time after the launch of Agent tokens, Spark Protocol is generating less than 1 million Dai per year in income for Spark Agent, accrual towards the revenue share payments are paused (unpaid revenue share that already accrued is still paid out at the end of the quarter), and the counting down of the revenue share duration is paused. The revenue share payments and the counting down of the remaining revenue share duration is resumed when Spark Protocol is generating more than 1 million Dai per year in income again.
+If at any point in time, Spark Protocol is generating less than 1 million Dai per year in income for Spark Agent, accrual towards the revenue share payments are paused (unpaid revenue share that already accrued is still paid out at the end of the quarter), and the counting down of the revenue share duration is paused. The revenue share payments and the counting down of the remaining revenue share duration is resumed when Spark Protocol is generating more than 1 million Dai per year in income again.
 
 ###### A.6.1.1.1.3.2.1.3 - Data Repository [Core]  <!-- UUID: 2301085e-3492-422b-8b75-c6dd6564ef29 -->
 
