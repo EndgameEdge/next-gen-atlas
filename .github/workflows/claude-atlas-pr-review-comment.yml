@@ -1,0 +1,271 @@
+name: Claude PR Review (Manual via Comment)
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  claude_review:
+    if: |
+      github.event.issue.pull_request &&
+      contains(github.event.comment.body, '@claude run review') &&
+      (
+        github.actor == 'boet1' ||
+        github.actor == 'Blimpa' ||
+        github.actor == 'VoteWizard' ||
+        github.actor == 'CivicSage3'
+      )
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: write
+      id-token: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Authenticate gh
+        run: |
+          echo "${{ github.token }}" | gh auth login --with-token
+          
+      - name: Load PR data
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          set -euo pipefail
+          mkdir -p .claude_context
+
+          pr_json="$(gh pr view "$PR_NUMBER" --json title,body,url)"
+
+          PR_TITLE="$(echo "$pr_json" | jq -r '.title')"
+          PR_BODY="$(echo "$pr_json" | jq -r '.body // ""')"
+          PR_URL="$(echo "$pr_json" | jq -r '.url')"
+
+          {
+            echo "# PR Context"
+            echo
+            echo "- PR: ${PR_URL}"
+            echo "- Number: #${PR_NUMBER}"
+            echo "- Title: ${PR_TITLE}"
+            echo
+            echo "## Description"
+            echo
+            if [ -n "$PR_BODY" ]; then
+              printf "%s\n" "$PR_BODY"
+            else
+              echo "_(empty)_"
+            fi
+          } > .claude_context/pr_description.md
+
+          if [ -n "$PR_BODY" ]; then
+            printf "%s\n" "$PR_BODY" \
+              | tr -d '\r' \
+              | perl -nE 'say for m{https?://[^\s)\]>,]+}g' \
+              | sed 's/[.,;:)]$//' \
+              | awk '!seen[$0]++' \
+              > .claude_context/pr_links.txt || true
+          else
+            : > .claude_context/pr_links.txt
+          fi
+
+          {
+            echo "# Links found in PR description"
+            echo
+            if [ -s .claude_context/pr_links.txt ]; then
+              while IFS= read -r url; do
+                echo "- ${url}"
+              done < .claude_context/pr_links.txt
+            else
+              echo "_(no links found)_"
+            fi
+          } > .claude_context/pr_links.md
+          # ----------------------------
+          # 3) Fetch forum.sky.money topic JSON via cloud-fetcher
+          #    and build a combined markdown
+          # ----------------------------
+          : > .claude_context/forum_content.md
+
+          {
+            echo "# Forum content extracted from PR links"
+            echo
+          } >> .claude_context/forum_content.md
+
+          # Filter only forum topic links like: https://forum.sky.money/t/slug/id
+          # (We ignore already-json links and ensure we add .json)
+          if [ -s .claude_context/pr_links.txt ]; then
+            while IFS= read -r raw_url; do
+              # Only match forum topic links (basic)
+              if ! echo "$raw_url" | grep -Eq '^https?://forum\.sky\.money/t/'; then
+                continue
+              fi
+
+              # Remove trailing slash (optional), then add .json if missing
+              base_url="$(echo "$raw_url" | sed 's:/*$::')"
+              if echo "$base_url" | grep -qE '\.json$'; then
+                topic_json_url="$base_url"
+              else
+                topic_json_url="${base_url}.json"
+              fi
+
+              # URL-encode for query parameter
+              encoded="$(printf '%s' "$topic_json_url" | jq -sRr @uri)"
+              fetch_url="https://cloud-fetcher--votewizard.replit.app/api/scrape?url=${encoded}"
+
+              # Fetch outer JSON: { provider, status, text: "<escaped json string>" }
+              # We continue on failures per-link so one bad link doesn't fail the whole job.
+              outer_resp="$(curl -sS "$fetch_url" || true)"
+              if [ -z "$outer_resp" ]; then
+                {
+                  echo "## (Fetch failed)"
+                  echo
+                  echo "- Source: ${raw_url}"
+                  echo "- Tried: ${topic_json_url}"
+                  echo
+                  echo "---"
+                  echo
+                } >> .claude_context/forum_content.md
+                continue
+              fi
+
+              status="$(echo "$outer_resp" | jq -r '.status // empty' 2>/dev/null || true)"
+              text_field="$(echo "$outer_resp" | jq -r '.text // empty' 2>/dev/null || true)"
+
+              if [ -z "$text_field" ] || [ "${status:-}" != "200" ]; then
+                {
+                  echo "## (Fetch returned non-200 or empty text)"
+                  echo
+                  echo "- Source: ${raw_url}"
+                  echo "- Tried: ${topic_json_url}"
+                  echo "- Cloud-fetcher status: ${status:-unknown}"
+                  echo
+                  echo "---"
+                  echo
+                } >> .claude_context/forum_content.md
+                continue
+              fi
+
+              # text_field is a JSON string containing the Discourse JSON (escaped).
+              # Parse it and extract title + cooked from all posts.
+              title="$(
+                printf '%s' "$text_field" \
+                  | jq -r '
+                      if type == "string" then (fromjson | .title // "(no title)")
+                      else (.title // "(no title)")
+                      end
+                    ' 2>/dev/null || true
+              )"
+              
+              cooked_all="$(
+                printf '%s' "$text_field" \
+                  | jq -r '
+                      if type == "string" then (fromjson | .post_stream.posts[0].cooked // empty)
+                      else (.post_stream.posts[0].cooked // empty)
+                      end
+                    ' 2>/dev/null || true
+              )"			  
+              if [ -z "$cooked_all" ]; then
+                cooked_all="(no cooked content found at post_stream.posts[].cooked)"
+              fi
+
+              {
+                echo "## ${title}"
+                echo
+                echo "- Source: ${raw_url}"
+                echo "- JSON: ${topic_json_url}"
+                echo
+                echo "${cooked_all}"
+                echo
+                echo "---"
+                echo
+              } >> .claude_context/forum_content.md
+
+            done < .claude_context/pr_links.txt
+          else
+            {
+              echo "_(no links to fetch)_"
+              echo
+            } >> .claude_context/forum_content.md
+          fi
+
+
+      - name: Run Claude review (rules + changed files + PR links)
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          allowed_tools: "WebFetch,WebSearch,Bash(curl:*),Bash(gh:*)"
+          settings: |
+            {
+              "permissions": {
+                "allow": [
+                  "WebFetch",
+                  "WebFetch(domain:forum.sky.money)",
+                  "WebSearch",
+                  "Bash(curl:*)",
+                  "Bash(gh:*)"
+                ]
+              }
+            }
+          prompt: |
+            You are an automated PR reviewer specialized in Atlas proposal changes.
+            
+            Your job:
+            1) Review ONLY the changes introduced in this Pull Request.
+            2) Analyze the changes using the following context files:
+               - .claude_context/pr_description.md
+               - .claude_context/forum_content.md
+               - .claude/review_rules.md
+            3) Perform a strict validation based exclusively on the checks defined in:
+               - .claude/review_rules.md
+            
+            IMPORTANT:
+            - The file `.claude/review_rules.md` defines the complete review scope.
+            - You MUST evaluate the PR against ALL rules defined in that file.
+            - You MUST NOT invent additional rules.
+            - If a rule does not apply, explicitly mark it as N/A.
+            
+            MANDATORY OUTPUT RULES (DO NOT IGNORE):
+            - You MUST always publish exactly ONE comment on the Pull Request.
+            - You MUST never remain silent.
+            - You MUST follow the output format defined below exactly.
+            
+            ---
+            
+            DECISION LOGIC:
+            - If ANY rule defined in `.claude/review_rules.md` is violated, the result MUST be ❌ FAIL.
+            - Only return ✅ PASS if ALL applicable rules are fully satisfied.
+            
+            ---
+            
+            OUTPUT FORMAT (STRICT):
+            
+            Start the comment with ONE of the following:
+            - "❌ FAIL"  → if at least one issue is detected
+            - "✅ PASS" → if no issues are detected
+            
+            Then include the following sections in this exact order:
+            
+            ### Summary
+            - One or two sentences summarizing the overall result.
+            
+            ### Findings
+            Group findings by rule name or section title exactly as defined in `.claude/review_rules.md`.
+            Only include sections that contain issues.
+            
+            For each finding:
+            - Clearly describe the issue.
+            - Reference the affected file(s).
+            - Explain why it violates the rule.
+            
+            ### Files Reviewed
+            - List of files that were reviewed.
+            
+            FINAL INSTRUCTION:
+            - Publish the comment to the Pull Request.
+            - Do not add explanations outside the comment.
