@@ -116,11 +116,15 @@ jobs:
 
               # URL-encode for query parameter
               encoded="$(printf '%s' "$topic_json_url" | jq -sRr @uri)"
-              fetch_url="https://cloud-fetcher--votewizard.replit.app/api/scrape?url=${encoded}"
+              bust="$(date +%s)"
+              fetch_url="https://cloud-fetcher--votewizard.replit.app/api/scrape?url=${encoded}&_=${bust}"
 
               # Fetch outer JSON: { provider, status, text: "<escaped json string>" }
               # We continue on failures per-link so one bad link doesn't fail the whole job.
-              outer_resp="$(curl -sS "$fetch_url" || true)"
+              outer_resp="$(curl -sS \
+                -H "Cache-Control: no-cache, no-store" \
+                -H "Pragma: no-cache" \
+                "$fetch_url" || true)"
               if [ -z "$outer_resp" ]; then
                 {
                   echo "## (Fetch failed)"
