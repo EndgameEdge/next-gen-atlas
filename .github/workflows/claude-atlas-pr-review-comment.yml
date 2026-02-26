@@ -206,6 +206,7 @@ jobs:
           allowed_tools: "WebFetch,WebSearch,Bash(curl:*),Bash(gh:*)"
           settings: |
             {
+              "model": "claude-opus-4-6",
               "permissions": {
                 "allow": [
                   "WebFetch",
