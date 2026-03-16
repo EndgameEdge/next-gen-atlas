@@ -91,12 +91,12 @@ jobs:
             echo
           } >> .claude_context/forum_content.md
 
-          # Filter only forum topic links like: https://forum.sky.money/t/slug/id
+          # Filter only forum topic links like: https://forum.skyeco.com/t/slug/id
           # (We ignore already-json links and ensure we add .json)
           if [ -s .claude_context/pr_links.txt ]; then
             while IFS= read -r raw_url; do
               # Only match forum topic links (basic)
-              if ! echo "$raw_url" | grep -Eq '^https?://forum\.sky\.money/t/'; then
+              if ! echo "$raw_url" | grep -Eq '^https?://forum\.skyeco\.com/t/'; then
                 continue
               fi
 
@@ -199,7 +199,7 @@ jobs:
               "permissions": {
                 "allow": [
                   "WebFetch",
-                  "WebFetch(domain:forum.sky.money)",
+                  "WebFetch(domain:forum.skyeco.com)",
                   "WebSearch",
                   "Bash(curl:*)",
                   "Bash(gh:*)"
