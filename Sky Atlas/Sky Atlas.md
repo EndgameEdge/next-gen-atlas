@@ -284,13 +284,13 @@ This Section contains general provisions that are to be inherited as context for
 
 #### A.0.1.2.1 - Facilitators’ Broad Discretionary Capacity [Core]  <!-- UUID: f18229fe-fbc3-4dc8-ad84-4bca2915f6c4 -->
 
-The next-generation Atlas is a self-contained governance infrastructure powering the Sky Ecosystem. It is designed to grow in tandem with the adaptive intelligence of the Ecosystem. Yet these first iterations of the next-generation Atlas may not sufficiently account for the critical, unforeseen contingencies that can arise, particularly as the Protocol is in a dynamic period of evolution. 
+The next-generation Atlas is a self-contained governance infrastructure powering the Sky Ecosystem. It is designed to grow in tandem with the adaptive intelligence of the Ecosystem. Yet these first iterations of the next-generation Atlas may not sufficiently account for the critical, unforeseen contingencies that can arise, particularly as the Protocol is in a dynamic period of evolution.
 
-To ensure the Ecosystem grows in resilience and advances toward the Endgame State, it must be able to respond quickly to pressing changes in its environment. To facilitate this, the Scope Facilitators are granted broad discretionary power, given their close proximity to, and knowledge of, the Sky Ecosystem. 
+To ensure the Ecosystem grows in resilience and advances toward the Endgame State, it must be able to respond quickly to pressing changes in its environment. To facilitate this, the Scope Facilitators are granted broad discretionary power, given their close proximity to, and knowledge of, the Sky Ecosystem.
 
-Where the Atlas does not provide clear guidance on a current challenge, Scope Facilitators are empowered to infer the Spirit of the Atlas in such a way as to maximize Universal Alignment and secure the Ecosystem’s growth, security and progression toward the Endgame State. 
+Where the Atlas does not provide clear guidance on a current challenge, Scope Facilitators are empowered to infer the Spirit of the Atlas in such a way as to maximize Universal Alignment and secure the Ecosystem’s growth, security and progression toward the Endgame State.
 
-Scope Facilitators also have the discretion to supersede existing Atlas provisions where they determine the latter to be unsuitable for current challenges. 
+Scope Facilitators also have the discretion to supersede existing Atlas provisions where they determine the latter to be unsuitable for current challenges.
 
 The discretionary power granted herein is temporary.
 
@@ -298,11 +298,11 @@ The discretionary power granted herein is temporary.
 
 The Core Facilitator can run a Bootstrapping Governance Poll at any time to enable SKY holders to vote on needed changes to the Atlas. The Core Facilitator can do this on their own initiative.
 
-Where feasible, the Core Facilitator is encouraged to run a Governance Poll to formalize actions taken pursuant to  [A.0.1.2.1 - Facilitators’ Broad Discretionary Capacity](f18229fe-fbc3-4dc8-ad84-4bca2915f6c4).
+Where feasible, the Core Facilitator is encouraged to run a Governance Poll to formalize actions taken pursuant to [A.0.1.2.1 - Facilitators’ Broad Discretionary Capacity](f18229fe-fbc3-4dc8-ad84-4bca2915f6c4).
 
 ###### A.0.1.2.1.1.0.3.1 - Formalize Actions - Element Annotation [Annotation]  <!-- UUID: b62f852c-db59-4bf8-a72c-0b825961563d -->
 
-Facilitators have broad discretionary authority to interpret or supersede the Atlas pursuant to [A.0.1.2.1 - Facilitators’ Broad Discretionary Capacity](f18229fe-fbc3-4dc8-ad84-4bca2915f6c4). 
+Facilitators have broad discretionary authority to interpret or supersede the Atlas pursuant to [A.0.1.2.1 - Facilitators’ Broad Discretionary Capacity](f18229fe-fbc3-4dc8-ad84-4bca2915f6c4).
 
 The element "formalize actions" pertains to the recommendation that Scope Facilitators, where feasible, conduct Governance Polls to officially ratify changes in the Atlas that correspond to the actions they have undertaken based on the aforementioned document.
 
@@ -380,12 +380,11 @@ This Section contains a list of all settled Atlas interpretations with all neces
 
 #### A.1.1.3.1 - Atlas Interpretations [Active Data Controller]  <!-- UUID: c3c7c96c-d756-4e54-a5c5-79b5970394e0 -->
 
-Atlas Interpretation precedent is defined as Active Data in [A.1.1.3.1.0.6.1 - List Of Atlas Interpretations](88df9622-0dd5-4035-83fb-9866a66eadf2). 
+Atlas Interpretation precedent is defined as Active Data in [A.1.1.3.1.0.6.1 - List Of Atlas Interpretations](88df9622-0dd5-4035-83fb-9866a66eadf2).
 
 The Active Data is updated as follows:
 
 - The Responsible Party is the Core Facilitator.
-
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ##### A.1.1.3.1.0.6.1 - List Of Atlas Interpretations [Active Data]  <!-- UUID: 88df9622-0dd5-4035-83fb-9866a66eadf2 -->
@@ -400,9 +399,9 @@ The element "foundational principles" indicates the primary or essential rules, 
 
 ### A.1.1.0.3.2 - Spirit of the Atlas - Element Annotation [Annotation]  <!-- UUID: 6b0d739f-f957-46fc-85ad-32ade8144249 -->
 
-The element "Spirit of the Atlas" refers to the guiding principles that form the ethical, philosophical and operational foundation of the Sky ecosystem. This element should be understood as encompassing the core ideals and objectives influencing the governance, and thus the evolution, of Sky Ecosystem. 
+The element "Spirit of the Atlas" refers to the guiding principles that form the ethical, philosophical and operational foundation of the Sky ecosystem. This element should be understood as encompassing the core ideals and objectives influencing the governance, and thus the evolution, of Sky Ecosystem.
 
-The Spirit of the Atlas should be specified to the furthest extent possible in the Immutable Documents. The Spirit of the Atlas is continually evolving in response to internal and external stimuli; and thus reflects the adaptive intelligence of the Sky ecosystem as a whole. Once the Endgame State is reached and the Immutable Documents are forever locked down, the Spirit of the Atlas will continue to evolve through the vehicle of the Adaptive Documents. 
+The Spirit of the Atlas should be specified to the furthest extent possible in the Immutable Documents. The Spirit of the Atlas is continually evolving in response to internal and external stimuli; and thus reflects the adaptive intelligence of the Sky ecosystem as a whole. Once the Endgame State is reached and the Immutable Documents are forever locked down, the Spirit of the Atlas will continue to evolve through the vehicle of the Adaptive Documents.
 
 See also, [A.0.1.1.16 - The Atlas](98223867-c60a-4b28-9401-94fc1ed9b4cd) and [A.0.1.1.9 - Letter Of The Rule Vs Spirit Of The Rule](ff16fd74-3a81-4cac-92b4-1208d4d9f337).
 
@@ -412,9 +411,9 @@ Atlas Documents are essential to the structure and governance of the Sky Ecosyst
 
 ### A.1.2.1 - Definition And Properties Of Atlas Documents [Section]  <!-- UUID: b2e65d2d-2925-4f81-9cb6-b23c6d2fca02 -->
 
-Atlas Documents are the basic building blocks for structuring data in the Atlas. They are organized as nested document trees, each with a unique Document Identifier. 
+Atlas Documents are the basic building blocks for structuring data in the Atlas. They are organized as nested document trees, each with a unique Document Identifier.
 
-The first three layers contain the Immutable Documents, which together enshrine the Spirit of the Atlas and the core, permanent boundaries for how to operationalize it without risking slippery slope misalignment. 
+The first three layers contain the Immutable Documents, which together enshrine the Spirit of the Atlas and the core, permanent boundaries for how to operationalize it without risking slippery slope misalignment.
 
 In the layers below the Immutable Documents are the Adaptive Documents, which are continuously improved through the Sky Governance process. The Adaptive Documents interpret and practically operationalize the Spirit of the Atlas within the boundaries set by the Immutable Documents.
 
@@ -433,13 +432,9 @@ All Atlas Documents have five (5) standard properties that provide key informati
 The standard properties of Atlas Documents should be listed in the following order:
 
 1. Name
-
 2. Version
-
 3. Last Modified
-
 4. Type
-
 5. Components
 
 ##### A.1.2.1.2.1 - Name Property [Core]  <!-- UUID: 4cb85e3a-f73f-4918-a90c-020a479af7d2 -->
@@ -450,9 +445,9 @@ However, for data management and record-keeping purposes, the official designati
 
 ##### A.1.2.1.2.2 - Version Property [Core]  <!-- UUID: 3263a17d-44ab-4450-af61-d797fa0c8ac7 -->
 
-The Version property of Atlas Documents specifies how many times it has been modified. Every time an Atlas Document is modified, the newly modified Document gets its version number incremented, and the old version is recorded as a historical version with a Document Identifier equivalent to its version number. 
+The Version property of Atlas Documents specifies how many times it has been modified. Every time an Atlas Document is modified, the newly modified Document gets its version number incremented, and the old version is recorded as a historical version with a Document Identifier equivalent to its version number.
 
-As an example, if an Atlas Document located at 1.1.1 with version number 3 is modified, the new Atlas Document will have version number 4, and the old Atlas Document will be located at 1.1.1.v3. 
+As an example, if an Atlas Document located at 1.1.1 with version number 3 is modified, the new Atlas Document will have version number 4, and the old Atlas Document will be located at 1.1.1.v3.
 
 This ensures all historical versions of Atlas documents are retained permanently as a part of the Atlas.
 
@@ -466,7 +461,7 @@ The Type property of Atlas Documents specifies the function, characteristic and 
 
 ##### A.1.2.1.2.5 - Components Property [Core]  <!-- UUID: 6ae438cd-3678-46a2-b323-1f44204b5759 -->
 
-The Components property of Atlas Documents contains an object that specifies the data components of the Atlas Document as nested properties. The Components of an Atlas Document is determined by its Type. Some Document Types have no Components, in which the object is just empty. 
+The Components property of Atlas Documents contains an object that specifies the data components of the Atlas Document as nested properties. The Components of an Atlas Document is determined by its Type. Some Document Types have no Components, in which the object is just empty.
 
 An Atlas Document with Components must always have all of its components properly filled according to the requirements defined by its Type Specification. Some documents have custom logic for how their Components behave, and this custom logic is specified through a special reserved component property called 'Custom'. Atlas Documents of Types with specified custom logic components can have variable number of components, and different characteristics of each component, for each instance of the Type. Custom components are always appended to the end of the list of components.
 
@@ -492,11 +487,11 @@ Primary Documents are the cornerstone of the Adaptive Documents and ensure the p
 
 ##### A.1.2.2.1.3 - Supporting Document Category [Core]  <!-- UUID: e87b6850-3792-495d-9460-0ac069a217e6 -->
 
-Supporting Documents are attached to Immutable Documents and Primary Documents (called their "Target Document"). They provide context and in some cases advanced functionality to the Target Documents, enabling them to be fully operationally effective and unambiguous. 
+Supporting Documents are attached to Immutable Documents and Primary Documents (called their "Target Document"). They provide context and in some cases advanced functionality to the Target Documents, enabling them to be fully operationally effective and unambiguous.
 
-The different Types of Supporting Documents have different functions. Some Supporting Document types are required for all Immutable Documents and Primary Documents; while others are only required for certain Primary Document Types. 
+The different Types of Supporting Documents have different functions. Some Supporting Document types are required for all Immutable Documents and Primary Documents; while others are only required for certain Primary Document Types.
 
-Most Supporting Document types can be freely modified through the governance processes specified elsewhere in the Atlas. The Active Data Supporting Document type can be modified in real time by processes outside of said governance processes. 
+Most Supporting Document types can be freely modified through the governance processes specified elsewhere in the Atlas. The Active Data Supporting Document type can be modified in real time by processes outside of said governance processes.
 
 Supporting Documents always have Document Identifiers that contain at least one 0.
 
@@ -936,7 +931,7 @@ The Facilitator Action Precedent Type is used to record all the relevant data re
 
 **Doc Identifier Rules**:
 
-Active Data Controller Documents follow the Document Identifier Rules of Primary Documents.  Active Data Controller Documents have Document Identifiers that are 4 layers or deeper in the Document Tree, and cannot contain 0's [zeros]. Within these constraints, Active Data Controller Documents can have whatever Document Identifier that is useful for their purpose.
+Active Data Controller Documents follow the Document Identifier Rules of Primary Documents. Active Data Controller Documents have Document Identifiers that are 4 layers or deeper in the Document Tree, and cannot contain 0's [zeros]. Within these constraints, Active Data Controller Documents can have whatever Document Identifier that is useful for their purpose.
 
 **Additional Logic**:
 
@@ -1370,9 +1365,9 @@ Facilitator Scenario Variation
 
 **Type Overview**:
 
-Facilitator Scenario Variation Documents are variations on the hypothetical fact patterns presented in their parent Scenario document ("original Scenario"). Each Variation substitutes elements of its original Scenario to demonstrate whether and why the finding of Aligned/Misaligned would change. 
+Facilitator Scenario Variation Documents are variations on the hypothetical fact patterns presented in their parent Scenario document ("original Scenario"). Each Variation substitutes elements of its original Scenario to demonstrate whether and why the finding of Aligned/Misaligned would change.
 
-Like the Scenario Type, Scenario Variations are also designed to illustrate the practical application of a single Facilitator Action Tenet, i.e., the Scenario’s parent Facilitator Action Tenet Document. 
+Like the Scenario Type, Scenario Variations are also designed to illustrate the practical application of a single Facilitator Action Tenet, i.e., the Scenario’s parent Facilitator Action Tenet Document.
 
 Scenario Variations are classified as either Aligned or Misaligned. Aligned Scenarios conform to the logic of the Target Document. Misaligned Scenarios have breached the Target Document logic and are thus in violation of the Atlas.
 
@@ -1386,7 +1381,7 @@ Scenario Variations are classified as either Aligned or Misaligned. Aligned Scen
 
 **Doc Identifier Rules**:
 
-Unlike other Supporting Documents, the document identifier of Needed Research documents is not derived from the Supporting Root of their Target Document. The "standalone" numbering scheme of Needed Research documents enables them to be linked to more than one Atlas Document, no matter the latter’s location in the Atlas document tree. Needed Research Document Identifiers begin with the prefix "NR-",  followed by an incremented number.
+Unlike other Supporting Documents, the document identifier of Needed Research documents is not derived from the Supporting Root of their Target Document. The "standalone" numbering scheme of Needed Research documents enables them to be linked to more than one Atlas Document, no matter the latter’s location in the Atlas document tree. Needed Research Document Identifiers begin with the prefix "NR-", followed by an incremented number.
 
 **Additional Logic**:
 
@@ -1516,11 +1511,11 @@ Given the rationale behind the Target Document [A.1.4 - A5 - Alignment Conserver
 
 **Content**:
 
-Should team contributors be subject to the Target Document’s prohibition against occupying two roles? What would be the arguments for and against such a position? 
+Should team contributors be subject to the Target Document’s prohibition against occupying two roles? What would be the arguments for and against such a position?
 
-One argument against this would be that quality contributors are a scarce resource. Further, the decentralized work paradigm encourages having several part-time jobs. 
+One argument against this would be that quality contributors are a scarce resource. Further, the decentralized work paradigm encourages having several part-time jobs.
 
-The sharing of contributors across several Sky teams  - such that contributors gain experience in multiple operational aspects - might arguably enhance ecosystem intelligence. 
+The sharing of contributors across several Sky teams - such that contributors gain experience in multiple operational aspects - might arguably enhance ecosystem intelligence.
 
 Would it make a meaningful difference to require contributors who do wish to work multiple roles to be doxxed?
 
@@ -1538,7 +1533,7 @@ Whether an entity is "operationally active" in a role is determined purely on a 
 
 This Tenet is based on the rationale of protecting against misalignment risks that arise when a stakeholder occupies two or more ecosystem roles, each of which has different mandates and inner incentives. Such misalignment risks include conflict of interest and bias, collusion and conspiracy.
 
-See also, [A.1.4.5.0.4.2 - Other Ecosystem Roles  - Phrase Must Be Read In Its Broadest Sense By Facilitators](56fd4055-b412-4058-a33a-57d4d1b54181).
+See also, [A.1.4.5.0.4.2 - Other Ecosystem Roles - Phrase Must Be Read In Its Broadest Sense By Facilitators](56fd4055-b412-4058-a33a-57d4d1b54181).
 
 ##### A.1.4.5.0.4.1.1.1 - Alternating Between Two Roles In Separate Time Intervals [Scenario]  <!-- UUID: d5e82bc9-9d46-4d1b-a580-dc695d4a3c19 -->
 
@@ -1604,9 +1599,9 @@ Misaligned as to Entity.
 
 **Additional Guidance**:
 
-In contrast to the original Scenario, the Facilitator uncovered evidence that indicates Entity was not, as claimed, a mere "on call" dev, but rather was engaged in substantive work to justify the large compensation amount. 
+In contrast to the original Scenario, the Facilitator uncovered evidence that indicates Entity was not, as claimed, a mere "on call" dev, but rather was engaged in substantive work to justify the large compensation amount.
 
-That the Facilitator was stonewalled in its investigation also is a strong indication of malign intent on the part of Entity and the EA. Yet, there is no concrete proof of this. 
+That the Facilitator was stonewalled in its investigation also is a strong indication of malign intent on the part of Entity and the EA. Yet, there is no concrete proof of this.
 
 Under these circumstances, it is reasonable to extrapolate that derecognition from the AC role would suffice, per [A.1.4 - A10 - Alignment Conservers - Accountability And Misalignment Handling - AC Derecognition](ac998664-5b5e-4ea5-813b-dc3105ea6cf2).
 
@@ -1656,11 +1651,11 @@ Aligned
 
 ‘Volunteer Discord moderator' is not a role that is formally defined in the Atlas. Therefore, Entity's first position as volunteer Discord moderator does not count as an ecosystem role. The Target Document is not triggered at all in this Scenario.
 
-#### A.1.4.5.0.4.2 - Other Ecosystem Roles  - Phrase Must Be Read In Its Broadest Sense By Facilitators [Action Tenet]  <!-- UUID: 56fd4055-b412-4058-a33a-57d4d1b54181 -->
+#### A.1.4.5.0.4.2 - Other Ecosystem Roles - Phrase Must Be Read In Its Broadest Sense By Facilitators [Action Tenet]  <!-- UUID: 56fd4055-b412-4058-a33a-57d4d1b54181 -->
 
-The Target Document is violated if an Alignment Conserver formally occupies two or more Sky ecosystem roles. The phrase "other ecosystem roles" is read in its broadest sense to mean the totality of roles that are formally defined in the Atlas with a function in the Sky ecosystem. 
+The Target Document is violated if an Alignment Conserver formally occupies two or more Sky ecosystem roles. The phrase "other ecosystem roles" is read in its broadest sense to mean the totality of roles that are formally defined in the Atlas with a function in the Sky ecosystem.
 
-Such "ecosystem roles" include, but are not limited to, Alignment Conserver, Governance Process Support Ecosystem Actor, Active or Incubating Ecosystem Actor, Agent Advisor, Arranger, and the contributors supporting these aforementioned actors. 
+Such "ecosystem roles" include, but are not limited to, Alignment Conserver, Governance Process Support Ecosystem Actor, Active or Incubating Ecosystem Actor, Agent Advisor, Arranger, and the contributors supporting these aforementioned actors.
 
 The rationale of this rule is to protect against misalignment risks that arise when a stakeholder occupies two or more ecosystem roles, each of which has different mandates and inner incentives. Such misalignment risks include conflict of interest and bias, collusion and conspiracy.
 
@@ -1672,7 +1667,7 @@ An "ecosystem role" need not be compensated or full-time to be regulated by the 
 
 ### A.1.4.6 - ACs Subject To Both General And Role-specific Requirements [Section]  <!-- UUID: a59420ba-5e2c-4736-99a4-fb64eea4cc32 -->
 
-An Alignment Conserver is fully responsible for meeting all requirements tied to the general AC role, which requirements are specified in this Article. 
+An Alignment Conserver is fully responsible for meeting all requirements tied to the general AC role, which requirements are specified in this Article.
 
 In addition, Aligned Delegates and Facilitators must adhere to the specific requirements tied to their specialized roles. These specific requirements are detailed in [A.1.5 - Aligned Delegates](75f0063c-ad70-49e4-b356-9b76097ced7b) and [A.1.6 - Facilitators](1ce24b08-84ff-4524-9710-49bba429c6ef). Breaching these role-specific requirements and responsibilities is misalignment equivalent to breaching the general AC-requirements.
 
@@ -1702,7 +1697,7 @@ This Needed Research is an extensive Research Track, given the wide-ranging impl
 
 The Facilitator "Ecosystem" is exempt from the anonymity requirement, as well as the requirement of high levels of operational security insofar as the latter requirement relates to maintaining anonymity. This exemption applies solely to the Facilitator "Ecosystem", as they onboarded into the role prior to the ratification of Atlas v1 (March 27, 2023), which introduced the anonymity requirement for Facilitators.
 
-This exemption applies to limit the effect of the following provisions: [A.1.6.3 - Facilitators Must Maintain High Level Of Operational Security](014feb92-49dc-4117-911f-a6ec14451b30); [A.1.6.4 - Derecognition Required Where Facilitator Operational Security Is Compromised](c3ba34f0-b3f0-449b-b609-52548db090ea); [A.1.6.5 - Facilitators Must Err On Side Of Caution](ac9df70a-d110-42da-805a-abe03b52dcdc); and [A.0.1.1.19 - Facilitator](912e0161-3448-470f-9cf6-d1a26d76acab). 
+This exemption applies to limit the effect of the following provisions: [A.1.6.3 - Facilitators Must Maintain High Level Of Operational Security](014feb92-49dc-4117-911f-a6ec14451b30); [A.1.6.4 - Derecognition Required Where Facilitator Operational Security Is Compromised](c3ba34f0-b3f0-449b-b609-52548db090ea); [A.1.6.5 - Facilitators Must Err On Side Of Caution](ac9df70a-d110-42da-805a-abe03b52dcdc); and [A.0.1.1.19 - Facilitator](912e0161-3448-470f-9cf6-d1a26d76acab).
 
 This limited exemption takes precedence over any conflicting provisions in the Atlas.
 
@@ -1730,7 +1725,7 @@ The element "risk of misalignment spreading among ACs" refers to the potential f
 
 #### A.1.4.8.0.4.1 - Facilitators’ Authority To Raise Formal Allegation [Action Tenet]  <!-- UUID: e4e7dab8-5e4d-41ad-b1e0-ba3cb9a6f02a -->
 
-Any community member or Aligned Delegate with information pertinent to suspected Alignment Conserver misalignment may take their concerns directly to the Core Facilitator.  Upon receiving such information, the Core Facilitator must promptly conduct an initial review to quickly assess the credibility of the concern. Based on this preliminary review, the Core Facilitator must decide whether to initiate a formal adjudication process in accordance with [A.1.4.9 - Adjudication Process](560e1024-0897-4f1e-ae71-3ba31e29ed57).
+Any community member or Aligned Delegate with information pertinent to suspected Alignment Conserver misalignment may take their concerns directly to the Core Facilitator. Upon receiving such information, the Core Facilitator must promptly conduct an initial review to quickly assess the credibility of the concern. Based on this preliminary review, the Core Facilitator must decide whether to initiate a formal adjudication process in accordance with [A.1.4.9 - Adjudication Process](560e1024-0897-4f1e-ae71-3ba31e29ed57).
 
 Where the allegation of misalignment concerns the Core Facilitator, a community member can take their concerns to Core GovOps, who is then empowered to initiate the formal adjudication process.
 
@@ -1816,7 +1811,7 @@ If the Core Facilitator is subject to a conflict of interest in resolving a disp
 
 #### A.1.4.9.0.4.1 - ACs Must Go Beyond Mere Technical Compliance With Rules [Action Tenet]  <!-- UUID: 8d8980b8-3ac7-49c6-8bc9-f601733a3198 -->
 
-Alignment Conservers (ACs) must meet the most stringent standards for Universal Alignment, demonstrating not only compliance with the letter of the rules but also a deep and authentic commitment to the spirit of the rules, i.e., the underlying principles and goals of Sky. This demanding standard goes beyond mere technical compliance and requires proof of genuine intent and actions consistent with upholding the Spirit of the Atlas. 
+Alignment Conservers (ACs) must meet the most stringent standards for Universal Alignment, demonstrating not only compliance with the letter of the rules but also a deep and authentic commitment to the spirit of the rules, i.e., the underlying principles and goals of Sky. This demanding standard goes beyond mere technical compliance and requires proof of genuine intent and actions consistent with upholding the Spirit of the Atlas.
 
 See [A.0.1.1.9 - Letter Of The Rule Vs Spirit Of The Rule](ff16fd74-3a81-4cac-92b4-1208d4d9f337).
 
@@ -1826,7 +1821,7 @@ In adjudicating potential misalignment of Alignment Conservers, Facilitators are
 
 ### A.1.4.10 - AC Derecognition [Section]  <!-- UUID: ac998664-5b5e-4ea5-813b-dc3105ea6cf2 -->
 
-Derecognition is the ultimate accountability measure for misalignment and entails permanently removing the individual or entity from their role as an Alignment Conserver. An individual/entity who has been derecognized from a Facilitator role is not eligible to serve as an Aligned Delegate, and vice versa. 
+Derecognition is the ultimate accountability measure for misalignment and entails permanently removing the individual or entity from their role as an Alignment Conserver. An individual/entity who has been derecognized from a Facilitator role is not eligible to serve as an Aligned Delegate, and vice versa.
 
 The subdocuments herein define rules and processes related to Alignment Conserver Derecognition.
 
@@ -1847,21 +1842,20 @@ Derecognitions of Alignment Conservers are recorded by adding the identity and k
 The Active Data is updated as follows:
 
 - The Responsible Party is the Core Facilitator.
-
 - The Update Process must follow the protocol for ‘Alignment Conserver Changes’.
 
 ##### A.1.4.10.2.0.6.1 - Derecognized Alignment Conservers [Active Data]  <!-- UUID: e7aec672-ed19-4329-aaf7-736950be2eb7 -->
 
-| Date       | Conserver Role | Identity    | Known Aliases | Reasoning Post |  
-|------------|----------------|-------------|---------------|----------------|  
-| 2023-06-08 | AD             | Bulwark     | -             | [https://forum.sky.money/t/notice-aligned-delegate-derecognition-and-avc-member-warning/21099](https://forum.sky.money/t/notice-aligned-delegate-derecognition-and-avc-member-warning/21099) |  
-| 2023-10-30 | AD             | PALC        | -             | [https://forum.sky.money/t/ads-derecognition-due-to-operational-security-breach/22532](https://forum.sky.money/t/ads-derecognition-due-to-operational-security-breach/22532) |  
-| 2023-10-30 | AD             | Navigator   | -             | [https://forum.sky.money/t/ads-derecognition-due-to-operational-security-breach/22532](https://forum.sky.money/t/ads-derecognition-due-to-operational-security-breach/22532) |  
-| 2023-02-02 | AD             | 0xDefensor  | -             | [https://forum.sky.money/t/ad-derecognition-due-to-operational-security-breach-02-02-2024/23619](https://forum.sky.money/t/ad-derecognition-due-to-operational-security-breach-02-02-2024/23619) |  
-| 2024-04-06 | AD             | TRUE NAME   | -             | [https://forum.sky.money/t/ad-derecognition-due-to-operational-security-breach-april-5-2024/24043](https://forum.sky.money/t/ad-derecognition-due-to-operational-security-breach-april-5-2024/24043) |  
-| 2024-12-17 | AD             | UPMaker     | -             | [https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718](https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718) |  
-| 2024-12-17 | AD             | QGov        | -             | [https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718](https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718) |  
-| 2024-12-17 | AD             | Skynet      | -             | [https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718](https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718) |  
+| Date       | Conserver Role | Identity    | Known Aliases | Reasoning Post |
+|------------|----------------|-------------|---------------|----------------|
+| 2023-06-08 | AD             | Bulwark     | -             | [https://forum.sky.money/t/notice-aligned-delegate-derecognition-and-avc-member-warning/21099](https://forum.sky.money/t/notice-aligned-delegate-derecognition-and-avc-member-warning/21099) |
+| 2023-10-30 | AD             | PALC        | -             | [https://forum.sky.money/t/ads-derecognition-due-to-operational-security-breach/22532](https://forum.sky.money/t/ads-derecognition-due-to-operational-security-breach/22532) |
+| 2023-10-30 | AD             | Navigator   | -             | [https://forum.sky.money/t/ads-derecognition-due-to-operational-security-breach/22532](https://forum.sky.money/t/ads-derecognition-due-to-operational-security-breach/22532) |
+| 2023-02-02 | AD             | 0xDefensor  | -             | [https://forum.sky.money/t/ad-derecognition-due-to-operational-security-breach-02-02-2024/23619](https://forum.sky.money/t/ad-derecognition-due-to-operational-security-breach-02-02-2024/23619) |
+| 2024-04-06 | AD             | TRUE NAME   | -             | [https://forum.sky.money/t/ad-derecognition-due-to-operational-security-breach-april-5-2024/24043](https://forum.sky.money/t/ad-derecognition-due-to-operational-security-breach-april-5-2024/24043) |
+| 2024-12-17 | AD             | UPMaker     | -             | [https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718](https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718) |
+| 2024-12-17 | AD             | QGov        | -             | [https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718](https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718) |
+| 2024-12-17 | AD             | Skynet      | -             | [https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718](https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718) |
 | 2024-12-17 | AD             | Pf          | -             | [https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718](https://forum.sky.money/t/derecognition-notice-for-multiple-aligned-delegates/25718) |
 | 2026-01-27 | AD             | Sky Staking | -             | [https://forum.sky.money/t/ad-derecognition-due-to-misalignment-2026-01-27/27655](https://forum.sky.money/t/ad-derecognition-due-to-misalignment-2026-01-27/27655)      |
 
@@ -1901,7 +1895,7 @@ An Aligned Delegate should deploy the new Delegate Contract(s) prior to posting 
 
 ##### A.1.5.1.3.2 - Submission Message [Core]  <!-- UUID: 83289ee2-2685-4ef7-99f1-c064541c9e9f -->
 
-To be recognized as an Aligned Delegate, the applicant must publicly post an AD Recognition Submission Message on the Sky Forum. 
+To be recognized as an Aligned Delegate, the applicant must publicly post an AD Recognition Submission Message on the Sky Forum.
 
 This AD Recognition Submission Message must contain links to two (2) cryptographically signed messages as specified in the subdocuments herein.
 
@@ -1912,7 +1906,6 @@ The first message must be cryptographically signed by the applicant’s Ethereum
 This first message must include the following elements to be valid:
 
 1. A title of "Aligned Delegate Recognition - Delegate Contract", and
-
 2. A timestamp recording the time and date that the message was cryptographically signed.
 
 ###### A.1.5.1.3.2.2 - Cryptographically Signed Message By Ecosystem Actor Ethereum Address [Core]  <!-- UUID: 34cb5468-71a1-4fe6-8e6b-49a500aa2af8 -->
@@ -1922,7 +1915,6 @@ The second message must be cryptographically signed by the applicant’s Ecosyst
 This second message must include the following elements to be valid:
 
 1. A title of "Aligned Delegate Recognition - Ecosystem Actor Address", and
-
 2. A timestamp recording the time and date that the message was cryptographically signed.
 
 ###### A.1.5.1.3.2.0.3.1 - Cryptographically Signed Messages - Element Annotation [Annotation]  <!-- UUID: 5105cf0b-0f3b-4b84-8603-430f65d2caf7 -->
@@ -1954,22 +1946,21 @@ The list of currently recognized Aligned Delegates is defined as Active Data in 
 The Active Data is updated as follows:
 
 - The Responsible Party is the Core Facilitator.
-
 - The Update Process must follow the protocol for ‘Alignment Conserver Changes’.
 
 ##### A.1.5.1.5.0.6.1 - Current Aligned Delegates [Active Data]  <!-- UUID: 5f584db8-f8d8-4118-988c-b2bc3f68ceb7 -->
 
-| Delegate Name      | EA Address                                                                                                                                     | Delegation Contract                                                                                                                                | Forum Post                                                                 |  
-|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|  
-| Bonapublica        | [https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) [https://etherscan.io/verifySig/21271](https://etherscan.io/verifySig/21271)                                   | [https://etherscan.io/address/0xFc48fBcA739079aaB08216C4d5E506B96593753d](https://etherscan.io/address/0xFc48fBcA739079aaB08216C4d5E506B96593753d) [https://etherscan.io/verifySig/273145](https://etherscan.io/verifySig/273145)                                      | [https://forum.sky.money/t/bonapublica-aligned-delegate-communication/20451/90](https://forum.sky.money/t/bonapublica-aligned-delegate-communication/20451/90) |  
-| PBG                | [https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2) [https://etherscan.io/verifySig/16773](https://etherscan.io/verifySig/16773)                                  | [https://etherscan.io/address/0x555230eCa835A808518EC3eA3082F05502BAb850](https://etherscan.io/address/0x555230eCa835A808518EC3eA3082F05502BAb850) [https://etherscan.io/verifySig/273499](https://etherscan.io/verifySig/273499)                                      | [https://forum.sky.money/t/pbg-aligned-delegate-communication-platform/20471/69](https://forum.sky.money/t/pbg-aligned-delegate-communication-platform/20471/69) |  
-| WBC                | [https://etherscan.io/address/0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47) [https://etherscan.io/verifySig/17927](https://etherscan.io/verifySig/17927)                                  | [https://etherscan.io/address/0x4beD44A9839B8778F69bB6A6d9F843414377ae90](https://etherscan.io/address/0x4beD44A9839B8778F69bB6A6d9F843414377ae90) [https://etherscan.io/verifySig/273394](https://etherscan.io/verifySig/273394)                                      | [https://forum.sky.money/t/wbc-aligned-delegate-communications/20828](https://forum.sky.money/t/wbc-aligned-delegate-communications/20828)       |  
-| BLUE               | [https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) [https://etherscan.io/verifySig/19057](https://etherscan.io/verifySig/19057)                                  | [https://etherscan.io/address/0x173a1c04B79Ed9266721c1154dAa29AddC0B9558](https://etherscan.io/address/0x173a1c04B79Ed9266721c1154dAa29AddC0B9558) [https://etherscan.io/verifySig/273235](https://etherscan.io/verifySig/273235)                                      | [https://forum.sky.money/t/blue-ad-recognition-submission/20915](https://forum.sky.money/t/blue-ad-recognition-submission/20915)            |  
-| Cloaky             | [https://etherscan.io/address/0x9244F47D70587Fa2329B89B6f503022b63Ad54A5](https://etherscan.io/address/0x9244F47D70587Fa2329B89B6f503022b63Ad54A5) [https://etherscan.io/verifySig/19712](https://etherscan.io/verifySig/19712)                                  | [https://etherscan.io/address/0x0F23dE72e1581857eacD6308aebb69cF3a49CC86](https://etherscan.io/address/0x0F23dE72e1581857eacD6308aebb69cF3a49CC86) [https://etherscan.io/verifySig/273233](https://etherscan.io/verifySig/273233)                                      | [https://forum.sky.money/t/cloaky-ad-recognition-submission/21082](https://forum.sky.money/t/cloaky-ad-recognition-submission/21082)          |  
-| AegisD             | [https://etherscan.io/address/0x78C180CF113Fe4845C325f44648b6567BC79d6E0](https://etherscan.io/address/0x78C180CF113Fe4845C325f44648b6567BC79d6E0) [https://etherscan.io/verifySig/269032](https://etherscan.io/verifySig/269032)                                 | [https://etherscan.io/address/0xd260762E442ea1893E5eD5E7d28984e19aaFbF5e](https://etherscan.io/address/0xd260762E442ea1893E5eD5E7d28984e19aaFbF5e) [https://etherscan.io/verifySig/273523](https://etherscan.io/verifySig/273523)                                      | [https://forum.sky.money/t/aegisd-ad-recognition-submission/26145](https://forum.sky.money/t/aegisd-ad-recognition-submission/26145)          |  
-| Excel              | [https://etherscan.io/address/0x0F04a22B62A26e25A29Cba5a595623038ef7AcE7](https://etherscan.io/address/0x0F04a22B62A26e25A29Cba5a595623038ef7AcE7) [https://etherscan.io/verifySig/269574](https://etherscan.io/verifySig/269574)                                 | [https://etherscan.io/address/0xeAD02D18529C10EeDD995F760FDf5e380DDf3Da6](https://etherscan.io/address/0xeAD02D18529C10EeDD995F760FDf5e380DDf3Da6) [https://etherscan.io/verifySig/273466](https://etherscan.io/verifySig/273466)                                      | [https://forum.sky.money/t/excel-ad-recognition-submission/26227](https://forum.sky.money/t/excel-ad-recognition-submission/26227)           |  
-| Tango              | [https://etherscan.io/address/0xB2B86A130B1EC101e4Aed9a88502E08995760307](https://etherscan.io/address/0xB2B86A130B1EC101e4Aed9a88502E08995760307) [https://etherscan.io/verifySig/272368](https://etherscan.io/verifySig/272368)                                 | [https://etherscan.io/address/0x550E5EC00B9d26a3517ce772DdFE73e8Ed1672Ad](https://etherscan.io/address/0x550E5EC00B9d26a3517ce772DdFE73e8Ed1672Ad) [https://etherscan.io/verifySig/274142](https://etherscan.io/verifySig/274142)                                      | [https://forum.sky.money/t/tango-ad-recognition-submission/26310](https://forum.sky.money/t/tango-ad-recognition-submission/26310)           |  
-| Max Staking Yield  | [https://etherscan.io/address/0x9746bDaB7ab2609247332324400cc1fbE887095C](https://etherscan.io/address/0x9746bDaB7ab2609247332324400cc1fbE887095C) [https://etherscan.io/verifySig/273846](https://etherscan.io/verifySig/273846)                                 | [https://etherscan.io/address/0xFf7615E05EC1C8D5dED24AB50Bf74432666BEE2f](https://etherscan.io/address/0xFf7615E05EC1C8D5dED24AB50Bf74432666BEE2f) [https://etherscan.io/verifySig/273847](https://etherscan.io/verifySig/273847)                                      | [https://forum.sky.money/t/max-staking-yield-ad-recognition-submission/26462](https://forum.sky.money/t/max-staking-yield-ad-recognition-submission/26462) |  
+| Delegate Name      | EA Address                                                                                                                                     | Delegation Contract                                                                                                                                | Forum Post                                                                 |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Bonapublica        | [https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3](https://etherscan.io/address/0x167c1a762B08D7e78dbF8f24e5C3f1Ab415021D3) [https://etherscan.io/verifySig/21271](https://etherscan.io/verifySig/21271)                                   | [https://etherscan.io/address/0xFc48fBcA739079aaB08216C4d5E506B96593753d](https://etherscan.io/address/0xFc48fBcA739079aaB08216C4d5E506B96593753d) [https://etherscan.io/verifySig/273145](https://etherscan.io/verifySig/273145)                                      | [https://forum.sky.money/t/bonapublica-aligned-delegate-communication/20451/90](https://forum.sky.money/t/bonapublica-aligned-delegate-communication/20451/90) |
+| PBG                | [https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2](https://etherscan.io/address/0x8D4df847dB7FfE0B46AF084fE031F7691C6478c2) [https://etherscan.io/verifySig/16773](https://etherscan.io/verifySig/16773)                                  | [https://etherscan.io/address/0x555230eCa835A808518EC3eA3082F05502BAb850](https://etherscan.io/address/0x555230eCa835A808518EC3eA3082F05502BAb850) [https://etherscan.io/verifySig/273499](https://etherscan.io/verifySig/273499)                                      | [https://forum.sky.money/t/pbg-aligned-delegate-communication-platform/20471/69](https://forum.sky.money/t/pbg-aligned-delegate-communication-platform/20471/69) |
+| WBC                | [https://etherscan.io/address/0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47](https://etherscan.io/address/0xeBcE83e491947aDB1396Ee7E55d3c81414fB0D47) [https://etherscan.io/verifySig/17927](https://etherscan.io/verifySig/17927)                                  | [https://etherscan.io/address/0x4beD44A9839B8778F69bB6A6d9F843414377ae90](https://etherscan.io/address/0x4beD44A9839B8778F69bB6A6d9F843414377ae90) [https://etherscan.io/verifySig/273394](https://etherscan.io/verifySig/273394)                                      | [https://forum.sky.money/t/wbc-aligned-delegate-communications/20828](https://forum.sky.money/t/wbc-aligned-delegate-communications/20828)       |
+| BLUE               | [https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf](https://etherscan.io/address/0xb6C09680D822F162449cdFB8248a7D3FC26Ec9Bf) [https://etherscan.io/verifySig/19057](https://etherscan.io/verifySig/19057)                                  | [https://etherscan.io/address/0x173a1c04B79Ed9266721c1154dAa29AddC0B9558](https://etherscan.io/address/0x173a1c04B79Ed9266721c1154dAa29AddC0B9558) [https://etherscan.io/verifySig/273235](https://etherscan.io/verifySig/273235)                                      | [https://forum.sky.money/t/blue-ad-recognition-submission/20915](https://forum.sky.money/t/blue-ad-recognition-submission/20915)            |
+| Cloaky             | [https://etherscan.io/address/0x9244F47D70587Fa2329B89B6f503022b63Ad54A5](https://etherscan.io/address/0x9244F47D70587Fa2329B89B6f503022b63Ad54A5) [https://etherscan.io/verifySig/19712](https://etherscan.io/verifySig/19712)                                  | [https://etherscan.io/address/0x0F23dE72e1581857eacD6308aebb69cF3a49CC86](https://etherscan.io/address/0x0F23dE72e1581857eacD6308aebb69cF3a49CC86) [https://etherscan.io/verifySig/273233](https://etherscan.io/verifySig/273233)                                      | [https://forum.sky.money/t/cloaky-ad-recognition-submission/21082](https://forum.sky.money/t/cloaky-ad-recognition-submission/21082)          |
+| AegisD             | [https://etherscan.io/address/0x78C180CF113Fe4845C325f44648b6567BC79d6E0](https://etherscan.io/address/0x78C180CF113Fe4845C325f44648b6567BC79d6E0) [https://etherscan.io/verifySig/269032](https://etherscan.io/verifySig/269032)                                 | [https://etherscan.io/address/0xd260762E442ea1893E5eD5E7d28984e19aaFbF5e](https://etherscan.io/address/0xd260762E442ea1893E5eD5E7d28984e19aaFbF5e) [https://etherscan.io/verifySig/273523](https://etherscan.io/verifySig/273523)                                      | [https://forum.sky.money/t/aegisd-ad-recognition-submission/26145](https://forum.sky.money/t/aegisd-ad-recognition-submission/26145)          |
+| Excel              | [https://etherscan.io/address/0x0F04a22B62A26e25A29Cba5a595623038ef7AcE7](https://etherscan.io/address/0x0F04a22B62A26e25A29Cba5a595623038ef7AcE7) [https://etherscan.io/verifySig/269574](https://etherscan.io/verifySig/269574)                                 | [https://etherscan.io/address/0xeAD02D18529C10EeDD995F760FDf5e380DDf3Da6](https://etherscan.io/address/0xeAD02D18529C10EeDD995F760FDf5e380DDf3Da6) [https://etherscan.io/verifySig/273466](https://etherscan.io/verifySig/273466)                                      | [https://forum.sky.money/t/excel-ad-recognition-submission/26227](https://forum.sky.money/t/excel-ad-recognition-submission/26227)           |
+| Tango              | [https://etherscan.io/address/0xB2B86A130B1EC101e4Aed9a88502E08995760307](https://etherscan.io/address/0xB2B86A130B1EC101e4Aed9a88502E08995760307) [https://etherscan.io/verifySig/272368](https://etherscan.io/verifySig/272368)                                 | [https://etherscan.io/address/0x550E5EC00B9d26a3517ce772DdFE73e8Ed1672Ad](https://etherscan.io/address/0x550E5EC00B9d26a3517ce772DdFE73e8Ed1672Ad) [https://etherscan.io/verifySig/274142](https://etherscan.io/verifySig/274142)                                      | [https://forum.sky.money/t/tango-ad-recognition-submission/26310](https://forum.sky.money/t/tango-ad-recognition-submission/26310)           |
+| Max Staking Yield  | [https://etherscan.io/address/0x9746bDaB7ab2609247332324400cc1fbE887095C](https://etherscan.io/address/0x9746bDaB7ab2609247332324400cc1fbE887095C) [https://etherscan.io/verifySig/273846](https://etherscan.io/verifySig/273846)                                 | [https://etherscan.io/address/0xFf7615E05EC1C8D5dED24AB50Bf74432666BEE2f](https://etherscan.io/address/0xFf7615E05EC1C8D5dED24AB50Bf74432666BEE2f) [https://etherscan.io/verifySig/273847](https://etherscan.io/verifySig/273847)                                      | [https://forum.sky.money/t/max-staking-yield-ad-recognition-submission/26462](https://forum.sky.money/t/max-staking-yield-ad-recognition-submission/26462) |
 | Kuzmich            | [https://etherscan.io/address/0x2847540606a790E5083d0D63470fAb01344c8e92](https://etherscan.io/address/0x2847540606a790E5083d0D63470fAb01344c8e92) [https://etherscan.io/verifySig/275839](https://etherscan.io/verifySig/275839)                                 | [https://etherscan.io/address/0x2C89024c13A80bC1B662A3dB990524652C15221C](https://etherscan.io/address/0x2C89024c13A80bC1B662A3dB990524652C15221C) [https://etherscan.io/verifySig/275837](https://etherscan.io/verifySig/275837)                                      | [https://forum.sky.money/t/ad-recognition-submission/26743](https://forum.sky.money/t/ad-recognition-submission/26743)                 |
 | OPEX               | [https://etherscan.io/address/0xE3dc949720Da42c5c842D06974BCB7B03F4f604f](https://etherscan.io/address/0xE3dc949720Da42c5c842D06974BCB7B03F4f604f) [https://etherscan.io/verifySig/301199](https://etherscan.io/verifySig/301199)                                 | [https://etherscan.io/address/0x16A5a76904140e01F31C7e7ABD9fB81988469bA4](https://etherscan.io/address/0x16A5a76904140e01F31C7e7ABD9fB81988469bA4) [https://etherscan.io/verifySig/301198](https://etherscan.io/verifySig/301198)                                      | [https://forum.sky.money/t/opex-ad-recognition-submission/27630](https://forum.sky.money/t/opex-ad-recognition-submission/27630)                 |
 | AxisLegati         | [https://etherscan.io/address/0x9B4AF496CC72c432586e85a1D8264A2708c4dcb6](https://etherscan.io/address/0x9B4AF496CC72c432586e85a1D8264A2708c4dcb6) [https://etherscan.io/verifySig/301787](https://etherscan.io/verifySig/301787)                                 | [https://etherscan.io/address/0x7bc5a420b6524Fa925F1321A01825438369E3c2e](https://etherscan.io/address/0x7bc5a420b6524Fa925F1321A01825438369E3c2e) [https://etherscan.io/verifySig/301786](https://etherscan.io/verifySig/301786)                                      | [https://forum.sky.money/t/axislegati-ad-recognition-submission/27677](https://forum.sky.money/t/axislegati-ad-recognition-submission/27677)                 |
@@ -2129,7 +2120,7 @@ The element "proportional linear scale" describes a method where the budget redu
 
 ###### A.1.5.4.3.2.0.3.2 - Voting-Communication Metrics - Element Annotation [Annotation]  <!-- UUID: ca88baad-2457-4454-9e34-367156a59e78 -->
 
-The element "voting-communication metrics" refers to the percentage of votes for which an Aligned Delegate provides the required written explanations or justifications of their casted votes in Governance Polls and Executive Votes. These written explanations are posted in the AD's Forum thread. 
+The element "voting-communication metrics" refers to the percentage of votes for which an Aligned Delegate provides the required written explanations or justifications of their casted votes in Governance Polls and Executive Votes. These written explanations are posted in the AD's Forum thread.
 
 The Target Document’s function is to ensure that SKY holders delegating to the AD have full transparency to understand the AD's decision-making process.
 
@@ -2180,7 +2171,7 @@ If an AD is unranked for an entire month, any contents in its AD Buffer can be p
 
 ###### A.1.5.4.4.2.1 - Payout Limitations For ADs Triggering Atlas Edit Proposals [Core]  <!-- UUID: 8eca5ff8-8798-465b-b86a-f9ee5c93f213 -->
 
-If an AD has triggered an Atlas Edit Weekly Cycle Proposal or Atlas Edit Monthly Cycle Proposal pursuant to [A.1.10.2.1.3 - Triggering Requirement](cef09d74-efc6-45cc-a75b-1132dae9e743), or [A.1.11.2.1.2 - Triggering Requirement](7bbfd3b1-99b5-4c60-9292-68d776e03886), respectively, no payouts may be made that would reduce their AD Buffer below the Triggering Threshold specified in  [A.1.5.4.4.2.1.1 - Triggering Threshold](2c2b201e-b95f-4852-8e76-6dfe4c3c6a4f) until the Proposal has been voted on or rejected by the Core Facilitator for misalignment.
+If an AD has triggered an Atlas Edit Weekly Cycle Proposal or Atlas Edit Monthly Cycle Proposal pursuant to [A.1.10.2.1.3 - Triggering Requirement](cef09d74-efc6-45cc-a75b-1132dae9e743), or [A.1.11.2.1.2 - Triggering Requirement](7bbfd3b1-99b5-4c60-9292-68d776e03886), respectively, no payouts may be made that would reduce their AD Buffer below the Triggering Threshold specified in [A.1.5.4.4.2.1.1 - Triggering Threshold](2c2b201e-b95f-4852-8e76-6dfe4c3c6a4f) until the Proposal has been voted on or rejected by the Core Facilitator for misalignment.
 
 ###### A.1.5.4.4.2.1.1 - Triggering Threshold [Core]  <!-- UUID: 2c2b201e-b95f-4852-8e76-6dfe4c3c6a4f -->
 
@@ -2301,13 +2292,13 @@ To adhere to this commitment, the Core Facilitator must derecognize the AD withi
 
 ### A.1.5.9 - Facilitators Must Err On Side Of Caution [Section]  <!-- UUID: 09efe31d-28ae-47cc-a81e-caf4f669df95 -->
 
-Facilitators are required to err on the side of caution and take action whenever there is any real possibility that the operational security of an Aligned Delegate (AD) is compromised. Facilitators are afforded significant discretion in making judgement calls related to operational security standards for ADs. 
+Facilitators are required to err on the side of caution and take action whenever there is any real possibility that the operational security of an Aligned Delegate (AD) is compromised. Facilitators are afforded significant discretion in making judgement calls related to operational security standards for ADs.
 
 Abuse of this power is severe misalignment. Any allegations of this abuse of power must be adjudicated by the Core Facilitator pursuant to the process defined in [A.1.4.9 - Adjudication Process](560e1024-0897-4f1e-ae71-3ba31e29ed57).
 
 ### A.1.5.10 - Emergency Contact Mechanism [Section]  <!-- UUID: d5d4cc4a-8877-4931-861f-056793387b92 -->
 
-Aligned Delegates must safeguard the security of the Sky Protocol through the Executive Vote process. To deal with emergencies related to Executive Votes, ADs are required to sign up for the approved emergency contact mechanism specified in [A.1.8.1.3.2.2 - Approved Emergency Contact Mechanisms](57006d4e-cd91-4565-97b5-5fab73fa94d5). 
+Aligned Delegates must safeguard the security of the Sky Protocol through the Executive Vote process. To deal with emergencies related to Executive Votes, ADs are required to sign up for the approved emergency contact mechanism specified in [A.1.8.1.3.2.2 - Approved Emergency Contact Mechanisms](57006d4e-cd91-4565-97b5-5fab73fa94d5).
 
 ADs must strictly adhere to all onboarding procedures and usage instructions associated with this emergency contact mechanism. ADs that fail to do so will be considered in misalignment and will be derecognized.
 
@@ -2454,7 +2445,6 @@ The membership of the Emergency Response Group is defined as Active Data in [A.1
 The Active Data is updated as follows:
 
 - The Responsible Party is the Governance Facilitators.
-
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.1.8.1.2.2.0.6.1 - Emergency Response Group Current Membership [Active Data]  <!-- UUID: e9807449-fdc3-4860-8d53-c56181311618 -->
@@ -2525,15 +2515,10 @@ Emergency Response Group Members must use an emergency contact mechanism to deal
 A suitable emergency contact mechanism should meet the following criteria:
 
 - The mechanism should use enterprise grade infrastructure with correspondingly high levels of uptime.
-
 - The mechanism should not require personal information or KYC from users.
-
 - The mechanism should allow segmenting of target user groups, so that required individuals are only notified when necessary.
-
 - The mechanism should be able to bypass silent / do not disturb mode on devices to achieve an immediate response any time of day.
-
 - It is recommended, but not required, that the mechanism minimizes data tracking of individual users.
-
 - It is recommended, but not required, that the mechanism is open source.
 
 ###### A.1.8.1.3.2.2 - Approved Emergency Contact Mechanisms [Core]  <!-- UUID: 57006d4e-cd91-4565-97b5-5fab73fa94d5 -->
@@ -2561,11 +2546,8 @@ Any participant in the Sky Ecosystem, including Ecosystem Actors, Aligned Delega
 The Facilitators are required to consider several important factors before expediting changes to the protocol:
 
 - Potential for SKY holders to miss a poll or Executive Vote due to departure from the standard governance cycles.
-
 - Expedited votes may not allow for sufficient discussion, leading to a sub-optimal solution.
-
 - Increased governance burden on community and increased workload for domain teams.
-
 - Frequent expedited votes may signal a lack of appreciation for a consistent and predictable governance process.
 
 #### A.1.8.1.5 - Emergency Response Process Definition [Core]  <!-- UUID: 498e151e-5096-4d0f-b9a9-665897b0b861 -->
@@ -2594,22 +2576,18 @@ If a remedy is known and uncontentious, the Support or Governance Facilitators s
 
 ##### A.1.8.1.5.5 - Emergency Declaration Procedure [Core]  <!-- UUID: 8ce1adeb-ec38-40ba-9a0d-bc0e0db4fece -->
 
-The Support Facilitators are empowered to declare an emergency situation at their discretion, either on their own initiative or in response to a request from a community member.
+The Core Facilitator is empowered to declare an emergency situation at their discretion, either on their own initiative or in response to a request from a community member.
 
-When declaring an emergency, the Support Facilitators should create a formal post on the Sky Forum which provides sufficient detail regarding the issue and explains why immediate action is required. If the situation allows, Facilitators should post the emergency declaration on the Sky Forum before taking action. If the urgency of the situation requires immediate intervention without delay, the Facilitators should create the Forum post as soon as possible after, or simultaneously with, the emergency action.
+When declaring an emergency, the Core Facilitator should create a formal post on the Sky Forum, providing sufficient detail regarding the issue and explaining why immediate action is required. If the situation allows, the Core Facilitator should post the emergency declaration on the Sky Forum before taking action. If the urgency of the situation requires immediate intervention without delay, the Core Facilitator should create the Forum post as soon as possible after, or simultaneously with, the emergency action.
 
-There may be situations in which a public Emergency Declaration would be counterproductive to security objectives; the Support Facilitators are granted discretion in these matters.
-
-Creating a signal request thread or Governance Poll is optional.
+There may be situations in which a public Emergency Declaration would be counterproductive to security objectives; the Core Facilitator is granted discretion in these matters.
 
 ##### A.1.8.1.5.6 - Record Retention [Core]  <!-- UUID: ddab726d-7ecb-4028-bd85-964966d5d1ed -->
 
 To achieve continuous improvement of emergency response processes, records should be retained post-incident to enable review of actions taken during the incident response. Such records may include but are not limited to:
 
 1. An incident response template filled in with information from the coordination meeting;
-
 2. Incident artifacts, including files, screenshots, documents, and links;
-
 3. Chat transcripts from the approved communication channels specified in [A.1.8.1.3 - Emergency Response Communication Channels](18418289-ada8-401d-a992-7e38b235c866).
 
 It is at the discretion of the Support Facilitators as to whether incident records can be shared with entities outside of the Emergency Response Group.
@@ -2666,7 +2644,7 @@ The spell teams need not share their identities. Therefore, it is no longer a re
 
 #### A.1.9.1.2 - Chainlog [Core]  <!-- UUID: fa9145a8-308c-4732-927d-cb6da4682fcf -->
 
-The Chainlog is an on-chain, governance-managed registry that records the official addresses of Sky’s core smart contracts. Each contract entry in the Chainlog is identified by a unique key ("Chainlog key"), which is used to reference the contract in documentation, governance actions, and integrations. It serves as the single source of truth for contract addresses in the protocol. The Chainlog is available at [https://chainlog.sky.money/](https://chainlog.sky.money/). Updates to the Chainlog are defined as housekeeping items (see [A.1.10.1.6.1.1 - Definition Of Housekeeping Items](7648bf12-d600-4e0d-807b-5eb18e8d0f4f)) and can be included directly in an Executive Vote (see [A.1.10.1.6.1.2 - Process for Adding Housekeeping Item In Executive Vote](2d165c27-5daf-4a84-af8c-7c36f5de03d2)).
+The Chainlog is an on-chain, governance-managed registry that records the official addresses of Sky’s core smart contracts. Each contract entry in the Chainlog is identified by a unique key ("Chainlog key"), which is used to reference the contract in documentation, governance actions, and integrations. It serves as the single source of truth for contract addresses in the protocol. The Chainlog is available at [https://chainlog.sky.money/](https://chainlog.sky.money/). Updates to the Chainlog are defined as housekeeping items (see [A.1.10.1.5.1.1 - Definition Of Housekeeping Items](7648bf12-d600-4e0d-807b-5eb18e8d0f4f)) and can be included directly in an Executive Vote (see [A.1.10.1.5.1.2 - Process for Adding Housekeeping Item In Executive Vote](2d165c27-5daf-4a84-af8c-7c36f5de03d2)).
 
 ### A.1.9.2 - Executive Process Definition [Section]  <!-- UUID: 03d32549-1da5-4a9c-902f-196641370eaf -->
 
@@ -2753,13 +2731,9 @@ The role of Governance Point and Governance Backup alternates from within the Co
 The Governance Point has the following responsibilities in the Executive process:
 
 - Gather the proposed content for the Executive sheet and prepare a draft of the Executive Vote.
-
 - Align on Executive Vote contents with the relevant teams, and coordinate technical details.
-
 - Ensure the contents of each Executive Vote are justified by processes or structures ratified by Sky Governance.
-
 - Produce the text (Executive Document) that accompanies each Executive Vote and verify that the delivered code matches the code reviewed and approved on GitHub and that it contains all expected actions from the sheet.
-
 - Publish the Executive Vote on the official Voting Portal.
 
 ##### A.1.9.2.2.2 - Technical Point [Core]  <!-- UUID: 6474ab2e-da22-4227-9aff-7f13ac0dd471 -->
@@ -2777,12 +2751,11 @@ The Spell Team consists of the Crafter(s) and Reviewers for a designated spel
 Currently, Sky has two teams of technical contributors for spell development, Dewiz, and Sidestream. They rotate the responsibility of crafting and reviewing as follows:
 
 - When Dewiz is crafting:
-    ◦ Crafting: one Dewiz member
-    ◦ Reviewing: one Dewiz member, one Sidestream member
-
+    - Crafting: one Dewiz member
+    - Reviewing: one Dewiz member, one Sidestream member
 - When Sidestream is crafting:
-    ◦ Crafting: one Sidestream member
-    ◦ Reviewing: one Sidestream member, one Dewiz member.
+    - Crafting: one Sidestream member
+    - Reviewing: one Sidestream member, one Dewiz member.
 
 ##### A.1.9.2.2.3 - Content Liaisons [Core]  <!-- UUID: 4ed84898-db7b-4759-bd00-e3cf09ac27e9 -->
 
@@ -2812,7 +2785,7 @@ For each Executive Vote, the parameters listed in the subdocuments herein are al
 
 ###### A.1.9.2.3.1.1 - Office Hours [Core]  <!-- UUID: 11cf1764-aefa-4343-ad44-e993024b3192 -->
 
-Office hours are set to "Yes"  if a spell introduces major changes that can affect external parties, or if a stakeholder makes a specific request for the office-hours modifier to be switched on. Typical examples include collateral offboarding, onboarding new modules, oracle changes, and other actions that may have a significant impact on the protocol or its users.
+Office hours are set to "Yes" if a spell introduces major changes that can affect external parties, or if a stakeholder makes a specific request for the office-hours modifier to be switched on. Typical examples include collateral offboarding, onboarding new modules, oracle changes, and other actions that may have a significant impact on the protocol or its users.
 
 While stakeholders can request that Office Hours be switched on, the final decision and responsibility for setting this parameter rests with the Spell Crafter. If the office hours modifier is on, the spell can only be executed between 14:00 and 21:00 UTC, Monday - Friday. The purpose of this modifier is to ensure that Ecosystem Actors are available to address any issues that may arise during or shortly after the execution of the spell. The spell will have an extra restriction on top of the GSM Pause Delay, meaning it can only be cast during that timeframe, regardless of when it was approved.
 
@@ -2877,15 +2850,10 @@ The team that implemented and deployed the module publishes a Forum Post with th
 The Forum post must include the following:
 
 - The addresses of the deployed contracts
-
 - A link to the audit reports, ideally externally verifiable sources, such as the Chain Security website link to an audit report.
-
 - Confirmation that the deployed code matches the commit hash that was sent for audit.
-
 - Constructor arguments are as expected in the Init script
-
 - (optional) Authority is given to the protocol owner: `MCD_PAUSE_PROXY` in the case of SKY and denied from the deployer address.
-
 - Include instructions to be added to the Executive Sheet, such as adding the module to the chainlog, defining parameters for the module (provided by the Risk Advisor), further authorization that needs to be done to different module elements.
 
 ###### A.1.9.2.3.2.1.2.1.3 - Core Facilitator Approve Inclusion In Executive Vote [Core]  <!-- UUID: d0c4f880-902e-4d32-ac55-f05725753ac1 -->
@@ -2913,9 +2881,7 @@ The actions specified herein take place as part of the [A.1.9.2.4.8 - Core Facil
 The Core Facilitator must include the module deployment in the Executive Document. The format for this content should be as specified below:
 
 - The title of the module deployment should be listed as a section for example "Add [Module Name] to the Chainlog".
-
 - The authorization should include links to the Atlas documents and the approval from the Core Facilitator.
-
 - The proposal should include links to the Technical Scope Forum post created by the team that deployed the module and the Atlas Edit Proposal.
 
 ###### A.1.9.2.3.2.2 - Prime Spells [Core]  <!-- UUID: 8b5181e8-51e2-4d8b-a49a-d88ab42218e7 -->
@@ -3021,7 +2987,7 @@ The Active Data is updated as follows:
 
 The Prime Spell Security Incidents that have occurred to date are:
 
-    ◦ None
+- None
 
 ###### A.1.9.2.3.2.2.2 - Interim Deployments [Core]  <!-- UUID: 9b3edbbf-89d1-42da-a9c3-18f858f8471f -->
 
@@ -3183,9 +3149,7 @@ Every action that should be included in the spell must be present in the Executi
 The Executive Sheet should be formatted as follows:
 
 - One single row of empty cells should be present directly above every "input" action in the Executive Sheet.
-
 - Each "input" action must be written in bold and must be present before any actions that are derived from the ‘input’ action. Optionally, ‘input’ actions may also use underlined text.
-
 - Actions that are "derived" from an "input" action must not use bold or underlined text and must be located directly after the "input" action.
 
 ###### A.1.9.2.4.2.1.3 - Language Consistency In The Executive Sheet [Core]  <!-- UUID: 199931bd-0e55-4796-b3f7-f6926c3b119a -->
@@ -3227,7 +3191,6 @@ For scheduled Executive Votes in the Executive Process, the Executive Sheet must
 In the Google Sheet document, there is a tab named "spell progress tracking". The Governance Point must:
 
 1. Add a new column for the Executive Vote. The column should be added to the right in the document to make sure that the Executive Votes are sorted in chronological order.
-
 2. Enter the Target Date.
 
 ###### A.1.9.2.4.2.2.4 - The Governance Point Maintains the Spell Progress Tracker [Core]  <!-- UUID: a6bab26a-a334-4d44-a45a-cf848ed36480 -->
@@ -3391,13 +3354,11 @@ The Governance Point is responsible for ensuring that the Executive Sheet is ful
 - That all fields in the Executive Sheet are filled in with the required information, including URLs, figures, and confirmations. For any incomplete items (e.g., awaiting final figures), they must be marked with a `TODO` tag.
 
 - That all items included in the Executive Sheet were discussed and approved during the GovOps meeting.
-    ◦ No approved items from the discussions can be omitted without a valid reason.
-
+    - No approved items from the discussions can be omitted without a valid reason.
 - That the financial transfers are accurate.
-    ◦ USDS transfers must be rounded up to the nearest whole number (no decimal points).
-    ◦ SKY transfers must be listed to exactly two decimal places.
-    ◦ Verify that the checksum for USDS and SKY transfers is accurate.
-
+    - USDS transfers must be rounded up to the nearest whole number (no decimal points).
+    - SKY transfers must be listed to exactly two decimal places.
+    - Verify that the checksum for USDS and SKY transfers is accurate.
 - The spell items must be listed in order of importance for an average SKY voter except when there are order of operations concerns.
 
 ###### A.1.9.2.4.6.2 - Summary Checklist [Core]  <!-- UUID: d246530d-693c-4b1f-b139-2c3fef8b1de0 -->
@@ -3418,7 +3379,7 @@ The Crafter must comply with a number of rules when carrying out their role and 
 
 ###### A.1.9.2.4.7.2.1 - Previous Spell Code Cleanup [Core]  <!-- UUID: 3889281f-3306-4701-b1a3-5e0707bb7ef8 -->
 
-Before developing the current spell, the designated Crafter must clean up the previous spell code. Code cleanup includes the `DssSpell.sol` (spell code), `DssSpell.t.sol` (spell code tests) and `config.sol `(deployed spell information) files. In this process of code cleanup, the Crafter must remove unused interfaces as well as spell code and test code from the last spell. If relevant, they must also clean up any dependency files from the previous spell that are not being used for the current spell.
+Before developing the current spell, the designated Crafter must clean up the previous spell code. Code cleanup includes the `DssSpell.sol` (spell code), `DssSpell.t.sol` (spell code tests) and `config.sol`(deployed spell information) files. In this process of code cleanup, the Crafter must remove unused interfaces as well as spell code and test code from the last spell. If relevant, they must also clean up any dependency files from the previous spell that are not being used for the current spell.
 
 ###### A.1.9.2.4.7.2.2 - The Executive Sheet Serves As Source Of Truth [Core]  <!-- UUID: cff7d85c-2bbb-4f93-afa8-0bcfabcb838d -->
 
@@ -3509,11 +3470,8 @@ The Executive Document process is guided by the core values of clarity, transpar
 The Core Facilitator must ensure that voters have access to sufficient information to make informed decisions. This might include:
 
 - Links to documentation or discussions related to the actions included in the Executive Document.
-
 - Summaries of the actions included in the Executive Document, created by unbiased and knowledgeable third parties.
-
 - Links to any analysis published by DAO-funded entities regarding the actions in the Executive Document.
-
 - Links to well-maintained resources describing the nature of any parameters that may be changed if the Executive Proposal passes.
 
 Providing accessible and complete information is essential to maintaining the legitimacy of the process. Voters should not later regret their vote due to a lack of understanding of the actions they voted on.
@@ -3523,9 +3481,7 @@ Providing accessible and complete information is essential to maintaining the le
 The Core Facilitator must ensure that the Executive Document is clear, transparent, and accessible to all voters. This involves eliminating ambiguity and confusion to the greatest extent possible while balancing technical detail with readability. Voters should clearly understand:
 
 - The effects and impacts of the Executive Vote if passed.
-
 - The processes that led to each item being included in the Executive Document.
-
 - The identities (pseudonymous or entity-level) of those responsible for publishing, writing, and reviewing the Executive Vote.
 
 The goal is to ensure that voters are always provided with information on why an item is included, what will happen if the Executive Vote passes, or who is responsible for its contents.
@@ -3539,9 +3495,7 @@ The Core Facilitator must organize the Executive Document to maximize readabilit
 Best Practices for organization:
 
 - Use strategic hyperlinks and text formatting to reduce the document's length while maintaining accessibility.
-
 - Regularly review and update templates to eliminate unnecessary content.
-
 - Present information in a logical order, prioritizing the most critical actions and details.
 
 A concise and well-structured document increases the likelihood that voters will read, understand, and consider the actions on which they are voting.
@@ -3552,10 +3506,9 @@ The Core Facilitator must ensure that the Executive Document balances technical 
 Guidelines for Technical Detail:
 
 - Avoid including excessive technical details that obscure clarity or clutter the Executive Document.
-
 - Include technical details only when they are strictly necessary, such as:
-    ◦ In emergency or urgent responses when technical details are the primary focus of the proposal.
-    ◦ For non-urgent technical fixes or housekeeping when technical details are relevant, but should be given lower priority compared to other actions in the Executive Vote.
+    - In emergency or urgent responses when technical details are the primary focus of the proposal.
+    - For non-urgent technical fixes or housekeeping when technical details are relevant, but should be given lower priority compared to other actions in the Executive Vote.
 
 In cases where technical details are included, the Governance Point must ensure they fully understand the technical aspects themselves to present them accurately and clearly.
 
@@ -3570,11 +3523,8 @@ The Executive Document is a Markdown document created and stored in the execut
 The Executive Document contains both text content and metadata fields, which are essential for its functionality and clarity. These include:
 
 - The title field provides a concise and descriptive summary of the Executive Document, making it easy for stakeholders to identify the proposal.
-
 - The summary field offers a high-level overview of the actions included in the spell, helping voters quickly understand the scope and purpose of the proposal.
-
 - The date field ensures that the proposal is aligned with the governance schedule and provides a clear reference for when the spell is intended to be executed. The date specifies the Target Date of the spell in UTC time.
-
 - The address field contains the Ethereum address of the deployed Mainnet spell on the blockchain, allowing stakeholders to verify its contents and execution status. When the Executive Vote is published on the Voting Portal the spell address is a hyperlink that links to Etherscan.
 
 ###### A.1.9.2.4.8.2.2 - Markdown Headings [Core]  <!-- UUID: 6656674a-c598-474d-b8a7-64d7dda3bd91 -->
@@ -3582,11 +3532,8 @@ The Executive Document contains both text content and metadata fields, which a
 The document uses different levels of Markdown headings to organize its content into distinct sections:
 
 - First-level heading is used for the title of the document.
-
 - Second-level headings are used for the four major sections of the Executive Document: Executive Summary, Proposal Details, Review, and Resources.
-
 - Third-level headings are used within the Proposal Details section to describe individual input executive actions. Each action is presented under its own third-level heading, making it easy to identify and review.
-
 - Fourth-level headings are used to describe specific derived actions within an input action. These headings provide additional context or detail necessary for understanding the implications of the input action, such as actions triggered by an Agent spell or changes to market parameters.
 
 This structured approach ensures that the document is both easy to navigate and comprehensive.
@@ -3600,12 +3547,9 @@ The preamble serves as an introduction to the Executive Document, providing key 
 The Executive Summary outlines the key actions that will occur if the proposal passes. It includes:
 
 - The GSM Pause Delay, which specifies the minimum time before the Spell can be executed and is enforced by ds-pause.
-
 - The Office-Hours Modifier, if applicable, which restricts execution to specific times.
-
 - The Expiration Date of the Spell.
-      ◦ The Spell must always have an expiration date; it can’t be more than 90 days in the future, and the typical expiration window is 30 days.
-
+    - The Spell must always have an expiration date; it can’t be more than 90 days in the future, and the typical expiration window is 30 days.
 - A high-level explanation of the actions being performed in the Spell, presented in bullet-point form.
 
 The summary should provide a high-level overview of the Executive Vote and ensure that SKY holders can quickly understand the scope and purpose of the proposal. This section also explains that voting for the proposal with SKY places support for these actions.
@@ -3615,7 +3559,6 @@ The summary should provide a high-level overview of the Executive Vote and ensur
 This section provides a detailed breakdown of each item included in the proposal. It includes:
 
 - Input executive actions, which are presented under third-level Markdown headings. Each action includes links to the authorization and proposal documents and explains the implications of the action if the proposal passes.
-
 - Derived actions, which are described under fourth-level Markdown headings when they provide additional context or detail necessary for understanding the implications of an input action. These headings are used to outline specific actions triggered by an input action, such as actions executed by a Prime spell or changes to market parameters. Derived actions that are overly technical, redundant, or irrelevant to the proposal's primary focus may be excluded to maintain clarity and accessibility.
 
 This section ensures that all actions are clearly explained and linked to their reasoning and authorization documents.
@@ -3625,16 +3568,14 @@ This section ensures that all actions are clearly explained and linked to their 
 To ensure clarity and consistency, the Governance Point should adhere to the following practices when including items in the Executive Document:
 
 - **Headers and Bullet Points**:
-    ◦ Each item should be separated by a header for clarity.
-    ◦ Typically, two bullet points are included for each item: one for "Authorization" and one for "Proposal."
-    ◦ The "Authorization" link may lead to an Atlas document, a Governance Poll or a Forum Post, while the "Proposal" link is usually a Forum Post.
-
+    - Each item should be separated by a header for clarity.
+    - Typically, two bullet points are included for each item: one for "Authorization" and one for "Proposal."
+    - The "Authorization" link may lead to an Atlas document, a Governance Poll or a Forum Post, while the "Proposal" link is usually a Forum Post.
 - **Formatting for Key Values**:
-    ◦ If the item involves amending a parameter or distributing funds, the relevant values should be marked in bold to emphasize the new outcomes that will take effect if the Executive Proposal passes.
-    ◦ For transfers, Ethereum addresses should be included to provide transparency and direct access to transaction details.
-
+    - If the item involves amending a parameter or distributing funds, the relevant values should be marked in bold to emphasize the new outcomes that will take effect if the Executive Proposal passes.
+    - For transfers, Ethereum addresses should be included to provide transparency and direct access to transaction details.
 - **Use of Tables**:
-    ◦ Tables are often used in the Executive Document to provide an easy-to-read overview of key information, such as parameter changes, funding distributions, or other technical details.
+    - Tables are often used in the Executive Document to provide an easy-to-read overview of key information, such as parameter changes, funding distributions, or other technical details.
 
 ###### A.1.9.2.4.8.2.7 - Review Section [Core]  <!-- UUID: b6117ca8-0d19-47ad-a20e-2f6e5a55746e -->
 
@@ -3645,7 +3586,6 @@ The review section includes standardized language directing voters to the Sky Go
 The Resources section provides links to additional materials that help voters understand the governance process and stay informed about upcoming votes. These materials include:
 
 - The Operational Manual serves as a guide to governance processes, is included as a resource.
-
 - The Sky Governance Calendar is a resource for tracking upcoming votes and governance events.
 
 ###### A.1.9.2.4.8.3 - Core Facilitator Creates Executive Document [Core]  <!-- UUID: 6d40ab22-bcf5-42c2-8a27-fef39fa43d6f -->
@@ -3665,7 +3605,6 @@ The template for the Executive Document is stored in the Executive Votes templat
 The Core Facilitator must update the metadata of the template. This includes updating the filename and dates to reflect the current values of the Executive Vote.
 
 - Rename the file to "Executive vote - YYYY, MONTH, DD". The filename must end with .md and must not contain any banned characters (e.g., "<>:"/?*|"). The date in the filename should correspond to the day the Executive Vote will go live on the voting platform.
-
 - Replace the placeholder dates in the template with the correct dates for the Executive Vote. The exact time is not required for the Executive Vote and should therefore be left at midnight.
 
 ###### A.1.9.2.4.8.3.4 - Core Facilitator Creates Title [Core]  <!-- UUID: 63c9d3b3-e155-4aee-bca1-9316da530878 -->
@@ -3677,31 +3616,22 @@ The Core Facilitator must create a title for the Executive Document that clearly
 The Core Facilitator must create a summary that refers to every action included in the proposal. Under the Executive summary, the Core Facilitator must include the following details:
 
 1. Office-Hours Modifier:
-
-- If the office-hours parameter has the value "Yes" and will be present in the spell code, this must be explicitly mentioned:
-    ◦ "This Executive Proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**."
-
+    - If the office-hours parameter has the value "Yes" and will be present in the spell code, this must be explicitly mentioned:
+        - "This Executive Proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**."
 2. GSM Pause Delay:
-
-- The GSM Pause Delay period and affected items must be clearly communicated.
-
-- The term "GSM Pause Delay" must include a link to the Atlas document specifying its definition [A.1.9.3.1 - Pause Delay](3c9545d9-775f-4149-88bf-7d297b5302c6).
-
-- The current value of the GSM Pause Delay must include a link to the Atlas document specifying its value [A.1.9.3.1.2 - Pause Delay Current Value](db442d8a-8d98-47a2-b162-01c2adc22b67).
-
+    - The GSM Pause Delay period and affected items must be clearly communicated.
+    - The term "GSM Pause Delay" must include a link to the Atlas document specifying its definition [A.1.9.3.1 - Pause Delay](3c9545d9-775f-4149-88bf-7d297b5302c6).
+    - The current value of the GSM Pause Delay must include a link to the Atlas document specifying its value [A.1.9.3.1.2 - Pause Delay Current Value](db442d8a-8d98-47a2-b162-01c2adc22b67).
 3. Proposal Expiry:
-
-- The expiry of the proposal must be explicitly noted, including the length of time for which the proposal is valid:
-    ◦ "If this Executive Proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Sky Protocol."
+    - The expiry of the proposal must be explicitly noted, including the length of time for which the proposal is valid:
+        - "If this Executive Proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Sky Protocol."
 
 ###### A.1.9.2.4.8.3.6 - Core Facilitator Specifies Entities In Preamble [Core]  <!-- UUID: c99fbfde-bd39-42f6-b67d-f6b9cb7f3dce -->
 
 The Core Facilitator must specify the entities responsible for publishing the Executive Vote on the Voting Portal, as well as the Crafters and Reviewers of the executive code. The entities should be specified at the entity level.
 
 - The publishers of the Executive Vote are the Core Facilitator.
-
 - The Crafters and Reviewers alternate between Dewiz and Sidestream.
-
 - The Crafters and Reviewers are determined during the GovOps meeting and recorded in the Executive Sheet.
 
 ###### A.1.9.2.4.8.3.7 - Core Facilitator Includes Every Item From Executive Sheet [Core]  <!-- UUID: 2724c79e-f6bf-42a2-8018-33b773ba3733 -->
@@ -3711,11 +3641,8 @@ The Core Facilitator must ensure that every item from the Executive Sheet is inc
 The Core Facilitator must make sure that each item:
 
 - Includes links to the reasoning and authorization for its inclusion.
-
 - Provides additional links required for voters to understand the context surrounding the item’s inclusion.
-
 - Uses future-conditional language and clearly outlines the actions that will take place if the Executive Proposal passes. For example, phrasing such as "If this Executive Proposal passes, then this action will take place" ensures clarity and avoids ambiguity.
-
 - Has hyperlinked key parameters, terms, and contracts where appropriate, making it easier for voters to access relevant information. Ethereum and IPFS addresses should also be linked to provide direct access to technical details.
 
 The Core Facilitator must also make sure that the parties implicated in the proposal outcome are aware of the wording used for each item in the Executive Document.
@@ -3769,9 +3696,7 @@ The Core Facilitator must generate the hash of the Executive Document. The hash 
 The Core Facilitator’s comment typically includes:
 
 - The command used to generate the hash,
-
 - The resulting hash, and
-
 - A secondary tool used to validate the locally generated hash (Keccak-256 Online Tool, [https://emn178.github.io/online-tools/keccak_256.html](https://emn178.github.io/online-tools/keccak_256.html), is most commonly used).
 
 ###### A.1.9.2.4.8.5.2 - Core Facilitator Merges Executive Document [Core]  <!-- UUID: 966fa5d7-c640-4251-891c-a4a3c58bee8a -->
@@ -3921,15 +3846,10 @@ After the Spell is deployed, the Governance Point must review the Spell to ensur
 The Governance Point must perform the following checks:
 
 - Verify that all items listed in the Executive Sheet are accurately reflected in the Spell code.
-
 - Confirm that all values in the Spell code match those specified in the Executive Sheet.
-
 - Ensure that no items are present in the Spell code that are not included in the Executive Sheet, with limited exceptions such as approvals or other predefined standard actions
-
 - Confirm that reviews have been submitted by the designated reviewers as part of the validation process.
-
 - After handover, verify that the deployed code matches the corresponding code in the GitHub repository.
-
 - Ensure that reviewers have approved the deployed code at the specified handover address.
 
 ###### A.1.9.2.4.11.1.2 - Governance Point Requests TechOps Services To Whitelist Spell Address [Core]  <!-- UUID: 93b1ccb0-ee1e-4e41-8a3b-03520de76ab4 -->
@@ -4007,13 +3927,11 @@ Ecosystem Spell Validators are members of the Sky Ecosystem responsible for perf
 The Ecosystem Spell Validation Window is the period of time during which a Spell can be validated. Validation must occur:
 
 1. After the Spell becomes visible and is available for voting on the Voting Portal (start of the validation window).
-
 2. Before the Spell’s actions become executable, which occurs when the `GSM Pause Delay` elapses (end of the validation window).
 
 Validation outside this window is ineffective because:
 
 - The Spell may still be subject to changes before the start of the validation window.
-
 - The Spell may already be executable after the end of the validation window.
 
 The duration of the validation window is determined by the value of the GSM Pause Delay.
@@ -4023,7 +3941,6 @@ The duration of the validation window is determined by the value of the GSM Pau
 The scope of Spell validation includes any code in the Sky Protocol that:
 
 1. Must adhere to the `GSM Pause Delay` enforced by the Sky Protocol’s `ds-pause` contract, and
-
 2. Is directly executed by the Sky Protocol’s `Pause Proxy` contract.
 
 Actions that do not meet these criteria—such as `instant actions`, `MOM` and `IAM` contract calls—are excluded from Spell validation.
@@ -4065,7 +3982,6 @@ The Foundry toolchain is required for ecosystem validation of Spells. Spell vali
 The toolchain’s dependencies vary by operating system and may include:
 
 - The Rust programming language and the Cargo package manager.
-
 - For macOS users, the Homebrew package manager and the libusb package.
 
 ###### A.1.9.2.4.12.2.7 - Mainnet Ethereum Node For Spell Validation [Core]  <!-- UUID: f26a1e7c-e189-4fa7-bd0c-05b36bb054fb -->
@@ -4103,9 +4019,7 @@ However, using Discord is highly recommended for Spell validators, as the commun
 When validating a Spell, specific checks must be performed to determine whether the Spell passes or fails validation. These checks are categorized into three levels of priority:
 
 - Required Checks: Must be completed for the Spell to pass validation.
-
 - Recommended Checks: Should be completed to ensure best practices, but are not mandatory.
-
 - Additional Checks: Community-developed checks that enhance the validation process.
 
 These checks are detailed in the subdocuments.
@@ -4121,25 +4035,15 @@ Ecosystem Spell validators must execute the predefined tests associated with a S
 The best practice for running the tests are specified herein:
 
 1. If you haven’t cloned the repository before, run: `git clone <https://github.com/sky-ecosystem/Spells-mainnet`>.
-
 2. Navigate to the Spell repository directory by running: `cd Spells-mainnet`.
-
 3. Update the repository for the latest changes by running: `git pull`.
-
 4. Switch to the correct branch by finding the name from the Spell’s pull request on GitHub, run the command: `git checkout NAME`.
-
 5. Verify your setup and check that you’re on the correct branch by running: `git status`.
-
 6. Clean up old Spell library dependencies by running the command: `rm -r lib` or deleting the `lib` folder and its contents.
-
 7. Install libraries required for the current Spell by running `git submodule update --init --recursive`.
-
 8. Configure the local or remote node being used by running `export ETH_RPC_URL=URL` with the URL of your local or remote node. If using a remote node, do not share the URL as it can be used maliciously.
-
-9. Run the Spell tests by running `make test`.  If there are concerns about potential modifications to the function, validators can bypass the `make` command and directly execute the test script using `./scripts/test-dssSpell-forge.sh`.
-
+9. Run the Spell tests by running `make test`. If there are concerns about potential modifications to the function, validators can bypass the `make` command and directly execute the test script using `./scripts/test-dssSpell-forge.sh`.
 10. Wait for completion. Allow 20 to 60 minutes for the tests to complete.
-
 11. Review and Save Results: Save the test results (pass or fail) for logging purposes.
 
 ###### A.1.9.2.4.12.3.1.2 - Spell Validators Must Verify Spell On Etherscan [Core]  <!-- UUID: a8bc220b-ed35-4c3a-95c3-88fb625b14ed -->
@@ -4165,11 +4069,8 @@ The validation for the Spell code can be done by using the `diff-deployed-Spell`
 When comparing, note that the following differences are acceptable and should not be flagged (based on validation guides):
 
 - Comments: Lines starting with `//` or inside `/* */`.
-
 - Imports and Solidity versions: Multiple declarations in the GitHub code.
-
 - Interfaces: Numerical suffixes like `_1` or `_2` added to interface names in the contract.
-
 - DssExecLib Interface: Extra code or warnings within the `DssExecLib` library.
 
 ###### A.1.9.2.4.12.3.1.5 - Spell Validators Must Check Deployed Spell Is Not A DarkSpell [Core]  <!-- UUID: 354e4b28-61fd-4416-aa8b-085e40cdf920 -->
@@ -4177,7 +4078,6 @@ When comparing, note that the following differences are acceptable and should no
 Validators must confirm that the deployed Spell does not execute an external `DssAction` contract. This validation ensures that the Spell is self-contained, does not rely on external contracts or pre-defined Ethereum addresses, and that the `DssExec` and `DssSpellAction` contracts are deployed together and not separately, as is done when using DarkSpells. Validators must perform the following two checks:
 
 1. Check that the DssAction contract’s `execute()` function only calls the `actions()` function and does not interact with any external contracts or explicitly defined Ethereum addresses.
-
 2. Check that the second argument used in the constructor when instantiating the `DssExec` is a newly created Spell action contract (e.g. `address(new DssSpellAction())`) and not an explicitly defined Ethereum address. This confirms that the Spell is linked to the correct action contract.
 
 If either of these checks fails, the Spell cannot pass validation.
@@ -4191,9 +4091,7 @@ Validators must ensure that no contract, neither the Spell Executive contract (D
 To perform this validation, the validator must:
 
 - Locate and copy the contract creation transaction on Etherscan. The contract creation transaction can be found under the "internal transactions" tab on Etherscan.
-
 - Use a transaction decoder, such as Tenderly or another blockchain analysis tool, to decode the transaction hash and identify the opcode used during deployment.
-
 - Ensure the opcode is `CREATE`. If `CREATE2` is used, the Spell fails validation.
 
 ###### A.1.9.2.4.12.3.1.7 - Spell Validators Must Check Deployed Spell Optimization Settings [Core]  <!-- UUID: 7f3112c8-ed90-4dfc-b29a-eae1d3492a11 -->
@@ -4202,9 +4100,7 @@ Validators must ensure that the code optimization settings used by the Spell con
 Validators should ensure the following:
 
 - The `Optimization Enabled` field on Etherscan is set to `No with 200 runs` unless explicitly required due to contract size constraints during deployment.
-
 - If optimization is enabled, the value of the `Optimization Enabled` must be `Yes with 200 runs` unless the optimization settings have been specified in the Instruction Document as a specific number of runs, which must be a multiple of 100 other than 0.
-
 - If the optimization settings are incorrect (e.g., `No with 13767 runs` or `Yes with 0 runs`), the Spell fails validation.
 
 To perform this validation, the validator must go to the contract tab on Etherscan and review the `Optimization Enabled` field under the contract’s metadata.
@@ -4222,11 +4118,8 @@ The Spell validator must perform a brief review of the Spell code. This includes
 Validators should look for any unusual behavior, such as:
 
 - Low-level assembly operations (e.g., `assembly` blocks).
-
 - The use of Solidity opcodes, such as `delegatecall`, `callcode`, or `selfdestruct`.
-
 - Suspicious-looking payments or transfers.
-
 - Any other malicious or unauthorized code. This includes cross-checking the Solidity code in `actions()` against the Executive Sheet and the Executive Document. Each action must be authorized per the Atlas.
 
 Spell validators must report any code they find that appears to be malicious or which likely forms part of an attempted attack. A Spell must not pass validation if the Spell validator is convinced that malicious code is present in a Spell or that its execution can lead to an attack on the Sky Protocol.
@@ -4242,7 +4135,6 @@ Validators are encouraged to perform the Spell validation checks outlined in the
 The correct license for the Spell contract is GNU AGPLv3. Validators should confirm that this license is used, which can be verified in one of two ways under the "Contract" tab on Etherscan:
 
 1. In the `Other Settings` field under the contract’s metadata. The license should be displayed as `GNU AGPLv3`.
-
 2. In the Spell Code in the commented line of code in the `DssSpell` contract. The line should contain: `SPDX-License-Identifier: AGPL-3.0-or-later`.
 
 While the Spell should use the correct license to pass validation, this is not considered a strict requirement.
@@ -4267,21 +4159,16 @@ The Spell validator should confirm that the smart contract developers referenced
 
 To perform this validation, the validator must first locate the Executive Hash, which can be found on the voting platform under "Spell Details" for the Executive Vote. Validators should be aware that the hash refers to an earlier commit of the Executive Document markdown, prior to the inclusion of the contract address. After validating the hash against this earlier commit, validators must conduct a diff check between the commit associated with the Executive Hash and the final version of the document to confirm that the only difference is the replacement of the Spell address placeholder.
 
-- The check can be performed in two ways:
+The check can be performed in two ways:
 
 1. Using an Online Tool:
-
-  ◦ Copy and paste the body of the Executive Document from GitHub into the online Keccak-256 hash generator tool ([https://emn178.github.io/online-tools/keccak_256.html](https://emn178.github.io/online-tools/keccak_256.html)).
-
-  ◦ Compare the generated hash with the hash included in the Spell.
-
- 2. Using `cast`
-
-  - Generate the hash directly from the raw GitHub URL at the specific commit:
-     - Run the following command to generate the hash: `cast keccak -- "$(wget $RAW_EXEC_URL -O -)"`
-     - Use the raw file URL at the specific commit.
-
-  - Compare the generated hash with the hash included in the Spell.
+    - Copy and paste the body of the Executive Document from GitHub into the online Keccak-256 hash generator tool ([https://emn178.github.io/online-tools/keccak_256.html](https://emn178.github.io/online-tools/keccak_256.html)).
+    - Compare the generated hash with the hash included in the Spell.
+2. Using `cast`
+    - Generate the hash directly from the raw GitHub URL at the specific commit:
+        - Run the following command to generate the hash: `cast keccak -- "$(wget $RAW_EXEC_URL -O -)"`
+        - Use the raw file URL at the specific commit.
+    - Compare the generated hash with the hash included in the Spell.
 
 ###### A.1.9.2.4.12.3.3.2 - Spell Validators Should Review Spell Constructor [Core]  <!-- UUID: b28afb60-f8cc-4529-9775-1a3a0e22efed -->
 
@@ -4290,10 +4177,8 @@ Validators should ensure that the Spell constructor is properly implemented. The
 Validators should follow these steps to review the constructor:
 
 - Navigate to the "Contract" tab on Etherscan and scroll to the bottom of the contract source code to locate the constructor declaration.
-
-    ◦ Verify that the Spell inherits from the `DssExec` contract, which serves as the base contract for all Sky Spells.
-
-    ◦ Verify that the constructor is properly implemented with the correct parameters. For example, the expiry time should be set to the correct duration (e.g., `30 days`).
+    - Verify that the Spell inherits from the `DssExec` contract, which serves as the base contract for all Sky Spells.
+    - Verify that the constructor is properly implemented with the correct parameters. For example, the expiry time should be set to the correct duration (e.g., `30 days`).
 
 ###### A.1.9.2.4.12.3.3.3 - Spell Validators Should Review Spell Actions [Core]  <!-- UUID: 97f4831e-1566-46e1-bbac-2a668e4b5ca7 -->
 
@@ -4312,9 +4197,7 @@ To perform this validation, the validator must go to the "Contract" tab on Ether
 Spell validators should ensure that all `DssExecLib` calls to the chainlog use the correct name descriptors.
 
 - Verify that all Chainlog references, such as name descriptors or keys, correspond to valid, existing entries in the Chainlog.
-
 - Confirm that the name descriptors match the expected values as recorded in the Chainlog.
-
 - The chainlog patch version is updated correctly (e.g., `x.y.z` → `x.y.z+1`).
 
 To perform this validation the validators must go to the "Contract" tab on Etherscan and review the source code. Look for `DssExecLib` calls in the code. Compare the name descriptors in the code with the expected values in the Chainlog.
@@ -4332,9 +4215,7 @@ Validators should ensure that the rates are defined as per-second accumulation v
 **Precision Units Overview**:
 
 - **WAD (10^18)**: Used for token amounts and balances.
-
 - **RAD (10^45)**: Used for debt values, ceilings, or large accumulations.
-
 - **RAY (10^27)**: Used for rates and multipliers.
 
 These units prevent floating-point issues in Solidity — always confirm they're applied correctly to avoid overflows or miscalculations. Group this with general constant validations (e.g., ensuring hardcoded values like fees or ceilings are computed accurately).
@@ -4358,13 +4239,9 @@ Validators should confirm that all `require` statements in the Spell's code ar
 Validators should assess whether any unusual or unexpected elements appear in the contract. It could be:
 
 - Hidden state changes: Look for retrieval functions (e.g., `get` or `view`) that include assignments (`=`), indicating state changes.
-
 - External Calls At The End: Check for external calls (e.g., `.call`, `.send`, `.transfer`) made after state changes, as this could indicate potential reentrancy attacks.
-
 - Force Ether, DAI or SKY Reception: Look for a `receive` function with no logic, which could forcibly receive assets.
-
 - Use of `tx.origin`: The tx.origin variable refers to the address that started the current transaction. If `tx.origin` is used instead of `msg.sender` in decision-making processes, it could lead to unintended authorization.
-
 - Function Naming Overlaps: A contract might have function names that are similar or overlap with common Solidity functions to mislead a reviewer. Check for misleading function names (e.g., `transfer`, `approve`, `mint`) with unexpected logic or assignments.
 
 To perform this validation the validator must go to the "Contract" tab on Etherscan and review the source code.
@@ -4374,9 +4251,7 @@ To perform this validation the validator must go to the "Contract" tab on Ethers
 Validators should check the following:
 
 - Ensure that all dependencies in the Spell repository (e.g., imported libraries like dss-exec-lib or git submodules) are current and up to date with the Spell. To perform this check the validator must browse or clone the GitHub repository (e.g., Spells-mainnet). Review Solidity files (e.g., in src/) for import statements, check the .gitmodules file for submodules, and run `git submodule status` to verify versions. Compare against source repositories for updates, then test with `make test` to confirm compatibility. The source repository can be identified in the Spell's source code, as the imported library or dependency is followed by "from", which points to the source path (e.g., `import {GemAbstract} from "dss-interfaces/ERC/GemAbstract.sol";` points to dss-interfaces.)
-
 - Verify that the test scripts themselves have not been tampered with or maliciously modified in the repository.
-
 - Confirm that the Spell repository branch matches the branch specified in the pull request or governance proposal.
 
 ###### A.1.9.2.4.12.3.3.12 - Spell Validators Should Verify The Contract ABI [Core]  <!-- UUID: fdcea934-c3fb-4735-acc3-3e320ad89b00 -->
@@ -4400,7 +4275,6 @@ The Spell validator is responsible for reporting the outcome of the validation p
 A Spell is classified as passing validation when:
 
 1. All validation checks are completed without identifying issues, or
-
 2. All reported issues have been resolved to the satisfaction of the Spell validator
 
 Validation of the Spell should ideally be public, though this is not mandatory.
@@ -4410,7 +4284,6 @@ Validation of the Spell should ideally be public, though this is not mandatory.
 A Spell is classified as failing validation when:
 
 1. One or more issues are identified during validation, or
-
 2. Reported issues remain unresolved to the satisfaction of the Spell validator.
 
 ###### A.1.9.2.4.12.4.3 - Reporting Issues Found During Validation [Core]  <!-- UUID: 6ea115ff-4554-4c3c-b3d5-a0407972de6a -->
@@ -4418,9 +4291,7 @@ A Spell is classified as failing validation when:
 Issues discovered during validation must be reported as follows:
 
 1. Mandatory Reporting: If the validation check is required, the issue must be reported immediately.
-
 2. Recommended Reporting: If the validation check is recommended, validators are strongly encouraged to report issues unless they are certain the issue is not malicious, a bug, or an attack on the Sky Protocol.
-
 3. Out-of-Scope Issues: Any issues found outside the scope of validation checks should also be reported as soon as it is found.
 
 In general, any issue that appears functional or potentially functional should be reported.
@@ -4468,11 +4339,8 @@ The chief-keeper monitors and interacts with DSChief and DSSSpells. When a Spell
 If the executive is approved and has been lifted to become the current hat in the DSChief, a future action to execute the Spell's actions is prepared by calling `schedule()` on the Spell contract. This action is permissionless, meaning any Ethereum address can trigger the execution without requiring special permissions. This process involves calling `plot` on `ds-pause` with four parameters related to the Spell action contract:
 
 - The address of the Spell action contract.
-
 - The `extcodehash` value of the Spell action contract.
-
 - Any `calldata` information required for the future execution of the Spell contract's actions using `execute()`.
-
 - The `eta`, which is the earliest time the Spell's actions can be executed. This must be scheduled at least the duration of the pause delay into the future.
 
 Once the Spell's actions are "plotted" in the Pause, the Spell is considered `scheduled`, and the countdown to the `eta` time begins. In the absence of Office Hours, this countdown is typically equal to the duration of the `GSM Pause Delay`. If Office Hours are set to "Yes" then the countdown will be equal to the `GSM Pause Delay` plus whatever time is needed to enter the Office Hours window.
@@ -4486,7 +4354,6 @@ Once the current time exceeds the `eta` value set during scheduling, the Spell c
 When the `cast` function in the DssSpell contract is called:
 
 - The Spell is marked as `cast`, preventing it from being executed again.
-
 - The `cast` function initiates the execution process by calling the `exec` function in the `ds-pause` contract.
 
 ###### A.1.9.2.4.13.4.2 - Execution Of Spell [Core]  <!-- UUID: 8ee36ed9-cae6-462b-a6b4-9aa5479fee18 -->
@@ -4494,56 +4361,51 @@ When the `cast` function in the DssSpell contract is called:
 Within the same transaction initiated by `cast()`, ds-pause proceeds as follows:
 
 1. Validation and Removal: The `exec` function in `ds-pause` validates the execution request and removes it from the list of scheduled executions.
-
 2. Delegate Call to Spell Action Contract: The `ds-pause` contract calls `exec` on the Pause Proxy contract, which performs a `delegatecall` to the Spell action contract address specified during scheduling.
-
 3. Execution of Spell Actions:
-    ◦ For regular Spells, the Pause Proxy calls the `execute()` function on the `DssSpellAction` contract.
-    ◦ The `execute()` function calls the `actions()` function, where the Spell’s actions are carried out.
-
+    - For regular Spells, the Pause Proxy calls the `execute()` function on the `DssSpellAction` contract.
+    - The `execute()` function calls the `actions()` function, where the Spell’s actions are carried out.
 4. Error Handling: If the transaction reverts at any point (e.g., due to an error in `actions()`), the Pause Proxy halts execution.
-
 5. Final Checks: If the transaction succeeds, the `exec` function in `ds-pause` performs a final ownership check to ensure the Pause Proxy is still owned by `ds-pause`.
-
 6. Completion: Once the final check passes, the execution of `cast()` is finalized, marking the end of the process.
 
-###### A.1.9.2.4.13.5 - Spell Crafter Initiates Retrospective And Conducts Any Needed Follow Ups [Core]  <!-- UUID: 300fc1fe-ffa7-4204-8e38-0b9069b75bb9 -->
+###### A.1.9.2.4.13.5 - Facilitator Updates Atlas To Reflect Spell Outcome [Core]  <!-- UUID: 193f43fc-f26f-4fa0-b3cf-f50c68177906 -->
+
+Following the successful execution of a Spell, the Atlas must be updated to accurately reflect the resulting changes. The Core Facilitator is responsible for ensuring that all relevant Sky Core Atlas documents are modified to incorporate the outcome of the Spell. For modifications pertaining to Agent Artifacts, the Operational Facilitator for the affected Agent is responsible for carrying out the required follow-up changes.
+
+The updates must be completed in a timely manner following Spell execution, and must not introduce changes beyond those necessitated by the Spell outcome.
+
+###### A.1.9.2.4.13.6 - Spell Crafter Initiates Retrospective And Conducts Any Needed Follow Ups [Core]  <!-- UUID: 300fc1fe-ffa7-4204-8e38-0b9069b75bb9 -->
 
 With the Pull Request merged, the Spell Crafter turns to initiating the retrospective and conducting any needed follow-up as specified herein.
 
-###### A.1.9.2.4.13.5.1 - Spell Crafter Initiates Retrospective [Core]  <!-- UUID: a5959563-d525-4431-b2e3-b1ebcaf88b99 -->
+###### A.1.9.2.4.13.6.1 - Spell Crafter Initiates Retrospective [Core]  <!-- UUID: a5959563-d525-4431-b2e3-b1ebcaf88b99 -->
 
 The Spell Crafter initiates a retrospective on the Spell in the existing Spell thread in the `#govops` Discord channel. The Spell Crafter prefaces the message with `initiating retro`. The Spell Crafter should include any problems identified during the Spell, including concrete improvement proposals. If there is nothing to discuss, the Spell Crafter should communicate that (e.g `Initiating retro: nothing to discuss from my side`).
 
-###### A.1.9.2.4.13.5.2 - Spell Crafter Conducts Any Needed Follow Up Regarding Megapoker [Core]  <!-- UUID: e3009714-a46c-43b9-8f90-d09bd2e816b6 -->
+###### A.1.9.2.4.13.6.2 - Spell Crafter Conducts Any Needed Follow Up Regarding Megapoker [Core]  <!-- UUID: e3009714-a46c-43b9-8f90-d09bd2e816b6 -->
 
 If any changes related to Megapoker were made in the Spell (e.g., oracles replaced, collaterals onboarded or offboarded), the Spell Crafter should inform the Ecosystem Actor responsible for maintaining Megapoker and ensure the contract is updated.
 
 The following steps are necessary to ensure the Megapoker contract is updated:
 
 - Coordinate with Ecosystem Actor responsible for maintaining Megapoker and TechOps
-
 - Previous code patterns are followed
-
 - Megapoker changes are reviewed and approved
-
 - CI and local tests pass
-
 - New Megapoker contract is deployed
-
 - New deployed Megapoker contract address is handed to TechOps
-
 - New deployed Megapoker contract address is updated in README
 
-###### A.1.9.2.4.13.5.3 - Spell Crafter Conducts Any Needed Follow Up Regarding New Collateral [Core]  <!-- UUID: 2d902745-59ae-4ea1-88bb-c5146ebd1750 -->
+###### A.1.9.2.4.13.6.3 - Spell Crafter Conducts Any Needed Follow Up Regarding New Collateral [Core]  <!-- UUID: 2d902745-59ae-4ea1-88bb-c5146ebd1750 -->
 
 If new collateral is onboarded, the Spell Crafter works with TechOps to ensure that there is Keeper support for the newly onboarded collateral.
 
-###### A.1.9.2.4.13.5.4 - Spell Crafter Conducts Any Needed Follow-Up Regarding Linear Interpolation Module [Core]  <!-- UUID: f1365a6d-3749-48ed-aed4-966c3aa0bd5b -->
+###### A.1.9.2.4.13.6.4 - Spell Crafter Conducts Any Needed Follow-Up Regarding Linear Interpolation Module [Core]  <!-- UUID: f1365a6d-3749-48ed-aed4-966c3aa0bd5b -->
 
 If a Linear Interpolation Module was added, the Spell Crafter ensures keeper support to call the `tall` function on a daily basis.
 
-###### A.1.9.2.4.13.5.5 - Spell Crafter Conducts Specific Checks As Needed For High-Stakes Spells [Core]  <!-- UUID: 0ad20a0f-2e23-4c24-b68d-55af08c32657 -->
+###### A.1.9.2.4.13.6.5 - Spell Crafter Conducts Specific Checks As Needed For High-Stakes Spells [Core]  <!-- UUID: 0ad20a0f-2e23-4c24-b68d-55af08c32657 -->
 
 For critical or high-stakes Spells, the Spell Crafter conducts specific checks as required in the particular context of the Spell.
 
@@ -4564,9 +4426,7 @@ Once an Executive Vote is live on the Voting Portal, it enters the Ecosystem Spe
 Executive Votes operate under a Continuous Approval Voting mechanism. Voters can support multiple proposals by allocating their SKY vote-weight to each, with the goal of helping a favored proposal surpass the current "hat"—the proposal with the most approval in the DSChief contract. Voters can apply their full SKY vote-weight to up to 5 different proposals simultaneously (as defined by the `max_yays` limit in the contract), rather than splitting their tokens between them. If SKY token holders disagree with a new proposal, they can redirect their SKY vote-weight to the inactive proposal with the highest vote-weight (often the last successfully passed proposal) to maintain the status quo or support an alternative. An active proposal can become the hat if it accumulates more votes than any other, including the current hat, at which point it is "lifted" to become the new hat. This lifting process marks the active proposal, and it may now be scheduled and later executed, provided it meets other conditions like the GSM Pause Delay. There are three key aspects to Continuous Approval Voting:
 
 - Victory threshold set by the hat: The vote-weight on the current hat proposal establishes the "victory threshold" that new proposals must exceed to become eligible for execution. This ensures only the most supported changes advance.
-
 - Dynamic vote-weight movement: Vote-weight can shift from the hat to a new proposal, simultaneously lowering the victory threshold for the hat while boosting the new proposal’s chances. This fluidity allows for real-time community consensus shifts.
-
 - Securing the hat: Vote-weight is encouraged to remain on the hat proposal even after it’s lifted, acting as a security measure against "rogue" or less-supported proposals that might attempt to overtake it with minimal backing.
 
 ##### A.1.9.2.5.4 - Voting Outcome [Core]  <!-- UUID: 9c5cae66-1317-43e9-bd85-041a9d8b5623 -->
@@ -4579,7 +4439,7 @@ This subdocuments herein define critical processes and requirements concerning t
 
 #### A.1.9.3.1 - Pause Delay [Core]  <!-- UUID: 3c9545d9-775f-4149-88bf-7d297b5302c6 -->
 
-The GSM (Governance Security Module) Pause Delay parameter sets the minimum amount of time after an Executive Vote has passed before changes will come into effect in the Sky Protocol. 
+The GSM (Governance Security Module) Pause Delay parameter sets the minimum amount of time after an Executive Vote has passed before changes will come into effect in the Sky Protocol.
 
 Once an Executive Vote passes, the GSM Pause Delay must pass before the changes within that Executive Vote can affect the Sky Protocol. The Sky Protocol only has one GSM Pause Delay, and all parameter changes are subject to it. The GSM Pause Delay is usually expressed in terms of hours.
 
@@ -4620,7 +4480,6 @@ The oracle cannot be unfrozen without waiting for the GSM Pause Delay as part of
 The risk opened up by this exceptional functionality is that the oracles may be frozen by an attacker in order to either:
 
 - Prevent an expensive liquidation.
-
 - Take advantage of a significant drop in collateral prices to mint unbacked USDS.
 
 ##### A.1.9.3.2.3 - Debt Ceiling Breaker Exception [Core]  <!-- UUID: cd57f7e4-6acd-431e-97fd-89c3453c8eba -->
@@ -4634,37 +4493,21 @@ The whitelist may be configured via a successful governance proposal, but must w
 ###### A.1.9.3.2.3.1 - Debt Ceiling Breaker Exception Whitelist [Core]  <!-- UUID: 4937205a-5be0-4def-9b7f-00f9f3bff421 -->
 
 - PSM (USDC) - PSM-USDC-A
-
 - PSM (PAX) - PSM-PAX-A
-
 - PSM (GUSD) - PSM-GUSD-A
-
 - ETH-A
-
 - ETH-B
-
 - ETH-C
-
 - WSTETH-A
-
 - WSTETH-B
-
 - WBTC-A
-
 - WBTC-B
-
 - WBTC-C
-
 - ALLOCATOR-SPARK-A
-
 - ALLOCATOR-BLOOM-A
-
 - ALLOCATOR-NOVA-A
-
 - ALLOCATOR-OBEX-A
-
 - LSE-MKR-A
-
 - LSEV2-SKY-A
 
 ##### A.1.9.3.2.4 - Liquidations Circuit Breaker Exception [Core]  <!-- UUID: 54b41b8f-8104-47b9-a115-14a4a9716cf7 -->
@@ -4672,11 +4515,8 @@ The whitelist may be configured via a successful governance proposal, but must w
 The CLIPPER_MOM contract manages the circuit breaker for vault types using Liquidations 2.0. The circuit breaker functionality allows a successful governance proposal to impose Sky Governance’s choice of limitations on liquidations for any or all of the vault types in the Sky Protocol.
 
 - Level 0 - Liquidations Enabled - The breaker is not tripped, new vaults can be liquidated and old liquidations can proceed.
-
 - Level 1 - New Liquidations Disabled - No new liquidations can take place.
-
 - Level 2 - New Liquidations and Resets Disabled - No new liquidations can take place. No existing auctions can be reset if they expire.
-
 - Level 3 - All Liquidations Disabled - No new liquidations, no resets, no bidding in active auctions.
 
 This functionality is exceptional because liquidations at non-market prices have the potential to be irreversibly damaging to both users and the Sky Protocol. The circuit breaker allows Sky Governance to attempt to limit the damage in the event of an issue affecting liquidations without waiting for the GSM Pause Delay.
@@ -4688,7 +4528,6 @@ When Level (0, 1, 2, 3) of liquidations circuit breaker is altered via Executive
 The risk opened up by this exceptional functionality is that liquidations may be halted by an attacker in order to either:
 
 - Prevent an expensive liquidation.
-
 - Take advantage of a significant drop in collateral prices to mint unbacked USDS.
 
 ###### A.1.9.3.2.4.1 - Liquidations Circuit Breaker Exception Price Tolerance [Core]  <!-- UUID: a228410a-353b-45dc-8f26-aae54ad8bf44 -->
@@ -4751,7 +4590,7 @@ Any operator that fails to follow the defined procedures for a BEAM they are ope
 
 ###### A.1.9.3.2.10.2 - Stability Parameter Bounded External Access Module Exception [Core]  <!-- UUID: 12bb55dc-8f44-4f7a-a7f8-bf197a278784 -->
 
-The Stability Parameter Bounded External Access Module (SP-BEAM) MCD_SPBEAM contract manages the rates applied to Sky Protocol’s native vaults as well as the savings rates. Whitelisted operators can use the SP-BEAM to modify rates without waiting for the GSM Pause Delay. The SP-BEAM modifies rates up or down within specified parameters. See [A.3.7.1.3 - Stability Parameter Bounded External Access Module](47b8b035-8abd-42e6-86b8-33f852fa953a). 
+The Stability Parameter Bounded External Access Module (SP-BEAM) MCD_SPBEAM contract manages the rates applied to Sky Protocol’s native vaults as well as the savings rates. Whitelisted operators can use the SP-BEAM to modify rates without waiting for the GSM Pause Delay. The SP-BEAM modifies rates up or down within specified parameters. See [A.3.7.1.3 - Stability Parameter Bounded External Access Module](47b8b035-8abd-42e6-86b8-33f852fa953a).
 
 This functionality allows the Sky Protocol to react to changes in market rates more quickly than waiting for an Executive Vote and the GSM Pause Delay.
 
@@ -4759,7 +4598,7 @@ The risk opened up by this functionality is malicious action by whitelisted oper
 
 ###### A.1.9.3.2.10.3 - stUSDS Bounded External Access Module Exception [Core]  <!-- UUID: 5ce20b57-b8bb-4a67-b5b6-a28b707e2cb2 -->
 
-The stUSDS Bounded External Access Module (stUSDS BEAM) manages the parameters of the stUSDS system. Whitelisted operators can use the stUSDS BEAM to modify certain stUSDS parameters without waiting for the GSM Pause Delay. The stUSDS BEAM modifies stUSDS parameters within specified ranges. See [A.4.4.1.3.8 - stUSDS Bounded External Access Module](37f8f82e-7239-4cfb-8f95-d2cc40515cd9). 
+The stUSDS Bounded External Access Module (stUSDS BEAM) manages the parameters of the stUSDS system. Whitelisted operators can use the stUSDS BEAM to modify certain stUSDS parameters without waiting for the GSM Pause Delay. The stUSDS BEAM modifies stUSDS parameters within specified ranges. See [A.4.4.1.3.8 - stUSDS Bounded External Access Module](37f8f82e-7239-4cfb-8f95-d2cc40515cd9).
 
 This functionality allows the Sky Protocol to update stUSDS parameters more quickly than waiting for an Executive Vote and the GSM Pause Delay.
 
@@ -4788,14 +4627,14 @@ The `lerp` must be activated in an Executive Vote but can thereafter change the 
 ###### A.1.9.3.2.13.1.1 - Linear Interpolation Module Parameters [Core]  <!-- UUID: ac2fb8ab-4137-4243-8f75-1817f8529a70 -->
 
 Each `lerp` instance has the following parameters:
-    
-◦ `target` - The target contract in which a parameter is being changed    
-◦ `what` - The name of the parameter being changed    
-◦ `startTime` - The starting time of this `lerp` instance    
-◦ `start` - The starting value of that parameter    
-◦ `end` - The ending value of that parameter    
-◦ `duration` - How long this `lerp` instance will run for    
-◦ `done` - Indicates whether this given `lerp` instance is completed or not
+
+- `target` - The target contract in which a parameter is being changed
+- `what` - The name of the parameter being changed
+- `startTime` - The starting time of this `lerp` instance
+- `start` - The starting value of that parameter
+- `end` - The ending value of that parameter
+- `duration` - How long this `lerp` instance will run for
+- `done` - Indicates whether this given `lerp` instance is completed or not
 
 ###### A.1.9.3.2.13.1.2 - Linear Interpolation Module Factory [Core]  <!-- UUID: 59fecdcf-6d2b-4a2d-96bf-af1729fc2bf9 -->
 
@@ -4883,11 +4722,9 @@ The Core Council must ensure that use of the multisig is generally aligned and s
 
 The Core Facilitator and Core GovOps can change the signers of the Ethereum LayerZero Freezer Multisig so long as:
 
-    ◦ there are four (4) signers;
-
-    ◦ two (2) signers are required to execute transactions; and
-
-    ◦ an equal number of signers are controlled by the Core Facilitator and Core GovOps.
+- there are four (4) signers;
+- two (2) signers are required to execute transactions; and
+- an equal number of signers are controlled by the Core Facilitator and Core GovOps.
 
 ###### A.1.9.4.1.3.1.2 - Solana LayerZero Freezer Multisig [Core]  <!-- UUID: 8e618196-257a-49d8-834d-665dba345fcd -->
 
@@ -4975,7 +4812,7 @@ The subdocuments below outline the governance security procedures specifically i
 
 ##### A.1.9.4.2.1 - Multisig Freeze Of SparkLend [Core]  <!-- UUID: df709091-a82b-4bd6-ab05-42c56a49d326 -->
 
-In addition to the SparkLend Freezer Mom contract defined in [A.1.9.3.2.7 - SparkLend Freezer Mom Exception](645443f1-9004-48d3-868c-139b608bb1f9), an external SparkLend Security Access Multisig has been established that allows for pausing and/or freezing SparkLend markets. The SparkLend Security Access Multisig can enable or disable the SparkLend Freezer Mom contract without the need for inclusion in a spell through the standard Executive Vote process. 
+In addition to the SparkLend Freezer Mom contract defined in [A.1.9.3.2.7 - SparkLend Freezer Mom Exception](645443f1-9004-48d3-868c-139b608bb1f9), an external SparkLend Security Access Multisig has been established that allows for pausing and/or freezing SparkLend markets. The SparkLend Security Access Multisig can enable or disable the SparkLend Freezer Mom contract without the need for inclusion in a spell through the standard Executive Vote process.
 
 Each action executed by the multisig, including any function calls and their parameters, must be reported to the Sky community within a reasonable time frame through a post on the Sky Forum. Such actions include activating or disabling the pause or freeze function.
 
@@ -4985,7 +4822,7 @@ The SparkLend Security Access Multisig can only be used in urgent or emergency s
 
 The multisig should be used to prevent technical vulnerabilities; prevent unwanted functionality of the smart contracts or corresponding parts of the system (e.g., price oracles); or prevent unwanted usage of the smart contracts or corresponding parts of the system which deviates from intended behavior.
 
-The Multisig can also be used in cases where a vulnerability or exploit is discovered in other protocols using the same codebase as SparkLend, and a timely action can prevent or mitigate the damage. 
+The Multisig can also be used in cases where a vulnerability or exploit is discovered in other protocols using the same codebase as SparkLend, and a timely action can prevent or mitigate the damage.
 
 The Governance Facilitators must ensure that use of the multisig is generally aligned and specifically accords with the requirements defined herein.
 
@@ -5005,11 +4842,11 @@ The SparkLend Security Access Multisig currently has a 3/5 signing requirement.
 
 The SparkLend Security Access Multisig currently has the following signers:
 
-◦ VoteWizard
-◦ LDR
-◦ Hexonaut
-◦ MonetSupply
-◦ LucasManuel
+- VoteWizard
+- LDR
+- Hexonaut
+- MonetSupply
+- LucasManuel
 
 ###### A.1.9.4.2.1.4 - SparkLend Multisig Signer Modifications [Core]  <!-- UUID: d8e0d76b-dd1f-4f3e-9a8b-7724ce4fc880 -->
 
@@ -5134,9 +4971,7 @@ The role of the Support Facilitators in the Standby Spell process is as follows:
 The decision to initiate the process to use a Standby Spell is reserved for the Support Facilitators; where possible, the Support Facilitators should consult with the responsible Facilitator of the impacted Scope(s) and, if relevant, the Core Council Risk Advisor. See [A.1.8.1.4 - Facilitators’ Roles And Responsibilities](c9c32f24-cf6c-43d5-ac4c-bd2b4d02032b).
 
 - The Support Facilitators must explicitly communicate the decision to use a Standby Spell in the secure, private communication channel specified in [A.1.8.1.3.1 - Emergency Response Signal Group](45a7ccff-09fa-4d95-b3d8-e3f34f7917cf) or on a "war room" video call.
-
 - After the decision to use a Standby Spell is first reached on a video call, the Support Facilitators are required thereafter to promptly document their decision in the secure, private communication channel specified in [A.1.8.1.3.1 - Emergency Response Signal Group](45a7ccff-09fa-4d95-b3d8-e3f34f7917cf).
-
 - After the Support Facilitators decide to use a Standby Spell, TechOps Services must promptly trigger an incident to the Emergency Response Group as specified in [A.1.8.1.5.3 - Emergency-Contact Mechanism Trigger](34a3d273-ce49-4147-adf3-6d52b4a2fad5).
 
 ###### A.1.9.5.2.3.2 - Governance Facilitators’ Role In Standby Spells [Core]  <!-- UUID: 832b2591-8512-4e87-a355-b87ded894e07 -->
@@ -5158,12 +4993,14 @@ Pursuant to [A.1.9.5.2.3.3 - ADs’ Role In Standby Spells](53cea69b-45cc-4f9c
 This document defines the term "Authorized Representative" as used in [A.1.9.5.2.3.2.1 - Requirement To Validate Authenticity Of Standby Spell](82393e1d-1021-4f48-ac4e-a98d2328f2e7).
 
 The entities listed below are authorized to validate the authenticity of a Standby Spell on behalf of the specified Governance Facilitators:
+
 - JanSky on behalf of Governance Facilitator team JanSky
 - VoteWizard on behalf of Governance Facilitator team Endgame Edge
 - LDR on behalf of Governance Facilitator team JanSky
 - CivicSage on behalf of Governance Facilitator team Endgame Edge
 
 The Authorized Representatives listed are synonymous with the Sky Forum account holders with the following handles:
+
 - JanSky
 - votewizard
 - ldr
@@ -5177,11 +5014,9 @@ The Governance Facilitators may use the Custom Spell Voting Page when it is bene
 
 ADs are strictly prohibited from voting to use a Standby Spell unless they have first confirmed all of the following requirements:
 
-- Receipt of the Support Facilitator’s official notification of the emergency scenario in the Emergency Contact Mechanism specified in [A.1.8.1.5.3 - Emergency-Contact Mechanism Trigger](34a3d273-ce49-4147-adf3-6d52b4a2fad5)**.
-
-**- Receipt of the Support Facilitators’ announcement of the decision to use a Standby Spell in the communication channel specified in [A.1.8.1.3.1 - Emergency Response Signal Group](45a7ccff-09fa-4d95-b3d8-e3f34f7917cf); and_
-
-_- All Governance Facilitators have validated the authenticity of the Standby Spell. This validation must fulfill two requirements: (1) the validation must be in the form of a written communication in the secure channel specified in [A.1.8.1.3.1 - Emergency Response Signal Group](45a7ccff-09fa-4d95-b3d8-e3f34f7917cf); and (2) the validation must be provided by the authorized entities listed in [A.1.9.5.2.3.2.1.1 - Current Entities Authorized To Validate Authenticity of Standby Spell](4cf98145-079f-44e0-9a2b-1d7b16037f4a).
+- Receipt of the Support Facilitator’s official notification of the emergency scenario in the Emergency Contact Mechanism specified in [A.1.8.1.5.3 - Emergency-Contact Mechanism Trigger](34a3d273-ce49-4147-adf3-6d52b4a2fad5).
+- Receipt of the Support Facilitators’ announcement of the decision to use a Standby Spell in the communication channel specified in [A.1.8.1.3.1 - Emergency Response Signal Group](45a7ccff-09fa-4d95-b3d8-e3f34f7917cf); and
+- All Governance Facilitators have validated the authenticity of the Standby Spell. This validation must fulfill two requirements: (1) the validation must be in the form of a written communication in the secure channel specified in [A.1.8.1.3.1 - Emergency Response Signal Group](45a7ccff-09fa-4d95-b3d8-e3f34f7917cf); and (2) the validation must be provided by the authorized entities listed in [A.1.9.5.2.3.2.1.1 - Current Entities Authorized To Validate Authenticity of Standby Spell](4cf98145-079f-44e0-9a2b-1d7b16037f4a).
 
 After ADs have confirmed all requirements are met, they must either (1) promptly vote to approve the Standby Spell, or (2) communicate any concerns to the Governance Facilitators and collaborate with the latter for a speedy resolution.
 
@@ -5296,13 +5131,9 @@ The subdocuments herein define the governance process for using Protego.
 The role of the Support Facilitators in the usage of Protego is as follows:
 
 - Protego can only be used in response to a properly validated and categorized emergency scenario, for which the Support Facilitators are responsible. See [A.1.8.1.5.1 - Incident Validation](97020aa2-9492-4fa4-8eee-d860d6f33618) and [A.1.8.1.5.2 - Incident Categorization](f3a647b2-8083-41f1-b67a-66bd322ccc16).
-
 - The decision to initiate the process to use Protego is reserved for the Support Facilitators; where possible, the Support Facilitators should consult with the responsible Facilitator of the impacted Scope(s) and, if relevant, the Core Council Risk Advisor. See [A.1.8.1.4 - Facilitators’ Roles And Responsibilities](c9c32f24-cf6c-43d5-ac4c-bd2b4d02032b).
-
 - The Support Facilitators must explicitly communicate the decision to use Protego in the secure, private communication channel specified in [A.1.8.1.3.1 - Emergency Response Signal Group](45a7ccff-09fa-4d95-b3d8-e3f34f7917cf) or on a "war room" video call.
-
 - If the decision to use Protego is first reached on a video call, the Support Facilitators are required thereafter to promptly document their decision in the secure, private communication channel specified in [A.1.8.1.3.1 - Emergency Response Signal Group](45a7ccff-09fa-4d95-b3d8-e3f34f7917cf).
-
 - If the Support Facilitators decide to use Protego, TechOps Services must promptly trigger an incident to the Emergency Response Group as specified in [A.1.8.1.5.3 - Emergency-Contact Mechanism Trigger](34a3d273-ce49-4147-adf3-6d52b4a2fad5).
 
 ###### A.1.9.5.3.2.2 - Governance Facilitators’ Role In Protego Usage [Core]  <!-- UUID: 62d53156-9b53-447b-9655-cef35a74defd -->
@@ -5324,12 +5155,14 @@ Pursuant to [A.1.9.5.3.2.3 - ADs’ Role In Protego Usage](0cec9b17-ef83-4d25-9b
 This document defines the term "Authorized Representative" as used in [A.1.9.5.3.2.2.1 - Requirement To Validate Authenticity Of Emergency Drop Spell](44b9503d-bc11-427e-8deb-47feed07eba2).
 
 The entities listed below are authorized to validate the authenticity of an Emergency Drop Spell on behalf of the specified Governance Facilitators:
+
 - JanSky on behalf of Governance Facilitator team JanSky
 - VoteWizard on behalf of Governance Facilitator team Endgame Edge
 - LDR on behalf of Governance Facilitator team JanSky
 - CivicSage on behalf of Governance Facilitator team Endgame Edge
 
 The Authorized Representatives listed are synonymous with the Sky Forum account holders with the following handles:
+
 - JanSky
 - votewizard
 - ldr
@@ -5344,9 +5177,7 @@ The Governance Facilitators may use the Custom Spell Voting Page when it is bene
 ADs are strictly prohibited from voting to use an Emergency Drop Spell, or to give authority to the Protego contract, unless they have first confirmed all of the following requirements:
 
 - Receipt of the Support Facilitator’s official notification of the emergency scenario in the Emergency Contact Mechanism specified in [A.1.8.1.5.3 - Emergency-Contact Mechanism Trigger](34a3d273-ce49-4147-adf3-6d52b4a2fad5);
-
 - Receipt of the Support Facilitators’ announcement of the decision to use Protego or an Emergency Drop Spell in the communication channel specified in [A.1.8.1.3.1 - Emergency Response Signal Group](45a7ccff-09fa-4d95-b3d8-e3f34f7917cf); and
-
 - All Governance Facilitators have validated the authenticity of the Emergency Drop Spell, if applicable. This validation must fulfill two requirements: (1) the validation must be in the form of a written communication in the secure channel specified in [A.1.8.1.3.1 - Emergency Response Signal Group](45a7ccff-09fa-4d95-b3d8-e3f34f7917cf); and (2) the validation must be provided by the authorized entities listed in [A.1.9.5.3.2.2.1.1 - Current Entities Authorized To Validate Authenticity of Emergency Drop Spell](a15e7cd9-ea93-48ac-b53a-afc476ca2d05).
 
 After ADs have confirmed all requirements are met, they must either (1) promptly vote to approve the usage of Protego or the Emergency Drop Spell, or (2) communicate any concerns to the Governance Facilitators and collaborate with the latter for a speedy resolution.
@@ -5389,21 +5220,17 @@ A Weekly Poll ("Governance Poll" or "Poll") is a non-binding poll that determi
 
 Governance Polls occur on-chain and are used to measure the sentiment of SKY voters. Polls often run concurrently, allowing voters to participate in any number of them at the same time. Polls may have different formats like Binary Voting, Instant Run-Off Voting, or Approval Voting depending on the topic. The voting period of a given Governance Poll varies; the most common are three (3) and fourteen (14) day periods. Concurrently-posted polls do not necessarily have the same voting periods.
 
-##### A.1.10.1.2.2 - Definition Of Non-Standard Weekly Poll [Core]  <!-- UUID: 5dafd6fc-525a-4adf-bbc1-62ba5018e11f -->
-
-A Non-Standard Weekly Poll is a non-binding weekly poll that has arbitrary time-sensitive decisions that SKY holders have to make in a relatively short period of time. The use of Non-Standard Weekly Polls is exclusive to Facilitators and is limited to situations where the Weekly Governance Cycle is determined to operate too slowly to be usable.
-
-##### A.1.10.1.2.3 - Definition Of Executive Vote [Core]  <!-- UUID: 8bde129a-49a5-4f68-a82f-9995b86a1aa3 -->
+##### A.1.10.1.2.2 - Definition Of Executive Vote [Core]  <!-- UUID: 8bde129a-49a5-4f68-a82f-9995b86a1aa3 -->
 
 An Executive Vote (also "Executive") is a formalized governance proposal that requires on-chain voting. Through the Executive Vote mechanism, SKY holders steward Sky Governance by voting on Executive proposals that pertain to operations maintaining the Protocol. Executive Votes execute technical changes to the Sky Protocol.
 
 The Executive Vote occurs approximately every two weeks. Its contents are often determined by weekly Governance Polls that pre-approve the inclusion of proposals in the Executive Vote. However, the Atlas can explicitly authorize proposals to go directly to an Executive Vote.
 
-Note that the terms ‘Executive’ and ‘spell’ are distinct concepts. 
+Note that the terms ‘Executive’ and ‘spell’ are distinct concepts.
 
-The term ‘Executive’ or ‘Executive Vote’ is used in all instances where the formal governance vote is being referenced. The term ‘Executive Process’ refers to the end-to-end process of the development of an Executive Vote, in which Facilitators, spell teams (also referred to collectively as the "Governance Security Engineering Team") and other recognized Ecosystem Actors participate. 
+The term ‘Executive’ or ‘Executive Vote’ is used in all instances where the formal governance vote is being referenced. The term ‘Executive Process’ refers to the end-to-end process of the development of an Executive Vote, in which Facilitators, spell teams (also referred to collectively as the "Governance Security Engineering Team") and other recognized Ecosystem Actors participate.
 
-The term ‘spell’ refers to the smart contract that executes the changes to the protocol approved by Sky Governance in an Executive Vote. Generally, when referring to spell team operations and their technical outcome or product (including code base, code operations, code reviews and code quality), the term ‘spell’ will be used. 
+The term ‘spell’ refers to the smart contract that executes the changes to the protocol approved by Sky Governance in an Executive Vote. Generally, when referring to spell team operations and their technical outcome or product (including code base, code operations, code reviews and code quality), the term ‘spell’ will be used.
 
 The term ‘spell process’ refers to the end-to-end process of developing a spell, a process in which the Core Facilitator and the current spell team participate. The term ‘spell development process’ is a subset of the ‘spell process’ and pertains solely to the technical development of the spell by the current spell team.
 
@@ -5471,35 +5298,25 @@ If there are no substantive changes due to be made to the Sky Protocol, the Core
 
 The element "spell teams" indicates that the entire spell roster can participate in the decision described in the Target Document. The spell roster is defined as all spell team members authorized to perform spell crafting and spell reviewing services for Sky Core.
 
-#### A.1.10.1.5 - Use Of Non-standard Weekly Poll [Core]  <!-- UUID: 4519de07-123d-4259-ae70-c825be8653dd -->
-
-If a non-standard weekly poll ("Signal Request") has been proposed, it will also be put in the weekly poll.
-
-To create a non-standard weekly poll requires an urgent and apparent reason from a timing perspective to justify it. It is important to note that a non-standard weekly poll cannot be used for long-term decisions and requires consensus from the Core Facilitator before it can be accepted and published.
-
-#### A.1.10.1.6 - Core Facilitators’ Authority To Create Proposals [Core]  <!-- UUID: 2ef63f36-5550-420a-96ee-a99c09451afb -->
+#### A.1.10.1.5 - Core Facilitators’ Authority To Create Proposals [Core]  <!-- UUID: 2ef63f36-5550-420a-96ee-a99c09451afb -->
 
 The Core Facilitator may create proposals using the Weekly Governance Cycle to enable them to fulfill their responsibilities.
 
-##### A.1.10.1.6.1 - Core Facilitators' Role in Adding Housekeeping Items In Executive Votes [Core]  <!-- UUID: 0d0e2e1a-0502-4ee3-bc9d-8bd8ddde19ec -->
+##### A.1.10.1.5.1 - Core Facilitators' Role In Adding Housekeeping Items In Executive Votes [Core]  <!-- UUID: 0d0e2e1a-0502-4ee3-bc9d-8bd8ddde19ec -->
 
-The Core Facilitator is authorized to add housekeeping items in an Executive Vote pursuant to the procedure defined in [A.1.10.1.6.1.2 - Process for Adding Housekeeping Item In Executive Vote](2d165c27-5daf-4a84-af8c-7c36f5de03d2). The Core Facilitator can propose housekeeping items of their own accord; or, they can do so in consultation with the spell teams. 
+The Core Facilitator is authorized to add housekeeping items in an Executive Vote pursuant to the procedure defined in [A.1.10.1.5.1.2 - Process for Adding Housekeeping Item In Executive Vote](2d165c27-5daf-4a84-af8c-7c36f5de03d2). The Core Facilitator can propose housekeeping items of their own accord; or, they can do so in consultation with the spell teams.
 
-Where housekeeping items are proposed by the spell teams, the Core Facilitator must always conduct an independent assessment of the justification for, and security risks associated with, the housekeeping items. After the proposed housekeeping items have passed this independent assessment, the Core Facilitator may propose adding these items in an Executive Vote pursuant to the procedure defined in [A.1.10.1.6.1.2 - Process for Adding Housekeeping Item In Executive Vote](2d165c27-5daf-4a84-af8c-7c36f5de03d2).
+Where housekeeping items are proposed by the spell teams, the Core Facilitator must always conduct an independent assessment of the justification for, and security risks associated with, the housekeeping items. After the proposed housekeeping items have passed this independent assessment, the Core Facilitator may propose adding these items in an Executive Vote pursuant to the procedure defined in [A.1.10.1.5.1.2 - Process for Adding Housekeeping Item In Executive Vote](2d165c27-5daf-4a84-af8c-7c36f5de03d2).
 
-###### A.1.10.1.6.1.1 - Definition Of Housekeeping Items [Core]  <!-- UUID: 7648bf12-d600-4e0d-807b-5eb18e8d0f4f -->
+###### A.1.10.1.5.1.1 - Definition Of Housekeeping Items [Core]  <!-- UUID: 7648bf12-d600-4e0d-807b-5eb18e8d0f4f -->
 
-Housekeeping items are defined as maintenance and record-keeping actions necessary to the correct functionality of the Sky Protocol. Housekeeping items do not include actions that modify risk parameters or introduce new elements into the protocol. 
+Housekeeping items are defined as maintenance and record-keeping actions necessary to the correct functionality of the Sky Protocol. Housekeeping items do not include actions that modify risk parameters or introduce new elements into the protocol.
 
 Examples of housekeeping items include, but are not limited to, (1) cleaning up technical debt, (2) updating the Chainlog, and (3) cancelling payment streams that are no longer used.
 
-###### A.1.10.1.6.1.2 - Process for Adding Housekeeping Item In Executive Vote [Core]  <!-- UUID: 2d165c27-5daf-4a84-af8c-7c36f5de03d2 -->
+###### A.1.10.1.5.1.2 - Process for Adding Housekeeping Item In Executive Vote [Core]  <!-- UUID: 2d165c27-5daf-4a84-af8c-7c36f5de03d2 -->
 
 Housekeeping items can be directly included in Executive Votes without a Governance Poll through the following process. The Core Facilitator must first create a post on the Sky Forum detailing the housekeeping items and the rationale for their inclusion. The Core Facilitator must request a confirmation of the technical accuracy of the housekeeping items from the technical Ecosystem Actor (or spell team) who is leading spell development for the pertinent Executive Vote. The Technical Ecosystem Actor (spell team) must reply to the Forum Post confirming the accuracy of the housekeeping item.
-
-#### A.1.10.1.7 - Signal Requests [Core]  <!-- UUID: 1e4765f6-4889-4fd0-b02b-8c424c584914 -->
-
-Signal Requests are only permitted when they are specifically triggered and required by the Atlas. In all other circumstances, they are prohibited.
 
 #### A.1.10.1.0.3.1 - Operational Weekly Cycle - Element Annotation [Annotation]  <!-- UUID: fa682e4f-eb5a-4af2-920d-3c1da51987d8 -->
 
@@ -5515,7 +5332,7 @@ The subdocuments herein provide a breakdown of the Atlas Edit Weekly Cycle.
 
 ##### A.1.10.2.1.1 - Proposals In General [Core]  <!-- UUID: 6c52610b-b9f0-49a3-8014-d1f51543dcdf -->
 
-In the transition to Endgame, the Atlas can be edited through the submission of an Atlas Edit Weekly Cycle Proposal (also "Weekly Cycle Proposal" or "Proposal"). Multiple amendments to multiple components of the Atlas are allowed to be submitted in a single Weekly Cycle Proposal. A single Weekly Cycle Proposal may seek to remove multiple components of the Atlas. 
+In the transition to Endgame, the Atlas can be edited through the submission of an Atlas Edit Weekly Cycle Proposal (also "Weekly Cycle Proposal" or "Proposal"). Multiple amendments to multiple components of the Atlas are allowed to be submitted in a single Weekly Cycle Proposal. A single Weekly Cycle Proposal may seek to remove multiple components of the Atlas.
 
 Atlas Edits must always adhere to the Spirit of the Atlas and remain within the bounds of Universal Alignment.
 
@@ -5625,7 +5442,7 @@ Due to the multitude of cultural and religious holidays occurring in and around 
 
 ### A.1.11.2 - Atlas Edit Monthly Cycle [Section]  <!-- UUID: d2cbddd2-58ef-4311-a71d-d2c340364cb5 -->
 
-This Section defines the Atlas Edit Monthly Cycle, which provides a predictable framework for monthly edits to the Atlas. The Atlas Edit Monthly Cycle is implemented via the Atlas Edit Proposal (AEP) framework. 
+This Section defines the Atlas Edit Monthly Cycle, which provides a predictable framework for monthly edits to the Atlas. The Atlas Edit Monthly Cycle is implemented via the Atlas Edit Proposal (AEP) framework.
 
 In the transition to Endgame, the Atlas can be edited through the submission of an AEP. Multiple amendments to multiple components of the Atlas are allowed to be submitted in a single AEP. A single AEP may seek to remove multiple components of the Atlas.
 
@@ -5655,23 +5472,21 @@ If the Monthly Cycle Proposal is voted down, the triggering Ranked Delegate lose
 
 After the Atlas Edit Proposal is triggered, the Core Facilitator must verify that the Atlas Edit Proposal follows the template specified in [A.1.11.2.3 - Atlas Edit Proposal Template](3af371ae-cc75-47c8-bd51-9446d68afea7).
 
-The Core Facilitator must also verify that the AEP has been submitted to the Atlas Github repository with a Pull Request by the AEP Author. Alternatively, the AEP author can request the Core Facilitator to create the Pull Request for them. 
+The Core Facilitator must also verify that the AEP has been submitted to the Atlas Github repository with a Pull Request by the AEP Author. Alternatively, the AEP author can request the Core Facilitator to create the Pull Request for them.
 
 If the AEP is successfully verified, the Core Facilitator must
 
-◦ Approve the AEP and assign it a formal #
-
-◦ Update the Preamble to the AEP
-
-◦ Merge the Pull Request
+- Approve the AEP and assign it a formal #
+- Update the Preamble to the AEP
+- Merge the Pull Request
 
 ##### A.1.11.2.1.4 - Request for Comments [Core]  <!-- UUID: 45ced7a3-f362-43c8-a053-d4360d94260a -->
 
-After the Atlas Edit Proposal is verified, a period of reviewing by the community and attendant redrafting begins. The minimum duration of this period is determined by the Feedback Period and the Frozen Period. 
+After the Atlas Edit Proposal is verified, a period of reviewing by the community and attendant redrafting begins. The minimum duration of this period is determined by the Feedback Period and the Frozen Period.
 
-The Feedback Period is the minimum amount of time within which the community can give feedback in response to an Atlas Edit Proposal before it can advance to Formal Submission. 
+The Feedback Period is the minimum amount of time within which the community can give feedback in response to an Atlas Edit Proposal before it can advance to Formal Submission.
 
-The Frozen Period is the minimum amount of time during which an Atlas Edit Proposal must remain unchanged before it can advance to Formal Submission. 
+The Frozen Period is the minimum amount of time during which an Atlas Edit Proposal must remain unchanged before it can advance to Formal Submission.
 
 These periods can overlap.
 
@@ -5689,9 +5504,9 @@ The Core Facilitator is required to review all Atlas Edit Proposals (AEPs) submi
 
 ###### A.1.11.2.1.7.1 - Procedure For Blocking AEP For Misalignment [Core]  <!-- UUID: 51dc4c3b-94cf-4fbc-bff2-648250a1f1ce -->
 
-An Atlas Edit Proposal can be blocked by the Core Facilitator for misalignment. Unanimity among the Core Facilitators is not required to block an AEP for misalignment. 
+An Atlas Edit Proposal can be blocked by the Core Facilitator for misalignment. Unanimity among the Core Facilitators is not required to block an AEP for misalignment.
 
-Where an AEP has been blocked for misalignment, the Core Facilitator must update the AEP status as "Rejected-Misaligned". 
+Where an AEP has been blocked for misalignment, the Core Facilitator must update the AEP status as "Rejected-Misaligned".
 
 Each Core Facilitator should issue a written advisory opinion containing their findings/reasoning either supporting or rejecting the blocking of the AEP.
 
@@ -5723,11 +5538,9 @@ The requirements for an Atlas Edit Proposal are defined in the subdocuments here
 
 Atlas Edit Proposals have the following parameters:
 
-◦ Default Feedback Period: one (1) week
-
-◦ Frozen Period: one (1) week
-
-◦ Governance Cycle: Monthly
+- Default Feedback Period: one (1) week
+- Frozen Period: one (1) week
+- Governance Cycle: Monthly
 
 ##### A.1.11.2.2.2 - Frozen Period Requirement [Core]  <!-- UUID: b9da67b6-4cc2-4bd9-b6ec-900cd855fa64 -->
 
@@ -5763,7 +5576,7 @@ Edit Pull Request
 
 An Atlas Edit Proposal can be assigned several different statuses: RFC, Formal Submission, Rejected-Misaligned, Accepted, Rejected, and Obsolete.
 
-RFC (Request For Comments): 
+RFC (Request For Comments):
 An AEP is in the Request For Comments Period.
 
 Formal Submission:
@@ -5773,18 +5586,16 @@ Rejected - Misaligned:
 An AEP has been blocked by the Core Facilitator from entering the Monthly Cycle due to misalignment.
 
 Accepted:
-An AEP has been voted on and is officially accepted.  
+An AEP has been voted on and is officially accepted.
 
 Rejected:
-An AEP has been voted on and is not officially accepted. 
+An AEP has been voted on and is not officially accepted.
 
 Obsolete:
 An AEP is assigned the status Obsolete when:
 
-◦ an AEP has been superseded or deprecated
-
+- an AEP has been superseded or deprecated
 - an AEP has been deferred for over six (6) months
-
 - an AEP Author has abandoned the proposal and no person has communicated willingness to take over the responsibility of a AEP Author.
 
 #### A.1.11.2.5 - Process Definition [Core]  <!-- UUID: 8eea2827-4d10-4893-92d3-9083be7e9267 -->
@@ -5794,8 +5605,9 @@ The first Monday of each calendar month marks the beginning of the Monthly Gover
 Time is inclusive and based on UTC (Coordinated Universal Time) and the Gregorian Calendar.
 
 **First Wednesday after the first Monday of the month:**
-◦ The Authors of Atlas Edit Proposals must formally submit their AEP before this Day.
-◦ The Formal Submission must be done through a message on the Author’s Forum thread that contains the AEP.
+
+- The Authors of Atlas Edit Proposals must formally submit their AEP before this Day.
+- The Formal Submission must be done through a message on the Author’s Forum thread that contains the AEP.
 
 **Week 1, Friday**
 After reviewing the AEPs, the Core Facilitator must decide whether each submitted AEP warrants moving forward to a Ratification Poll.
@@ -5813,9 +5625,7 @@ The Ratification Polls conclude, and each proposal or set of proposals is marked
 Ratification Polls under the Atlas Edit Monthly Governance Cycle must meet these requirements:
 
 - Duration: two (2) Weeks.
-
 - Minimum Positive Participation: 240,000,000 SKY.
-
 - Type: Binary Poll (yes/no/abstain).
 
 Ratification Polls under the Atlas Edit Monthly Governance Cycle must contain:
@@ -5825,7 +5635,6 @@ Ratification Polls under the Atlas Edit Monthly Governance Cycle must contain:
 In order for a Ratification Poll to conclude successfully and the contained proposal(s) moved to Accepted status, triggering an edit of the Atlas, each of the following conditions must be true:
 
 - Yes vote-weight must exceed No vote-weight when the poll closes.
-
 - Yes vote-weight must exceed the Minimum Positive Participation value of 240,000,000 SKY when the poll closes.
 
 ##### A.1.11.2.6.1 - Revision of Minimum Positive Participation [Core]  <!-- UUID: 535570e7-8548-451f-87f0-edb699373978 -->
@@ -5876,13 +5685,12 @@ This Section defines the processes by which Active Data documents are updated.
 
 Active Data documents must be maintained and frequently updated as part of the Sky Ecosystem’s routine operational tasks. See [A.1.2.2.2.17 - The Active Data Type](925ce2e3-c3a9-4774-a96c-cf77e024d37c).
 
-Therefore, Active Data documents can be directly modified outside of the standard Weekly Governance Cycle and Monthly Governance Cycle. 
+Therefore, Active Data documents can be directly modified outside of the standard Weekly Governance Cycle and Monthly Governance Cycle.
 
-Each Active Data document has an Active Data Controller document associated with it, which latter defines two elements: 
+Each Active Data document has an Active Data Controller document associated with it, which latter defines two elements:
 
-1) the "Responsible Party", or the entity who is obligated to update the Active Data, and
-
-2) the "Update Process", or the authorized process by which the Active Data is updated.
+1. the "Responsible Party", or the entity who is obligated to update the Active Data, and
+2. the "Update Process", or the authorized process by which the Active Data is updated.
 
 #### A.1.12.1.2 - Responsible Party [Core]  <!-- UUID: af17e4fd-3c1c-49b1-acc1-95811ddbe5ef -->
 
@@ -5895,11 +5703,8 @@ Since the Responsible Party element is defined in an Active Data Controller Docu
 Active Data Controller Documents are Primary Documents that have Active Data Documents attached to them as Supporting Documents. Edits to Active Data Controller Documents are subject to a SKY vote pursuant to the standard governance processes. These processes include:
 
 - Atlas Edit Weekly Cycle
-
 - Atlas Edit Monthly Cycle
-
-- Facilitators’ Bootstrapping Poll
-
+- Bootstrapping Governance Poll
 - Operational Weekly Cycle
 
 #### A.1.12.1.3 - Update Process [Core]  <!-- UUID: 9cc660e9-4ce5-4358-9195-5b4b82eb769d -->
@@ -5928,7 +5733,7 @@ The Target Document grants Facilitators the authority to directly edit an Active
 
 ##### A.1.12.1.3.2 - Alignment Conserver Changes [Core]  <!-- UUID: cfbfb3a9-4e2f-4494-bac8-af298b608b06 -->
 
-Active Data with the "Alignment Conserver Changes" Update Process pertains to the Core Facilitators’ maintenance of the Atlas’ official listing of some subset of Alignment Conservers. 
+Active Data with the "Alignment Conserver Changes" Update Process pertains to the Core Facilitators’ maintenance of the Atlas’ official listing of some subset of Alignment Conservers.
 
 The triggers of such updates can include, but are not limited to, recognizing a new Alignment Conserver; offboarding an Alignment Conserver at the request of that Alignment Conserver; adding an Alignment Conserver to the list of ACs who have received a formal warning; or derecognizing an Alignment Conserver for misalignment.
 
@@ -5939,11 +5744,8 @@ The Core Facilitator can modify the pertinent Active Data documents to reflect s
 Active Data Controller Documents are Primary Documents that have Active Data Documents attached to them as Supporting Documents. Edits to Active Data Controller Documents are subject to a SKY vote pursuant to the standard governance processes. These processes include:
 
 - Atlas Edit Weekly Cycle
-
 - Atlas Edit Monthly Cycle
-
-- Facilitators’ Bootstrapping Poll
-
+- Bootstrapping Governance Poll
 - Operational Weekly Cycle
 
 ## A.1.13 - Relationship Between Sky Core And Agents [Article]  <!-- UUID: d607a8e3-17e1-4aab-9e74-11af39767cc7 -->
@@ -6379,7 +6181,7 @@ This element means that Core GovOps have been informed in accordance with the pr
 
 #### A.2.1.1.3 - Designation Of Governance Process Support Ecosystem Actors [Core]  <!-- UUID: d537c3df-287c-45a5-aa69-2b4242b2259f -->
 
-Core GovOps can designate Ecosystem Actors (including individuals, companies or Forum or Chat pseudonyms) as Governance Process Support Ecosystem Actors. This designation can include granting them moderation rights and other forms of administration rights on the relevant communication channels. 
+Core GovOps can designate Ecosystem Actors (including individuals, companies or Forum or Chat pseudonyms) as Governance Process Support Ecosystem Actors. This designation can include granting them moderation rights and other forms of administration rights on the relevant communication channels.
 
 Governance Process Support Ecosystem Actors can assist with governance processes including verifying Atlas Edit Proposals (AEPs), preparing and merging Pull Requests, updating the status of AEPs, preparing Polls, editing the Atlas, etc.
 
@@ -6431,7 +6233,7 @@ In the short term, "Founder Access" will not be operational. Instead, if a Prime
 
 ###### A.2.2.1.1.3.3 - Founder Invokes Agent Creation Primitive [Core]  <!-- UUID: d0b283e9-dac1-49c6-8dd7-b061c7a87335 -->
 
-To proceed to the next stage, the Founder must Invoke the Agent Creation Primitive. From the Agent’s perspective, invoking, or calling, a Primitive always involves submitting required inputs into the respective Primitive itself. Here, the  Agent Founder must input the name of the Agent and an introduction providing a brief overview of the Agent’s vision or business model into the Agent Creation Primitive.
+To proceed to the next stage, the Founder must Invoke the Agent Creation Primitive. From the Agent’s perspective, invoking, or calling, a Primitive always involves submitting required inputs into the respective Primitive itself. Here, the Agent Founder must input the name of the Agent and an introduction providing a brief overview of the Agent’s vision or business model into the Agent Creation Primitive.
 
 ##### A.2.2.1.1.4 - Core GovOps Validates Agent Creation Primitive Inputs [Core]  <!-- UUID: 93d6147b-8760-431e-b38c-4a7afcb27e5f -->
 
@@ -6525,7 +6327,7 @@ After the Root Edit Primitive is Invoked, changing the Global Activation Status 
 
 ###### A.2.2.1.2.4.2 - Global Primitive Deactivation [Core]  <!-- UUID: d0fb8761-2fcb-4d81-b498-38cd44f47fb0 -->
 
-Generally, a Prime Agent may freely deactivate a Primitive’s Global Status pursuant to the governance process defined in its Root Edit Primitive. However, there are exceptions to this rule given the special functionality of certain Primitives. See [A.2.2.1.2.4.2.1 - Prohibition On Deactivating Certain Primitives](3ce3a1ae-9300-4159-9676-261d0404360f). 
+Generally, a Prime Agent may freely deactivate a Primitive’s Global Status pursuant to the governance process defined in its Root Edit Primitive. However, there are exceptions to this rule given the special functionality of certain Primitives. See [A.2.2.1.2.4.2.1 - Prohibition On Deactivating Certain Primitives](3ce3a1ae-9300-4159-9676-261d0404360f).
 
 If a Primitive’s Global Status is deactivated, _all_ existing instances of that Primitive immediately become `Suspended`. While the Primitive remains Globally Inactive, the Agent is barred from creating new instances or reactivating existing instances of that Primitive.
 
@@ -6618,36 +6420,30 @@ The documents herein list the current Sky Primitives and set forth the process f
 The current Sky Primitives are:
 
 - Genesis Primitives
-   ◦ Agent Creation Primitive
-   ◦ Prime Transformation Primitive
-   ◦ Executor Transformation Primitive
-   ◦ Agent Token Primitive
-
+    - Agent Creation Primitive
+    - Prime Transformation Primitive
+    - Executor Transformation Primitive
+    - Agent Token Primitive
 - Operational Primitives
-   ◦ Executor Accord Primitive
-   ◦ Root Edit Primitive
-   ◦ Light Agent Primitive
-
+    - Executor Accord Primitive
+    - Root Edit Primitive
+    - Light Agent Primitive
 - Ecosystem Upkeep Primitives
-   ◦ Distribution Requirement Primitive
-   ◦ Market Cap Fee Primitive
-   ◦ Upkeep Rebate Primitive
-
+    - Distribution Requirement Primitive
+    - Market Cap Fee Primitive
+    - Upkeep Rebate Primitive
 - SkyLink Primitives
-   ◦ Token SkyLink Primitive
-
+    - Token SkyLink Primitive
 - Demand Side Stablecoin Primitives
-   ◦ Distribution Reward Primitive
-   ◦ Integration Boost Primitive
-   ◦ Pioneer Chain Primitive
-
+    - Distribution Reward Primitive
+    - Integration Boost Primitive
+    - Pioneer Chain Primitive
 - Supply Side Stablecoin Primitives
-   ◦ Allocation System Primitive
-   ◦ Junior Risk Capital Rental Primitive
-   ◦ Asset Liability Management Rental Primitive
-
+    - Allocation System Primitive
+    - Junior Risk Capital Rental Primitive
+    - Asset Liability Management Rental Primitive
 - Core Governance Primitives
-   ◦ Core Governance Reward Primitive
+    - Core Governance Reward Primitive
 
 ##### A.2.2.1.5.2 - Amendments To Primitives [Core]  <!-- UUID: 1a46fd49-7b37-4a14-a311-eb1dbe947d85 -->
 
@@ -6699,7 +6495,7 @@ This field specifies the Agent Artifact Documents and their associated fields th
 
 ##### A.2.2.2.3.1 - Sequential Stages [Core]  <!-- UUID: e9422783-6196-4117-9099-b5ec0c338c05 -->
 
-Some Processes require Primitive Inputs that are organized into multiple sequential stages (also called "Input stages"). Each Input stage must be completed before progressing to the next, ensuring that all dependencies and validations are met in order. Once an Input stage is completed, the subsequent Input stage is initiated automatically, continuing in this manner until all stages have been finished. 
+Some Processes require Primitive Inputs that are organized into multiple sequential stages (also called "Input stages"). Each Input stage must be completed before progressing to the next, ensuring that all dependencies and validations are met in order. Once an Input stage is completed, the subsequent Input stage is initiated automatically, continuing in this manner until all stages have been finished.
 
 Upon completing the final Primitive Input stage, the Process Definition transitions to the `Required Outputs` schema component; this component defines the necessary updates to Sky Core Atlas or Agent Artifact Documents.
 
@@ -6727,11 +6523,8 @@ Some processes do not need formal "Required Outputs" because the only process fl
 
 Where a Process Definition has more than one set of Required Outputs, and each set corresponds to (or is "triggered by") either a specific Input stage or a specific Mutually Exclusive Input Pathway, the Process Definition’s `Required Primitive Input` field must define which `Required Output` set is Invoked upon completion of that stage or pathway.
 
-1. **For Sequential Stages**
-When multiple sequential stages exist, each stage’s successful completion triggers its corresponding Required Output set. As subsequent stages are completed in turn, each triggers its own distinct Required Outputs, ensuring that all designated outputs eventually execute in sequence.
-
-2. **For Mutually Exclusive Pathways**
-If the Required Primitive Input process instead (or additionally) involves mutually exclusive paths, once a pathway is chosen—either manually or automatically by a specified condition—only the Required Output set tied to that pathway is applied. Outputs associated with the unselected/unexecuted pathways remain inactive.
+1. **For Sequential Stages**: When multiple sequential stages exist, each stage’s successful completion triggers its corresponding Required Output set. As subsequent stages are completed in turn, each triggers its own distinct Required Outputs, ensuring that all designated outputs eventually execute in sequence.
+2. **For Mutually Exclusive Pathways**: If the Required Primitive Input process instead (or additionally) involves mutually exclusive paths, once a pathway is chosen—either manually or automatically by a specified condition—only the Required Output set tied to that pathway is applied. Outputs associated with the unselected/unexecuted pathways remain inactive.
 
 ##### A.2.2.2.4.2 - Agent Artifact Document Specification [Core]  <!-- UUID: 3b3e537c-4989-4674-94bc-05928146ab42 -->
 
@@ -6763,7 +6556,7 @@ Core GovOps creates a Proto-Agent with no specific functionality in the ecosyste
 
 ##### A.2.2.3.2.2 - Scaffold Artifact Setup [Core]  <!-- UUID: f55fdc70-dfe4-4c52-9be4-10bf3a6dc990 -->
 
-Core GovOps prepares a Scaffold Agent Artifact  ("Scaffold Artifact") containing all Sky Primitives. In the Scaffold Artifact, the Upkeep Rebate Primitive is globally activated by default. See [A.2.2.1.2.2 - Initial Primitive Global Activation Status](377150b3-d64b-4436-ab6d-758b05d82f26). All other Primitives are initially set to `Inactive`. The Scaffold Artifact also includes an initial set of Omni Documents that provide general information about the Agent and organize the various Sky Primitive Instance Configuration Documents. Core GovOps must add the Scaffold Artifact to the Atlas’ Agent Artifact Scope.
+Core GovOps prepares a Scaffold Agent Artifact ("Scaffold Artifact") containing all Sky Primitives. In the Scaffold Artifact, the Upkeep Rebate Primitive is globally activated by default. See [A.2.2.1.2.2 - Initial Primitive Global Activation Status](377150b3-d64b-4436-ab6d-758b05d82f26). All other Primitives are initially set to `Inactive`. The Scaffold Artifact also includes an initial set of Omni Documents that provide general information about the Agent and organize the various Sky Primitive Instance Configuration Documents. Core GovOps must add the Scaffold Artifact to the Atlas’ Agent Artifact Scope.
 
 ##### A.2.2.3.2.3 - Address Deploying Capital [Core]  <!-- UUID: 39d1cae8-a070-47a2-b69b-96e0f4f6a080 -->
 
@@ -6823,7 +6616,7 @@ The Agent Creation Primitive must specify the SubProxy address of the Agent. Thi
 
 ###### A.2.2.4.1.2.4 - Agent Genesis Account [Core]  <!-- UUID: 761966db-e9db-41f8-a9fe-cf8b0c1a7d26 -->
 
-The Agent Creation Primitive must designate the Genesis Account.  This field is populated by Core GovOps. The Genesis account initially controls 100% of the tokens of the Agent. The Genesis Account is initially controlled by the Agent Founder.
+The Agent Creation Primitive must designate the Genesis Account. This field is populated by Core GovOps. The Genesis account initially controls 100% of the tokens of the Agent. The Genesis Account is initially controlled by the Agent Founder.
 
 #### A.2.2.4.2 - Prime Transformation Primitive [Core]  <!-- UUID: 81411106-fd6d-4f9c-b3ae-7af7b5e62482 -->
 
@@ -6843,7 +6636,7 @@ The Proto-Agent must use the Powerhouse interface to input their desired Agent T
 
 ###### A.2.2.4.2.1.1.2 - Validation [Core]  <!-- UUID: 43598845-989e-44fc-8cb4-c60b67fd1f28 -->
 
-Core GovOps validates the Proto-Agent’s inputs, namely, the Agent Type.  Additionally, Core GovOps performs a further review to confirm that all the documents created by the Founder using Founder Access are well-specified, that the documents are Aligned, and that all necessary Primitives have been Activated. The necessary Primitives are the Agent Creation, Prime/Executor Transformation, Agent Token, Executor Accord, and Root Edit Primitives. In addition, at least one of the Distribution Requirement or the Market Cap Fee Primitives must be Activated. (See [A.2.2.1.1.3.1 - Founder Required Primitive Activation](1a48e833-d960-4bdf-8f67-0f9d9307e00d).)
+Core GovOps validates the Proto-Agent’s inputs, namely, the Agent Type. Additionally, Core GovOps performs a further review to confirm that all the documents created by the Founder using Founder Access are well-specified, that the documents are Aligned, and that all necessary Primitives have been Activated. The necessary Primitives are the Agent Creation, Prime/Executor Transformation, Agent Token, Executor Accord, and Root Edit Primitives. In addition, at least one of the Distribution Requirement or the Market Cap Fee Primitives must be Activated. (See [A.2.2.1.1.3.1 - Founder Required Primitive Activation](1a48e833-d960-4bdf-8f67-0f9d9307e00d).)
 
 ###### A.2.2.4.2.1.1.3 - Official Update Of Artifact [Core]  <!-- UUID: 2182141b-a2bc-46bc-b9a6-2cb62e55b302 -->
 
@@ -6859,7 +6652,7 @@ Because the Prime Transformation Primitive is deployed solely to effect the one-
 
 ##### A.2.2.4.2.2 - Prime Transformation Primitive Input Requirements [Core]  <!-- UUID: 062b9275-9778-4f24-b0e5-bccf9129c179 -->
 
-The documents herein define the required inputs for a valid Invocation of the Prime Transformation Primitive.  If any input is noncompliant or omitted, the Primitive will be invalidated.
+The documents herein define the required inputs for a valid Invocation of the Prime Transformation Primitive. If any input is noncompliant or omitted, the Primitive will be invalidated.
 
 ###### A.2.2.4.2.2.1 - Global Activation Status [Core]  <!-- UUID: cd67fe26-d82d-4859-be8d-36f1a9c42a65 -->
 
@@ -7124,12 +6917,12 @@ Upon receiving the draft from the Prime Agent, Core GovOps drafts a formal Atlas
 ###### A.2.2.5.2.3.2.2.1 - Potential Delays In Submission [Core]  <!-- UUID: 4b37392d-9c0f-4572-8293-e7c6b3fc3743 -->
 
 Core GovOps may in their discretion delay submitting a proposed edit based on factors including, but not limited to:
-    
-◦ the size of the proposed edit;    
-◦ any ambiguities in the proposed edit;    
-◦ broader issues raised by the proposed edit requiring other changes or consultation with other stakeholders;    
-◦ delays by the Prime Agent in responding to questions or requests to review drafts by Core GovOps; and    
-◦ the overall workload of Core GovOps.
+
+- the size of the proposed edit;
+- any ambiguities in the proposed edit;
+- broader issues raised by the proposed edit requiring other changes or consultation with other stakeholders;
+- delays by the Prime Agent in responding to questions or requests to review drafts by Core GovOps; and
+- the overall workload of Core GovOps.
 
 ###### A.2.2.5.2.3.2.3 - Atlas Edit Weekly Cycle Proposal Is Approved Or Rejected [Core]  <!-- UUID: afeaa98f-b8f5-48d9-adb2-8ceed287667d -->
 
@@ -7149,7 +6942,7 @@ Ecosystem Upkeep Primitives ensure that all Agents contribute to long-term ecosy
 
 #### A.2.2.6.1 - Distribution Requirement Primitive [Core]  <!-- UUID: 0804ab13-d276-4ad9-a935-dc9f7fc2e350 -->
 
-The Distribution Requirement Primitive requires Agents to periodically buy and distribute 0.25% of their token supply per year. The annual requirement of 0.25% of the token supply is divided into twelve (12) equal monthly distributions. Distributions must occur on the first day of each month, with tokens purchased by the Prime Agent on the open market and transferred to an address designated by Sky Core in [A.2.2.6.1.1 - Sky Core-Designated Address](3b05c60a-4f95-4dd8-bfaf-409a9f39ee9f). 
+The Distribution Requirement Primitive requires Agents to periodically buy and distribute 0.25% of their token supply per year. The annual requirement of 0.25% of the token supply is divided into twelve (12) equal monthly distributions. Distributions must occur on the first day of each month, with tokens purchased by the Prime Agent on the open market and transferred to an address designated by Sky Core in [A.2.2.6.1.1 - Sky Core-Designated Address](3b05c60a-4f95-4dd8-bfaf-409a9f39ee9f).
 
 Prime Agents choose between fulfilling either the Distribution Requirement Primitive or the Market Cap Fee Primitive.
 
@@ -7163,7 +6956,7 @@ The value of the distributed tokens is calculated as the number of tokens distri
 
 #### A.2.2.6.2 - Market Cap Fee Primitive [Core]  <!-- UUID: a21616f4-1611-4e0b-87b2-efbdff9f6f28 -->
 
-The Market Cap Fee Primitive requires Prime Agents to pay an annual fee equivalent to 0.30% of their market capitalization to Sky, accounted for monthly. The annual fee of 0.30% of the market capitalization is divided into twelve (12) equal monthly payments, equating to 0.025% of the market capitalization per month. Payments must occur on the first day of each month, with the fee transferred to an address designated by Sky Core in [A.2.2.6.2.1 - Sky Core-Designated Address](2a5f0e38-e51a-4a68-a4b8-1a912b8bb12e). 
+The Market Cap Fee Primitive requires Prime Agents to pay an annual fee equivalent to 0.30% of their market capitalization to Sky, accounted for monthly. The annual fee of 0.30% of the market capitalization is divided into twelve (12) equal monthly payments, equating to 0.025% of the market capitalization per month. Payments must occur on the first day of each month, with the fee transferred to an address designated by Sky Core in [A.2.2.6.2.1 - Sky Core-Designated Address](2a5f0e38-e51a-4a68-a4b8-1a912b8bb12e).
 
 Prime Agents choose between fulfilling either the Distribution Requirement Primitive or the Market Cap Fee Primitive.
 
@@ -7181,8 +6974,8 @@ The Upkeep Rebate Primitive allows a Prime Agent ("Holding Agent") to claim a re
 
 Ecosystem Upkeep Fees are accounted on a monthly basis. The Upkeep Rebate is calculated on the same cadence per Holding Agent as follows:
 
-(1) The Holding Agent’s share of the Issuing Agent’s token supply at the time the Issuing Agent pays its Ecosystem Upkeep Fees, multiplied by
-(2) The total monthly Ecosystem Upkeep Fees paid by the Issuing Agent. For a Prime Agent deploying the Distribution Requirement Primitive, the value of its total monthly Ecosystem Upkeep Fee is calculated pursuant to [A.2.2.6.1.2 - Calculation of Distributed Tokens](ef26607b-9635-4d42-a2cf-6c755f53883a). For a Prime Agent deploying the Market Cap Fee Primitive, the value of its total monthly Ecosystem Upkeep Fee is calculated pursuant to  [A.2.2.6.2.2 - Valuation](4b856873-8c6a-449a-8ca6-487d8fed9029).
+1. The Holding Agent’s share of the Issuing Agent’s token supply at the time the Issuing Agent pays its Ecosystem Upkeep Fees, multiplied by
+2. The total monthly Ecosystem Upkeep Fees paid by the Issuing Agent. For a Prime Agent deploying the Distribution Requirement Primitive, the value of its total monthly Ecosystem Upkeep Fee is calculated pursuant to [A.2.2.6.1.2 - Calculation of Distributed Tokens](ef26607b-9635-4d42-a2cf-6c755f53883a). For a Prime Agent deploying the Market Cap Fee Primitive, the value of its total monthly Ecosystem Upkeep Fee is calculated pursuant to [A.2.2.6.2.2 - Valuation](4b856873-8c6a-449a-8ca6-487d8fed9029).
 
 This resulting rebate amount is applied against the Holding Agent’s Ecosystem Upkeep Fees due in the calendar month immediately following the Issuing Agent’s payment.
 
@@ -7341,6 +7134,7 @@ In the near term, applications are made directly to Ecosystem Actor Viridian Adv
 The list of Integrator Program applicants is defined as Active Data in [A.2.2.8.1.2.1.1.2.1.1.0.6.1 - List Of Integrator Applications](30db9618-ddf2-4df7-ad81-3f8f3395ff62).
 
 The Active Data is updated as follows:
+
 - The Responsible Party is Viridian Advisors.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
@@ -7438,11 +7232,11 @@ The Distribution Reward is calculated and distributed on a monthly basis.
 
 ###### A.2.2.8.1.2.1.4.2 - Reward Payment [Core]  <!-- UUID: 38cb0bfe-3733-4a11-8b3a-6728df00d08e -->
 
-The Distribution Reward payment for each month is equal to 
+The Distribution Reward payment for each month is equal to:
 
-(1) the average balance over the month, times 
-(2) the annual Distribution Reward Fee specified in [A.2.2.8.1.2.1.3 - Distribution Reward Rate](57384c49-e499-4c69-b22c-8e1f1dd34759), divided by 
-(3) twelve (12).
+1. the average balance over the month, times
+2. the annual Distribution Reward Fee specified in [A.2.2.8.1.2.1.3 - Distribution Reward Rate](57384c49-e499-4c69-b22c-8e1f1dd34759), divided by
+3. twelve (12).
 
 ###### A.2.2.8.1.2.1.4.3 - Treasury Management [Core]  <!-- UUID: 935b90bb-a854-4c06-b6ea-48a1cf8fd2f1 -->
 
@@ -7469,6 +7263,7 @@ The documents herein specify current and onboarding Integrators.
 Current Integrators are Integrators who have a Reward Code specified in an `Active` Instance of the Distribution Reward Primitive. The list of Current Integrators is defined as Active Data in [A.2.2.8.1.2.1.5.1.0.6.1 - List Of Current Integrators](efbe7903-a76e-40f0-a440-56e463283157).
 
 The Active Data is updated as follows:
+
 - The Responsible Party is Operational GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
@@ -7478,9 +7273,10 @@ The current Active Integrators are:
 
 ###### A.2.2.8.1.2.1.5.2 - Onboarding Integrators [Active Data Controller]  <!-- UUID: 9a7f47ae-760f-44b5-9b5f-dd4fef86e1cc -->
 
-Onboarding Integrators are actors whose application to the Integrator Program has been approved, but are specified in an Instance of the Distribution Reward Primitive or Integration Boost Primitive that is "Pending", or is not `Active` yet. The list of Onboarding Integrators is defined as Active Data in [A.2.2.8.1.2.1.5.2.0.6.1 - List Of Onboarding Integrators](eb644108-94fc-430f-ae5a-e3294b9dd9be). 
+Onboarding Integrators are actors whose application to the Integrator Program has been approved, but are specified in an Instance of the Distribution Reward Primitive or Integration Boost Primitive that is "Pending", or is not `Active` yet. The list of Onboarding Integrators is defined as Active Data in [A.2.2.8.1.2.1.5.2.0.6.1 - List Of Onboarding Integrators](eb644108-94fc-430f-ae5a-e3294b9dd9be).
 
 The Active Data is updated as follows:
+
 - The Responsible Party is Operational GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
@@ -7495,8 +7291,9 @@ The documents herein specify the Distribution Reward reimbursement.
 ###### A.2.2.8.1.2.1.6.1 - Sky Core Distribution Reward Reimbursement [Active Data Controller]  <!-- UUID: 2c0eb02c-144e-4326-b5ec-85805653f0b7 -->
 
 The Distribution Reward reimbursement payments are defined as Active Data in [A.2.2.8.1.2.1.6.1.0.6.1 - Sky Core Distribution Reward Reimbursement Amounts](169eb312-ed63-4a83-9f5d-43b621c0705e).
- 
+
 The Active Data is updated as follows:
+
 - The Responsible Party is Core GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
@@ -7537,7 +7334,7 @@ The Prime Agent uses the Powerhouse interface to Globally Activate (toggle on) t
 The following inputs must be submitted into the Primitive using the Powerhouse interface:
 
 - **Create** `Primitive Hub Document`
-    ◦ Updated Field: Global Activation Status
+    - Updated Field: Global Activation Status
         - New Value: set to `Activated`
 
 ###### A.2.2.8.1.2.2.4 - Required Outputs [Core]  <!-- UUID: faf79404-fe20-406d-a0a2-f3ac9e8592ab -->
@@ -7585,28 +7382,20 @@ This process is dependent on a Prime Agent Globally Activating the Distribution 
 The process flow is defined herein.
 
 - The Prime Agent identifies an opportunity to drive USDS adoption through a Distribution Reward to either 1) reward an existing Integrator for driving USDS adoption or 2) incentivize a new actor to onboard as an Integrator to drive USDS adoption.
-
 - Existing Integrators
-
-    ◦ The Prime Agent and the third party, if applicable, develop a plan to track USDS utilization attributable to the actor using either on-chain or off-chain data.
-
+    - The Prime Agent and the third party, if applicable, develop a plan to track USDS utilization attributable to the actor using either on-chain or off-chain data.
 - Prospective Integrators
-
-    ◦ Near Term process:
-        - The Prospective Integrator must first apply to the Integrator program and be approved by Viridian Advisors per [A.2.2.8.1.2.1.1.2.1 - Near Term Process](7fe5dbb2-a07d-4ef9-94de-f54a2d568c57).  Post approval, Viridian Advisors issues a Reward Code to the Integrator.
+    - Near Term process:
+        - The Prospective Integrator must first apply to the Integrator program and be approved by Viridian Advisors per [A.2.2.8.1.2.1.1.2.1 - Near Term Process](7fe5dbb2-a07d-4ef9-94de-f54a2d568c57). Post approval, Viridian Advisors issues a Reward Code to the Integrator.
         - The Prime Agent and the third party develop a plan to track USDS utilization attributable to the actor using either on-chain or off-chain data.
-
-    ◦ Long Term process:
+    - Long Term process:
         - The Prospective Integrator must first apply to the Integrator program and be approved by Operational GovOps pursuant to [A.2.2.8.1.2.1.1.2.2 - Long Term Process](6283379c-d871-40a9-a915-d716d7df5642). Post approval, Operational GovOps issues a Reward Code to the Integrator.
         - The Prime Agent develops a plan to track USDS utilization attributable to it using either on-chain or off-chain data. Where applicable, the plan should include how the Prime Agent will support the prospective Integrator in including the Reward Code in their on-chain infrastructure.
-
 - The Prime Agent may also be (or choose to be) an Integrator itself and deploy a Reward Code on its frontend to earn the Distribution Reward.
-
-    ◦ Near Term process:
-        -** **If the Prime Agent is not already an approved Integrator, it must apply to the Program and be approved by Viridian Advisors. Post approval, Viridian Advisors issues a Reward Code to the Prime Agent.
+    - Near Term process:
+        - If the Prime Agent is not already an approved Integrator, it must apply to the Program and be approved by Viridian Advisors. Post approval, Viridian Advisors issues a Reward Code to the Prime Agent.
         - The Prime Agent develops a plan to track USDS utilization attributable to it using either on-chain or off-chain data.
-
-    ◦ Long Term process:
+    - Long Term process:
         - The Prime Agent must first apply to the Integrator program and be approved by Operational GovOps pursuant to [A.2.2.8.1.2.1.1.2.2 - Long Term Process](6283379c-d871-40a9-a915-d716d7df5642). Post approval, Operational GovOps issues a Reward Code to the Prime Agent.
         - The Prime Agent develops a plan to track USDS utilization attributable to it using either on-chain or off-chain data.
 
@@ -7615,28 +7404,27 @@ The process flow is defined herein.
 The required Primitive Inputs for this process are defined herein and organized in sequential stages.
 
 - Drafting of Initial Planning Document
-
-    ◦ Create `Initial Planning Document`
+    - Create `Initial Planning Document`
         - Updated fields
             - `Status`
-                ◦ New value: set to `Drafting`
+                - New value: set to `Drafting`
             - `Integrator`
-                ◦ New Value: set to Integrator Name
+                - New Value: set to Integrator Name
             - `Reward Code`
-                ◦ New Value: set to Reward Code
+                - New Value: set to Reward Code
             - `Tracking Methodology`
-                ◦ New value: populate with details for tracking utilization
+                - New value: populate with details for tracking utilization
             - `Custom Instance Parameters`
-                ◦ New Value: populate with details for any custom parameters
+                - New Value: populate with details for any custom parameters
         - Responsible Party: Prime Agent Team
-        - Trigger - Required Output: After Prime Agent's `Initial planning document` Status is set to `Drafting` 
+        - Trigger - Required Output: After Prime Agent's `Initial planning document` Status is set to `Drafting`
 - Initial Planning Document Triggered For GovOps review
-    ◦ Edit `Initial Planning Document`
+    - Edit `Initial Planning Document`
         - Updated fields
             - `Tracking Methodology`
-                ◦ New value: updated content, as applicable
+                - New value: updated content, as applicable
             - `Status`
-                ◦ New value: set to `Ready for GovOps Review`
+                - New value: set to `Ready for GovOps Review`
         - Responsible party: Prime Agent
         - Trigger - Required Output: After Prime Agent's `Initial planning document` Status is set to `Ready for GovOps review`.
 
@@ -7653,31 +7441,31 @@ The Sky Core Atlas is updated pursuant to the following requirements.
 [A.2.2.8.1.2.1.5.2.0.6.1 - List Of Onboarding Integrators](eb644108-94fc-430f-ae5a-e3294b9dd9be) is updated as follows:
 
 - Updated fields
-    ◦ `Onboarding Integrators/Integrator Name`
+    - `Onboarding Integrators/Integrator Name`
         - New value: set to the name of the Integrator
-    ◦ `Integrator Name/Reward Code`
+    - `Integrator Name/Reward Code`
         - New value: set to Reward Code
 - Responsible Party: Operational GovOps
 
 ###### A.2.2.8.1.2.3.1.4.2 - Agent Artifact Updates [Core]  <!-- UUID: 11161730-6568-445f-a250-ba5c67857390 -->
 
-The Agent Artifact is updated pursuant to the following requirements. Each Output "set" is triggered following the completion of its respective Input stage, defined in [A.2.2.8.1.2.3.1.3 - Required Primitive Inputs](4d5482ad-7944-4073-8fbe-b9dbcd1a27a3). 
+The Agent Artifact is updated pursuant to the following requirements. Each Output "set" is triggered following the completion of its respective Input stage, defined in [A.2.2.8.1.2.3.1.3 - Required Primitive Inputs](4d5482ad-7944-4073-8fbe-b9dbcd1a27a3).
 
 - After Prime Agent's `Initial planning document` Status is set to `Drafting`
-    ◦ Create `Instance Configuration` Document for prospective Primitive Instance. The Instance Configuration Document contains a `Data Repository.`
+    - Create `Instance Configuration` Document for prospective Primitive Instance. The Instance Configuration Document contains a `Data Repository.`
         - Instance Status: (automatically inherits from `Primitive Hub Document`)
-    ◦ Edit `Primitive Hub Document/In Progress Invocations Directory/Instance Name`
+    - Edit `Primitive Hub Document/In Progress Invocations Directory/Instance Name`
         - Updated fields:
             - Invocation Status:
-                ◦ New value: set to `Planning`
+                - New value: set to `Planning`
             - Instance Configuration Document Location
-                ◦ New value: link to `Instance Configuration Document` (created at Create `Instance Configuration` Document for prospective Primitive Instance. The Instance Configuration Document contains a `Data Repository.`)
-    ◦ Responsible party: Operational GovOps [automated]
+                - New value: link to `Instance Configuration Document` (created at Create `Instance Configuration` Document for prospective Primitive Instance. The Instance Configuration Document contains a `Data Repository.`)
+    - Responsible party: Operational GovOps [automated]
 - After Prime Agent's `Initial planning document` Status is set to `Ready for GovOps review`.
-    ◦ Edit `Primitive Hub Document/In Progress Invocations/Instance Name`
+    - Edit `Primitive Hub Document/In Progress Invocations/Instance Name`
         - Updated fields:
             - Invocation Status:
-                ◦ New value: set to `Pending GovOps review`
+                - New value: set to `Pending GovOps review`
         - Responsible party: Operational GovOps [automated]
         - Trigger - Process: [A.2.2.8.1.2.3.2 - Process Definition For Operational GovOps Review](5fd265ef-17f0-4400-b06c-a6ce9fa87636).
 
@@ -7710,13 +7498,9 @@ This process has no dependencies.
 The process flow is defined herein:
 
 - Operational GovOps reviews the `Initial Planning Document` to ensure:
-
-    ◦ Operational GovOps has the ability to operationalize the proposed tracking mechanism, and
-
-    ◦ The proposed tracking mechanism accurately reflects USDS usage attributable to the actor and there is no possibility that rewards could be "double counted" (i.e. multiple actors being paid for the same USDS balance).
-
+    - Operational GovOps has the ability to operationalize the proposed tracking mechanism, and
+    - The proposed tracking mechanism accurately reflects USDS usage attributable to the actor and there is no possibility that rewards could be "double counted" (i.e. multiple actors being paid for the same USDS balance).
 - Operational GovOps submits its feedback into the `Operational GovOps Review Document` (created at Create `Operational GovOps Review Document`.) along with suggested changes, if any.
-
 - The Prime Agent incorporates feedback from Operational GovOps and edits its `Initial Planning Document` as needed.
 
 ###### A.2.2.8.1.2.3.2.3 - Required Primitive Inputs [Core]  <!-- UUID: 9c4653fa-6afe-4567-9e85-54c0a84b9311 -->
@@ -7724,12 +7508,12 @@ The process flow is defined herein:
 The following inputs must be submitted into the Primitive using the Powerhouse interface.
 
 - Create `Operational GovOps Review Document`.
-        -Updated fields
-            - `Initial Planning Document`
-                ◦ New Value: automatically links to respective Document
-            - `Feedback Summary`
-                ◦ New Value: GovOps populates with its review commentary and suggested changes that are agreed to by Agent and GovOps, if any.
-            - Responsible party: Operational GovOps.
+    - Updated fields
+        - `Initial Planning Document`
+            - New Value: automatically links to respective Document
+        - `Feedback Summary`
+            - New Value: GovOps populates with its review commentary and suggested changes that are agreed to by Agent and GovOps, if any.
+        - Responsible party: Operational GovOps.
 
 ###### A.2.2.8.1.2.3.2.4 - Required Outputs [Core]  <!-- UUID: a7a3e2d3-54bd-4c0f-a222-505b5e14a5e4 -->
 
@@ -7748,16 +7532,16 @@ The Agent Artifact is updated pursuant to the following requirements.
 The Document is updated as follows.
 
 - Updated fields
-    ◦ `Tracking Methodology`
+    - `Tracking Methodology`
         - New Value: as applicable, update to reflect any changes agreed to between the Prime Agent and Operational GovOps
-    ◦ Responsible Party: Operational GovOps
+    - Responsible Party: Operational GovOps
 
 ###### A.2.2.8.1.2.3.2.4.2.2 - Primitive Hub Document/In Progress Invocations Directory/Instance Name Update [Core]  <!-- UUID: 6f457b50-a98c-4516-9b37-932603a59627 -->
 
 The Document is updated as follows.
 
 - Updated fields
-    ◦ Invocation Status
+    - Invocation Status
         - New value: set to `Proposal drafting in progress`
 - Responsible Party: Operational GovOps [automated]
 - Triggers: [A.2.2.8.1.2.3.3 - Process Definition For Artifact Update Draft](240e0e2c-64b6-4290-aa23-ec19eb2f6e59)
@@ -7791,9 +7575,7 @@ This process has no dependencies.
 The process flow is defined herein:
 
 - The Prime Agent creates the `Artifact Edit Draft` Document and works to finalize its draft of the Artifact Edit per discussions with Operational GovOps.
-
 - When draft is finalized, the Prime Agent triggers the creation of the `Artifact Edit Proposal`, which inherits content from the finalized `Artifact Edit Draft` Document.
-
 - The Prime Agent submits the `Artifact Edit Proposal` Document to the Powerhouse system.
 
 ###### A.2.2.8.1.2.3.3.3 - Required Primitive Inputs [Core]  <!-- UUID: 6f4e7971-1813-4ff6-9e4f-5953c8cb54af -->
@@ -7801,30 +7583,27 @@ The process flow is defined herein:
 The required Primitive Inputs for this process are defined herein and implemented in sequential stages.
 
 - Agent creates `Artifact Edit Draft` document; drafting in progress:
-    ◦ Edit `Artifact Edit Draft`
+    - Edit `Artifact Edit Draft`
         - Updated fields
             - Status
-                ◦ New value: set to `In Progress`
+                - New value: set to `In Progress`
             - Content
-                ◦ New value: populate with drafted content
-
+                - New value: populate with drafted content
 - Agent finalizes `Artifact Edit Draft`
-    ◦ Edit `Artifact Edit Draft`
+    - Edit `Artifact Edit Draft`
         - Updated fields
             - Status
-                ◦ New value: set to `Draft Finalized`
-
+                - New value: set to `Draft Finalized`
 - Powerhouse System Creates `Artifact Edit Proposal` Document
-    ◦ Updated fields
+    - Updated fields
         - Content
             - New value: Inherits data from Artifact Edit Draft content field.
-    ◦ Responsible party: Operational GovOps [if not automated]
-
+    - Responsible party: Operational GovOps [if not automated]
 - Agent submits `Artifact Edit Proposal` Document to Powerhouse system
-    ◦ Updated fields
+    - Updated fields
         - Status:
-            - New value: set to  `Pending Facilitator Review`
-    ◦ Responsible party: Agent
+            - New value: set to `Pending Facilitator Review`
+    - Responsible party: Agent
 
 ###### A.2.2.8.1.2.3.3.4 - Required Outputs [Core]  <!-- UUID: c7ed27ce-d296-4a44-83c3-96bb1ed8976d -->
 
@@ -7843,7 +7622,7 @@ The Agent Artifact documents specified herein are updated as the output of this 
 The Document is updated as follows:
 
 - Updated fields
-    ◦ Invocation Status
+    - Invocation Status
         - New value: `Proposal Pending Facilitator Review`
 - Responsible Party: Operational GovOps
 - Triggers: [A.2.2.8.1.2.3.4 - Process Definition For Operational Facilitator Review](fd9aac63-00a0-4fc5-ad7c-8bb131322bd7).
@@ -7877,9 +7656,7 @@ This process has no dependencies.
 The process flow is defined herein.
 
 - The Operational Facilitator reviews the `Artifact Edit Proposal` to ensure alignment with the Sky Core Atlas and the Agent Artifact.
-
-- Where the Proposal is determined to be aligned, the Operational Facilitator updates the `Artifact Edit Proposal`  Document to reflect their approval and commentary, if applicable.
-
+- Where the Proposal is determined to be aligned, the Operational Facilitator updates the `Artifact Edit Proposal` Document to reflect their approval and commentary, if applicable.
 - Where the Proposal is determined to be misaligned, the Operational Facilitator updates the `Artifact Edit Proposal` document to reflect their rejection and commentary. Commentary is required where the Operational Facilitator rejects the proposal for misalignment.
 
 ###### A.2.2.8.1.2.3.4.3 - Required Primitive Inputs [Core]  <!-- UUID: 967f54c6-9a51-4225-a8fd-e366f7a3d91e -->
@@ -7887,27 +7664,26 @@ The process flow is defined herein.
 The required Primitive Inputs to this process are defined herein and organized as two mutually exclusive pathways. Once the Review outcome is determined by the Facilitator, the corresponding Pathway is followed to the exclusion of the other.
 
 - Operational Facilitator Approves Proposal
-    ◦ Edit `Artifact Edit Proposal`
+    - Edit `Artifact Edit Proposal`
         - Updated fields
             - `Operational Facilitator Review/Review Decision`
-                ◦ New value: set to `Approved`
+                - New value: set to `Approved`
             - `Commentary`
-                ◦ New value (optional): populate with reasoning for Approval
+                - New value (optional): populate with reasoning for Approval
             - `Status`
-                ◦ New value: set to `Proposal Approved by Facilitator` [automated]
+                - New value: set to `Proposal Approved by Facilitator` [automated]
         - Responsible party: Operational Facilitator
-        - Trigger-Process: [A.2.2.8.1.2.3.5 - Process Definition For Offchain Vote](3170b9a1-d074-4cbd-bb81-ae1661bc0ed8) 
-
+        - Trigger-Process: [A.2.2.8.1.2.3.5 - Process Definition For Offchain Vote](3170b9a1-d074-4cbd-bb81-ae1661bc0ed8)
 - Operational Facilitator Rejects proposal
-    ◦ Edit `Artifact Edit Proposal`
-        ◦ Updated fields
+    - Edit `Artifact Edit Proposal`
+        - Updated fields
             - `Operational Facilitator Review/Review Decision`
-                ◦ New value: set to `Rejected`
+                - New value: set to `Rejected`
             - `Commentary`
-                ◦ New value (required): populate with reasoning for Rejection
+                - New value (required): populate with reasoning for Rejection
             - `Status`
-                ◦ New value: set to `Proposal Rejected By Facilitator` [automated]
-        ◦ Responsible party: Operational Facilitator
+                - New value: set to `Proposal Rejected By Facilitator` [automated]
+        - Responsible party: Operational Facilitator
 
 ###### A.2.2.8.1.2.3.4.4 - Required Outputs [Core]  <!-- UUID: b63e78d1-112d-4d48-a647-a1e3fc2f54a5 -->
 
@@ -7958,28 +7734,28 @@ The process flow for this process is defined herein:
 The required Primitive Inputs to this process are defined herein.
 
 - After Facilitator prepares Snapshot vote:
-  - Edit `Artifact Edit Proposal` Document
-    - Updated fields
-      - Status
-        - New value: set to `Pending Poll`
-      - Off-chain Snapshot
-        - New value: Populate with link to the official Snapshot page
-    - Responsible party: Operational Facilitator
-- Mutually Exclusive Input Pathways: The two Primitive Inputs below are mutually exclusive pathways. Once the vote concludes, the corresponding Pathway is followed to the exclusion of the other.
-  - Proposal Passes
     - Edit `Artifact Edit Proposal` Document
-      - Update fields
-        - Status
-          - New value: set to `Poll Approved`
-      - Responsible party: Operational Facilitator.
-      - Trigger - Required Output: Proposal Passes
-  - Proposal Fails
-    - Updated fields
-      - Edit `Artifact Edit Proposal` Document
-        - Status
-          - New value: set to `Poll Rejected`
-      - Responsible party: Operational Facilitator.
-      - Trigger - Required Output: Proposal Fails
+        - Updated fields
+            - Status
+                - New value: set to `Pending Poll`
+            - Off-chain Snapshot
+                - New value: Populate with link to the official Snapshot page
+        - Responsible party: Operational Facilitator
+- Mutually Exclusive Input Pathways: The two Primitive Inputs below are mutually exclusive pathways. Once the vote concludes, the corresponding Pathway is followed to the exclusion of the other.
+    - Proposal Passes
+        - Edit `Artifact Edit Proposal` Document
+            - Update fields
+                - Status
+                    - New value: set to `Poll Approved`
+            - Responsible party: Operational Facilitator.
+            - Trigger - Required Output: Proposal Passes
+    - Proposal Fails
+        - Updated fields
+            - Edit `Artifact Edit Proposal` Document
+                - Status
+                    - New value: set to `Poll Rejected`
+        - Responsible party: Operational Facilitator.
+        - Trigger - Required Output: Proposal Fails
 
 ###### A.2.2.8.1.2.3.5.4 - Required Outputs [Core]  <!-- UUID: 1e95dff0-2a7f-461f-86f9-70433b888650 -->
 
@@ -7994,22 +7770,22 @@ No Sky Core Atlas documents are updated as the output of this process.
 The Agent Artifact documents specified herein are updated as the output of this process. The Output "sets" are mutually exclusive.
 
 - Proposal Passes
-  - Required Primitive Input Trigger: Proposal Passes see [A.2.2.8.1.2.3.5.3 - Required Primitive Inputs](b593ff77-2c46-418d-a7b3-9730437ce804)
-  - Edit `Primitive Hub Document/In Progress Invocations Directory/Instance Name`
-    - Updated fields
-      - Invocation Status
-        - New value: set to `Proposal Approved`
-    - Responsible Party: Operational GovOps
-    - Trigger - Process: [A.2.2.8.1.2.3.6 - Process Definition For Artifact Update](b3ed1e74-7ec2-4537-8e1d-2098dc17d984)
+    - Required Primitive Input Trigger: Proposal Passes see [A.2.2.8.1.2.3.5.3 - Required Primitive Inputs](b593ff77-2c46-418d-a7b3-9730437ce804)
+    - Edit `Primitive Hub Document/In Progress Invocations Directory/Instance Name`
+        - Updated fields
+            - Invocation Status
+                - New value: set to `Proposal Approved`
+        - Responsible Party: Operational GovOps
+        - Trigger - Process: [A.2.2.8.1.2.3.6 - Process Definition For Artifact Update](b3ed1e74-7ec2-4537-8e1d-2098dc17d984)
 - Proposal Fails
-  - Required Primitive Input Trigger: Proposal Fails see [A.2.2.8.1.2.3.5.3 - Required Primitive Inputs](b593ff77-2c46-418d-a7b3-9730437ce804)
-  - Edit `Primitive Hub Document/In Progress Invocations Directory/Instance Name`
-    - Updated fields
-      - Invocation Status
-        - New value: set to `Proposal Rejected`
-    - Other Document Operations:
-      - `Instance Configuration Document` is `Archived` in Primitive Hub Document/Hub Data Repository
-    - Responsible Party: Operational GovOps
+    - Required Primitive Input Trigger: Proposal Fails see [A.2.2.8.1.2.3.5.3 - Required Primitive Inputs](b593ff77-2c46-418d-a7b3-9730437ce804)
+    - Edit `Primitive Hub Document/In Progress Invocations Directory/Instance Name`
+        - Updated fields
+            - Invocation Status
+                - New value: set to `Proposal Rejected`
+        - Other Document Operations:
+            - `Instance Configuration Document` is `Archived` in Primitive Hub Document/Hub Data Repository
+        - Responsible Party: Operational GovOps
 
 ###### A.2.2.8.1.2.3.6 - Process Definition For Artifact Update [Core]  <!-- UUID: b3ed1e74-7ec2-4537-8e1d-2098dc17d984 -->
 
@@ -8046,7 +7822,7 @@ The process flow is defined herein.
 The following inputs must be submitted into the Primitive using the Powerhouse interface.
 
 - Edit `Instance Configuration Document` to reflect ratified Primitive Instance.
-    ◦ Updated fields
+    - Updated fields
         - Parameters/Status - automatically inherits from `Primitive Hub Document`
         - Parameters/Reward Code
             - New Value: set to `Reward Code` value from approved Proposal
@@ -8069,21 +7845,21 @@ The Sky Core Documents specified herein are updated as the output of this proces
 [A.2.2.8.1.2.1.5.2.0.6.1 - List Of Onboarding Integrators](eb644108-94fc-430f-ae5a-e3294b9dd9be) is updated as follows:
 
 - Updated fields
-    ◦ `Onboarding Integrators`
+    - `Onboarding Integrators`
         - New value: Delete the Integrator.
 - Responsible Party: Operational GovOps
 - Triggers: None
 
 ###### A.2.2.8.1.2.3.6.4.1.2 - Current Integrators Active Data Update [Core]  <!-- UUID: 1c0708d0-6388-4264-90f2-7a0d0b877012 -->
 
-[**A.2.2.8.1.2.1.5.1.0.6.1 - List Of Current Integrators**](efbe7903-a76e-40f0-a440-56e463283157)** **is updated as follows:
+[A.2.2.8.1.2.1.5.1.0.6.1 - List Of Current Integrators](efbe7903-a76e-40f0-a440-56e463283157) is updated as follows:
 
 - Updated fields
-    ◦ `Current Integrators`
+    - `Current Integrators`
         - New value: set to the name of the Integrator from the approved Proposal
-    ◦ `Reward Code`
+    - `Reward Code`
         - New value: set to the Reward Code from the approved Proposal
-    ◦ `Tracking Methodology`
+    - `Tracking Methodology`
         - New value: set to the tracking methodology from the approved Proposal
 - Responsible Party: Operational GovOps
 - Triggers: None
@@ -8097,17 +7873,17 @@ The Agent Artifact documents specified herein are updated as the output of this 
 The Document is updated as follows:
 
 - Document Operations:
-    ◦ Document is moved from `In Progress Invocations` to `Active Instances`
+    - Document is moved from `In Progress Invocations` to `Active Instances`
 - Responsible Party: Operational Facilitator
 
 ###### A.2.2.8.1.2.3.6.4.2.2 - Primitive Hub Document/In Progress Invocations Directory/Instance Name Update [Core]  <!-- UUID: f5b8f596-5999-4ed8-a998-9c920bb86c14 -->
 
-The Document  is updated as follows:
+The Document is updated as follows:
 
 - Document Operations:
-    ◦ Document is converted into `Active Instances Directory` schema and moved into that subtree
+    - Document is converted into `Active Instances Directory` schema and moved into that subtree
 - Updated fields
-    ◦ Instance Configuration Document location: link to `Instance Configuration Document` in `Active Instances` subtree
+    - Instance Configuration Document location: link to `Instance Configuration Document` in `Active Instances` subtree
 - Responsible Party: Operational Facilitator
 - Trigger-Process: None.
 
@@ -8148,9 +7924,7 @@ This process has no dependencies.
 The process flow is defined herein:
 
 - Operational GovOps calculates the eligible USDS and sUSDS balances using the Tracking Methodology specified in the Primitive Instance.
-
 - Operational GovOps calculates the Distribution Reward due based on the USDS and sUSDS balances and the Distribution Reward formula for each.
-
 - Operational GovOps updates the Powerhouse system with both the underlying data and their calculations.
 
 ###### A.2.2.8.1.2.4.1.1.3 - Required Primitive Inputs [Core]  <!-- UUID: 57921647-2a63-4d01-907b-131a50510d76 -->
@@ -8158,7 +7932,7 @@ The process flow is defined herein:
 The required Primitive Inputs to this process are specified herein.
 
 - Edit `Distribution Reward Payments` Document (Active Data)
-    ◦ Updated fields
+    - Updated fields
         - Status
             - New value: set to `In Progress`
         - Underlying data
@@ -8169,8 +7943,8 @@ The required Primitive Inputs to this process are specified herein.
             - New value: populate with calculated value
         - Distribution Reward Due
             - New value: populate with calculated value.
-    ◦ Responsible party: Operational GovOps.
-    ◦ Trigger-Process: [A.2.2.8.1.2.4.1.2 - Process Definition For Reward Issuance From Operational Executor Agent Buffer](ddd65b02-3a2b-4478-a435-989324c2f1b8).
+    - Responsible party: Operational GovOps.
+    - Trigger-Process: [A.2.2.8.1.2.4.1.2 - Process Definition For Reward Issuance From Operational Executor Agent Buffer](ddd65b02-3a2b-4478-a435-989324c2f1b8).
 
 ###### A.2.2.8.1.2.4.1.1.4 - Required Outputs [Core]  <!-- UUID: 082e5d05-9394-4b4a-8ef2-0e6d8110c2cc -->
 
@@ -8221,15 +7995,15 @@ The process flow is defined herein.
 The required Primitive Inputs to this process are specified herein.
 
 - Edit `Distribution Reward Payments` Document (Active Data)
-    ◦ Updated fields
+    - Updated fields
         - Status
             - New value: set to `Paid`
         - Transaction Details/Amount Paid
             - New value: populate with amount paid
         - Transaction Details/Tx hash
             - New value: populate with transaction hash
-    ◦ Responsible Party: Operational GovOps
-    ◦ Trigger - Process: [A.2.2.8.1.2.4.1.3 - Process Definition For Settlement Cycle And Core GovOps Review](dfd65786-e4be-4dad-9e34-cd6235a30a4f).
+    - Responsible Party: Operational GovOps
+    - Trigger - Process: [A.2.2.8.1.2.4.1.3 - Process Definition For Settlement Cycle And Core GovOps Review](dfd65786-e4be-4dad-9e34-cd6235a30a4f).
 
 ###### A.2.2.8.1.2.4.1.2.4 - Required Outputs [Core]  <!-- UUID: f33e0dee-b8e8-4d93-b56e-624dec274739 -->
 
@@ -8272,7 +8046,6 @@ This process has no dependencies.
 The process flow is defined herein.
 
 - Core GovOps reviews Distribution Rewards calculations, including underlying data and calculation of balances and rewards due.
-
 - Once Core GovOps has completed review, they update Powerhouse system to indicate that they confirm the accuracy of the Distribution Reward amounts.
 
 ###### A.2.2.8.1.2.4.1.3.3 - Required Primitive Inputs [Core]  <!-- UUID: b55afaef-db92-4bbf-8d80-258d5849ef1c -->
@@ -8280,22 +8053,21 @@ The process flow is defined herein.
 The required Primitive Inputs to this process are specified herein and are mutually exclusive pathways.
 
 - Core GovOps Confirms Accuracy of Payment
-    ◦ Edit `Distribution Reward Payments` Active Data Document
+    - Edit `Distribution Reward Payments` Active Data Document
         - Updated fields
             - Core GovOps Review/Confirmation
-                ◦ New value: populate with Yes
+                - New value: populate with Yes
             - Core GovOps Review/Commentary
-                ◦ New value (optional): populate with reasoning
+                - New value (optional): populate with reasoning
         - Responsible party: Core GovOps
-        - Trigger - Process: [A.2.2.8.1.2.4.1.3.4.1 - Sky Core Atlas Updates](cca17fe9-3dc9-48ce-be26-39a1625b3690) 
-
+        - Trigger - Process: [A.2.2.8.1.2.4.1.3.4.1 - Sky Core Atlas Updates](cca17fe9-3dc9-48ce-be26-39a1625b3690)
 - Core GovOps Finds Inaccurate Payment
-    ◦ Edit `Distribution Reward Payments` Active Data Document
+    - Edit `Distribution Reward Payments` Active Data Document
         - Updated fields
             - Core GovOps Review/Confirmation
-                ◦ New value: populate with No
+                - New value: populate with No
             - Core GovOps Review/Commentary
-                ◦ New value (required): populate with reasoning
+                - New value (required): populate with reasoning
         - Responsible party: Core GovOps
         - Trigger - Process: Payment Inaccuracy Previously Found By Core GovOps
 
@@ -8308,22 +8080,22 @@ The documents herein specify the required outputs from this process.
 The Sky Core Atlas documents specified herein are updated as the output of this process.
 
 - Payment Accuracy Previously Confirmed By Core GovOps
-    ◦ The document [A.2.2.8.1.2.1.6.1.0.6.1 - Sky Core Distribution Reward Reimbursement Amounts](169eb312-ed63-4a83-9f5d-43b621c0705e) in the Sky Core Atlas is updated as follows:
+    - The document [A.2.2.8.1.2.1.6.1.0.6.1 - Sky Core Distribution Reward Reimbursement Amounts](169eb312-ed63-4a83-9f5d-43b621c0705e) in the Sky Core Atlas is updated as follows:
         - Updated Fields
             - Status
-                ◦ New value: populate with `Pending Payment`
+                - New value: populate with `Pending Payment`
             - Confirmed Reimbursement Due
-                ◦ New value: populate with total Reimbursement amount
+                - New value: populate with total Reimbursement amount
             - Reward Period
-                ◦ New Value: populate with reward period
+                - New Value: populate with reward period
             - Operational Executor Agent
-                ◦ New value: Populate with name of Operational Executor Agent
+                - New value: Populate with name of Operational Executor Agent
             - Prime Agent
-                ◦ New value: Populate with name of Prime Agent.
+                - New value: Populate with name of Prime Agent.
         - Responsible Party: Core GovOps
-        - Triggers: [A.2.2.8.1.2.4.1.4 - Process Definition For Executive Vote Reimbursement](59259360-a288-4412-a39a-da3991c60f8f) 
+        - Triggers: [A.2.2.8.1.2.4.1.4 - Process Definition For Executive Vote Reimbursement](59259360-a288-4412-a39a-da3991c60f8f)
 - Payment Inaccuracy Previously Found By Core GovOps
-    ◦ TBD
+    - TBD
 
 ###### A.2.2.8.1.2.4.1.3.4.2 - Agent Artifact Updates [Core]  <!-- UUID: 300fca05-66b1-4f31-966a-d26168ded7c3 -->
 
@@ -8358,7 +8130,6 @@ This process has no dependencies.
 The process flow is defined herein:
 
 - Core GovOps includes the Distribution Reward reimbursement in the next standard Executive Vote.
-
 - After the Executive Vote passes, Core GovOps updates the Powerhouse system with the transaction details.
 
 ###### A.2.2.8.1.2.4.1.4.3 - Required Primitive Inputs [Core]  <!-- UUID: 6b90e3a1-48ce-4ac2-852e-00a8e4edf152 -->
@@ -8366,22 +8137,21 @@ The process flow is defined herein:
 The required Primitive Inputs to this process are specified herein and organized as sequential stages.
 
 - Core GovOps adds reimbursement to Executive Vote
-    ◦ Edit `Sky Core Distribution Reward Reimbursement Amounts`
+    - Edit `Sky Core Distribution Reward Reimbursement Amounts`
         - Updated fields
             - Executive Vote Settlement/Executive Vote
-                ◦ New value: links to proposal
+                - New value: links to proposal
             - Status
-                ◦ New value: set to `Added to Executive Vote`
-
+                - New value: set to `Added to Executive Vote`
 - After Executive Vote passes, Core GovOps updates Powerhouse system
-    ◦ Edit `Sky Core Distribution Reward Reimbursement Amounts`
+    - Edit `Sky Core Distribution Reward Reimbursement Amounts`
         - Updated fields
             - Executive Vote Settlement / Transaction Details/ Amount Paid
-                ◦ New value: populate with amount paid to reimburse Operational Executor Agent Buffer
+                - New value: populate with amount paid to reimburse Operational Executor Agent Buffer
             - Executive Vote Settlement / Transaction Details / Tx Hash
-                ◦ New value: Populate with transaction hash
+                - New value: Populate with transaction hash
             - Status
-                ◦ New value: set to `Completed`
+                - New value: set to `Completed`
 
 ###### A.2.2.8.1.2.4.1.4.4 - Required Outputs [Core]  <!-- UUID: d14fff67-fd16-443b-9d32-763b052dce8b -->
 
@@ -8396,10 +8166,10 @@ The Sky Core Atlas documents specified herein are updated as the output of this 
 The Document in the Sky Core Atlas is updated as follows:
 
 - Updated fields
-    ◦ Status
+    - Status
         - New value: set to `Paid`
-    ◦ Responsible Party: Core GovOps
-    ◦ Trigger-Process: None
+    - Responsible Party: Core GovOps
+    - Trigger-Process: None
 
 ###### A.2.2.8.1.2.4.1.4.4.2 - Agent Artifact Updates [Core]  <!-- UUID: 594d3b57-107d-44bc-a1bf-3f1291b8cccb -->
 
@@ -8445,7 +8215,7 @@ The documents herein define the base elements of the Integration Boost Primitive
 
 The Integration Boost is provided to DeFi protocol partners that allow users to deposit USDS balances. Sky makes payments to Integration Boost partners equal to the Sky Savings Rate times the Unrewarded USDS balances in their protocol. The expectation is that the Integration Boost Partner will pass these Integration Boost Payments along to their users, thus providing USDS users with the equivalent of the Sky Savings Rate.
 
-Integration Boost partners are part of the Integrator Program as defined in [A.2.2.8.1.2.1.1 - Integrator Program](37c38f07-b5a0-40df-939c-a54330ea3c7b). 
+Integration Boost partners are part of the Integrator Program as defined in [A.2.2.8.1.2.1.1 - Integrator Program](37c38f07-b5a0-40df-939c-a54330ea3c7b).
 
 Current and onboarding Integrators are recorded in [A.2.2.8.1.2.1.5 - Current And Onboarding Integrators](f3952cc5-cde2-46b9-b575-034dda83570b).
 
@@ -8519,9 +8289,10 @@ The documents herein specify the Integration Boost reimbursement.
 
 ###### A.2.2.8.2.2.1.5.1 - Sky Core Integration Boost Reimbursement [Active Data Controller]  <!-- UUID: 7ed013c9-f7ac-4459-8675-8bbd398d5133 -->
 
-The Integration Boost reimbursement payments are defined as Active Data in [A.2.2.8.2.2.1.5.1.0.6.1 - Sky Core Integration Boost Reimbursement Amounts](8cbff90b-5633-427e-91da-0fb775812535). 
- 
+The Integration Boost reimbursement payments are defined as Active Data in [A.2.2.8.2.2.1.5.1.0.6.1 - Sky Core Integration Boost Reimbursement Amounts](8cbff90b-5633-427e-91da-0fb775812535).
+
 The Active Data is updated as follows:
+
 - The Responsible Party is Core GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
@@ -8562,7 +8333,7 @@ The Prime Agent uses the Powerhouse interface to Globally Activate (toggle on) t
 The following inputs must be submitted into the Primitive using the Powerhouse interface:
 
 - **Create** `Primitive Hub Document`
-    ◦ Updated Field: Global Activation Status
+    - Updated Field: Global Activation Status
         - New Value: set to `Activated`
 
 ###### A.2.2.8.2.2.2.4 - Required Outputs [Core]  <!-- UUID: 9a9b56f4-eef8-4d31-af06-3b6d5ba4cb60 -->
@@ -8610,7 +8381,6 @@ This process is dependent on a Prime Agent Globally Activating the Integration B
 The process flow is defined herein.
 
 - The Prime Agent identifies a DeFi protocol or market where an Integration Boost would drive adoption. The Prime Agent estimates the potential earnings from the Distribution Reward associated with the incremental USDS usage versus the operational cost of funding the Sky Savings Rate payouts.
-
 - The Prime Agent and the prospective Integration Boost partner discuss (1) the proposed Integration Boost cadence and (2) whether and how the protocol operator also receives a portion of the Distribution Reward.
 
 ###### A.2.2.8.2.2.3.1.3 - Required Primitive Inputs [Core]  <!-- UUID: b91d0eb6-fa86-486c-8350-4564bdb5af09 -->
@@ -8618,38 +8388,35 @@ The process flow is defined herein.
 The required Primitive Inputs for this process are defined herein and organized in sequential stages.
 
 - Drafting of Initial Planning Document
-
-    ◦ Create `Initial Planning Document`
+    - Create `Initial Planning Document`
         - Updated fields
             - `Status`
-                ◦ New value: set to `Drafting`
+                - New value: set to `Drafting`
             - `Integration Partner Name`
-                ◦ New Value: set to Integration Partner name
+                - New Value: set to Integration Partner name
             - `Integration Partner Reward Address`
-                ◦ New Value: set to Integration Partner reward address
+                - New Value: set to Integration Partner reward address
             - `Integration Partner Chain`
-                ◦ New Value: set to Integration Partner chain
+                - New Value: set to Integration Partner chain
             - `Integration Boost Cadence`
-                ◦ New Value: set to Integration Boost cadence
+                - New Value: set to Integration Boost cadence
             - `Integration Boost Data Submission Format`
-                ◦ New Value: populate with details for format of data submission
+                - New Value: populate with details for format of data submission
             - `Integration Boost Data Submission Responsible Actor`
-                ◦ New Value: set to Actor responsible for data submission
+                - New Value: set to Actor responsible for data submission
             - `Integration Boost Savings Rate Adjustment Strategy`
-                ◦ New Value: populate with details for handling adjustments to Sky Savings Rate
+                - New Value: populate with details for handling adjustments to Sky Savings Rate
             - `Custom Instance Parameters`
-                ◦ New Value: populate with details for any custom parameters
+                - New Value: populate with details for any custom parameters
         - Responsible Party: Prime Agent Team
-        - Trigger - Required Output: After Prime Agent's `Initial planning document` Status is set to `Drafting` 
-
+        - Trigger - Required Output: After Prime Agent's `Initial planning document` Status is set to `Drafting`
 - Initial Planning Document triggered for GovOps review
-
-    ◦ Edit `Initial Planning Document`
+    - Edit `Initial Planning Document`
         - Updated fields
             - `Integration Boost Savings Rate Adjustment Strategy`
-                ◦ New value: updated content, as applicable
+                - New value: updated content, as applicable
             - `Status`
-                ◦ New value: set to `Ready for GovOps Review`
+                - New value: set to `Ready for GovOps Review`
         - Responsible party: Prime Agent
         - Trigger - Required Output: After Prime Agent's `Initial planning document` Status is set to `Ready for GovOps review`.
 
@@ -8666,30 +8433,29 @@ The Sky Core Atlas is updated pursuant to the following requirements.
 [A.2.2.8.1.2.1.5.2.0.6.1 - List Of Onboarding Integrators](eb644108-94fc-430f-ae5a-e3294b9dd9be) is updated as follows:
 
 - Updated fields
-    ◦ `Onboarding Integrators/Integrator Name`
+    - `Onboarding Integrators/Integrator Name`
         - New value: set to the name of the Integrator
 - Responsible Party: Operational GovOps
 
 ###### A.2.2.8.2.2.3.1.4.2 - Agent Artifact Updates [Core]  <!-- UUID: d86e5f9f-7b1c-4605-9253-4281a6bdbc13 -->
 
-The Agent Artifact is updated pursuant to the following requirements. Each Output "set" is triggered following the completion of its respective Input stage, which latter is defined in [A.2.2.8.2.2.3.1.3 - Required Primitive Inputs](b91d0eb6-fa86-486c-8350-4564bdb5af09). 
+The Agent Artifact is updated pursuant to the following requirements. Each Output "set" is triggered following the completion of its respective Input stage, which latter is defined in [A.2.2.8.2.2.3.1.3 - Required Primitive Inputs](b91d0eb6-fa86-486c-8350-4564bdb5af09).
 
 - After Prime Agent's `Initial planning document` Status is set to `Drafting`
-    ◦ Create `Instance Configuration` Document for prospective Primitive Instance. The Instance Configuration Document contains a `Data Repository`.
+    - Create `Instance Configuration` Document for prospective Primitive Instance. The Instance Configuration Document contains a `Data Repository`.
         - Instance Status: (automatically inherits from `Primitive Hub Document`)
-    ◦ Edit `Primitive Hub Document/In Progress Invocations Directory/Instance Name`
+    - Edit `Primitive Hub Document/In Progress Invocations Directory/Instance Name`
         - Updated fields:
             - Invocation Status:
-                ◦ New value: set to `Planning`
+                - New value: set to `Planning`
             - Instance Configuration Document Location
-                ◦ New value: link to `Instance Configuration Document` (created at Create `Instance Configuration` Document for prospective Primitive Instance. The Instance Configuration Document contains a `Data Repository`.)
-    ◦ Responsible party: Operational GovOps [automated]
-
+                - New value: link to `Instance Configuration Document` (created at Create `Instance Configuration` Document for prospective Primitive Instance. The Instance Configuration Document contains a `Data Repository`.)
+    - Responsible party: Operational GovOps [automated]
 - After Prime Agent's `Initial planning document` Status is set to `Ready for GovOps review`.
-    ◦ Edit `Primitive Hub Document/In Progress Invocations/Instance Name`
+    - Edit `Primitive Hub Document/In Progress Invocations/Instance Name`
         - Updated fields:
             - Invocation Status:
-                ◦ New value: set to `Pending GovOps review`
+                - New value: set to `Pending GovOps review`
         - Responsible party: Operational GovOps [ automated]
         - Trigger - Process: [A.2.2.8.2.2.3.2 - Process Definition for Operational GovOps Review](38c54d2b-715b-433d-a9ff-af5cbecc89a2).
 
@@ -8722,12 +8488,10 @@ This process has no dependencies.
 The process flow is defined herein:
 
 - Operational GovOps reviews the `Initial Planning Document` to ensure:
-    ◦ The submitted data can be verified using on-chain data;
-    ◦ the Savings Rate Adjustment Strategy ensures that the payment on USDS balances equals the Sky Savings Rate, and
-    ◦ the submitted data accurately reflects USDS deposits in the Integration Partner protocol and there is no possibility that rewards could be "double counted" (i.e. multiple actors being paid for the same USDS balance).
-
+    - The submitted data can be verified using on-chain data;
+    - the Savings Rate Adjustment Strategy ensures that the payment on USDS balances equals the Sky Savings Rate, and
+    - the submitted data accurately reflects USDS deposits in the Integration Partner protocol and there is no possibility that rewards could be "double counted" (i.e. multiple actors being paid for the same USDS balance).
 - Operational GovOps submits its feedback into the `Operational GovOps Review Document` (created at Create `Operational GovOps Review Document`) along with suggested changes, if any.
-
 - The Prime Agent incorporates feedback from Operational GovOps and edits its `Initial Planning Document` as needed.
 
 ###### A.2.2.8.2.2.3.2.3 - Required Primitive Inputs [Core]  <!-- UUID: 1eafc42a-1fd2-4f96-988c-8dc37c1ab317 -->
@@ -8735,7 +8499,7 @@ The process flow is defined herein:
 The following inputs must be submitted into the Primitive using the Powerhouse interface.
 
 - Create `Operational GovOps Review Document`
-    ◦ Updated fields
+    - Updated fields
         - `Initial Planning Document`
             - New Value: automatically links to respective Document
         - `Feedback Summary`
@@ -8759,18 +8523,18 @@ The Agent Artifact is updated pursuant to the following requirements.
 The Document is updated as follows.
 
 - Updated fields
-    ◦ `Integration Boost Savings Rate Adjustment Strategy`
+    - `Integration Boost Savings Rate Adjustment Strategy`
         - New Value: as applicable, update to reflect any changes agreed to between the Prime Agent and Operational GovOps
-    ◦ `Integration Boost Data Submission Format`
+    - `Integration Boost Data Submission Format`
         - New Value: as applicable, update to reflect any changes agreed to between the Prime Agent and Operational GovOps
-    ◦ Responsible Party: Operational GovOps
+    - Responsible Party: Operational GovOps
 
 ###### A.2.2.8.2.2.3.2.4.2.2 - Primitive Hub Document Update [Core]  <!-- UUID: 09ddd2c5-3768-4538-b979-629e1b369299 -->
 
 The Document is updated as follows.
 
 - Updated fields
-    ◦ Active instances/Instance name/Instance status -
+    - Active instances/Instance name/Instance status -
         - New value: set to `Proposal drafting in progress`
 - Responsible Party: Operational GovOps [automated]
 - Triggers: [A.2.2.8.2.2.3.3 - Process Definition for Artifact Update Draft](6a8b5e8b-cca6-48be-b543-6db468f83ebb).
@@ -8804,9 +8568,7 @@ This process has no dependencies.
 The process flow is defined herein:
 
 - The Prime Agent creates the `Artifact Edit Draft` Document and works to finalize its draft of the Artifact Edit per discussions with Operational GovOps.
-
 - When draft is finalized, the Prime Agent triggers the creation of the `Artifact Edit Proposal`, which inherits content from the finalized `Artifact Edit Draft` Document.
-
 - The Prime Agent submits the `Artifact Edit Proposal` Document to the Powerhouse system.
 
 ###### A.2.2.8.2.2.3.3.3 - Required Primitive Inputs [Core]  <!-- UUID: 01214a59-5119-4c77-ad41-c9d3dd72a517 -->
@@ -8814,31 +8576,27 @@ The process flow is defined herein:
 The required Primitive Inputs for this process are defined herein and implemented in sequential stages.
 
 - Agent creates `Artifact Edit Draft` document; drafting in progress
-
-    ◦ Edit `Artifact Edit Draft`
+    - Edit `Artifact Edit Draft`
         - Updated fields
             - Status
-                ◦ New value: set to `In Progress`
+                - New value: set to `In Progress`
             - Content
-                ◦ New value: populate with drafted content
-
+                - New value: populate with drafted content
 - Agent finalizes `Artifact Edit Draft`
-    ◦ Edit `Artifact Edit Draft`
+    - Edit `Artifact Edit Draft`
         - Updated fields
             - Status
-                ◦ New value: set to `Draft Finalized`
-
+                - New value: set to `Draft Finalized`
 - Powerhouse System Creates `Artifact Edit Proposal` Document
-    ◦ Updated fields
+    - Updated fields
         - Content
             - New value: Inherits data from `Artifact Edit Draft` Document’s Content field.
-    ◦ Responsible party: Operational GovOps [if not automated]
-
+    - Responsible party: Operational GovOps [if not automated]
 - Agent submits `Artifact Edit Proposal` Document to Powerhouse system
-    ◦ Updated fields
+    - Updated fields
         - Status:
-            - New value: set to  `Pending Facilitator Review`
-    ◦ Responsible Party: Agent
+            - New value: set to `Pending Facilitator Review`
+    - Responsible Party: Agent
 
 ###### A.2.2.8.2.2.3.3.4 - Required Outputs [Core]  <!-- UUID: bea2c790-2359-4bb7-8744-3f43deb05d26 -->
 
@@ -8857,7 +8615,7 @@ The Agent Artifact documents specified herein are updated as the output of this 
 The Document in the Agent Artifact is updated as follows:
 
 - Updated fields
-    ◦ Active Instances/Instance Name/Instance Status
+    - Active Instances/Instance Name/Instance Status
         - New value: `Proposal Pending Facilitator Review`
 - Responsible Party: Operational GovOps
 - Triggers: [A.2.2.8.2.2.3.4 - Process Definition for Operational Facilitator Review](2d1d83ea-2a90-4c34-93ea-5bea390f3f62).
@@ -8891,9 +8649,7 @@ This process has no dependencies.
 The process flow is defined herein.
 
 - The Operational Facilitator reviews the `Artifact Edit Proposal` to ensure alignment with the Sky Core Atlas and the Agent Artifact.
-
-- Where the Proposal is determined to be aligned, the Operational Facilitator updates the `Artifact Edit Proposal`  Document to reflect their approval and commentary, if any.
-
+- Where the Proposal is determined to be aligned, the Operational Facilitator updates the `Artifact Edit Proposal` Document to reflect their approval and commentary, if any.
 - Where the Proposal is determined to be misaligned, the Operational Facilitator updates the `Artifact Edit Proposal` document to reflect their rejection and commentary. Commentary is required where the Operational Facilitator rejects the proposal for misalignment.
 
 ###### A.2.2.8.2.2.3.4.3 - Required Primitive Inputs [Core]  <!-- UUID: 7f991abf-3395-4f92-82e1-88e991ebd97a -->
@@ -8901,26 +8657,25 @@ The process flow is defined herein.
 The required Primitive Inputs to this process are defined herein and organized as two mutually exclusive pathways. Once the Review outcome is determined by the Facilitator, the corresponding Pathway is followed to the exclusion of the other.
 
 - Operational Facilitator Approves Proposal
-    ◦ Edit `Artifact Edit Proposal`
+    - Edit `Artifact Edit Proposal`
         - Updated fields
             - `Operational Facilitator Review/Review Decision`
-                ◦ New value: set to `Approved`
+                - New value: set to `Approved`
             - `Commentary`
-                ◦ New value (optional): populate with reasoning for Approval
+                - New value (optional): populate with reasoning for Approval
             - `Status`
-                ◦ New value: set to `Proposal Approved by Facilitator` [automated]
+                - New value: set to `Proposal Approved by Facilitator` [automated]
         - Responsible party: Operational Facilitator
         - Trigger-Process: [A.2.2.8.2.2.3.5 - Process Definition for Offchain Vote](24fa76f6-4728-4f1d-97ff-fd7e72dac2ac).
- 
 - Operational Facilitator Rejects Proposal
-    ◦ Edit `Artifact Edit Proposal`
+    - Edit `Artifact Edit Proposal`
         - Updated fields
             - `Operational Facilitator Review/Review Decision`
-                ◦ New value: set to `Rejected`
+                - New value: set to `Rejected`
             - `Commentary`
-                ◦ New value (required): populate with reasoning for Rejection
+                - New value (required): populate with reasoning for Rejection
             - `Status`
-                ◦ New value: set to `Proposal Rejected By Facilitator` [automated]
+                - New value: set to `Proposal Rejected By Facilitator` [automated]
         - Responsible party: Operational Facilitator
 
 ###### A.2.2.8.2.2.3.4.4 - Required Outputs [Core]  <!-- UUID: c7436489-4aac-47cb-be2d-31774bd7ee99 -->
@@ -8964,9 +8719,7 @@ This process has no dependencies.
 The process flow for this process is defined herein:
 
 - Using the finalized `Atlas Edit Proposal` content, the Operational Facilitator sets up an offchain Snapshot vote.
-
 - Prime Agent token holders vote on the proposal.
-
 - After the voting concludes, the Operational Facilitator records the result of the vote in the Powerhouse system.
 
 ###### A.2.2.8.2.2.3.5.3 - Required Primitive Inputs [Core]  <!-- UUID: d247fec5-a19d-4307-94de-a2cbcc368d64 -->
@@ -8974,28 +8727,25 @@ The process flow for this process is defined herein:
 The required Primitive Inputs to this process are defined herein.
 
 - After Facilitator prepares Snapshot vote:
-    ◦ Edit `Artifact Edit Proposal` Document
+    - Edit `Artifact Edit Proposal` Document
         - Updated fields
             - Status
-                ◦ New value: set to `Pending Poll`
+                - New value: set to `Pending Poll`
             - Off-chain Snapshot
-                ◦ New value: Populate with link to the official Snapshot page
+                - New value: Populate with link to the official Snapshot page
         - Responsible party: Operational Facilitator
-
 - Mutually Exclusive Input Pathways: The two Primitive Inputs below are mutually exclusive pathways. Once the vote concludes, the corresponding Pathway is followed to the exclusion of the other.
-
-    ◦ Proposal Passes
+    - Proposal Passes
         - Edit `Artifact Edit Proposal` Document
             - Update fields
-                ◦ Status
+                - Status
                     - New value: set to `Poll Approved`
             - Responsible party: Operational Facilitator.
             - Trigger - Required Output: Proposal passes
-
-    ◦ Proposal Fails
+    - Proposal Fails
         - Updated fields
             - Edit `Artifact Edit Proposal` Document
-                ◦ Status
+                - Status
                     - New value: set to `Poll Rejected`
             - Responsible party: Operational Facilitator.
             - Trigger - Required Output: Proposal fails
@@ -9010,19 +8760,19 @@ No Sky Core Atlas documents are updated as the output of this process.
 
 ###### A.2.2.8.2.2.3.5.4.2 - Agent Artifact Updates [Core]  <!-- UUID: adfb66a3-4f73-4fcc-bfa2-f5126503187c -->
 
-The Agent Artifact documents specified herein are updated as the output of this process. The Output "sets" are mutually exclusive. 
+The Agent Artifact documents specified herein are updated as the output of this process. The Output "sets" are mutually exclusive.
+The Agent Artifact documents specified herein are updated as the output of this process. The Output "sets" are mutually exclusive.
 
 - Proposal passes
-    ◦ Required Primitive Input Trigger: Proposal Passes 
-    ◦ **Edit** `Primitive Hub Document`
+    - Required Primitive Input Trigger: Proposal Passes
+    - **Edit** `Primitive Hub Document`
         - Fields Updated
             - Active instances/instance name/instance status - set to `Approved`
         - Responsible Party: Operational GovOps
-        - Trigger - Process: [A.2.2.8.2.2.3.6 - Process Definition for Artifact Update](182ca3dc-108f-4941-ae2e-eb01c345125b). 
-
+        - Trigger - Process: [A.2.2.8.2.2.3.6 - Process Definition for Artifact Update](182ca3dc-108f-4941-ae2e-eb01c345125b).
 - Proposal fails
-    ◦ Required Primitive Input Trigger: Proposal Fails 
-    ◦ **Edit** `Primitive Hub Document`
+    - Required Primitive Input Trigger: Proposal Fails
+    - **Edit** `Primitive Hub Document`
         - Fields Updated
             - Active instances/instance name/instance status - set to `Rejected`
         - Other Document Operations:
@@ -9064,7 +8814,7 @@ The process flow is defined herein.
 The following inputs must be submitted into the Primitive using the Powerhouse interface.
 
 - Edit `Instance Configuration Document` to reflect ratified Primitive Instance.
-    ◦ Updated fields
+    - Updated fields
         - Parameters/Status - automatically inherits from `Primitive Hub Document`
         - Parameters/Integration Partner Name
             - New Value: set to `Integration Partner Name` value from approved Proposal
@@ -9082,7 +8832,7 @@ The following inputs must be submitted into the Primitive using the Powerhouse i
             - New Value: set to `Integration Boost Savings Rate Adjustment Strategy` value from approved Proposal
         - Parameters/Custom Instance Parameters
             - New Value: set to `Custom Instance Parameters` value from approved Proposal
-        -  Responsible party: Operational GovOps [if not automated]
+        - Responsible party: Operational GovOps [if not automated]
 
 ###### A.2.2.8.2.2.3.6.4 - Required Outputs [Core]  <!-- UUID: bd74388f-69d8-48fc-bab8-522f1b3b5806 -->
 
@@ -9097,7 +8847,7 @@ The Sky Core Documents specified herein are updated as the output of this proces
 [A.2.2.8.1.2.1.5.2.0.6.1 - List Of Onboarding Integrators](eb644108-94fc-430f-ae5a-e3294b9dd9be) is updated as follows:
 
 - Updated fields
-    ◦ `Onboarding Integrators`
+    - `Onboarding Integrators`
         - New value: Delete the Integrator.
 - Responsible Party: Operational GovOps
 - Triggers: None
@@ -9107,11 +8857,11 @@ The Sky Core Documents specified herein are updated as the output of this proces
 [A.2.2.8.1.2.1.5.1.0.6.1 - List Of Current Integrators](efbe7903-a76e-40f0-a440-56e463283157) is updated as follows:
 
 - Updated fields
-    ◦ `Current Integrators`
+    - `Current Integrators`
         - New value: set to the name of the Integrator from the approved Proposal
-    ◦ `Reward Code`
+    - `Reward Code`
         - New value: set to the Reward Code from the approved Proposal
-    ◦ `Tracking Methodology`
+    - `Tracking Methodology`
         - New value: set to the tracking methodology from the approved Proposal
 - Responsible Party: Operational GovOps
 - Triggers: None
@@ -9126,9 +8876,9 @@ The Document in the Agent Artifact is updated as follows:
 
 - Required Primitive Input Trigger: Proposal passes
 - Updated fields
-    ◦ Active Instances/Instance Name/Instance Status
+    - Active Instances/Instance Name/Instance Status
         - New value: `Active`
-    ◦ Instance Location: [links to `Instance Configuration Document` subtree]
+    - Instance Location: [links to `Instance Configuration Document` subtree]
 - Responsible Party: Operational Facilitator
 - Trigger-Process: None.
 
@@ -9169,9 +8919,7 @@ This process has no dependencies.
 The process flow is defined herein:
 
 - At the end of each Integration Boost period, the data provider submits the net USDS deposit data to Powerhouse.
-
 - Operational GovOps verifies this data by checking on-chain balances and confirms that there are no discrepancies.
-
 - Operational GovOps then calculates the payout based on the net USDS deposit data and the Sky Savings Rate.
 
 ###### A.2.2.8.2.2.4.1.1.3 - Required Primitive Inputs [Core]  <!-- UUID: 4c84f0a6-0d4d-4718-a7c4-04fa29fadfcc -->
@@ -9179,7 +8927,7 @@ The process flow is defined herein:
 The required Primitive Inputs to this process are specified herein.
 
 - Edit `Integration Boost Payments` Document (Active Data)
-    ◦ Updated fields
+    - Updated fields
         - Status
             - New value: set to `In Progress`
         - Underlying data
@@ -9188,8 +8936,8 @@ The required Primitive Inputs to this process are specified herein.
             - New value: populate with calculated value
         - Integration Boost payment due
             - New value: populate with calculated value.
-    ◦ Responsible party: Operational GovOps.
-    ◦ Trigger-Process: [A.2.2.8.2.2.4.1.2 - Process Definition For Integration Boost Payment Issuance From Operational Executor Agent Buffer](16474cb5-8af4-4f11-b0c1-2c00f292cc2b).
+    - Responsible party: Operational GovOps.
+    - Trigger-Process: [A.2.2.8.2.2.4.1.2 - Process Definition For Integration Boost Payment Issuance From Operational Executor Agent Buffer](16474cb5-8af4-4f11-b0c1-2c00f292cc2b).
 
 ###### A.2.2.8.2.2.4.1.1.4 - Required Outputs [Core]  <!-- UUID: 08dd7788-9265-46f3-bc91-3215218bc69f -->
 
@@ -9232,7 +8980,6 @@ This process has no dependencies.
 The process flow is defined herein.
 
 - Operational GovOps makes the payment to the reward address specified in the Primitive Instance from the Operational Executor Agent Buffer.
-
 - Operational GovOps updates the Powerhouse system with the transaction details.
 
 ###### A.2.2.8.2.2.4.1.2.3 - Required Primitive Inputs [Core]  <!-- UUID: 862aff47-67fc-4b7f-bc16-b45b7edd9e83 -->
@@ -9240,15 +8987,15 @@ The process flow is defined herein.
 The required Primitive Inputs to this process are specified herein.
 
 - Edit `Integration Boost Payments` Document (Active Data)
-    ◦ Updated fields
-        -  Status
+    - Updated fields
+        - Status
             - New value: set to `Paid`
         - Transaction Details/Amount Paid
             - New value: populate with amount paid
         - Transaction Details/Tx hash
             - New value: populate with transaction hash
-    ◦ Responsible Party: Operational GovOps
-    ◦ Trigger - Process: [A.2.2.8.2.2.4.1.3 - Process Definition For Settlement Cycle And Core GovOps Review](d9c13a1a-aa81-483a-bc72-453d27980717).
+    - Responsible Party: Operational GovOps
+    - Trigger - Process: [A.2.2.8.2.2.4.1.3 - Process Definition For Settlement Cycle And Core GovOps Review](d9c13a1a-aa81-483a-bc72-453d27980717).
 
 ###### A.2.2.8.2.2.4.1.2.4 - Required Outputs [Core]  <!-- UUID: baa296a6-7b9c-4134-b6a2-648d8a24a9bc -->
 
@@ -9291,7 +9038,6 @@ This process has no dependencies.
 The process flow is defined herein.
 
 - Core GovOps reviews Integration Boost calculations, including underlying data and calculation of balances and rewards due.
-
 - Once Core GovOps has completed review, they update Powerhouse system to indicate that they confirm the accuracy of the Integration Boost amounts.
 
 ###### A.2.2.8.2.2.4.1.3.3 - Required Primitive Inputs [Core]  <!-- UUID: ebbfa305-4d56-45f4-8d06-180dc02cbb2f -->
@@ -9299,12 +9045,12 @@ The process flow is defined herein.
 The required Primitive Inputs to this process are specified herein.
 
 - Edit `Integration Boost Payments` Active Data Document
-    ◦ Updated field
+    - Updated field
         - Core GovOps Review/Confirmation
             - New value: populate with yes or no.
         - Core GovOps Review/Commentary
             - New value: populate with reasoning (required if confirmation value is `No`)
-    ◦ Responsible party: Core GovOps
+    - Responsible party: Core GovOps
 
 ###### A.2.2.8.2.2.4.1.3.4 - Required Outputs [Core]  <!-- UUID: 5a0f038c-c710-4889-882a-a0cb040577a3 -->
 
@@ -9319,15 +9065,15 @@ The Sky Core Atlas documents specified herein are updated as the output of this 
 The document in the Sky Core Atlas is updated as follows:
 
 - Updated Fields
-    ◦ Status
+    - Status
         - New value: populate with `Pending Payment`
-    ◦ Confirmed Reimbursement Due
+    - Confirmed Reimbursement Due
         - New value: populate with total Reimbursement amount
-    ◦ Reward Period
+    - Reward Period
         - New Value: populate with reward period
-    ◦ Operational Executor Agent
+    - Operational Executor Agent
         - New value: Populate with name of Operational Executor Agent
-    ◦ Prime Agent
+    - Prime Agent
         - New value: Populate with name of Prime Agent.
 - Responsible Party: Core GovOps
 - Triggers: [A.2.2.8.2.2.4.1.4 - Process Definition For Executive Vote Reimbursement](c40a0708-12e4-46da-89d7-0e5a3a839455).
@@ -9365,7 +9111,6 @@ This process has no dependencies.
 The process flow is defined herein:
 
 - Core GovOps includes the Integration Boost reimbursement in the next standard Executive Vote.
-
 - After the Executive Vote passes, Core GovOps updates the Powerhouse system with the transaction details.
 
 ###### A.2.2.8.2.2.4.1.4.3 - Required Primitive Inputs [Core]  <!-- UUID: f54de74a-4208-4878-8049-3184ab3f9a0d -->
@@ -9373,22 +9118,21 @@ The process flow is defined herein:
 The required Primitive Inputs to this process are specified herein and organized as sequential stages.
 
 - Core GovOps adds reimbursement to Executive Vote
-    ◦ Edit `Sky Core Integration Boost Reimbursement Amounts` 
-        -  Updated fields
+    - Edit `Sky Core Integration Boost Reimbursement Amounts`
+        - Updated fields
             - Executive Vote Settlement/Executive Vote
-                ◦ New value: links to proposal
+                - New value: links to proposal
             - Status
-                ◦ New value: set to `Added to Executive Vote`
-
+                - New value: set to `Added to Executive Vote`
 - After Executive Vote passes, Core GovOps updates Powerhouse system
-    ◦ Edit `Sky Core Integration Boost Reimbursement Amounts`
-        -  Updated fields
+    - Edit `Sky Core Integration Boost Reimbursement Amounts`
+        - Updated fields
             - Executive Vote Settlement / Transaction Details/ Amount Paid
-                ◦ New value: populate with amount paid to reimburse Operational Executor Agent Buffer.
+                - New value: populate with amount paid to reimburse Operational Executor Agent Buffer.
             - Executive Vote Settlement / Transaction Details / Tx Hash
-                ◦ New value: Populate with transaction hash
+                - New value: Populate with transaction hash
             - Status
-                ◦ New value: set to `Completed`
+                - New value: set to `Completed`
 
 ###### A.2.2.8.2.2.4.1.4.4 - Required Outputs [Core]  <!-- UUID: 8d00d8df-f970-4b2e-8da9-3b9fe2af9e2b -->
 
@@ -9403,10 +9147,10 @@ The Sky Core Atlas documents specified herein are updated as the output of this 
 The Document in the Sky Core Atlas is updated as follows:
 
 - Updated fields
-    ◦ Status
+    - Status
         - New value: set to `Paid`
-    ◦ Responsible Party: Core GovOps
-    ◦ Trigger-Process: None
+    - Responsible Party: Core GovOps
+    - Trigger-Process: None
 
 ###### A.2.2.8.2.2.4.1.4.4.2 - Agent Artifact Updates [Core]  <!-- UUID: 39aba7ed-95ff-4247-acb7-61032649b218 -->
 
@@ -9438,9 +9182,10 @@ In order to be confirmed as a Pioneer Prime, a Prime Agent must provide written 
 
 ###### A.2.2.8.3.1.2.1 - Active Pioneer Primes [Active Data Controller]  <!-- UUID: 65fc0b79-8827-403d-80ee-9f74a6be1069 -->
 
-Active Pioneer Primes are Prime Agents who have been designated by the official team or foundation of the Pioneer Chain and confirmed as Pioneer Primes by Operational GovOps. The list of Current Pioneer Primes is defined as Active Data in [A.2.2.8.3.1.2.1.0.6.1 - List of Active Pioneer Primes](f2ecf6a4-4d5f-4443-b25c-3bd10b1af82e). 
+Active Pioneer Primes are Prime Agents who have been designated by the official team or foundation of the Pioneer Chain and confirmed as Pioneer Primes by Operational GovOps. The list of Current Pioneer Primes is defined as Active Data in [A.2.2.8.3.1.2.1.0.6.1 - List of Active Pioneer Primes](f2ecf6a4-4d5f-4443-b25c-3bd10b1af82e).
 
 The Active Data is updated as follows:
+
 - The Responsible Party is Operational GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
@@ -9448,7 +9193,7 @@ The Active Data is updated as follows:
 
 The current Active Pioneer Primes are:
 
-◦ Keel
+- Keel
 
 ###### A.2.2.8.3.1.3 - Pioneer Prime Benefits [Core]  <!-- UUID: f0d5ab5e-bf35-4a9d-a73f-d82baac6e604 -->
 
@@ -9496,16 +9241,17 @@ Sky Direct Exposures are designated by the Core Facilitator in consultation with
 
 ###### A.2.2.9.1.1.1.1.2 - Current Sky Direct Exposures [Active Data Controller]  <!-- UUID: 1c0410e4-fe36-4a01-8b82-8ea74f67fbec -->
 
-The list of current Sky Direct Exposures is defined as Active Data in [A.2.2.9.1.1.1.1.2.0.6.1 - List Of Current Sky Direct Exposures](5f368e33-7a82-4244-a9ba-f285193ec043). 
+The list of current Sky Direct Exposures is defined as Active Data in [A.2.2.9.1.1.1.1.2.0.6.1 - List Of Current Sky Direct Exposures](5f368e33-7a82-4244-a9ba-f285193ec043).
 
 The Active Data is updated as follows:
+
 - The Responsible Party is the Core Facilitator.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.2.2.9.1.1.1.1.2.0.6.1 - List Of Current Sky Direct Exposures [Active Data]  <!-- UUID: 5f368e33-7a82-4244-a9ba-f285193ec043 -->
 
 The current Sky Direct Exposures are:
-    
+
 - Treasury Bills - Investments by Grove in BUIDL, JTRSY, and USTB on Ethereum Mainnet
 - Peg Stability Modules - Investments by Spark or Grove in USDC in Peg Stability Modules on blockchains other than Ethereum Mainnet
 - Curve Pools - Investments by Spark in USDT in sUSDS/USDT Curve pools
@@ -9515,7 +9261,6 @@ The current Sky Direct Exposures are:
 The Core Facilitator sets the following parameters for Sky Direct Exposures in consultation with the Core Council Risk Advisor:
 
 - Rate limits; and
-
 - Aggregate exposure limits.
 
 The Core Facilitator must post the initial values for these parameters and any updates to them to the Sky Forum under the "Sky Core" category. The values for the parameters for Sky Direct Exposures are set by the Core Facilitator and supersede any values for these parameters specified in the Risk Framework.
@@ -9546,7 +9291,7 @@ Rate Limiter refers to the overall mechanism or system that limits the volume of
 
 ###### A.2.2.9.1.1.1.2.2 - Rate Limits [Core]  <!-- UUID: 8efb0a11-b798-48eb-af19-f65b38f039b5 -->
 
-Rate limits set the maximum allowable amount of tokens that can be processed for specific operations within a given time period. Each rate limit contains the rate limit data: `maxAmount`, `slope`, `lastAmount` and `lastUpdated`.  The current rate limit is calculated using the formula:
+Rate limits set the maximum allowable amount of tokens that can be processed for specific operations within a given time period. Each rate limit contains the rate limit data: `maxAmount`, `slope`, `lastAmount` and `lastUpdated`. The current rate limit is calculated using the formula:
 
 `currentRateLimit = min(slope * (block.timestamp - lastUpdated) + lastAmount, maxAmount)`.
 
@@ -9606,7 +9351,7 @@ If necessary, the Prime Agent reaches out to other Prime Agents that could provi
 
 ###### A.2.2.9.1.1.2.1.3 - Prime Agent Preparation Of Capital And Operational Plan [Core]  <!-- UUID: 4aa05a21-86d6-451e-a1b1-2afd1107edba -->
 
-The Capital and Operational Plan ("C&O Plan") articulates the Prime Agent’s strategy for a proposed new Allocation Instance or a modification to an existing Instance. In addition to articulating the Instance’s strategic objectives and operational parameters, the C&O Plan includes a pro-forma Required Risk Capital (RRC) estimate and a strategy for ensuring sufficient Total Risk Capital (TRC) coverage. 
+The Capital and Operational Plan ("C&O Plan") articulates the Prime Agent’s strategy for a proposed new Allocation Instance or a modification to an existing Instance. In addition to articulating the Instance’s strategic objectives and operational parameters, the C&O Plan includes a pro-forma Required Risk Capital (RRC) estimate and a strategy for ensuring sufficient Total Risk Capital (TRC) coverage.
 
 The C&O Plan is the major input into the Artifact Edit Proposal that codifies the new or modified Instance. Following the approval of such a proposal by Prime governance, the details and commitments outlined in the C&O Plan are formally integrated into the respective Instance Configuration Document of the Prime Agent’s Artifact.
 
@@ -9621,17 +9366,14 @@ As a critical component of the Capital & Operational Plan, the Prime Agent must 
 The Prime’s notional TRC coverage strategy must outline how this new Instance’s RRC will be notionally accounted for or supported by the Prime’s overall TRC pool. If the Prime’s current TRC is not sufficient to cover its estimated increased Aggregate RRC, the strategy should outline the Prime Agent’s intended steps for acquiring additional JRC/SRC.
 
 For instance, this risk-capital acquisition strategy could involve:
-    
-1. Renting Junior Risk Capital (JRC)    
-◦ Sourcing Prime-External Junior Risk Capital (SEJRC) by renting it from other Primes through Ecosystem Accords.    
-◦ Sourcing Tokenized External Junior Risk Capital (TEJRC) from external capital providers.
-    
-2. Sourcing Senior Risk Capital (SRC):    
-◦ Originating SRC through the Sky monthly auction.    
-◦ Renting OSRC from other Primes through Ecosystem Accords.
-    
+
+1. Renting Junior Risk Capital (JRC)
+    - Sourcing Prime-External Junior Risk Capital (SEJRC) by renting it from other Primes through Ecosystem Accords.
+    - Sourcing Tokenized External Junior Risk Capital (TEJRC) from external capital providers.
+2. Sourcing Senior Risk Capital (SRC):
+    - Originating SRC through the Sky monthly auction.
+    - Renting OSRC from other Primes through Ecosystem Accords.
 3. Increasing Internal Junior Risk Capital (IJRC): A Prime might have plans to bolster its own IJRC through retained earnings or other internal means.
-    
 4. Decreasing exposure in an existing Instance(s) to lower Aggregate RRC.
 
 The Prime’s capital-acquisition strategy should indicate how the Prime will remain in compliance with all relevant Atlas rules, such as sourcing ratios that constrain how much Senior Risk Capital can be "enabled" or counted toward a Prime’s Aggregate RRC. See [A.3.2.1.2.3 - Total Risk Capital Sourcing Ratios](9e99b084-f15a-4f60-b831-d6c0bd9aec04).
@@ -9639,16 +9381,12 @@ The Prime’s capital-acquisition strategy should indicate how the Prime will re
 ###### A.2.2.9.1.1.2.1.3.3 - Additional Elements Of Capital And Operational Plan [Core]  <!-- UUID: a156b120-8b27-4a31-95fe-4154205ca102 -->
 
 The Capital & Operational Plan includes the following additional elements:
-    
-◦ Operational Parameters: defines the Instance’s target chain(s), protocols, initial capital, maximum deposit sizes, and any other parameters that underpin the pro-forma RRC calculation.    
 
-◦ Data Submission Protocol: defines how yields, Required Risk Capital usage, ALM costs, exchange data, etc. will be reported and audited.    
-
-◦ Emergency Procedures: defines mechanisms to be triggered if security or risk capital thresholds are breached, such as a kill switch or partial freeze.    
-
-◦ Asset Liability Management (ALM) Strategy: details if the Prime will meet its ALM requirements through its own direct asset management or by transferring its obligations to another Prime Agent via the ASC Rental Primitive. If the latter, the C&O Plan must reference the governing Ecosystem Accord and its key terms.    
-
-◦ Performance-based Adjustments: define the conditions or KPIs that allow adjustments to Instance deposit caps or yield expansions without requiring a formal Artifact edit.
+- Operational Parameters: defines the Instance’s target chain(s), protocols, initial capital, maximum deposit sizes, and any other parameters that underpin the pro-forma RRC calculation.
+- Data Submission Protocol: defines how yields, Required Risk Capital usage, ALM costs, exchange data, etc. will be reported and audited.
+- Emergency Procedures: defines mechanisms to be triggered if security or risk capital thresholds are breached, such as a kill switch or partial freeze.
+- Asset Liability Management (ALM) Strategy: details if the Prime will meet its ALM requirements through its own direct asset management or by transferring its obligations to another Prime Agent via the ASC Rental Primitive. If the latter, the C&O Plan must reference the governing Ecosystem Accord and its key terms.
+- Performance-based Adjustments: define the conditions or KPIs that allow adjustments to Instance deposit caps or yield expansions without requiring a formal Artifact edit.
 
 ###### A.2.2.9.1.1.2.1.4 - Preliminary Informal Check With Operational GovOps [Core]  <!-- UUID: e7d3d696-e2d0-4d4b-b4d6-c7a0c47b7cc6 -->
 
@@ -9692,7 +9430,7 @@ The documents herein define the process for managing an Allocation Instance as p
 
 ###### A.2.2.9.1.1.3.1 - Operationalization Of Allocation Instances [Core]  <!-- UUID: 989512c2-4fa1-46b8-947c-00e3c0b56024 -->
 
-Prime Agent teams may choose to directly operationalize their Allocation System Primitive Instances ("Instances") using internal, proprietary strategies that are not defined in their Artifacts. Alternatively, Prime Agents may elect to have the Instances operationalized by their Operational Executor Agent. This constitutes an exception to the general rule that Operational Executor Agents operationalize all Sky Primitives on behalf of Prime Agents. See [A.1.13.3.4 - Agent Role Delineation](fdf32ca5-5e2e-481e-9047-4d1599547216). 
+Prime Agent teams may choose to directly operationalize their Allocation System Primitive Instances ("Instances") using internal, proprietary strategies that are not defined in their Artifacts. Alternatively, Prime Agents may elect to have the Instances operationalized by their Operational Executor Agent. This constitutes an exception to the general rule that Operational Executor Agents operationalize all Sky Primitives on behalf of Prime Agents. See [A.1.13.3.4 - Agent Role Delineation](fdf32ca5-5e2e-481e-9047-4d1599547216).
 
 For Prime Agent teams that operationalize their Instances, they will be required to formulate KPIs for their proprietary strategies; should an Instance under-perform these KPIs, Operational GovOps is authorized to step in and operationalize the Instance(s) via a back-up strategy that is defined in the Agent Artifact. Additional logic on this point will be defined in a future iteration of the Atlas.
 
@@ -9717,12 +9455,12 @@ The Sky Core RRC Dashboard is located at [https://info.sky.money/required-risk-c
 The RRC Dashboard provides a user interface for Prime Agents to view their official RRC figures. The Dashboard provides the following key information:
 
 - Instance Total RRC: For each specific Allocation System Primitive Instance, the system displays its Instance Total RRC. This figure is the sum of all applicable risk-specific RRC calculations for that Instance, including:
- - Instance Financial RRC ([A.3.2.1.1.4 - Instance Financial RRC](ba1d5c0e-399f-47a6-b5d4-b3f5477d5787))
- - Instance Smart Contract RRC ([A.3.2.1.1.5 - Instance Smart Contract RRC](4b4ea578-28b4-481c-9abd-d34c5a4f383c))
- - Instance Administrative RRC ([A.3.2.1.1.6 - Instance Administrative RRC](c2b60f0d-6555-463c-9ad3-2a9746be77c5))
+    - Instance Financial RRC ([A.3.2.1.1.4 - Instance Financial RRC](ba1d5c0e-399f-47a6-b5d4-b3f5477d5787))
+    - Instance Smart Contract RRC ([A.3.2.1.1.5 - Instance Smart Contract RRC](4b4ea578-28b4-481c-9abd-d34c5a4f383c))
+    - Instance Administrative RRC ([A.3.2.1.1.6 - Instance Administrative RRC](c2b60f0d-6555-463c-9ad3-2a9746be77c5))
 
-The models for certain risk-factors are still currently under development. See [A.2.2.9.1.1.3.2.1.1.2 - Interim Notice Regarding RRC Dashboard Coverage](18243e7a-5b62-459d-83fb-e50b9df05f9d). 
-    
+The models for certain risk-factors are still currently under development. See [A.2.2.9.1.1.3.2.1.1.2 - Interim Notice Regarding RRC Dashboard Coverage](18243e7a-5b62-459d-83fb-e50b9df05f9d).
+
 - Aggregate RRC: For each Prime Agent, the system displays its Aggregate RRC, which is the sum of all its Instance Total RRCs. This is the figure against which a Prime Agent’s Total Risk Capital (TRC) adequacy is assessed.
 
 ###### A.2.2.9.1.1.3.2.1.1.2 - Interim Notice Regarding RRC Dashboard Coverage [Core]  <!-- UUID: 18243e7a-5b62-459d-83fb-e50b9df05f9d -->
@@ -9744,24 +9482,20 @@ Primes must ensure that their internal TRC management systems maintain comprehen
 
 ###### A.2.2.9.1.1.3.2.1.2.2 - Minimum Capabilities of Prime TRC Management Systems [Core]  <!-- UUID: d034533f-9b6f-411c-8b60-3bccb374765f -->
 
-A Prime Agent’s internal TRC management system should possess the following capabilities to meet the objectives outlined in [A.2.2.9.1.1.3.2.1.2.1 - Objective of Prime TRC Management](9a8120c4-0a5b-426f-97a5-283c708413f5). 
-    
-1. Prime Agents’ internal TRC management systems should enable compliant sourcing and tracking of all TRC components, including Internal Junior Risk Capital (IJRC), Prime-External Junior Risk Capital (SEJRC), Tokenized External Junior Risk Capital (TEJRC), and Originated Senior Risk Capital (OSRC). Compliance in this context includes strict adherence to eligibility criteria and capital-sourcing ratios (e.g., External Per Internal, Senior Per Junior) as defined in the Atlas. See [A.3.2.1.2.3 - Total Risk Capital Sourcing Ratios](9e99b084-f15a-4f60-b831-d6c0bd9aec04). 
+A Prime Agent’s internal TRC management system should possess the following capabilities to meet the objectives outlined in [A.2.2.9.1.1.3.2.1.2.1 - Objective of Prime TRC Management](9a8120c4-0a5b-426f-97a5-283c708413f5).
 
+1. Prime Agents’ internal TRC management systems should enable compliant sourcing and tracking of all TRC components, including Internal Junior Risk Capital (IJRC), Prime-External Junior Risk Capital (SEJRC), Tokenized External Junior Risk Capital (TEJRC), and Originated Senior Risk Capital (OSRC). Compliance in this context includes strict adherence to eligibility criteria and capital-sourcing ratios (e.g., External Per Internal, Senior Per Junior) as defined in the Atlas. See [A.3.2.1.2.3 - Total Risk Capital Sourcing Ratios](9e99b084-f15a-4f60-b831-d6c0bd9aec04).
 The system must provide real-time or near real-time tracking of all held Total Risk Capital (TRC) components. This includes, for each TRC component:
-        ◦ Accurate valuation of the assets comprising each component.
-        ◦ Clear identification of the source of each component (e.g., Prime’s own SubProxy for IJRC, specific Ecosystem Accord references for rented SEJRC or OSRC, TEJRC encumbrance details, OSRC origination details).
-        ◦ Verification of each TRC component’s eligibility status according to Atlas rules. This includes tracking whether capital is “enabled” or “active” for RRC coverage purposes (e.g., based on Ecosystem Accord status, compliance with sourcing ratios, etc.).
-        ◦ Distinction between capital directly held by the Prime Agent and capital that is encumbered (e.g., SEJRC where the lending Prime retains custody but the capital is contractually committed).
-    
+    - Accurate valuation of the assets comprising each component.
+    - Clear identification of the source of each component (e.g., Prime’s own SubProxy for IJRC, specific Ecosystem Accord references for rented SEJRC or OSRC, TEJRC encumbrance details, OSRC origination details).
+    - Verification of each TRC component’s eligibility status according to Atlas rules. This includes tracking whether capital is “enabled” or “active” for RRC coverage purposes (e.g., based on Ecosystem Accord status, compliance with sourcing ratios, etc.).
+    - Distinction between capital directly held by the Prime Agent and capital that is encumbered (e.g., SEJRC where the lending Prime retains custody but the capital is contractually committed).
 2. Prime Agents' internal TRC management systems should enable dynamic-state accounting. The system must account for TRC components that are in dynamic, pending, or off-chain states, as these can impact the true risk capital available to a Prime Agent. This includes:
-        ◦ Pending transactions such as SEJRC or OSRC rental Ecosystem Accords that have been committed to by the parties, but not yet codified in the Atlas.
-        ◦ Capital in transit, e.g., assets that are committed to be IJRC, but currently moving between chains via bridges or locked in Cross-Chain Transfer Protocol (CCTP) messages awaiting finality.
-        ◦ Operational expenditures funded by TRC components (typically IJRC), such as blockchain transaction fees, oracle service fees, audit costs, and other operational overhead that reduces available risk capital. The system should track these expenditures in real-time or near real-time.
-        ◦ Any off-chain factors that could impair the immediate deployability or availability of TRC components.
-    
+    - Pending transactions such as SEJRC or OSRC rental Ecosystem Accords that have been committed to by the parties, but not yet codified in the Atlas.
+    - Capital in transit, e.g., assets that are committed to be IJRC, but currently moving between chains via bridges or locked in Cross-Chain Transfer Protocol (CCTP) messages awaiting finality.
+    - Operational expenditures funded by TRC components (typically IJRC), such as blockchain transaction fees, oracle service fees, audit costs, and other operational overhead that reduces available risk capital. The system should track these expenditures in real-time or near real-time.
+    - Any off-chain factors that could impair the immediate deployability or availability of TRC components.
 3. Prime Agents' internal TRC management systems should enable continuous capital adequacy monitoring. The system must enable the near real-time comparison of the Prime Agent's internally tracked and calculated TRC against its official Aggregate RRC, as obtained from the Sky Core RRC Dashboard. See [A.2.2.9.1.1.3.2.1.1 - Sky Core Required Risk Capital (RRC) Dashboard](4eac2c9e-2718-4881-a3f1-ed10fb3f4d13). This core functionality is essential for the Prime Agent to proactively monitor its capital adequacy, identify potential or actual TRC shortfalls, and make timely operational and capital management decisions to maintain compliance.
-    
 4. Prime Agents' internal TRC management systems should define a RRC-incident (e.g., TRC shortfall) response protocol. The system should enable internal alerting mechanisms that detect when a Prime Agent’s TRC approaches predefined internal buffer thresholds relative to its Aggregate RRC. See [A.3.2.2.7.2.1.1.1 - Encumbrance Ratio](5435f680-aaaa-461a-bcae-4056bb8964d9). The system should also detect an actual shortfall where the Prime Agent’s held TRC falls below its Aggregate RRC. Furthermore, Prime Agent teams should establish and document internal processes for responding to such alerts. Such internal processes should include: 1) internal escalation and assessment of the shortfall’s cause and magnitude; 2) formulation of potential responses or corrective actions, which may include sourcing additional TRC, reducing risk-weighted exposures, or other measures; 3) internal decision-making framework for the evaluation of potential responses and selection of the most appropriate one; and 4) notifying any pertinent parties (Operational GovOps) as needed for the purpose of planning or implementing follow-up action.
 
 Prime Agent teams' internal decision-making framework may consider the economic trade-offs of various actions, including the strategic acceptance of penalties for a TRC shortfall where such an approach is determined to be economically advantageous compared to immediate rebalancing (e.g., avoiding excessive transaction costs or market impact).
@@ -9772,41 +9506,40 @@ Prime Agents are required to submit periodic Total Risk Capital (TRC) Reports to
 
 ###### A.2.2.9.1.1.3.2.1.2.3.1 - Mandate and Rationale [Core]  <!-- UUID: 7e95efa7-e409-48dc-9b5a-96edce54bf31 -->
 
-Prime Agents are required to periodically submit TRC Reports to Core GovOps. This report serves a dual purpose. It provides a verifiable snapshot of the Prime Agent's TRC composition and key capital ratios as of the end of the reporting period; and second, it provides a formal attestation regarding the Prime Agent's maintenance of TRC at or above its dynamically changing Aggregate Required Risk Capital (RRC) throughout the entire reporting period. See [A.3.2.1.1.2 - Aggregate RRC](6aed5cc1-9671-4b73-88a9-fdd86ac93ece). 
+Prime Agents are required to periodically submit TRC Reports to Core GovOps. This report serves a dual purpose. It provides a verifiable snapshot of the Prime Agent's TRC composition and key capital ratios as of the end of the reporting period; and second, it provides a formal attestation regarding the Prime Agent's maintenance of TRC at or above its dynamically changing Aggregate Required Risk Capital (RRC) throughout the entire reporting period. See [A.3.2.1.1.2 - Aggregate RRC](6aed5cc1-9671-4b73-88a9-fdd86ac93ece).
 
 This comprehensive reporting, encompassing both an end-of-period statement and disclosures of any intra-period events affecting TRC, is essential. On-chain data alone (such as that captured by the planned OVRC system) cannot definitively prove the full eligibility and unimpaired availability of a Prime Agent's capital position for continuous RRC coverage, nor can it capture all off-chain factors. These factors include, but are not limited to, whether assets are subject to Prime-initiated off-chain contractual pledges, if the economic value or redeemability of its bridged assets is compromised by issues with their originating bridge, or if its assets are encumbered by derivative structures or other off-chain commitments that would impair their immediate use at any point during the period.
 
-The TRC Report serves as an important basis for Core GovOps’  verification procedures. This entails: 1) reconciling reported end-of-period TRC components against the Sky Atlas, on-chain data, and other relevant sources to validate the period-end capital position and adherence to Atlas-defined capital requirements; and 2) reviewing Prime Agents’ attestations and disclosures regarding its TRC management and any material events throughout the reporting period to assess continuous compliance with its dynamically changing Aggregate RRC. The outcome of this validation is a critical input for the monthly settlement cycles, which latter includes the determination and retroactive application of penalties for any identified discrepancies or violations of capital requirements during the period.
+The TRC Report serves as an important basis for Core GovOps’ verification procedures. This entails: 1) reconciling reported end-of-period TRC components against the Sky Atlas, on-chain data, and other relevant sources to validate the period-end capital position and adherence to Atlas-defined capital requirements; and 2) reviewing Prime Agents’ attestations and disclosures regarding its TRC management and any material events throughout the reporting period to assess continuous compliance with its dynamically changing Aggregate RRC. The outcome of this validation is a critical input for the monthly settlement cycles, which latter includes the determination and retroactive application of penalties for any identified discrepancies or violations of capital requirements during the period.
 
 The long-term vision is for the Powerhouse system to enable the automation of TRC data aggregation and verification. The Powerhouse system will have capabilities such as directly querying Prime Agent SubProxy accounts for IJRC assets, programmatically accessing and interpreting Ecosystem Accords recorded in the Atlas, interfacing with TEJRC and OSRC smart contract systems, and automatically applying Atlas-defined eligibility rules. See [A.2.2.9.1.1.3.2.1.3.1 - Continuous Monitoring Of On-chain Verifiable Risk Capital (OVRC)](8048bdf0-84b7-4546-8f1a-98b62d073c84). Even in this advanced state, the TRC Report, or a similar form of periodic attestation, may remain necessary to cover elements of TRC verification that are not fully able to be automated or require explicit Prime Agent declaration.
 
 ###### A.2.2.9.1.1.3.2.1.2.3.2 - TRC Report Contents [Core]  <!-- UUID: 4887e971-be6c-4f98-9137-7cdec3ed0fa0 -->
 
 The Total Risk Capital (TRC) Report submitted by a Prime Agent must provide an accurate and verifiable breakdown of all TRC components held by the Prime Agent as of the end of the specified reporting period. The TRC Report should include the following essential information:
-    
-◦ Aggregate TRC Value As of End of Period: The total declared value in USD of all eligible TRC components held by the Prime Agent as of the end of the reporting period.
-    
-◦ Detailed Breakdown of TRC Components As of End of Period: For each category of TRC held, the report must detail the following values as of the end of the reporting period:
-        ◦ Internal Junior Risk Capital (IJRC): The total amount of IJRC, a breakdown of its constituent asset types, and their respective values in USD.
-        ◦ Prime-External Junior Risk Capital (SEJRC): The total amount of SEJRC. For each portion of SEJRC sourced from another Prime Agent, the report must include the amount in USD, the identifier of the counterparty Prime Agent, the expiry date of the arrangement, and a direct reference to the Ecosystem Accord that governs the SEJRC arrangement.
-        ◦ Tokenized External Junior Risk Capital (TEJRC): The total amount of TEJRC. For each TEJRC source, the report must include the amount in USD, the identifier of the TEJRC smart contract or facility and any relevant encumbrance identifier.
-        ◦ Originated Senior Risk Capital (OSRC): The total amount of OSRC. The report must specify the amount originated directly by the Prime Agent from the Total Senior Risk Capital (TSRC) pool and any amount of OSRC rented from other Prime Agents. For any rented OSRC, the report must include the amount in USD, the identifier of the counterparty Prime Agent, the expiry date, and a direct reference to the pertinent Ecosystem Accord.
-        ◦ Key Ratio Inputs and Computed Totals (Prime Internal Calculation) As Of End Of Period:  Based on the component values reported above (as of the end of the reporting period), the report must include key figures used in and resulting from the Prime Agent's internal capital adequacy calculations. These figures reflect the capital structure and ratios as of the end of the reporting period and include:
-            - Internal Junior Risk Capital (IJRC)
-            - External Junior Risk Capital (EJRC) generated via External Per Internal Ratio (Prime External Junior Risk Capital + Tokenized External Junior Risk Capital sourced via the EPI ratio still carries Senior Per Junior or SPJ capacity)
-            - EJRC-via-SPJ (sourced by spending SPJ capacity; zero-SPJ-capacity thereafter)
-            - Enabled Senior Risk Capital (SRC)
-            - Total Senior Per Junior capacity
-                ◦ Allocation of SPJ capacity to 1) enable SRC; or to 2) source EJRC
-            - Prime-computed eligible Total Risk Capital (IJRC + EJRC-via-EPI + EJRC-via-SPJ + enabled SRC)
-            - Official Aggregate RRC
-            - Capital buffer = TRC – Aggregate RRC
-            - Effective ratios
-                ◦ EPI = EJRC-via-EPI ÷ IJRC
-                ◦ SPJ utilisation:
-                    ◦ enabled SRC ÷ total SPJ capacity
-                    ◦ EJRC-via-SPJ ÷ total SPJ capacity    
-◦ Dynamic Period Attestation and Disclosures: In addition to the end-of-period snapshot figures, the TRC Report must include an Attestation from the Prime Agent confirming it maintained TRC at or above its Aggregate RRC at all times throughout the entire reporting period. In addition, the TRC Report must include disclosure of any events, Prime-initiated off-chain contractual obligations, impairments to the value or redeemability of held assets (such as RWA backing or bridged asset viability), encumbrances, or other conditions that occurred at any point during the reporting period which materially affected its TRC, even if such conditions were temporary or not continuously visible to on-chain monitoring systems. This disclosure must include the nature of the event/condition, its precise timing and duration, and its quantified impact on the Prime Agent's TRC.
+
+- Aggregate TRC Value As of End of Period: The total declared value in USD of all eligible TRC components held by the Prime Agent as of the end of the reporting period.
+- Detailed Breakdown of TRC Components As of End of Period: For each category of TRC held, the report must detail the following values as of the end of the reporting period:
+    - Internal Junior Risk Capital (IJRC): The total amount of IJRC, a breakdown of its constituent asset types, and their respective values in USD.
+    - Prime-External Junior Risk Capital (SEJRC): The total amount of SEJRC. For each portion of SEJRC sourced from another Prime Agent, the report must include the amount in USD, the identifier of the counterparty Prime Agent, the expiry date of the arrangement, and a direct reference to the Ecosystem Accord that governs the SEJRC arrangement.
+    - Tokenized External Junior Risk Capital (TEJRC): The total amount of TEJRC. For each TEJRC source, the report must include the amount in USD, the identifier of the TEJRC smart contract or facility and any relevant encumbrance identifier.
+    - Originated Senior Risk Capital (OSRC): The total amount of OSRC. The report must specify the amount originated directly by the Prime Agent from the Total Senior Risk Capital (TSRC) pool and any amount of OSRC rented from other Prime Agents. For any rented OSRC, the report must include the amount in USD, the identifier of the counterparty Prime Agent, the expiry date, and a direct reference to the pertinent Ecosystem Accord.
+    - Key Ratio Inputs and Computed Totals (Prime Internal Calculation) As Of End Of Period: Based on the component values reported above (as of the end of the reporting period), the report must include key figures used in and resulting from the Prime Agent's internal capital adequacy calculations. These figures reflect the capital structure and ratios as of the end of the reporting period and include:
+        - Internal Junior Risk Capital (IJRC)
+        - External Junior Risk Capital (EJRC) generated via External Per Internal Ratio (Prime External Junior Risk Capital + Tokenized External Junior Risk Capital sourced via the EPI ratio still carries Senior Per Junior or SPJ capacity)
+        - EJRC-via-SPJ (sourced by spending SPJ capacity; zero-SPJ-capacity thereafter)
+        - Enabled Senior Risk Capital (SRC)
+        - Total Senior Per Junior capacity
+            - Allocation of SPJ capacity to 1) enable SRC; or to 2) source EJRC
+        - Prime-computed eligible Total Risk Capital (IJRC + EJRC-via-EPI + EJRC-via-SPJ + enabled SRC)
+        - Official Aggregate RRC
+        - Capital buffer = TRC – Aggregate RRC
+        - Effective ratios
+            - EPI = EJRC-via-EPI ÷ IJRC
+            - SPJ utilisation:
+                - enabled SRC ÷ total SPJ capacity
+                - EJRC-via-SPJ ÷ total SPJ capacity
+- Dynamic Period Attestation and Disclosures: In addition to the end-of-period snapshot figures, the TRC Report must include an Attestation from the Prime Agent confirming it maintained TRC at or above its Aggregate RRC at all times throughout the entire reporting period. In addition, the TRC Report must include disclosure of any events, Prime-initiated off-chain contractual obligations, impairments to the value or redeemability of held assets (such as RWA backing or bridged asset viability), encumbrances, or other conditions that occurred at any point during the reporting period which materially affected its TRC, even if such conditions were temporary or not continuously visible to on-chain monitoring systems. This disclosure must include the nature of the event/condition, its precise timing and duration, and its quantified impact on the Prime Agent's TRC.
 
 ###### A.2.2.9.1.1.3.2.1.3 - Sky Core TRC Monitoring And Verification Infrastructure [Core]  <!-- UUID: 18d692ce-7a5d-47a7-ada9-dc73abd87987 -->
 
@@ -9816,7 +9549,7 @@ The documents herein define infrastructure for TRC monitoring and verification.
 
 An autonomous monitoring system must be designed and implemented to enable continuous tracking of Prime Agents’ on-chain verifiable risk-capital components in near real-time. The on-chain, verifiable risk-capital components that can be tracked by such a monitoring system in real time are termed "On-chain Verifiable Risk Capital" (OVRC).
 
-OVRC is not necessarily equivalent to Total Risk Capital (TRC).  A Prime Agent’s actual TRC cannot be determined definitively without accounting for off-chain agreements, encumbrances or other relevant conditions affecting capital eligibility or availability, which conditions must be disclosed in the TRC Reports submitted by Prime Agents. See [A.2.2.9.1.1.3.2.1.2.3 - Primes’ TRC Report](41ca2085-d71b-47e5-8b1a-b183b6e2b6fc). 
+OVRC is not necessarily equivalent to Total Risk Capital (TRC). A Prime Agent’s actual TRC cannot be determined definitively without accounting for off-chain agreements, encumbrances or other relevant conditions affecting capital eligibility or availability, which conditions must be disclosed in the TRC Reports submitted by Prime Agents. See [A.2.2.9.1.1.3.2.1.2.3 - Primes’ TRC Report](41ca2085-d71b-47e5-8b1a-b183b6e2b6fc).
 
 Where the OVRC of a Prime Agent is less than its Aggregate RRC, the shortfall will be logged and penalty accrual will commence on a pro-rata, per-second basis for the duration and magnitude of the observed shortfall, according to the penalty schedule defined in the Atlas. Thus, this on-chain monitoring system serves as an interim penalty ledger.
 
@@ -9830,7 +9563,7 @@ Core GovOps receives TRC Reports from Primes on a regular basis and must perform
 
 Core GovOps verifies against the Atlas any Ecosystem Accord referenced in the TRC Report for sourced Prime-External Junior Risk Capital (SEJRC) or rented Originated Senior Risk Capital (OSRC). This includes confirming the existence, current validity, and terms of such Accords as formally recorded within the Atlas.
 
-Core GovOps validates the Prime Agent's reported IJRC by reconciling the reported IJRC amount and its constituent asset composition against the actual on-chain state of the Prime Agent’s designated SubProxy account. This involves direct on-chain verification of asset balances. Core GovOps verifies that all assets reported as IJRC and held within the SubProxy account meet the definition of "eligible assets" for IJRC as defined by the Atlas. See [A.3.2.1.2.2.1.1.1 - Internal Junior Risk Capital (IJRC)](8728abee-0dc5-449b-b4c2-78698da16f10). 
+Core GovOps validates the Prime Agent's reported IJRC by reconciling the reported IJRC amount and its constituent asset composition against the actual on-chain state of the Prime Agent’s designated SubProxy account. This involves direct on-chain verification of asset balances. Core GovOps verifies that all assets reported as IJRC and held within the SubProxy account meet the definition of "eligible assets" for IJRC as defined by the Atlas. See [A.3.2.1.2.2.1.1.1 - Internal Junior Risk Capital (IJRC)](8728abee-0dc5-449b-b4c2-78698da16f10).
 
 For reported Tokenized External Junior Risk Capital (TEJRC) and Originated Senior Risk Capital directly originated by the Prime, Core GovOps validates the reported amounts and statuses by cross-referencing data from the relevant smart contract systems. This may involve querying TEJRC pool contracts, OSRC auction records, and other on-chain infrastructure to confirm the existence, ownership, and eligibility of these capital components.
 
@@ -9841,11 +9574,9 @@ Finally, Core GovOps independently calculates and verifies the Prime Agent's com
 ###### A.2.2.9.1.1.3.2.1.3.3 - Finalized Determination Of TRC Position And Penalties [Core]  <!-- UUID: 36f3e675-d372-4d25-a50f-f0ba84a36273 -->
 
 After reaching a definitive accounting of Prime Agents’ capital position and TRC adequacy, penalties are finalized by Core GovOps. This involves reconciling the interim penalty ledger (derived from the OVRC system) with the definitive TRC history, which incorporates all validated information from the TRC Report including any intra-period shortfalls.
-    
+
 1. If the validated TRC Report indicates that the Prime Agent's TRC was below its Aggregate RRC during the reporting period, and this actual shortfall was more severe than, or not detected by, the OVRC monitoring system, then penalties will be finalized as follows: if the OVRC system had already accrued penalties, these will be adjusted upwards to match the actual shortfall; if the OVRC system had not detected a shortfall, penalties will be assessed and applied retroactively based on the full duration and magnitude of the actual shortfall.
-    
 2. If the validated TRC Report confirms that TRC shortfalls were identical in duration and magnitude to those logged by the OVRC monitoring system throughout the reporting period: the penalties accrued in the interim penalty ledger will be confirmed and finalized.
-    
 3. If the validated TRC Report confirms that TRC was higher than a misleading OVRC reading during a specific portion of the reporting period which led to an erroneously logged penalty: Core GovOps will adjust or void the penalty accordingly.
 
 ###### A.2.2.9.1.1.3.2.1.4 - Risk-Capital Incident Response [Core]  <!-- UUID: 12b7d480-68a0-4493-9534-d6915f86c112 -->
@@ -9877,7 +9608,6 @@ When a Prime Agent wishes to modify an existing Allocation System Primitive Inst
 An Artifact Edit Proposal is mandatory for an Instance modification under the following conditions:
 
 1. a desired modification to the Instance's operational parameters falls outside the pre-defined operational ranges codified in the respective Instance Configuration Document or other applicable Artifact Documents; or
-
 2. a desired modification, even if notionally within defined ranges in the Artifact, is determined by Operational GovOps to materially alter the Instance's risk profile in a way that could invalidate the underlying Capital and Operational Plan and, consequently, the premises driving the current Required Risk Capital (RRC) for that Instance. Operational GovOps retains the discretion to require an Artifact Edit Proposal if a proposed change, regardless of its fit within existing operational ranges, is determined to pose a material change to the assessed risk.
 
 ###### A.2.2.9.1.1.3.3.1.2 - Revision of Capital and Operational Plan for Instance Modification [Core]  <!-- UUID: 235a7317-ef29-48ed-a37f-5892108f8dc8 -->
@@ -9885,11 +9615,9 @@ An Artifact Edit Proposal is mandatory for an Instance modification under the fo
 Prior to submitting an Artifact Edit Proposal for an Instance modification, the Prime Agent must revise the Capital and Operational Plan (C&O Plan) associated with that Instance to reflect the desired new state.
 
 The revised Capital and Operational Plan for an Instance modification must include the following information:
-    
+
 1. Updates to the Instance's strategy and operational parameters;
-    
-2. A new pro-forma Required Risk Capital (RRC) estimate specifically calculated to reflect the Instance's proposed modified state;  and
-    
+2. A new pro-forma Required Risk Capital (RRC) estimate specifically calculated to reflect the Instance's proposed modified state; and
 3. A revised notional Total Risk Capital (TRC) coverage strategy, detailing how the Prime Agent will manage any changes to the Instance RRC and the consequential impact on its Aggregate RRC, including plans for acquiring additional JRC or SRC if necessary.
 
 ###### A.2.2.9.1.1.3.3.1.3 - Governance Process for Instance Modification [Core]  <!-- UUID: aee1d848-eee8-4590-a596-1884efcb474a -->
@@ -10148,7 +9876,7 @@ High Activity Staking Rewards provide a boosted staking reward to SKY stakers th
 
 ###### A.2.3.1.2.3.3 - Payout From High Activity Staking Rewards Buffer [Core]  <!-- UUID: 6e857f3d-1e5c-4a47-943d-439b1d0d87ea -->
 
-The High Activity Staking Rewards distribution occurs linearly over the course of each month. The total amount distributed equals the lesser of 1) 5% of Step 2 Capital, or 2) 15% of the current High Activity Staking Rewards Buffer, with a minimum floor of 5% of HASRB. 
+The High Activity Staking Rewards distribution occurs linearly over the course of each month. The total amount distributed equals the lesser of 1) 5% of Step 2 Capital, or 2) 15% of the current High Activity Staking Rewards Buffer, with a minimum floor of 5% of HASRB.
 
 In periods of high profitability, funds build up in the High Activity Staking Rewards Buffer. Then in periods of low profitability these funds are paid out from the High Activity Staking Rewards Buffer, ensuring that there is a continued incentive for active involvement in governance even in periods of low profitability to maintain security.
 
@@ -10183,12 +9911,14 @@ The Stability Capital Retention (`SCR`) is calculated according to the following
 `SCR = (1 - ((SCB / TS) / TSCB)) * RF`.
 
 Where:
-◦ SCB = Current Stability Capital Buffer,
-◦ TS = Total USDS supply,
-◦ TSCB = Target Stability Capital Buffer,
-◦ RF = Retention Factor.
+
+- SCB = Current Stability Capital Buffer,
+- TS = Total USDS supply,
+- TSCB = Target Stability Capital Buffer,
+- RF = Retention Factor.
 
 This formula dynamically adjusts capital retention based on the current buffer status:
+
 1. When SCB/TS equals TSCB (buffer at target), SCR equals zero.
 2. When SCB/TS is below TSCB, SCR increases proportionally to the shortfall.
 3. The maximum possible retention is capped by the Retention Factor (RF).
@@ -10404,9 +10134,7 @@ The Core Facilitator and Core GovOps must use the Aligned Delegates Buffer Multi
 The Core Facilitator and Core GovOps can change the signers of the Aligned Delegates Buffer Multisig so long as:
 
 - there are at least four (4) signers;
-
 - a majority of signers are required to execute transactions; and
-
 - an equal number of signers are controlled by the Core Facilitator and Core GovOps.
 
 ###### A.2.3.1.4.1.3 - Allocation To Governance Accessibility Rewards Paid To Integrators [Core]  <!-- UUID: f7ec7f27-632e-462a-b1e8-32bf557cb51f -->
@@ -10452,17 +10180,12 @@ The documents herein define the Monthly Settlement Cycle (MSC), a standardized, 
 #### A.2.4.1.1 - Operational Processes [Core]  <!-- UUID: 7f43aea7-9b81-48ef-b3ce-fdfae7e8a551 -->
 
 The Monthly Settlement Cycle (MSC) synchronizes several key operational processes across the ecosystem, including:
-    
-1. Sky Protocol’s net revenue from the previous month is calculated and allocated through the steps of the Treasury Management Function. See [A.2.3 - Treasury Management](6c0af059-5d33-4e2b-90f1-1606957b8f85). 
-   
-2. The monthly Senior Risk Capital (SRC) origination process is settled: the clearing price is established, costs are deducted from winning Prime Agents’ accounts, and their accounts are credited with Originated SRC (OSRC) for the upcoming month. See [A.3.2.2.4.3.5 - Settlement Of Origination](fff0112a-58dd-4041-97f9-7baf113b4e70). 
-    
-3. Queued conversions between USDS and srUSDS within the SRC system are processed. See [A.3.2.2.4.2.2 - Deposit And Redemption Queues](38a99586-4a13-4ce3-8b2f-cee025e0c390). 
-    
-4. Pioneer Incentive Pools are funded with an amount equivalent to the Sky Savings Rate multiplied by the balance of Unrewarded USDS. See [A.2.2.8.3 - Pioneer Chain Primitive](4c7be4c6-44b5-407a-94ae-3d7ca7e8039c). 
-    
-5. The Smart Burn Buffer's burning operation occurs synchronously with each Monthly Settlement Cycle. At each cycle, the system calculates the appropriate Burn Rate based on current market conditions and executes the burn operation, if applicable, according to the formula specified in the Atlas. See [A.2.3.1.2.5.1.2 - Usage Of Smart Burn Buffer](7295761a-e72b-4b32-9345-b229b46566d1). 
-    
+
+1. Sky Protocol’s net revenue from the previous month is calculated and allocated through the steps of the Treasury Management Function. See [A.2.3 - Treasury Management](6c0af059-5d33-4e2b-90f1-1606957b8f85).
+2. The monthly Senior Risk Capital (SRC) origination process is settled: the clearing price is established, costs are deducted from winning Prime Agents’ accounts, and their accounts are credited with Originated SRC (OSRC) for the upcoming month. See [A.3.2.2.4.3.5 - Settlement Of Origination](fff0112a-58dd-4041-97f9-7baf113b4e70).
+3. Queued conversions between USDS and srUSDS within the SRC system are processed. See [A.3.2.2.4.2.2 - Deposit And Redemption Queues](38a99586-4a13-4ce3-8b2f-cee025e0c390).
+4. Pioneer Incentive Pools are funded with an amount equivalent to the Sky Savings Rate multiplied by the balance of Unrewarded USDS. See [A.2.2.8.3 - Pioneer Chain Primitive](4c7be4c6-44b5-407a-94ae-3d7ca7e8039c).
+5. The Smart Burn Buffer's burning operation occurs synchronously with each Monthly Settlement Cycle. At each cycle, the system calculates the appropriate Burn Rate based on current market conditions and executes the burn operation, if applicable, according to the formula specified in the Atlas. See [A.2.3.1.2.5.1.2 - Usage Of Smart Burn Buffer](7295761a-e72b-4b32-9345-b229b46566d1).
 6. Critical Core GovOps functions related to the operationalization of Sky Primitives are executed, including payment/reimbursement processing, compliance monitoring, and the calculation and application of retroactive penalties.
 
 #### A.2.4.1.2 - Implementation [Core]  <!-- UUID: 75473c4b-69ba-4e6b-bbf6-2c926732364c -->
@@ -10754,11 +10477,8 @@ Incubating Ecosystem Actors are Ecosystem Actors that are being developed to sup
 The list of Incubating Ecosystem Actors must follow this template for each recorded Incubating Ecosystem Actor:
 
 - **.x:** [Incubating Ecosystem Actor name and short description]
-
 - **.1:** [Budget information]
-
 - **.2:** [Deliverables and focus areas]
-
 - **.3:** [Team information, including headcount grouped by skill sets]
 
 ## A.2.7 - Ecosystem Communication Channels [Article]  <!-- UUID: a520fea9-c2b7-4fda-a2b0-254b76504bc0 -->
@@ -10834,11 +10554,8 @@ Given the digital nature of these communication channels and the consequent prac
 The responsible moderators for each communication channel are:
 
 - Sky Forum - The Core Facilitator
-
 - Sky and Sky Builder Discord - The Core Facilitator and Ecosystem Actor TechOps Services
-
 - Sky X / Twitter Account - Ecosystem Actor Maker Growth
-
 - MakerDAO Subreddit - Ecosystem Actor Maker Growth
 
 #### A.2.7.1.3 - Communications Infrastructure Budget [Core]  <!-- UUID: 72d16b65-95cf-4cff-a2f4-71ce92019f84 -->
@@ -10935,9 +10652,10 @@ The Core Facilitator publishes the decision on the Sky Forum and updates the [A.
 
 Resolutions of disputes involving Ecosystem Accords are defined as Active Data in [A.2.8.1.2.0.6.1 - Dispute Resolutions](c48614bb-6f51-4de7-97bd-ef1fed968d72).
 
-The Active Data is updated as follows:    
-◦ The Responsible Party is the Core Facilitator.    
-◦ The Update Process must follow the protocol for ‘Direct Edit’.
+The Active Data is updated as follows:
+
+- The Responsible Party is the Core Facilitator.
+- The Update Process must follow the protocol for ‘Direct Edit’.
 
 ##### A.2.8.1.2.0.6.1 - Dispute Resolutions [Active Data]  <!-- UUID: c48614bb-6f51-4de7-97bd-ef1fed968d72 -->
 
@@ -11043,8 +10761,8 @@ To the extent that Spark experiences losses on investments other than USDe or sU
 
 This revenue share shall be effective retroactively, dated back to the launch of Spark’s allocation into USDe and sUSDe beginning the week of July 14, 2025.
 It shall remain in effect until one of the following conditions is met, whichever occurs first:
-    
-1. Grove begins to allocate capital to USDe or sUSDe directly; or    
+
+1. Grove begins to allocate capital to USDe or sUSDe directly; or
 2. Spark or Grove terminates the revenue share, with reasonable advance notice to the other party.
 
 Any changes to the structure or scope of this arrangement will be discussed transparently and approved by both Spark and Grove.
@@ -11112,7 +10830,7 @@ The distribution of GROVE tokens will be specified in a future iteration of the 
 ###### A.2.8.2.2.2.1.2.2.2 - Spark Token Reward Distribution Schedule [Core]  <!-- UUID: 1f412288-af14-4aab-84e9-79f2e0c39100 -->
 
 A portion of the SPK tokens held by Sky are distributed to USDS users as specified in the table below. All other SPK tokens held by Sky are reserved for future token rewards as determined by Sky Governance.
-  
+
 | Year | Tokens for USDS Users  |
 |------|------------------------|
 | 1    | 1,137,500,000          |
@@ -11260,6 +10978,12 @@ Sky Governance hereby consents to this cash grant. The transfer for October must
 ###### A.2.8.2.2.2.5.5.2 - Spark Foundation Grant Authorization: December 2025 [Core]  <!-- UUID: bd9673db-225e-42f4-8f26-6e993dc72bd0 -->
 
 The founding team of Spark has proposed a cash grant of 1,100,000 USDS per month to the Spark Foundation from the SubDAO Proxy for a three (3) month period to cover Q1 2026 Foundation expenses. Additionally, a one-time grant of 150,000 USDS has been proposed to cover expenses for Spark Asset Foundation for Q1 2026 (see [Forum Post](https://forum.sky.money/t/december-11-2025-proposed-changes-to-spark-for-upcoming-spell/27481).
+
+Sky Governance hereby consents to these grants and authorizes the execution of the associated funding payloads as specified in the referenced proposal.
+
+###### A.2.8.2.2.2.5.5.3 - Spark Foundation Grant Authorization: Q2 2026 [Core]  <!-- UUID: b69158da-476a-4d4b-b7ef-2f8b96b73d23 -->
+
+The founding team of Spark has proposed a cash grant of 1,100,000 USDS per month to the Spark Foundation from the SubDAO Proxy for a three (3) month period to cover Q2 2026 Spark Foundation expenses. Additionally, a grant of 100,000 USDS per month to the Spark Asset Foundation from the SubDAO Proxy for a three (3) month period to cover Q2 2026 Spark Asset Foundation expenses (see [Forum Post](https://forum.skyeco.com/t/march-26-2026-proposed-changes-to-spark-for-upcoming-spell/27770)).
 
 Sky Governance hereby consents to these grants and authorizes the execution of the associated funding payloads as specified in the referenced proposal.
 
@@ -11420,7 +11144,7 @@ No penalties were applied under [A.2.8.2.2.2.8.1 - Token Launch Penalty](5a62cc3
 
 ###### A.2.8.2.2.2.8.3 - Cessation Of MKR and SKY Token Flow [Core]  <!-- UUID: 91c1a218-ea12-4b75-ad71-efc4d1060e58 -->
 
-Upon the commencement of Income Generation (as defined in [A.2.8.2.2.2.8.6 - Income Definition](fa48f7be-3c7d-4390-8b39-4fdfe9aa06ae)) by a Prime, any existing or previously agreed-upon allocation or distribution of MKR or SKY tokens from Sky to that Prime shall immediately cease. The intent is for the Primes to transition to financial self-sufficiency upon the initiation of their respective income-generating activities. Furthermore, any token vesting to the Prime Foundation will be reduced by 50% until the TGE occurs.  Prior to the TGE, Primes agree to share with Sky the Prime Agent Token vesting schedules and lock-ups for their teams to ensure they align with the principles of long-term commitment to the Prime.
+Upon the commencement of Income Generation (as defined in [A.2.8.2.2.2.8.6 - Income Definition](fa48f7be-3c7d-4390-8b39-4fdfe9aa06ae)) by a Prime, any existing or previously agreed-upon allocation or distribution of MKR or SKY tokens from Sky to that Prime shall immediately cease. The intent is for the Primes to transition to financial self-sufficiency upon the initiation of their respective income-generating activities. Furthermore, any token vesting to the Prime Foundation will be reduced by 50% until the TGE occurs. Prior to the TGE, Primes agree to share with Sky the Prime Agent Token vesting schedules and lock-ups for their teams to ensure they align with the principles of long-term commitment to the Prime.
 
 ###### A.2.8.2.2.2.8.4 - Treatment of Expenses Paid By Sky Pre-TGE [Core]  <!-- UUID: f3672ca1-b305-4e16-86f0-3dc3267073bb -->
 
@@ -11484,7 +11208,7 @@ If Keel elects to use funds in this way, it shall notify its Operational Executo
 
 ###### A.2.8.2.3.2.2 - Pre-Pioneer Incentive Pool [Core]  <!-- UUID: c929aef7-1b81-4693-8fd8-3d75e62882af -->
 
-Keel is eligible for a Pre-Pioneer Incentive Pool. See [A.2.2.8.3.1.4.1 - Pre-Pioneer Incentive Pool](15e14f25-8d56-4699-ac37-0cef4f0503c5). 
+Keel is eligible for a Pre-Pioneer Incentive Pool. See [A.2.2.8.3.1.4.1 - Pre-Pioneer Incentive Pool](15e14f25-8d56-4699-ac37-0cef4f0503c5).
 
 The Pre-Pioneer Incentive Pool is calculated on a monthly basis as (1) the Sky Savings Rate multiplied by all USDS balances on Solana, less (2) all Integration Boost payments made to partners on Solana.
 Payments are made on a monthly basis from the Integration Boost wallets specified in [A.2.2.8.2.2.1.3.2.1 - Near Term Process](4ab621b4-ef8e-4b01-a6aa-9296601033c5) to a Pre-Pioneer Incentive Pool wallet controlled by Keel’s Operational Executor Agent. The address of the Pre-Pioneer Incentive Pool wallet on Solana is `8JmDPG5BFQ6gpUPJV9xBixYJLqTKCSNotkXksTmNsQfj`.
@@ -11871,7 +11595,7 @@ The Resilience Technical Committee is a group of Ecosystem Actors authorized by 
 
 ###### A.2.9.1.1.1.2.1 - Resilience Fund Technical Committee Selection And Compensation [Core]  <!-- UUID: 71352327-3ea8-4a47-ae7e-5ccff35d5763 -->
 
-The Support Facilitator selects the members of the Resilience Technical Committee and manages payments for their services on a project basis. The associated budget is defined in  [A.2.9.1.1.1.1.1 - Resilience Fund Current Budget](aa1e93e5-8fc0-4e12-ad9d-8bb9f6cd8956).
+The Support Facilitator selects the members of the Resilience Technical Committee and manages payments for their services on a project basis. The associated budget is defined in [A.2.9.1.1.1.1.1 - Resilience Fund Current Budget](aa1e93e5-8fc0-4e12-ad9d-8bb9f6cd8956).
 
 ###### A.2.9.1.1.1.2.2 - Resilience Fund Technical Committee Member Requirements [Core]  <!-- UUID: ad242c8e-81e3-4590-b034-722b3767b9d2 -->
 
@@ -11904,7 +11628,6 @@ Approved Resilience Technical Committee members are defined as Active Data in [
 The Active Data is updated as follows:
 
 - The Responsible Party is the Support Facilitators.
-
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.2.9.1.1.1.2.3.0.6.1 - Resilience Fund Technical Committee List Of Current Members [Active Data]  <!-- UUID: 10b0e0aa-0338-40d7-b1e6-a29442c206e6 -->
@@ -11924,11 +11647,8 @@ The Resilience Process covers legal defense or legal representation expenses inc
 A (non-exhaustive) list of legal or regulatory actions that may qualify is:
 
 - Official requirements, or communications, from a regulatory body, governmental authority, or a court
-
 - Subpoenas
-
 - Lawsuit
-
 - Writs
 
 ###### A.2.9.1.1.1.3.2 - Resilience Fund Policy Exclusions [Core]  <!-- UUID: b6f8e9a3-8e56-41fd-b760-a81834d4e214 -->
@@ -11936,13 +11656,9 @@ A (non-exhaustive) list of legal or regulatory actions that may qualify is:
 The cases specified in the following subelements will generally be excluded from coverage by the legal defense process:
 
 - Prior or pending claims
-
 - Claims between persons involved in the Sky Ecosystem
-
 - Loss covered by other insurance
-
 - Willful criminal offenses, fraud, or dishonesty
-
 - Conflict of interest
 
 ###### A.2.9.1.1.1.3.3 - Resilience Fund Policy Beneficiaries [Core]  <!-- UUID: 8b3a5bf0-ac9a-4142-8fc6-dfcab8c385e9 -->
@@ -11952,15 +11668,17 @@ Eligible beneficiaries of the Resilience Fund are persons who fulfill the follow
 a) act on their own behalf OR b) act on behalf of a legal entity OR c) act on behalf of a collective AND have one of the following roles:
 
 Previous Structure:
+
 - Recognized Delegates
 - Core Unit Facilitators
 - Core Unit Contributors
 - Dai Foundation Board Members
 
 Current Structure:
+
 - Active SKY or Agent token holders that participate regularly in governance (e.g., voting, writing proposals)
-- Alignment Conservers 
-◦ Aligned Delegates (ADs)
+- Alignment Conservers
+- Aligned Delegates (ADs)
 - Scope Facilitators
 - The Guardian ([A.2.9.1.1.3 - The Guardian](0f808bde-fc68-4bda-bc6d-049c6aaaab1b)) or actors that fulfill an equivalent role.
 
@@ -11987,11 +11705,8 @@ The facts and circumstances that originated the Loss Event may have occurred in 
 Overview of the related processes and principles:
 
 - Application process
-
 - Claim management process
-
 - Caps and Exclusions
-
 - Refund of amounts to the Resilience Fund
 
 ###### A.2.9.1.1.1.4.1 - Resilience Fund Application Process [Core]  <!-- UUID: 7ee909ce-ae6d-4886-a0ea-c3017eb00bcd -->
@@ -12005,44 +11720,28 @@ To become recognized as a Beneficiary, an Applicant must first select an Ethereu
 Valid PoE:
 
 - Address set as owner and used to sign transactions from Sky multisigs, such as Core Unit operational wallets, auditor wallets or SPFs (old structure), or a Facilitator multisig (Endgame Structure)
-
-    ◦ PoE valid for former Core Unit Contributors, Core Unit Facilitators, and Scope Facilitators.
-
+    - PoE valid for former Core Unit Contributors, Core Unit Facilitators, and Scope Facilitators.
 - Address that voted directly or through delegation in at least ten Governance Polls or Executive Votes.
-
-    ◦ PoE valid for active MKR or SKY holders, former Recognized Delegates (old structure), and Aligned Delegates (new structure)
-
+    - PoE valid for active MKR or SKY holders, former Recognized Delegates (old structure), and Aligned Delegates (new structure)
 - Address that received compensation from Sky, with the following conditions:
-
-    ◦ at least six (6) payouts spread over at least six (6) months in Dai or USDS OR
-
-    ◦ Dai or USDS DssVest stream spanning at least six (6) months OR
-
-    ◦ 3 MKR or SKY payouts spread over at least three (3) months OR
-
-    ◦ MKR or SKY DssVest stream spanning at least three (3) months
-    ◦ PoE valid for former Core Unit Contributors and Facilitators
-
+    - at least six (6) payouts spread over at least six (6) months in Dai or USDS OR
+    - Dai or USDS DssVest stream spanning at least six (6) months OR
+    - 3 MKR or SKY payouts spread over at least three (3) months OR
+    - MKR or SKY DssVest stream spanning at least three (3) months
+    - PoE valid for former Core Unit Contributors and Facilitators
 - Address that holds >1 MKR or >24,000 SKY
-
 - Attestation
-
-    ◦ If no PoE is available, a verified Beneficiary must attest eligibility on behalf of the applicant.
-
-    ◦ This PoE will be used exceptionally if no other Proof is available and will be assessed individually by the Resilience Fund Technical Committee.
+    - If no PoE is available, a verified Beneficiary must attest eligibility on behalf of the applicant.
+    - This PoE will be used exceptionally if no other Proof is available and will be assessed individually by the Resilience Fund Technical Committee.
 
 ###### A.2.9.1.1.1.4.1.2 - Resilience Fund Proof Of Eligibility Template [Core]  <!-- UUID: a457da07-943a-4d98-8153-db7b0eb55fe2 -->
 
 Applications for the Resilience Fund must follow this template:
 
 - .x: [Application RF]
-
 - .x.1: [PoE]
-
 - .x.2: [Active Period]
-
 - .x.3: [Relevant Executive Proposal: Governance decision ratified by a governance vote]
-
 - .x4: [Signature hash]
 
 ###### A.2.9.1.1.1.4.1.3 - Resilience Fund Proof Of Eligibility Digital Signature [Core]  <!-- UUID: c83e0e76-f5b2-43f1-9bef-14c6571e72e2 -->
@@ -12054,17 +11753,13 @@ The Applicant for the Resilience Fund must additionally sign an application mess
 By signing this message, the Applicant accepts and agrees:
 
 - To comply with the terms and rules of [A.2.9 - Legal Resilience](ac707ae4-65da-4cf9-8a34-8b9304cd9a95) (the "Legal Resilience Fund Terms").
-
 - That participation in the program is opt-in and voluntary and can be waived anytime by the Beneficiary.
-
 - The Legal Resilience Fund Terms can be amended at any time through the established governance processes.
-
 - That being registered as Beneficiary does not give rise to any right, benefit, entitlement, or claim, nor creates an obligation on any party to pay the Beneficiary.
 
 Additionally, the Beneficiary declares that:
 
 - No situation currently involves or appears to involve a conflict of interest, and any emerging potential conflict of interest shall be disclosed as soon as it happens.
-
 - Any role change in Sky or termination of active engagement will be immediately communicated to the Resilience Technical Committee.
 
 The Resilience Technical Committee will elaborate a user-friendly onboarding manual for the RF.
@@ -12086,9 +11781,7 @@ The Resilience Technical Committee Member will confirm the onboarding decision v
 Overview of the claim management processes:
 
 - Legal Counsel Pre-approval
-
 - Claim approval / Advance Payment
-
 - Reimbursement
 
 ###### A.2.9.1.1.1.4.2.1 - Resilience Fund Legal Counsel And Quote Pre-Approval [Core]  <!-- UUID: 49ecea76-a16d-4135-88db-ccd554866715 -->
@@ -12096,17 +11789,13 @@ Overview of the claim management processes:
 The first step in the claim management process is to approve the Legal Counsel to undertake legal defense or representation and the quote presented to commence legal work. The Beneficiary must present the quote from the law firm they selected for their legal defense/representation. The request must indicate at least the following:
 
 - Name of Legal Counsel
-
 - Name of Law Firm
-
 - If not in the Lawyer Registry, Proof of Eligibility
-
 - Quote
 
 The quote must include:
 
 1. The initial payment required by Counsel to commence work immediately. This is the initial amount to be claimed against the Resilience Fund.
-
 2. A global estimated fee based on an hourly rate OR fixed fee OR monthly retainer fee.
 
 ###### A.2.9.1.1.1.4.2.1.1 - Resilience Fund Qualified Counsel [Core]  <!-- UUID: bdb4beda-794e-42e6-a9d0-06632235c478 -->
@@ -12115,7 +11804,7 @@ If the Legal Counsel is RF-qualified in the Lawyer Registry ([A.2.9.1.1.2 - Lawy
 
 ###### A.2.9.1.1.1.4.2.1.2 - Not Resilience Fund Qualified Counsel [Core]  <!-- UUID: 9f423880-3184-4172-9ac5-6e8a371f5bb0 -->
 
-If Legal Counsel is NOT RF-qualified in the Lawyer Registry ([A.2.9.1.1.2 - Lawyer Registry](4c327b04-48f7-4941-b996-1c629eb42bf7)), then the Support Facilitators, or alternatively the Resilience Fund Technical Committee Member, will verify if the Legal Counsel complies with requisites in Lawyer Registry Acceptance Criteria and LR Resilience Fund Acceptance Criteria. See:  [A.2.9.1.1.2.2 - Lawyer Registry Acceptance Criteria](2b66ce16-d104-4238-b7d5-e4c6fe8d961b) and [A.2.9.1.1.2.3 - Resilience Fund Representation Requirements](b39f4808-18ae-456b-86fc-d449a69ea99a).
+If Legal Counsel is NOT RF-qualified in the Lawyer Registry ([A.2.9.1.1.2 - Lawyer Registry](4c327b04-48f7-4941-b996-1c629eb42bf7)), then the Support Facilitators, or alternatively the Resilience Fund Technical Committee Member, will verify if the Legal Counsel complies with requisites in Lawyer Registry Acceptance Criteria and LR Resilience Fund Acceptance Criteria. See: [A.2.9.1.1.2.2 - Lawyer Registry Acceptance Criteria](2b66ce16-d104-4238-b7d5-e4c6fe8d961b) and [A.2.9.1.1.2.3 - Resilience Fund Representation Requirements](b39f4808-18ae-456b-86fc-d449a69ea99a).
 
 If the Legal Counsel of the quote is determined by the Resilience Technical Committee to comply with the requirements of this Artifact, the quote is pre-approved and the legal counsel is added to the LR.
 
@@ -12131,19 +11820,13 @@ The Support Facilitator must review the Reimbursement Claim and decide whether t
 
 The Payout Reimbursement Claim must contain the following elements:
 
-    ◦ Description of Loss Event with relevant commentaries and context
-
-    ◦ Advance Payment or Reimbursement
-
-    ◦ Type of process
-
-    ◦ Date of writ/subpoena/lawsuit
-
-    ◦ Supportive Documentation
-
-        ▪ Law firm’s proposal and invoice OR quote
-
-        ▪ Copy of the Lawsuit/writ/ communication OR official requirement issued by a Court or Governmental Agency Supportive documentation is highly sensible. It is required to use encryption tools.
+- Description of Loss Event with relevant commentaries and context
+- Advance Payment or Reimbursement
+- Type of process
+- Date of writ/subpoena/lawsuit
+- Supportive Documentation
+    - Law firm’s proposal and invoice OR quote
+    - Copy of the Lawsuit/writ/ communication OR official requirement issued by a Court or Governmental Agency Supportive documentation is highly sensible. It is required to use encryption tools.
 
 ###### A.2.9.1.1.1.4.2.2.2 - Resilience Fund Claim Approval Coverage Framework [Core]  <!-- UUID: fe131e29-a159-453e-a3e0-7577af4e147b -->
 
@@ -12158,13 +11841,9 @@ The Support Facilitators will review the Payout Claim and if it contains all req
 The Resilience Fund Technical Committee will verify the merits of the claim according to the following substantial criteria (non-exhaustive list):
 
 - Absence of Exclusions
-
 - Identity and Role of Beneficiary
-
 - Time scope
-
 - Authenticity of writ/lawsuit
-
 - Reasonability of lawyer fees, which must take into account market rates in the respective jurisdiction
 
 ###### A.2.9.1.1.1.4.2.2.5 - Resilience Fund Claim Approval Technical Committee Review Process [Core]  <!-- UUID: 313d72e5-62db-4dd4-b125-97467508f44c -->
@@ -12212,11 +11891,8 @@ Where Beneficiaries receive financial benefit or reimbursement of any type as a 
 By way of example only and without limiting the generality of the principle described in [A.2.9.1.1.1.4.4 - Refund Of Amounts To Resilience Fund](608f5fd0-f441-47b2-8775-4f8b019e8c41), such amounts include, without limitation:
 
 - Amounts awarded by a court towards the Beneficiary’s legal fees or disbursements;
-
 - An award of damages to a Beneficiary in relation to a Claim Event;
-
 - Monies or digital assets located by police or other investigative bodies that were identified as the property of Sky; and
-
 - Interest payable to a Beneficiary in relation to a Claim Event.
 
 ###### A.2.9.1.1.1.4.5 - Resilience Fund Litigation / Defense Management [Core]  <!-- UUID: cb5e73d2-0b65-4465-94db-eb70fb8c814c -->
@@ -12233,7 +11909,7 @@ Beneficiaries and their legal teams must make an early assessment of the prospec
 
 ###### A.2.9.1.1.1.4.5.3 - Cost Control In Resilience Fund Litigation / Defense Management [Core]  <!-- UUID: 455bd317-a36c-48ba-9c34-0034b824b3e4 -->
 
-Beneficiaries and their legal teams  must keep costs to a minimum and avoid reliance on technical defenses which have low probability of success.
+Beneficiaries and their legal teams must keep costs to a minimum and avoid reliance on technical defenses which have low probability of success.
 
 ###### A.2.9.1.1.1.4.5.4 - Alternative Dispute Resolution In Resilience Fund Litigation / Defense Management [Core]  <!-- UUID: c7222199-c81b-4d67-b7c1-044391c288d5 -->
 
@@ -12247,14 +11923,14 @@ Lawyers will be onboarded in the Lawyer Registry covering at least the areas spe
 
 ###### A.2.9.1.1.2.1 - Lawyer Registry Covered Areas [Core]  <!-- UUID: a176f67f-009f-44a0-a19b-169c2eb376a4 -->
 
-`| Category                         | Areas of Law                                         | Examples                                                                                                          |  
-|----------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|  
-| Disputes/Investigations          | Regulatory Enforcement – Securities/Finance Law      | SEC/FinCEN/CFTC/Central Bank matters, Tax authority actions, OFAC orders, Sanctions                               |  
-|                                  | Securities Law Disputes (private party claims, class actions, etc.) | Sky investor claims, Lawsuits against Sky CORE actors                                                            |  
-|                                  | Intellectual Property                                | Patent Claims/Trolls, Trademark Claims/Trolls                                                                     |  
-|                                  | General Litigation – Any other Party-Party Disputes  | Disputes between Sky and 3rd party suppliers, Breach of contract disputes, Employment law disputes, Disputes between Sky and Ecosystem actors |  
-| Commercial Matters (non-litigious) | Commercial and Contracts                            | Commercial transactions (Audits, listing agreements, inter-Agent agreements affecting Sky Core etc.), Contracts and Procurement (includes contract management), Competition/Anti-Trust Law, Data protection and Privacy, Insurance Law |  
-|                                  | Intellectual Property, Information Technology        | IT procurement, licenses, and contracts, Convergent technologies, Intellectual property rights, Data protection and privacy, Trademark/Patent applications |  
+`| Category                         | Areas of Law                                         | Examples                                                                                                          |
+|----------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Disputes/Investigations          | Regulatory Enforcement – Securities/Finance Law      | SEC/FinCEN/CFTC/Central Bank matters, Tax authority actions, OFAC orders, Sanctions                               |
+|                                  | Securities Law Disputes (private party claims, class actions, etc.) | Sky investor claims, Lawsuits against Sky CORE actors                                                            |
+|                                  | Intellectual Property                                | Patent Claims/Trolls, Trademark Claims/Trolls                                                                     |
+|                                  | General Litigation – Any other Party-Party Disputes  | Disputes between Sky and 3rd party suppliers, Breach of contract disputes, Employment law disputes, Disputes between Sky and Ecosystem actors |
+| Commercial Matters (non-litigious) | Commercial and Contracts                            | Commercial transactions (Audits, listing agreements, inter-Agent agreements affecting Sky Core etc.), Contracts and Procurement (includes contract management), Competition/Anti-Trust Law, Data protection and Privacy, Insurance Law |
+|                                  | Intellectual Property, Information Technology        | IT procurement, licenses, and contracts, Convergent technologies, Intellectual property rights, Data protection and privacy, Trademark/Patent applications |
 |                                  | Corporate Structuring, Entity Formation/Reporting, Corporate Financing and Tax | Entity formation assistance provided to Sky Core, Annual Reporting/Filings, Company Law, Corporate Finance, Tax Law |`
 
 ###### A.2.9.1.1.2.2 - Lawyer Registry Acceptance Criteria [Core]  <!-- UUID: 2b66ce16-d104-4238-b7d5-e4c6fe8d961b -->
@@ -12280,8 +11956,8 @@ Lawyers must have internal processes to conduct conflict checks prior to any eng
 ###### A.2.9.1.1.2.2.5 - Lawyer Registry Conflict Handling Criterion [Core]  <!-- UUID: d2581c75-828d-46dc-aac2-e2ae6ffd4e57 -->
 
 Where conflicts arise within the lawyer’s firm, the firm must:
-1. In the case where a Beneficiary is handling the claim, cease all further work and immediately notify the Resilience Technical Committee in writing and cooperate with the Resilience Technical Committee to avoid a continuing conflict or, where this is not practicable, transfer the matter to another LR registered Lawyer, and
 
+1. In the case where a Beneficiary is handling the claim, cease all further work and immediately notify the Resilience Technical Committee in writing and cooperate with the Resilience Technical Committee to avoid a continuing conflict or, where this is not practicable, transfer the matter to another LR registered Lawyer, and
 2. In the case where the Guardian is handling the claim, cease all further work and immediately notify the Guardian in writing and cooperate with the Guardian to avoid a continuing conflict or, where this is not practicable, transfer the matter to another LR registered Lawyer.
 
 ###### A.2.9.1.1.2.3 - Resilience Fund Representation Requirements [Core]  <!-- UUID: b39f4808-18ae-456b-86fc-d449a69ea99a -->
@@ -12301,13 +11977,9 @@ Lawyers included on the Lawyer Registry for litigious categories, must have been
 Entries in the LR must follow this template:
 
 - .x: [Advisor name and short description]
-
 - .x.1: [Name of Firm]
-
 - .x.2: [Specialization Area]
-
 - .x.3: [Jurisdiction]
-
 - .x.4: [RF qualified (y/n)]
 
 ###### A.2.9.1.1.2.5 - Requirements For Resilience Technical Committee [Core]  <!-- UUID: ba0f1c77-3fe8-45b5-bb5b-1bc84a3a5f8f -->
@@ -12316,12 +11988,11 @@ The Resilience Technical Committee will verify the eligibility criteria of new c
 
 ###### A.2.9.1.1.2.6 - Lawyer Registry Update Process [Active Data Controller]  <!-- UUID: 2e3f851c-6ee2-472a-aa4f-cf637ff1cd8a -->
 
-The current approved lawyers in the Lawyer Registry are defined as Active Data in [A.2.9.1.1.2.6.0.6.1 - Lawyer Registry Current Approved Legal Counsels](e1f72c98-e3f7-43b5-857c-82294abbbe09). 
+The current approved lawyers in the Lawyer Registry are defined as Active Data in [A.2.9.1.1.2.6.0.6.1 - Lawyer Registry Current Approved Legal Counsels](e1f72c98-e3f7-43b5-857c-82294abbbe09).
 
 The Active Data is updated as follows:
 
 - The Responsible Party is the Support Facilitators.
-
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.2.9.1.1.2.6.0.6.1 - Lawyer Registry Current Approved Legal Counsels [Active Data]  <!-- UUID: e1f72c98-e3f7-43b5-857c-82294abbbe09 -->
@@ -12347,23 +12018,16 @@ The Policyholder is a specialized Ecosystem Actor in charge of executing agreeme
 The object of the Policyholder is to
 
 - Act as a legal counterparty with insurance brokers, insurance, reinsurance, underwriters, or risk management companies.
-
 - Act as a policyholder of insurance contracts, which will have as beneficiaries participants of the Sky Ecosystem.
-
-- Hire suppliers and contractors necessary for the operation of self-insurance or insurance instruments, such as 
-
-◦ The Resilience Technical Committee for claim management 
-
-◦ Managers, Directors, and other executive staff of the legal vehicle. The power of directors will be limited to administrative and operative roles.
+- Hire suppliers and contractors necessary for the operation of self-insurance or insurance instruments, such as
+    - The Resilience Technical Committee for claim management
+    - Managers, Directors, and other executive staff of the legal vehicle. The power of directors will be limited to administrative and operative roles.
 
 Sky Governance will have all necessary control mechanisms over the Policyholder:
 
 - Sky Governance can designate and remove Directors, Supervisor, and Committees
-
 - Sky Governance can instruct the entity to act and ratify decisions
-
 - Power of directors is limited to administrative/operative roles
-
 - The Policyholder will not manage Sky's assets nor will be legally affiliated with Sky.
 
 The setup and operational budget of the legal vehicle will be sourced initially from the [A.2.9.1.1.1.1.1 - Resilience Fund Current Budget](aa1e93e5-8fc0-4e12-ad9d-8bb9f6cd8956). This is intended to move later to a separate budget.
@@ -12393,9 +12057,7 @@ This document defines the general framework and standard processes for monitorin
 Responses will be structured as Standard Operational Protocols (SOPs). The categories of Legal and Regulatory Risk Monitoring responses are:
 
 - Preventive responses that reduce the likelihood of occurrence of a risk event
-
 - Reactive responses that reduce the severity of consequences if the risk event materializes.
-
 - Emergency Responses and Contingency Plans.
 
 #### A.2.9.1.6 - Public Procurement Framework [Core]  <!-- UUID: d5ffcc76-3cde-475d-8336-fcb5ce499988 -->
@@ -12403,13 +12065,9 @@ Responses will be structured as Standard Operational Protocols (SOPs). The categ
 This document defines a Public Procurement Framework for contributors and actors involved in the Sky Ecosystem. The purpose is to develop a standard framework that governs the entire lifecycle of service providers, which includes the following processes:
 
 - Application process
-
 - Selection process (scoring / evaluating proposals or applications)
-
 - Hiring and payment process
-
 - Performance evaluation and reporting
-
 - Terminating involvement and resolving disputes
 
 #### A.2.9.1.7 - Audit Procedure for Atlas Amendments [Core]  <!-- UUID: 92dcb95c-5a3d-45a4-a1e6-865686909c64 -->
@@ -12463,27 +12121,16 @@ The full amount is immediately available at the start of the calendar year.
 Resilience Research and Preparedness (also "Resilience Research") projects must fulfill at least one of the following objectives:
 
 - Bootstrap necessary infrastructure to develop one of the high-order legal resilience objectives as defined in this Article:
-
-    ◦ Legal Defense
-
-    ◦ Legal Risk Management
-
-    ◦ Privacy and Operational Security
-
-    ◦ Advocacy and Public Policy
-
-    ◦ Legal and Regulatory Risk Monitoring
-
-    ◦ Public Procurement Framework
-
-    ◦ Atlas Amendment and Audit
-
-    ◦ Technical and Legal Standards
-
+    - Legal Defense
+    - Legal Risk Management
+    - Privacy and Operational Security
+    - Advocacy and Public Policy
+    - Legal and Regulatory Risk Monitoring
+    - Public Procurement Framework
+    - Atlas Amendment and Audit
+    - Technical and Legal Standards
 - Design and implement processes that contribute directly to one of the high-order legal resilience objectives defined in this Article.
-
 - Implement specific preventive or reactive legal risk mitigation tools.
-
 - Execute specific activities or tasks necessary to fulfill one of the high-order legal resilience objectives defined in this Article.
 
 #### A.2.10.1.4 - Application Process [Core]  <!-- UUID: f6af14d7-e62d-44c5-aa65-35c9ec979f4c -->
@@ -12511,23 +12158,14 @@ Resilience Research Proposals must justify how the project will mitigate a speci
 Applications for Resilience Research projects must follow this template:
 
 - .x: [Project Name]
-
 - .x.1: [Project Abstract: In 3-5 sentences, what problem are you trying to solve?]
-
 - .x.2: [Objectives: What are you hoping to accomplish? How do you define and measure success for this project?]
-
 - .x.3: [Outcomes: How does this project benefit the Sky Ecosystem? How does this project help fulfill one of the Legal Resilience Objectives in [A.2.9 - Legal Resilience](ac707ae4-65da-4cf9-8a34-8b9304cd9a95)]
-
 - .x.4: [Scope: What will you research/build /design/implement? What is the expected output?]
-
 - .x.5: [Project Team: How many people are working on this project? Please list their names and roles for the project and how many hours per month each person will work on this project?]
-
 - .x.6: [Background: Relevant links, reference to other projects or research papers]
-
 - .x.7: [Methodology: How do you plan to achieve your objectives?]
-
 - .x.8: [Timeline: Please include a brief explanation of the milestones/roadmap, along with expected deliverables and KPIs.]
-
 - .x.9: [Budget: Requested grant amount and how this will be used. Please provide the requested amount and outline how the funds will be used.]
 
 #### A.2.10.1.5 - Review Process [Core]  <!-- UUID: 35aec115-f27c-42f2-9812-644a2df8f38f -->
@@ -12571,7 +12209,7 @@ As one of the most important DeFi protocols with a high TVL, the Sky Protocol is
 ##### A.2.11.1.1.1 - Introduction [Core]  <!-- UUID: 54134f24-84a2-4130-80a5-a519f291c918 -->
 
 The Bug Bounty Program aims to create incentives for hackers to contribute to the resilience of the Sky Protocol as opposed to exploiting vulnerabilities for personal gain. Immunefi is the party responsible for conducting the Bug Bounty Program; its setup and operations are based on standards set by Immunefi.
- 
+
 The Sky Ecosystem must continue to maintain a Bug Bounty Program for SparkLend until the launch of the Spark Agent.
 
 ##### A.2.11.1.1.2 - Scope [Core]  <!-- UUID: b9ed6d24-10e6-48dc-9348-9e2098d8dd31 -->
@@ -12590,7 +12228,7 @@ The Support Facilitator is responsible for maintaining these lists of Assets In 
 
 ###### A.2.11.1.1.2.2 - Severity Classification [Core]  <!-- UUID: 223f562e-3542-4f08-9071-838cb41ad681 -->
 
-The Immunefi Vulnerability Severity Classification System  ([https://immunefi.com/severity-updated/](https://immunefi.com/severity-updated/)) is applicable to both Sky Core and SparkLend. The Support Facilitator is authorized to adopt a new severity system for the Bug Bounty Programs in consultation with relevant technical stakeholders.
+The Immunefi Vulnerability Severity Classification System ([https://immunefi.com/severity-updated/](https://immunefi.com/severity-updated/)) is applicable to both Sky Core and SparkLend. The Support Facilitator is authorized to adopt a new severity system for the Bug Bounty Programs in consultation with relevant technical stakeholders.
 
 ###### A.2.11.1.1.2.3 - Impacts In Scope [Core]  <!-- UUID: 9a38cad6-c0e0-4ca2-931e-b9999710c6d5 -->
 
@@ -12605,15 +12243,10 @@ A selection of vulnerabilities is deemed out of scope for the Bug Bounty Program
 Specific rules applying to the Bug Bounty Program can be found at the website above, listed under the following categories:
 
 - Repeatable attack limitations
-
 - Restrictions on security researcher eligibility
-
 - Public disclosure of known issues
-
 - Proof of Concept (PoC) requirements
-
 - Other terms and information
-
 - Prohibited activities
 
 For SparkLend, the rules, terms, and exceptions can be found on SparkLend’s listing on the Immunefi platform ([https://immunefi.com/bounty/sparklend/](https://immunefi.com/bounty/sparklend/)).
@@ -12699,12 +12332,12 @@ The `bountyPercentage` parameter is the value to which the whitehat hacker is en
 ###### A.2.11.1.2.2.3.2.3 - Diligence Requirements Parameter [Core]  <!-- UUID: 3b5d10d1-16b0-49d8-88e6-9d1185e5de4f -->
 
 The `diligenceRequirements` parameter includes KYC, assessing compliance with sanctions (for instance, ensuring that individuals or entities from sanctioned jurisdictions are excluded), diligence, or other verification that the protocol requires the whitehat hacker to satisfy in order to claim the bounty. The value of the `diligenceRequirements` parameter is:
-                        
+
 `"KYC and Sanctions Screening. Sky and Stars require all eligible whitehats to undergo Know Your Customer (KYC) verification and be screened against global sanctions lists, including OFAC, UK, and EU regulations. This ensures that bounty recipients meet legal and regulatory standards before qualifying for payment. The verification process shall be conducted by a trusted third-party provider at Sky and Stars discretion, and all data is deleted, if successful, within 30 days post-verification."`
 
 ###### A.2.11.1.2.2.3.2.4 - Identity Parameter [Core]  <!-- UUID: 46f3510c-0dbd-40aa-b9fa-abcb59a7ff75 -->
 
-The `identity` parameter specifies the identity requirements for the whitehat hacker and may either be `0` for `Anonymous` (the whitehat hacker may be anonymous), `1` for `Pseudonymous` (the whitehat hacker must provide at least a pseudonym),  or `2` for `Named` (the whitehat hacker must provide their legal name). The value of the `identity` parameter is `2`.
+The `identity` parameter specifies the identity requirements for the whitehat hacker and may either be `0` for `Anonymous` (the whitehat hacker may be anonymous), `1` for `Pseudonymous` (the whitehat hacker must provide at least a pseudonym), or `2` for `Named` (the whitehat hacker must provide their legal name). The value of the `identity` parameter is `2`.
 
 ###### A.2.11.1.2.2.3.2.5 - Retainable Parameter [Core]  <!-- UUID: 6ca0bed7-e4b2-4b48-9d03-5ec410ce9fc4 -->
 
@@ -12739,11 +12372,11 @@ The Asset Recovery Address is the Pause Proxy on Ethereum Mainnet and the Govern
 ###### A.2.11.1.2.2.3.3.3 - Accounts [Core]  <!-- UUID: c6591c5c-c767-4769-b2d6-80564d96fa48 -->
 
 The `accounts` parameter for each chain is a list of contracts to be included in Safe Harbor. Each contract listed must include the sub-elements of (1) the `accountAddress` of the contract and (2) the `childContractScope`, which specifies whether child contracts of the specified contract are covered. The possible values for the `childContractScope` parameter are: (1) `None` (no child contracts are in scope), (2) `ExistingOnly` (only child contracts created prior to calling `adoptSafeHarbor` are in scope), or (3) `All` (all child contracts are in scope).
-                        
+
 The value of the `scope` parameter is all contracts specified in the Bug Bounty Program.
-                        
+
 The `childContractScope` parameter for each contract is specified in the Bug Bounty Program.
-                        
+
 ###### A.2.11.1.2.2.3.4 - Contact Details [Core]  <!-- UUID: 611baee4-7c68-47ba-a683-25e795f55101 -->
 
 The representatives of the protocol should be contacted as specified in the Safe Harbor registry.
@@ -12904,6 +12537,7 @@ The Sky Savings Rate can be modified through either Executive Votes or the Stabi
 ###### A.3.1.2.2.2.1 - Sky Savings Rate Stability Parameter Bounded External Access Module Parameters [Core]  <!-- UUID: e3a7ca35-0569-4867-bc64-e732622bda21 -->
 
 The Stability Parameter Bounded External Access Module parameters for the Sky Savings Rate are:
+
 - `max` - 3,000 basis points,
 - `min` - 200 basis points,
 - `step` - 400 basis points,
@@ -12943,13 +12577,14 @@ The Dai Savings Rate ("DSR") is the rate Dai holders can earn on their Dai in th
 
 ##### A.3.1.2.4.1 - Dai Savings Rate Modification [Core]  <!-- UUID: 238d8932-633d-44df-a7ed-0ec5a423cc53 -->
 
-The Dai Savings Rate can be modified through either Executive Votes or the Stability Parameter Bounded External Access Module. See [A.3.7.1.3 - Stability Parameter Bounded External Access Module](47b8b035-8abd-42e6-86b8-33f852fa953a). 
+The Dai Savings Rate can be modified through either Executive Votes or the Stability Parameter Bounded External Access Module. See [A.3.7.1.3 - Stability Parameter Bounded External Access Module](47b8b035-8abd-42e6-86b8-33f852fa953a).
 
 The Dai Savings Rate must gradually be reduced to 0% over time.
 
 ###### A.3.1.2.4.1.1 - Dai Savings Rate Stability Parameter Bounded External Access Module Parameters [Core]  <!-- UUID: 335dd92b-cbd8-4d98-8d23-1dd57d98487d -->
 
 The Stability Parameter Bounded External Access Module parameters for the Dai Savings Rate are:
+
 - `max` - 3,000 basis points,
 - `min` - 0 basis points,
 - `step` - 400 basis points,
@@ -13231,7 +12866,7 @@ The Senior Per Junior (SPJ) ratio defines the effectiveness of each type of Juni
 
 A Prime Agent's overall "SPJ capacity" is calculated by summing the potential enablement contributed by each type of JRC it holds (IJRC, SEJRC or TEJRC), where each contribution equals the amount of that JRC type multiplied by its specific SPJ ratio.
 
-Since SRC only absorbs losses after JRC is depleted,  the SPJ enablement mechanism validates that sufficient JRC backing exists, allowing enabled SRC to be counted as part of the Prime Agent's total eligible Risk Capital. Therefore, a Prime Agent might hold a certain amount of OSRC or rented SRC, but only the portion that is successfully "enabled" by its JRC according to the SPJ ratios is accounted by the system as eligible capital contributing towards the Prime’s satisfaction of its Required Risk Capital. The required ratio of Senior Per Junior is specified in [A.3.2.2.2.2.2 - Senior Per Junior (SPJ) Ratio Values](8578e240-3fe8-41c0-8b2c-15ec9a7181ab).
+Since SRC only absorbs losses after JRC is depleted, the SPJ enablement mechanism validates that sufficient JRC backing exists, allowing enabled SRC to be counted as part of the Prime Agent's total eligible Risk Capital. Therefore, a Prime Agent might hold a certain amount of OSRC or rented SRC, but only the portion that is successfully "enabled" by its JRC according to the SPJ ratios is accounted by the system as eligible capital contributing towards the Prime’s satisfaction of its Required Risk Capital. The required ratio of Senior Per Junior is specified in [A.3.2.2.2.2.2 - Senior Per Junior (SPJ) Ratio Values](8578e240-3fe8-41c0-8b2c-15ec9a7181ab).
 
 ###### A.3.2.1.2.3.1.2.1 - Alternative Use Of SPJ Capacity To Source External Junior Risk Capital [Core]  <!-- UUID: 03029174-91b4-4974-af1e-52438556a70b -->
 
@@ -13555,13 +13190,13 @@ The documents herein define the Instance Financial CRR applied to specific Morph
 The CRRs for the following market allocations in the vault are:
 
 - PT-USDe / USDC – LLTV: 91.5%
-  - CRR = 4%
+    - CRR = 4%
 - PT-sUSDe / USDC – LLTV: 91.5%
-  - CRR = 4%
+    - CRR = 4%
 - PT-cUSD0 / USDC – LLTV: 91.5%
-  - CRR = 1%
+    - CRR = 1%
 - mF-One / USDC – LLTV: 91.5%
-  - CRR = 100%
+    - CRR = 100%
 
 ###### A.3.2.2.1.1.1.1.3.8.2 - Morpho Grove x Steakhouse High Yield AUSD Vault [Core]  <!-- UUID: b9a27ec8-26fd-469b-8963-1e03e9a73ff6 -->
 
@@ -13602,7 +13237,7 @@ class FinancialRRCModel:
                 if sym1 == sym2:
                     corr = 1.0
                 else:
-                    corr = self.token_correlation_map.get(sym1, {}).get(sym2, 
+                    corr = self.token_correlation_map.get(sym1, {}).get(sym2,
                            self.token_correlation_map.get(sym2, {}).get(sym1, 0.0))
                 effective_variance += (
                     pos1["share"]
@@ -13675,7 +13310,7 @@ class FinancialRRCModel:
 
         # 6) Loss Given Default
         recovery = sum(
-            p["share"] * (1 - p["liquidation_penalty"]) * (1 - p["slippage"]) 
+            p["share"] * (1 - p["liquidation_penalty"]) * (1 - p["slippage"])
             / p["liquidation_threshold"]
             for p in wallet_data["collateral_positions"].values()
         )
@@ -13858,9 +13493,7 @@ The Ethena Aggregate Exposure Limit is 1,300,000,000 USDS.
 The Ethena Exposure Limit for each Agent is:
 
 - Spark - One half of the Ethena Aggregate Exposure Limit
-
 - Grove - One half of the Ethena Aggregate Exposure Limit
-
 - All other Prime Agents - Zero
 
 ###### A.3.2.2.1.1.1.2.1.1.2.4 - Prohibition On Investments That Would Cause Ethena Exposure Limit To Be Exceeded [Core]  <!-- UUID: 50854ba8-c788-4df5-9c70-b6f070a28bfd -->
@@ -13926,9 +13559,9 @@ The implementation of the model for bond-like instruments will be specified in a
 ###### A.3.2.2.1.1.1.4.1 - Near-Term Treatment [Core]  <!-- UUID: a479643e-fbd3-4c9b-aba0-40f4657a8011 -->
 
 In the near term pending development of the implementation of the model for bond-like exposures, the following Instance Financial RRC Ratios will apply:
-    
-◦ PT-USDS - 0% Instance Financial CRR 
-◦ All other bond-like exposures - 4% Instance Financial CRR
+
+- PT-USDS - 0% Instance Financial CRR
+- All other bond-like exposures - 4% Instance Financial CRR
 
 In the near term, only Pendle PT tokens will be eligible for investment under this provision.
 
@@ -13965,14 +13598,14 @@ The documents herein define the process for calculating Instance Financial RRC f
 ###### A.3.2.2.1.1.1.5.2.1 - Identify Exposure Types [Core]  <!-- UUID: dbc4c20e-faa4-429d-8289-f38318d443f1 -->
 
 The first step is identifying the Exposure Type that an exposure fits under. The Exposure Types are:
-    
-◦ On-Balance Sheet Items (see `CRE20.1-93`)    
-◦ Off-Balance Sheet Items (see `CRE20.94-101`)    
-◦ Securitization Tranches (see `CRE40-41, 45`)    
-◦ Derivatives or Securities Financing Transactions (see `CRE50-52`)    
-◦ Funds / Collective Investment Undertakings / Exchange Traded Funds (see `CRE60`)    
-◦ Commodities (see `MAR21.13`)    
-◦ Foreign Exchange (see `MAR21.14`)
+
+- On-Balance Sheet Items (see `CRE20.1-93`)
+- Off-Balance Sheet Items (see `CRE20.94-101`)
+- Securitization Tranches (see `CRE40-41, 45`)
+- Derivatives or Securities Financing Transactions (see `CRE50-52`)
+- Funds / Collective Investment Undertakings / Exchange Traded Funds (see `CRE60`)
+- Commodities (see `MAR21.13`)
+- Foreign Exchange (see `MAR21.14`)
 
 ###### A.3.2.2.1.1.1.5.2.2 - Calculate Exposure At Default Including Credit Risk Mitigation [Core]  <!-- UUID: db4ae988-b240-4506-b040-4712afc76fb2 -->
 
@@ -13985,19 +13618,19 @@ Exposure At Default is calculated as specified in the documents herein.
 ###### A.3.2.2.1.1.1.5.2.2.1.1 - Exposure At Default Equal To Book Value [Core]  <!-- UUID: 9e047432-7a9f-4dc0-8172-4085c603d9ba -->
 
 For the following Exposure Types, Exposure At Default is equal to book value:
-    
-◦ On-Balance Sheet Items    
-◦ Securitization Tranches    
-◦ Derivatives or Securities Financing Transactions    
-◦ Funds / Collective Investment Undertakings / Exchange Traded Funds    
-◦ Commodities    
-◦ Foreign Exchange
+
+- On-Balance Sheet Items
+- Securitization Tranches
+- Derivatives or Securities Financing Transactions
+- Funds / Collective Investment Undertakings / Exchange Traded Funds
+- Commodities
+- Foreign Exchange
 
 ###### A.3.2.2.1.1.1.5.2.2.1.2 - Exposure At Default Equal To Book Value Multiplied By Credit Conversion Factor [Core]  <!-- UUID: 9868d6c9-17ec-44da-8898-b59a1ae579e0 -->
 
 For the following Exposure Types, Exposure At Default is equal to book value multiplied by the Credit Conversion Factor (see `CRE51`):
-    
-◦ Off-Balance Sheet Items
+
+- Off-Balance Sheet Items
 
 ###### A.3.2.2.1.1.1.5.2.2.2 - Adjustment For Credit Risk Mitigation [Core]  <!-- UUID: da454ffd-494a-4806-acb5-93653b1b8b11 -->
 
@@ -14009,40 +13642,40 @@ The third step is calculating the Risk Weights as specified in the documents her
 
 ###### A.3.2.2.1.1.1.5.2.3.1 - On-Balance Sheet Or Off-Balance Sheet Items [Core]  <!-- UUID: 0144ae72-c945-4f62-998c-e533a5f32858 -->
 
-Credit Risk for On-Balance Sheet or Off-Balance Sheet Items is calculated based on the relevant provisions in the Basel Framework as follows:  
-  
-| Exposure Type | Reference |  
-| --- | --- |  
-| Sovereigns | `CRE20.7-10` |  
-| Non-central government Public Sector Entities (PSEs) | `CRE20.11-12` |  
-| Multilateral Development Banks | `CRE20.13-15` |  
-| Banks | `CRE20.16-32` |  
-| Covered Bonds | `CRE20.33-39` |  
-| Securities, firms, and other financial institutions | `CRE20.40` |  
-| Corporates | `CRE20.41-52` |  
-| Subordinated debt, equity, and other capital instruments | `CRE20.53-62` |  
-| Retail exposure class | `CRE20.63-68` |  
-| Real Estate exposure class | `CRE20.69-91` |  
-| Direct credit substitutes | `CRE20.95` |  
-| Sale and repurchase agreements where the credit risk remains with the bank | `CRE20.95` |  
-| Lending of banks' securities or the posting of securities as collateral by banks | `CRE20.95` |  
-| Forward assets purchases | `CRE20.95` |  
-| Forward forward deposits | `CRE20.95` |  
-| Partly paid shares and securities | `CRE20.95` |  
-| Credit substitutes not included in any other category | `CRE20.95` |  
-| Note issuance facilities | `CRE20.96` |  
-| Revolving underwriting facilities | `CRE20.96` |  
-| Certain transactions-related contingent items (e.g. performance bonds, bid bonds, warranties, standby letters of credit) | `CRE20.97` |  
-| Commitments regardless of the maturity of the underlying facility | `CRE20.98` |  
-| Both issuing and confirming banks of short-term self-liquidating trade letters of credit arising from the movement of goods | `CRE20.99` |  
+Credit Risk for On-Balance Sheet or Off-Balance Sheet Items is calculated based on the relevant provisions in the Basel Framework as follows:
+
+| Exposure Type | Reference |
+| --- | --- |
+| Sovereigns | `CRE20.7-10` |
+| Non-central government Public Sector Entities (PSEs) | `CRE20.11-12` |
+| Multilateral Development Banks | `CRE20.13-15` |
+| Banks | `CRE20.16-32` |
+| Covered Bonds | `CRE20.33-39` |
+| Securities, firms, and other financial institutions | `CRE20.40` |
+| Corporates | `CRE20.41-52` |
+| Subordinated debt, equity, and other capital instruments | `CRE20.53-62` |
+| Retail exposure class | `CRE20.63-68` |
+| Real Estate exposure class | `CRE20.69-91` |
+| Direct credit substitutes | `CRE20.95` |
+| Sale and repurchase agreements where the credit risk remains with the bank | `CRE20.95` |
+| Lending of banks' securities or the posting of securities as collateral by banks | `CRE20.95` |
+| Forward assets purchases | `CRE20.95` |
+| Forward forward deposits | `CRE20.95` |
+| Partly paid shares and securities | `CRE20.95` |
+| Credit substitutes not included in any other category | `CRE20.95` |
+| Note issuance facilities | `CRE20.96` |
+| Revolving underwriting facilities | `CRE20.96` |
+| Certain transactions-related contingent items (e.g. performance bonds, bid bonds, warranties, standby letters of credit) | `CRE20.97` |
+| Commitments regardless of the maturity of the underlying facility | `CRE20.98` |
+| Both issuing and confirming banks of short-term self-liquidating trade letters of credit arising from the movement of goods | `CRE20.99` |
 | Commitments that are unconditionally cancellable at any time by the bank without prior notice | `CRE20.100` |
 
 ###### A.3.2.2.1.1.1.5.2.3.2 - Securitization Tranches [Core]  <!-- UUID: 5f70b7dd-4a76-4204-9bd6-9e6ce2864f82 -->
 
 Risk Weights for Securitization Tranches (see `CRE40-41, 45`) are calculated as follows:
-    
-◦ If the Securitization Tranche is rated, then the Securitisation - External Ratings Based Approach should be applied (see `CRE42`).    
-◦ If the Securitization Tranche is not rated, then the Securitisation - Standard Approach should be applied (see `CRE41`).
+
+- If the Securitization Tranche is rated, then the Securitisation - External Ratings Based Approach should be applied (see `CRE42`).
+- If the Securitization Tranche is not rated, then the Securitisation - Standard Approach should be applied (see `CRE41`).
 
 ###### A.3.2.2.1.1.1.5.2.3.3 - Derivatives Or Securities Financing Transactions [Core]  <!-- UUID: 3622ac1e-4ed9-41ba-ba91-0396e1b30b67 -->
 
@@ -14051,10 +13684,10 @@ Counterparty Credit Risk for Derivatives or Securities Financing Transactions is
 ###### A.3.2.2.1.1.1.5.2.3.4 - Funds / Collective Investment Undertakings / Exchange Traded Funds [Core]  <!-- UUID: 56ef98fa-582e-4c60-87f2-34400bad72fe -->
 
 Risk Weights for Funds / Collective Investment Undertakings / Exchange Traded Funds (see `CRE60`) are calculated as follows:
-    
-◦ If look-through is feasible, apply the Look Through Approach (see `CRE60.2-5`)    
-◦ If look-through is not feasible but the mandate information is available, apply the Mandate Based Approach (see `CRE60.6-7`)    
-◦ If look-through is not feasible and the mandate information is not available, apply the fallback conservative approach (see `CRE60.8`)
+
+- If look-through is feasible, apply the Look Through Approach (see `CRE60.2-5`)
+- If look-through is not feasible but the mandate information is available, apply the Mandate Based Approach (see `CRE60.6-7`)
+- If look-through is not feasible and the mandate information is not available, apply the fallback conservative approach (see `CRE60.8`)
 
 ###### A.3.2.2.1.1.1.5.2.3.5 - Commodities [Core]  <!-- UUID: 75db9d5b-c245-4574-8705-2cd5d4dde0b1 -->
 
@@ -14104,7 +13737,7 @@ The following Instance Financial CRRs apply to specific assets listed:
 ###### A.3.2.2.1.1.1.5.3.1.1 - Additional Restrictions On Investments In JTRSY And JAAA On Avalanche [Core]  <!-- UUID: 66506235-0e6c-4fa9-8e22-5eb4f19cb330 -->
 
 Investments in JTRSY and JAAA on Avalanche are subject to the following additional restrictions:
-    
+
 - The initial deployment of capital into JTRSY and JAAA on Avalanche may not exceed 20 million USDS in total;
 - Each additional deployment of capital into JTRSY or JAAA must be approved by the Core Council Risk Advisor;
 - Until audits of Centrifuge v3 are approved by the Protocol Security Workstream Lead, the Prime must be below a 90% Encumbrance Ratio on a pro forma basis assuming that each additional deployment of capital into JTRSY and JAAA requires 100% Instance Total CRR; and
@@ -14119,7 +13752,6 @@ Total ACRDX exposure may not increase beyond 50.97 million USDS and should be re
 Investments on Plume are subject to the following restrictions:
 
 - Assets other than RWAs on Plume or being bridged to Plume require 100% Instance Total CRR; and
-
 - Total investments on Plume may not exceed 125 million USDS.
 
 ###### A.3.2.2.1.1.1.6 - Cash Stablecoins [Core]  <!-- UUID: 3c0a9e8b-4a0b-4059-87a4-155deaee0486 -->
@@ -14692,22 +14324,22 @@ def piecewise_coverage(x, x_start, x_kink, x_max):
         return 0.0
     if x >= x_max:
         return 1.0
-    
+
     # If between x_start and x_kink -> map linearly from 0% to 25%
     if x_start < x <= x_kink:
         span = x_kink - x_start
         # fraction of the way through that segment
-        frac = (x - x_start) / span  
+        frac = (x - x_start) / span
         # coverage goes 0 -> 0.25 (25%)
         return 0.25 * frac
-    
+
     # If between x_kink and x_max -> map linearly from 25% to 100%
     else:  # x_kink < x < x_max
         span = x_max - x_kink
         frac = (x - x_kink) / span
         # coverage goes 0.25 -> 1.0
         return 0.25 + (0.75 * frac)
-        
+
 # ------------------------------------------------------------------
 # Thresholds
 # ------------------------------------------------------------------
@@ -14765,16 +14397,16 @@ def calculate_rrc_coverage(
     elif rating <= 50:
         # TRR Category 2 (Medium Risk) => blend coverage from f1-curve and f2-curve
         # First get coverage from the "f1 low-risk"
-        x_start_1, x_kink_1, x_max_1 = f1_thresholds_low_risk(25) 
+        x_start_1, x_kink_1, x_max_1 = f1_thresholds_low_risk(25)
         cov_f1 = piecewise_coverage(f1, x_start_1, x_kink_1, x_max_1)
 
-        # Then get coverage from the "f2 high-risk" 
+        # Then get coverage from the "f2 high-risk"
         x_start_2, x_kink_2, x_max_2 = f2_thresholds_high_risk(50)
         cov_f2 = piecewise_coverage(f2, x_start_2, x_kink_2, x_max_2)
 
         # Blend factor alpha
         alpha = (rating - 25) / (50 - 25)
-        coverage_fraction = (1 - alpha) * cov_f1 + 0.15 * alpha * cov_f2 
+        coverage_fraction = (1 - alpha) * cov_f1 + 0.15 * alpha * cov_f2
 
     elif rating <= 75:
         # TRR Category 3 (High Risk) => use only f2
@@ -14782,7 +14414,7 @@ def calculate_rrc_coverage(
         coverage_fraction = piecewise_coverage(f2, x_start, x_kink, x_max)
 
     else:
-        # TRR Category 4 (Extreme Risk) => special piecewise lumps.  
+        # TRR Category 4 (Extreme Risk) => special piecewise lumps.
         if rating > 75:
             return 1.0
 
@@ -15361,7 +14993,7 @@ Resting Actively Stabilizing Collateral must provide buy support at a price of a
 ###### A.3.3.2.2.1.1.1 - Resting Actively Stabilizing Collateral Calculations [Core]  <!-- UUID: 4e8cd2d1-4c74-49fd-b3fe-f8b6ccc1a79f -->
 
 Resting Actively Stabilizing Collateral is currently calculated as the sum of:
-    
+
 1. USDC in the LitePSM;
 2. USDC in the PSM3 on Base, Arbitrum, Unichain, Optimism;
 3. Cash Stablecoins in Curve (paired with USDS);
@@ -15372,16 +15004,17 @@ Resting Actively Stabilizing Collateral is currently calculated as the sum of:
 ###### A.3.3.2.2.1.2 - Latent Actively Stabilizing Collateral [Core]  <!-- UUID: 300d45c5-96b4-47ad-9471-8122534d9bc4 -->
 
 Latent Actively Stabilizing Collateral consists of Cash Stablecoins that do not qualify as Resting Actively Stabilizing Collateral but can be converted to Resting Actively Stabilizing Collateral. Latent Actively Stabilizing Collateral may include Cash Stablecoins deposited into lending protocols, Cash Stablecoins used to provide liquidity to decentralized exchanges, or liquid staking derivatives of cash stablecoins.
+
 Assets must satisfy the following requirements to qualify as Latent Actively Stabilizing Collateral:
-    
-1. The assets must be verifiable onchain or through reputable APIs or oracles;    
-2. The assets must be able to be converted into Resting Actively Stabilizing Collateral within 15 minutes under normal market conditions; and    
+
+1. The assets must be verifiable onchain or through reputable APIs or oracles;
+2. The assets must be able to be converted into Resting Actively Stabilizing Collateral within 15 minutes under normal market conditions; and
 3. The process to convert the assets into Resting Actively Stabilizing Collateral must be fully automated and triggered automatically when ASC falls below specified levels.
 
 ###### A.3.3.2.2.1.2.1 - Latent Actively Stabilizing Collateral Calculations [Core]  <!-- UUID: 35ce6b38-9fc1-456e-93da-10ab1468a8bf -->
 
 Latent Actively Stabilizing Collateral is currently calculated as the sum of:
-    
+
 1. Cash Stablecoins in Curve (not paired with USDS);
 2. Cash Stablecoins in Uniswap (not paired with USDS);
 3. Cash Stablecoins in SparkLend;
@@ -15595,7 +15228,7 @@ Arrangers are Ecosystem Actors who specialize in sourcing, negotiating, structur
 
 Arrangers are generally prohibited from occupying any position where they could cause damage or loss to the Sky Ecoystem, notwithstanding delays or inconveniences.
 
-After the Arranged Structures are established and assets are allocated, Arrangers must not have the capability to operate or influence the legal and operational structure’s asset operations in any manner that could cause significant harm or losses to the stability of USDS. 
+After the Arranged Structures are established and assets are allocated, Arrangers must not have the capability to operate or influence the legal and operational structure’s asset operations in any manner that could cause significant harm or losses to the stability of USDS.
 
 Arrangers are directly approved by SKY voters, and all LRA collateral exposure must be structured by an approved Arranger.
 
@@ -15611,7 +15244,7 @@ List of current active Arrangers:
 
 #### A.3.4.3.3 - Reporting And Stress Test Requirements [Core]  <!-- UUID: a904881f-b235-4236-8439-deea105f06d0 -->
 
-Arrangers must publish monthly reporting on each Arranged Structure they have arranged. 
+Arrangers must publish monthly reporting on each Arranged Structure they have arranged.
 
 Every six (6) months, Arrangers are also required to publish a stress test analysis that demonstrates how the structures would perform under historical financial crisis scenarios and other hypothetical scenarios.
 
@@ -15619,8 +15252,7 @@ The Stability Facilitators must periodically fund independent Ecosystem Actors t
 
 To be considered compliant, Arrangers’ monthly reports must satisfy the requirements of one of the following documents:
 
--[A.3.4.3.3.1 - Monthly Arranger Report Requirements](7b902bb1-68b4-477d-a575-29aaa02e9e7b)
-
+- [A.3.4.3.3.1 - Monthly Arranger Report Requirements](7b902bb1-68b4-477d-a575-29aaa02e9e7b)
 - [A.3.4.3.3.2 - Access To Accounts](47eedd39-5bb9-492f-a4aa-9405bb5d196f)
 
 ##### A.3.4.3.3.1 - Monthly Arranger Report Requirements [Core]  <!-- UUID: 7b902bb1-68b4-477d-a575-29aaa02e9e7b -->
@@ -15628,25 +15260,15 @@ To be considered compliant, Arrangers’ monthly reports must satisfy the requir
 The following information must be included in the monthly Arranger report. Each item must be reported for at least the start and end date of the reporting period. If these dates fall on days when markets are closed, the first business day after the start date and the last business day before the end date may be used instead.
 
 - Cash balance.
-
 - Cash income over the reporting period. Any income over $20,000 in value should be broken out as its own line item, and an explanation provided for any non-recurring or non-ordinary expenses.
-
 - Cash expenses over the reporting period. Any expense over $20,000 in value should be broken out as its own line item, and an explanation provided for any non-recurring or non-ordinary expenses.
-
 - Market value of publicly traded equities, ETFs, and mutual funds.
-
 - Market value (the closing price) of publicly traded debt securities. Debt securities that are investment grade and less than 12 months from maturity may alternatively be reported at cost basis + linearly recognizing scheduled interest income.
-
 - A valuation for illiquid or privately traded assets. This should utilize a valuation from a reputable third party with relevant expertise or follow a well-defined methodology that is explained in detail in the report.
-
 - CUSIPs, date of purchase, date of maturity, coupon, cost basis, and face value of all publicly traded debt securities in the portfolio for the last day of the reporting period.
-
 - USDS inflows from the Sky Protocol during the reporting period.
-
 - Total repayments on-chain to the Sky Protocol either to a vault or for surplus. If repayments are derived from multiple sources, they should be broken out into line items for each source.
-
 - Vault debt to the Sky Protocol.
-
 - Copies of original statements for all bank, brokerage, exchange, custodial, or other accounts. The Arranger may redact the names for non-Arranger service providers if and only if that is a requirement of confidentiality agreements with the non-Arranger service providers.
 
 The Stability Facilitator must publicly confirm on the Sky Forum that they have reviewed the original account documentation and verified that it supports the Arranger’s summary.
@@ -15656,9 +15278,7 @@ The Stability Facilitator must publicly confirm on the Sky Forum that they have 
 As an alternative to the requirements set out in [A.3.4.3.3.1 - Monthly Arranger Report Requirements](7b902bb1-68b4-477d-a575-29aaa02e9e7b), the Arranger can provide the following information through public read-only access to all accounts:
 
 - All asset balances
-
 - All transaction amounts (non-Arranger service provider names may be redacted)
-
 - Hold-to-maturity yields (for assets with maturity) or current yield (for assets with no maturity)
 
 In addition, Makerburn.com ([https://makerburn.com/#/](https://makerburn.com/#/)), Daistats.com ([https://daistats.com/#/](https://daistats.com/#/)), or another dashboard must be publicly available to summarize USDS inflows and outflows from the Sky vault.
@@ -15673,7 +15293,7 @@ The subdocuments herein define perpetual yield strategies and exposure targets t
 
 #### A.3.4.5.1 - Implemented By Stability Facilitator [Core]  <!-- UUID: a337def8-2baf-491b-9635-4beaa628b77f -->
 
-The Stability Facilitators can implement various perpetual yield strategies, including on-chain and off-chain mechanisms, that enable the Sky Protocol to take advantage of high risk-adjusted return on perpetual yield strategies in the crypto markets. 
+The Stability Facilitators can implement various perpetual yield strategies, including on-chain and off-chain mechanisms, that enable the Sky Protocol to take advantage of high risk-adjusted return on perpetual yield strategies in the crypto markets.
 
 Exposure targets specified in this document override requirements defined by other Articles of the Stability Scope.
 
@@ -15702,7 +15322,6 @@ The current implementation of the Surplus Buffer is the Vow contract deployed on
 The current value of the Surplus Buffer can be calculated using the Vat contract, Sky’s central accounting contract, located on the Ethereum Mainnet at `0x35D1b3F3D7966A1DFe207aa4514C12a259A0492B`. The current value of the Surplus Buffer is the difference between:
 
 1. The assets of the Vow contract obtained by calling the `dai` function on the Vat contract with the address of the Vow contract, and
-
 2. The liabilities of the Vow contract obtained by calling the `sin` function on the Vat contract with the address of the Vow contract.
 
 ### A.3.5.2 - Smart Burn Engine Parameters [Section]  <!-- UUID: ddb90fee-2851-4bf0-b924-f1d73e30ce7a -->
@@ -15860,33 +15479,19 @@ The collateral types of the Native Vault Engine and their parameters are defined
 Current ETH-A parameters are:
 
 - Stability Fee: set by the SP-BEAM specified in A.3.9 - Measures For Endgame Transition - Stability Parameter Bounded External Access Module,
-
 - Liquidation Ratio: 145%,
-
 - DC-IAM `line`: 15,000,000,000 Dai,
-
 - DC-IAM `gap`: 150,000,000 Dai,
-
 - DC-IAM `ttl`: 21,600 seconds,
-
 - `cut`: 99.00%,
-
 - `step`: 90 seconds,
-
 - `buf`: 110.00%,
-
 - `cusp`: 45.00%,
-
 - `tail`: 7,200 seconds,
-
 - `chip`: 0.10%,
-
 - `tip`: 250,
-
 - `chop`: 13%,
-
 - `hole`: 40,000,000 Dai,
-
 - `dust`: 7,500 Dai
 
 ###### A.3.7.1.1.1.2 - ETH-B [Core]  <!-- UUID: 87fd7fd2-495f-452f-abed-4a887ba02c7c -->
@@ -15894,33 +15499,19 @@ Current ETH-A parameters are:
 Current ETH-B parameters are:
 
 - Stability Fee: set by the SP-BEAM specified in A.3.9 - Measures For Endgame Transition - Stability Parameter Bounded External Access Module,
-
 - Liquidation Ratio: 130%,
-
 - DC-IAM `line`: 250,000,000 Dai,
-
 - DC-IAM `gap`: 20,000,000 Dai,
-
 - DC-IAM `ttl`: 21,600 seconds,
-
 - `cut`: 99.00%,
-
 - `step`: 60 seconds,
-
 - `buf`: 110.00%,
-
 - `cusp`: 45.00%,
-
 - `tail`: 4,800 seconds,
-
 - `chip`: 0.10%,
-
 - `tip`: 250,
-
 - `chop`: 13%,
-
 - `hole`: 15,000,000 Dai,
-
 - `dust`: 25,000 Dai
 
 ###### A.3.7.1.1.1.3 - ETH-C [Core]  <!-- UUID: 896ce563-a4f1-4a9d-ad23-fc5840ea2f28 -->
@@ -15928,67 +15519,39 @@ Current ETH-B parameters are:
 Current ETH-C parameters are:
 
 - Stability Fee: set by the SP-BEAM specified in A.3.9 - Measures For Endgame Transition - Stability Parameter Bounded External Access Module,
-
 - Liquidation Ratio: 170%,
-
 - DC-IAM `line`: 2,000,000,000 Dai,
-
 - DC-IAM `gap`: 100,000,000 Dai,
-
 - DC-IAM `ttl`: 28,800 seconds,
-
 - `cut`: 99.00%,
-
 - `step`: 90 seconds,
-
 - `buf`: 110.00%,
-
 - `cusp`: 45.00%,
-
 - `tail`: 7,200 seconds,
-
 - `chip`: 0.10%,
-
 - `tip`: 250,
-
 - `chop`: 13%,
-
 - `hole`: 35,000,000 Dai,
-
 - `dust`: 3,500 Dai
 
 ###### A.3.7.1.1.1.4 - WSTETH-A [Core]  <!-- UUID: 1dbc84b7-a17e-40af-aef5-63a9b78e85b3 -->
 
 Current WSTETH-A parameters are:
 
-- Stability Fee: set by the SP-BEAM specified in A.3.9 - Measures For Endgame Transition - Stability Parameter Bounded External Access Module, 
-
+- Stability Fee: set by the SP-BEAM specified in A.3.9 - Measures For Endgame Transition - Stability Parameter Bounded External Access Module,
 - Liquidation Ratio: 150%,
-
 - DC-IAM `line`: 750,000,000 Dai,
-
 - DC-IAM `gap`: 30,000,000 Dai,
-
 - DC-IAM `ttl`: 43,200 seconds,
-
 - `cut`: 99.00%,
-
 - `step`: 90 seconds,
-
 - `buf`: 110.00%,
-
 - `cusp`: 45.00%,
-
 - `tail`: 7,200 seconds,
-
 - `chip`: 0.10%,
-
 - `tip`: 250,
-
 - `chop`: 13%,
-
 - `hole`: 30,000,000 Dai,
-
 - `dust`: 7,500 Dai
 
 ###### A.3.7.1.1.1.5 - WSTETH-B [Core]  <!-- UUID: cfb76935-bcd4-4973-967c-7625c1524e58 -->
@@ -15996,33 +15559,19 @@ Current WSTETH-A parameters are:
 Current WSTETH-B parameters are:
 
 - Stability Fee: set by the SP-BEAM specified in A.3.9 - Measures For Endgame Transition - Stability Parameter Bounded External Access Module,
-
 - Liquidation Ratio: 175%,
-
 - DC-IAM `line`: 1,000,000,000 Dai,
-
 - DC-IAM `gap`: 45,000,000 Dai,
-
 - DC-IAM `ttl`: 43,200 seconds,
-
 - `cut`: 99.00%,
-
 - `step`: 90 seconds,
-
 - `buf`: 110.00%,
-
 - `cusp`: 45.00%,
-
 - `tail`: 7,200 seconds,
-
 - `chip`: 0.10%,
-
 - `tip`: 250,
-
 - `chop`: 13%,
-
 - `hole`: 20,000,000 Dai,
-
 - `dust`: 3,500 Dai
 
 ###### A.3.7.1.1.1.6 - WBTC-A [Core]  <!-- UUID: dba74f38-58f3-432a-b14b-bf5bc95ac5ed -->
@@ -16030,33 +15579,19 @@ Current WSTETH-B parameters are:
 Current WBTC-A parameters are:
 
 - Stability Fee: set by the SP-BEAM specified in A.3.9 - Measures For Endgame Transition - Stability Parameter Bounded External Access Module,
-
 - Liquidation Ratio: 150%,
-
 - DC-IAM `line`: 0 Dai,
-
 - DC-IAM `gap`: 4,000,000 Dai,
-
 - DC-IAM `ttl`: 86,400 seconds,
-
 - `cut`: 99.00%,
-
 - `step`: 90 seconds,
-
 - `buf`: 110.00%,
-
 - `cusp`: 45.00%,
-
 - `tail`: 7,200 seconds,
-
 - `chip`: 0.10%,
-
 - `tip`: 250,
-
 - `chop`: 0%,
-
 - `hole`: 10,000,000 Dai,
-
 - `dust`: 7,500 Dai
 
 ###### A.3.7.1.1.1.7 - WBTC-B [Core]  <!-- UUID: 307ba340-c3d3-42c8-8121-e98c5de607d0 -->
@@ -16064,33 +15599,19 @@ Current WBTC-A parameters are:
 Current WBTC-B parameters are:
 
 - Stability Fee: set by the SP-BEAM specified in A.3.9 - Measures For Endgame Transition - Stability Parameter Bounded External Access Module,
-
 - Liquidation Ratio: 150%,
-
 - DC-IAM `line`: 0 Dai,
-
 - DC-IAM `gap`: 2,000,000 Dai,
-
 - DC-IAM `ttl`: 86,400 seconds,
-
 - `cut`: 99.00%,
-
 - `step`: 60 seconds,
-
 - `buf`: 110.00%,
-
 - `cusp`: 45.00%,
-
 - `tail`: 4,800 seconds,
-
 - `chip`: 0.10%,
-
 - `tip`: 250,
-
 - `chop`: 0%,
-
 - `hole`: 5,000,000 Dai,
-
 - `dust`: 25,000 Dai
 
 ###### A.3.7.1.1.1.8 - WBTC-C [Core]  <!-- UUID: 2f42fd1f-a79b-4208-ac07-bbfa9a447c18 -->
@@ -16102,29 +15623,17 @@ Current WBTC-C parameters are:
 - Liquidation Ratio: 175%,
 
 - DC-IAM `line`: 0 Dai,
-
 - DC-IAM `gap`: 8,000,000 Dai,
-
 - DC-IAM `ttl`: 86,400 seconds,
-
 - `cut`: 99.00%,
-
 - `step`: 90 seconds,
-
 - `buf`: 110.00%,
-
 - `cusp`: 45.00%,
-
 - `tail`: 7,200 seconds,
-
 - `chip`: 0.10%,
-
 - `tip`: 250,
-
 - `chop`: 0%,
-
 - `hole`: 10,000,000 Dai,
-
 - `dust`: 3,500 Dai
 
 ##### A.3.7.1.1.2 - Risk Parameter Definitions [Core]  <!-- UUID: 8eb26d06-d2b3-493f-a79f-e3509326ddc6 -->
@@ -16139,9 +15648,9 @@ Changes to the Liquidation Ratio are subject to the Operational Weekly Cycle, re
 
 ###### A.3.7.1.1.2.2 - Debt Ceiling Limit [Core]  <!-- UUID: b490d4d0-8eb8-4dc6-9ef3-c85d357f1f4b -->
 
-The Debt Ceiling Limit is numerically provided and acts as an upper limit. Core GovOps, in consultation with the Core Council Risk Advisor, can propose changes within this limit. 
+The Debt Ceiling Limit is numerically provided and acts as an upper limit. Core GovOps, in consultation with the Core Council Risk Advisor, can propose changes within this limit.
 
-Debt Ceiling Limit = Unlimited is defined as large enough to avoid being reached in the near future. 
+Debt Ceiling Limit = Unlimited is defined as large enough to avoid being reached in the near future.
 
 The DC-IAM methodology contained in [A.3.7.1.1.2.4 - Debt Ceiling Instant Access Module (DC-IAM)](93c9f662-4e0d-477e-8fc9-e3726877e842) acts as a risk mitigation tool. It limits the rate at which exposure can increase in a short period of time in the event of an unexpected emergency.
 
@@ -16149,7 +15658,7 @@ The DC-IAM methodology contained in [A.3.7.1.1.2.4 - Debt Ceiling Instant Access
 
 The Stability Fee parameter is an annual percentage fee charged on the Dai generated on Vaults. It is expressed as an annual percentage yield but it is charged on a per-block basis in Dai. The Dai from this fee is minted, added to the Dai debt for the vault, and then transferred into the Surplus Buffer which is under the control of Sky Governance. Each vault type has its own Stability Fee that can be adjusted independently.
 
-The Stability Fees can be modified through either Executive Votes or the Stability Parameter Bounded External Access Module. See [A.3.7.1.3 - Stability Parameter Bounded External Access Module](47b8b035-8abd-42e6-86b8-33f852fa953a). 
+The Stability Fees can be modified through either Executive Votes or the Stability Parameter Bounded External Access Module. See [A.3.7.1.3 - Stability Parameter Bounded External Access Module](47b8b035-8abd-42e6-86b8-33f852fa953a).
 
 The Stability Fees must be gradually increased over time to incentivize users to migrate to SparkLend and other borrowing platforms offered by Prime Agents.
 
@@ -16177,7 +15686,7 @@ A clear justification and analysis must be provided to validate any proposed cha
 
 ###### A.3.7.1.1.2.5.1 - Auction Price Function (calc) [Core]  <!-- UUID: fc7341c8-5a58-4be4-be8c-201f858e3861 -->
 
-The Auction Price Function is the mathematical function that determines how the collateral price changes over time during a collateral auction. Collateral auctions use a falling price auction, where the price starts high and decreases according to the function defined in this parameter. 
+The Auction Price Function is the mathematical function that determines how the collateral price changes over time during a collateral auction. Collateral auctions use a falling price auction, where the price starts high and decreases according to the function defined in this parameter.
 
 The Exponential Stair Step function contains two key parameters, `cut` and `step`, defined in [A.3.7.1.1.2.5.1.1 - Auction Price Function (cut)](1ff3ceac-abd0-4195-9a60-a4aaf48c3d31) and [A.3.7.1.1.2.5.1.2 - Auction Price Function (step)](4b46633c-4d6c-4a9c-9be0-93d242ce9db9), respectively.
 
@@ -16231,7 +15740,7 @@ The processes for offboarding Native Vault Engine collateral are defined in the 
 
 ###### A.3.7.1.1.3.1 - Offboarding Low Usage Collateral [Core]  <!-- UUID: 2c7a4db9-497e-4ed5-b91b-9543af3d58b3 -->
 
-To protect the Protocol from unnecessary complexity, the Stability Facilitators must offboard collateral types specified in [A.3.7.1.1.1 - Vault Types](64971463-0650-4462-b9c4-1eecb704fa1a)   if they fall below a total debt of 20 million.
+To protect the Protocol from unnecessary complexity, the Stability Facilitators must offboard collateral types specified in [A.3.7.1.1.1 - Vault Types](64971463-0650-4462-b9c4-1eecb704fa1a) if they fall below a total debt of 20 million.
 
 ###### A.3.7.1.1.3.2 - Offboarding WBTC Collateral [Core]  <!-- UUID: f6762223-29f3-46c1-8fa4-a5c27636772d -->
 
@@ -16270,9 +15779,9 @@ The parameters for the Spark Allocator Vault are:
 - `duty`: set by the SP-BEAM specified in [A.3.7.1.3 - Stability Parameter Bounded External Access Module](47b8b035-8abd-42e6-86b8-33f852fa953a).
 - `line`: controlled by DC-IAM
 - DC-IAM parameters:
-  - `gap`: 500 million USDS
-  - `line`: 10 billion USDS
-  - `ttl`: 24 hours
+    - `gap`: 500 million USDS
+    - `line`: 10 billion USDS
+    - `ttl`: 24 hours
 
 ###### A.3.7.1.2.1.2 - ALLOCATOR-BLOOM-A Parameters [Core]  <!-- UUID: 53cba245-68c6-4af9-a280-b200dabebec7 -->
 
@@ -16281,9 +15790,9 @@ The parameters for the Grove Allocator Vault are:
 - `duty`: set by the SP-BEAM specified in [A.3.7.1.3 - Stability Parameter Bounded External Access Module](47b8b035-8abd-42e6-86b8-33f852fa953a).
 - `line`: controlled by DC-IAM
 - DC-IAM parameters:
-  - `gap`: 250 million USDS
-  - `line`: 5 billion USDS
-  - `ttl`: 24 hours
+    - `gap`: 250 million USDS
+    - `line`: 5 billion USDS
+    - `ttl`: 24 hours
 
 ###### A.3.7.1.2.1.3 - ALLOCATOR-NOVA-A Parameters [Core]  <!-- UUID: 08321783-f31a-4a80-8f0c-898afb4d8f9b -->
 
@@ -16299,9 +15808,9 @@ The parameters for the Obex Allocator Vault are:
 - `duty`: set by the SP-BEAM specified in [A.3.7.1.3 - Stability Parameter Bounded External Access Module](47b8b035-8abd-42e6-86b8-33f852fa953a).
 - `line`: controlled by DC-IAM
 - DC-IAM parameters:
-  - `gap`: 50 million USDS
-  - `line`: 2.5 billion USDS
-  - `ttl`: 24 hours
+    - `gap`: 50 million USDS
+    - `line`: 2.5 billion USDS
+    - `ttl`: 24 hours
 
 ###### A.3.7.1.2.1.5 - ALLOCATOR-PATTERN-A Parameters [Core]  <!-- UUID: 322e7ccc-6dcb-4f83-96e5-d8f2fa87cd00 -->
 
@@ -16310,31 +15819,31 @@ The parameters for the Pattern Allocator Vault are:
 - `duty`: set by the SP-BEAM specified in [A.3.7.1.3 - Stability Parameter Bounded External Access Module](47b8b035-8abd-42e6-86b8-33f852fa953a).
 - `line`: controlled by DC-IAM
 - DC-IAM parameters:
-  - `gap`: 10 million USDS
-  - `line`: 10 million USDS
-  - `ttl`: 24 hours
+    - `gap`: 10 million USDS
+    - `line`: 10 million USDS
+    - `ttl`: 24 hours
 
 ###### A.3.7.1.2.1.6 - ALLOCATOR-PRYSM-A Parameters [Core]  <!-- UUID: 17630a67-b287-4f44-bc60-f2a4f5d16cfa -->
 
-The parameters for the Launch Agent 6 Allocator Vault are: 
+The parameters for the Launch Agent 6 Allocator Vault are:
 
 - `duty`: set by the SP-BEAM specified in [A.3.7.1.3 - Stability Parameter Bounded External Access Module](47b8b035-8abd-42e6-86b8-33f852fa953a).
 - `line`: controlled by DC-IAM
 - DC-IAM parameters:
-  - `gap`: 10 million USDS
-  - `line`: 10 million USDS
-  - `ttl`: 24 hours
+    - `gap`: 10 million USDS
+    - `line`: 10 million USDS
+    - `ttl`: 24 hours
 
 ###### A.3.7.1.2.1.7 - ALLOCATOR-INTERVAL-A Parameters [Core]  <!-- UUID: cdbdd083-cb1c-4958-9cf0-18a088535c9d -->
 
-The parameters for the Launch Agent 7 Allocator Vault are: 
+The parameters for the Launch Agent 7 Allocator Vault are:
 
 - `duty`: set by the SP-BEAM specified in [A.3.7.1.3 - Stability Parameter Bounded External Access Module](47b8b035-8abd-42e6-86b8-33f852fa953a).
 - `line`: controlled by DC-IAM
 - DC-IAM parameters:
-  - `gap`: 10 million USDS
-  - `line`: 10 million USDS
-  - `ttl`: 24 hours
+    - `gap`: 10 million USDS
+    - `line`: 10 million USDS
+    - `ttl`: 24 hours
 
 ##### A.3.7.1.2.2 - Update Process [Core]  <!-- UUID: 41a1ae38-4f5c-468f-b6ba-47e16ecc5aec -->
 
@@ -16381,6 +15890,7 @@ The Stability Parameter Bounded External Access Module parameters for the Native
 ###### A.3.7.1.3.2.1 - ETH-A Parameters [Core]  <!-- UUID: c9cd99f2-9c40-4b06-94a1-630a26116bce -->
 
 The Stability Parameter Bounded External Access Module parameters for the ETH-A Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 200 basis points,
 - `step` - 400 basis points,
@@ -16389,6 +15899,7 @@ The Stability Parameter Bounded External Access Module parameters for the ETH-A 
 ###### A.3.7.1.3.2.2 - ETH-B Parameters [Core]  <!-- UUID: 6f28d962-1e40-4753-ab39-865795b349f4 -->
 
 The Stability Parameter Bounded External Access Module parameters for the ETH-B Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 200 basis points,
 - `step` - 400 basis points,
@@ -16397,6 +15908,7 @@ The Stability Parameter Bounded External Access Module parameters for the ETH-B 
 ###### A.3.7.1.3.2.3 - ETH-C Parameters [Core]  <!-- UUID: 748db209-f31e-444b-b134-55a8826a5d7a -->
 
 The Stability Parameter Bounded External Access Module parameters for the ETH-C Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 200 basis points,
 - `step` - 400 basis points,
@@ -16405,6 +15917,7 @@ The Stability Parameter Bounded External Access Module parameters for the ETH-C 
 ###### A.3.7.1.3.2.4 - WSTETH-A Parameters [Core]  <!-- UUID: e134990f-7d06-46e3-a2c3-2277bb65e45c -->
 
 The Stability Parameter Bounded External Access Module parameters for the WSTETH-A Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 200 basis points,
 - `step` - 400 basis points,
@@ -16413,6 +15926,7 @@ The Stability Parameter Bounded External Access Module parameters for the WSTETH
 ###### A.3.7.1.3.2.5 - WSTETH-B Parameters [Core]  <!-- UUID: f27c3fa3-dcd6-4ba8-9d74-426807ac010c -->
 
 The Stability Parameter Bounded External Access Module parameters for the WSTETH-B Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 200 basis points,
 - `step` - 400 basis points,
@@ -16421,6 +15935,7 @@ The Stability Parameter Bounded External Access Module parameters for the WSTETH
 ###### A.3.7.1.3.2.6 - WBTC-A Parameters [Core]  <!-- UUID: e0ead8d6-7d1d-48f0-addb-702e21ef5a9e -->
 
 The Stability Parameter Bounded External Access Module parameters for the WBTC-A Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 200 basis points,
 - `step` - 400 basis points,
@@ -16429,6 +15944,7 @@ The Stability Parameter Bounded External Access Module parameters for the WBTC-A
 ###### A.3.7.1.3.2.7 - WBTC-B Parameters [Core]  <!-- UUID: dba279e1-bb04-4574-a45b-87788be40a78 -->
 
 The Stability Parameter Bounded External Access Module parameters for the WBTC-B Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 200 basis points,
 - `step` - 400 basis points,
@@ -16437,6 +15953,7 @@ The Stability Parameter Bounded External Access Module parameters for the WBTC-B
 ###### A.3.7.1.3.2.8 - WBTC-C Parameters [Core]  <!-- UUID: 74ccae87-580f-492b-b260-fa3ef6613979 -->
 
 The Stability Parameter Bounded External Access Module parameters for the WBTC-C Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 200 basis points,
 - `step` - 400 basis points,
@@ -16449,6 +15966,7 @@ The Stability Parameter Bounded External Access Module parameters for the Alloca
 ###### A.3.7.1.3.3.1 - ALLOCATOR-SPARK-A Parameters [Core]  <!-- UUID: 3f6791ef-1f90-45b2-96db-0c85aa2035a1 -->
 
 The Stability Parameter Bounded External Access Module parameters for the ALLOCATOR-SPARK-A Allocator Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 0 basis points,
 - `step` - 400 basis points,
@@ -16456,7 +15974,8 @@ The Stability Parameter Bounded External Access Module parameters for the ALLOCA
 
 ###### A.3.7.1.3.3.2 - ALLOCATOR-NOVA-A Parameters [Core]  <!-- UUID: 092b62b9-b9b8-4322-8b39-5c32ad420be3 -->
 
-The Stability Parameter Bounded External Access Module parameters for the ALLOCATOR-NOVA-A Allocator Vault are as follows
+The Stability Parameter Bounded External Access Module parameters for the ALLOCATOR-NOVA-A Allocator Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 0 basis points,
 - `step` - 400 basis points,
@@ -16465,6 +15984,7 @@ The Stability Parameter Bounded External Access Module parameters for the ALLOCA
 ###### A.3.7.1.3.3.3 - ALLOCATOR-BLOOM-A Parameters [Core]  <!-- UUID: 1cca9f9f-1a60-4de6-8ec2-694b87d3ee91 -->
 
 The Stability Parameter Bounded External Access Module parameters for the ALLOCATOR-BLOOM-A Allocator Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 0 basis points,
 - `step` - 400 basis points,
@@ -16473,6 +15993,7 @@ The Stability Parameter Bounded External Access Module parameters for the ALLOCA
 ###### A.3.7.1.3.3.4 - ALLOCATOR-OBEX-A Parameters [Core]  <!-- UUID: d52799ce-589d-4ef8-9ee3-ef940866291a -->
 
 The Stability Parameter Bounded External Access Module parameters for the ALLOCATOR-OBEX-A Allocator Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 0 basis points,
 - `step` - 400 basis points,
@@ -16481,6 +16002,7 @@ The Stability Parameter Bounded External Access Module parameters for the ALLOCA
 ###### A.3.7.1.3.3.5 - ALLOCATOR-PATTERN-A Parameters [Core]  <!-- UUID: 505130f5-cf13-47e0-bcb6-e4810a36a46c -->
 
 The Stability Parameter Bounded External Access Module parameters for the ALLOCATOR-PATTERN-A Allocator Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 0 basis points,
 - `step` - 400 basis points,
@@ -16489,6 +16011,7 @@ The Stability Parameter Bounded External Access Module parameters for the ALLOCA
 ###### A.3.7.1.3.3.6 - ALLOCATOR-PRYSM-A Parameters [Core]  <!-- UUID: f09e5c6d-80cd-4d7d-b833-f64a96d23c15 -->
 
 The Stability Parameter Bounded External Access Module parameters for the ALLOCATOR-PRYSM-A Allocator Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 0 basis points,
 - `step` - 400 basis points,
@@ -16497,6 +16020,7 @@ The Stability Parameter Bounded External Access Module parameters for the ALLOCA
 ###### A.3.7.1.3.3.7 - ALLOCATOR-INTERVAL-A Parameters [Core]  <!-- UUID: 8766f5be-1a3b-4c74-ac5e-0e22aba94f9a -->
 
 The Stability Parameter Bounded External Access Module parameters for the ALLOCATOR-INTERVAL-A Allocator Vault are as follows:
+
 - `max` - 3,000 basis points,
 - `min` - 0 basis points,
 - `step` - 400 basis points,
@@ -16585,11 +16109,11 @@ The subdocuments herein define the process by which Sky vault users should be no
 
 ##### A.3.7.1.5.1 - Legacy Context [Core]  <!-- UUID: 6e08fc61-dc0d-4f18-8f4d-faa75f7dc59a -->
 
-Periodically, collateral and vault types (ilks) are re-evaluated, which sometimes results in an offboarding of that collateral or vault type. 
+Periodically, collateral and vault types (ilks) are re-evaluated, which sometimes results in an offboarding of that collateral or vault type.
 
-There have been several instances where users entered official Sky forums/chats to understand why they had been suddenly liquidated, despite historically comfortable collateralization ratios ([https://forum.sky.money/t/an-assessment-first-hand-experience-and-recommendations-from-the-aave-offboarding/11836](https://forum.sky.money/t/an-assessment-first-hand-experience-and-recommendations-from-the-aave-offboarding/11836)). This is, understandably, a poor user experience. 
+There have been several instances where users entered official Sky forums/chats to understand why they had been suddenly liquidated, despite historically comfortable collateralization ratios ([https://forum.sky.money/t/an-assessment-first-hand-experience-and-recommendations-from-the-aave-offboarding/11836](https://forum.sky.money/t/an-assessment-first-hand-experience-and-recommendations-from-the-aave-offboarding/11836)). This is, understandably, a poor user experience.
 
-Even with liquidation penalties set to 0%, the forced unwinding of levered positions conceivably can result in user losses, as well as potentially taxable events. 
+Even with liquidation penalties set to 0%, the forced unwinding of levered positions conceivably can result in user losses, as well as potentially taxable events.
 
 This Section defines procedures concerning the dissemination of information about upcoming collateral offboarding on a best-effort basis. The objective is to minimize the number of users who are unaware of the offboarding prior to getting their positions liquidated.
 
@@ -16598,11 +16122,8 @@ This Section defines procedures concerning the dissemination of information abou
 Specific Goals:
 
 1. Codify a series of good-faith communication efforts.
-
 2. Provide an easy-to-follow process for Sky contributors to follow without significant burden.
-
 3. Minimize the number of users unaware of a collateral offboarding.
-
 4. Provide a method to bypass these requirements in the event a collateral is being offboarded due to serious security or solvency concerns.
 
 ##### A.3.7.1.5.2 - Technical Process [Core]  <!-- UUID: 305e2bd6-a594-4aec-8713-adbe7bc87120 -->
@@ -16614,11 +16135,8 @@ The subdocuments herein specify actions to be taken by specific actors within Sk
 Upon approval by Sky Governance to offboard a permissionless collateral type or vault type, the following actions are taken as soon as is practicable:
 
 - Set debt ceiling to zero (0) Dai or USDS.
-
 - Make an initial public announcement on all communication channels listed in [A.3.7.1.5.3.0.6.1 - Communication Channels And Media Assets Listing](9ac8a70b-8b6a-4825-a5e0-5e9019e50bc4).
-
 - Make a second public announcement on all communication channels in the above cited document no later than 14 calendar days after the initial public announcement.
-
 - Once the second public announcements have been made, set the liquidation penalty to 0%.
 
 ###### A.3.7.1.5.2.2 - Following Actions [Core]  <!-- UUID: e0891d48-c684-4372-96e8-988aba8cccee -->
@@ -16632,7 +16150,6 @@ The process for adding, removing, and modifying communication channels and media
 The Active Data is updated as follows:
 
 - The Responsible Party is Core GovOps.
-
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.3.7.1.5.3.0.6.1 - Communication Channels And Media Assets Listing [Active Data]  <!-- UUID: 9ac8a70b-8b6a-4825-a5e0-5e9019e50bc4 -->
@@ -16640,20 +16157,13 @@ The Active Data is updated as follows:
 The following channels should be used for initial and second public announcements of collateral offboarding. The order of announcement publication is as follows:
 
 1. The author of the collateral offboarding notice shall post to the Sky Forum detailing the recommended offboarding. This forum thread is used to inform downstream announcements on other channels.
-
 2. Core GovOps publishes the associated notices to:
-
-- All public Sky Calendars
-
-- The Sky Official Discord’s Announcement channel.
-
-- The official Sky subreddit.
-
+    - All public Sky Calendars
+    - The Sky Official Discord’s Announcement channel.
+    - The official Sky subreddit.
 3. Partner Relationship Leads from relevant Ecosystem Actors reach out to:
-
-- Affected collateral partners (e.g., Aave)
-
-- Affected frontend service providers (e.g., Oasis, DeFi Saver)
+    - Affected collateral partners (e.g., Aave)
+    - Affected frontend service providers (e.g., Oasis, DeFi Saver)
 
 Additionally, outreach may be done to cover more channels not listed here. These may include other Ecosystem Actor or Facilitator owned Twitter accounts, communication channels, and platforms.
 
@@ -16670,7 +16180,6 @@ When a collateral type threatens the security or solvency of the Sky Protocol, a
 Expedited offboardings must proceed pursuant to the following requirements:
 
 - The Offboarding Proposal must state that the offboarding should be expedited due to an emergency or urgent concern, as defined in [A.1.8.1.1 - Definition Of Emergency Situations](5eafb29e-84a0-4a53-a798-3f958c880225)**.**
-
 - The Offboarding Proposal must explicitly reference this Atlas document.
 
 ###### A.3.7.1.5.4.2 - Announcements [Core]  <!-- UUID: b83a3a8b-a5ab-4eed-abf0-31842ebbfa29 -->
@@ -16931,12 +16440,11 @@ First, the start time $T_{0}$ and end time $T_{n}$ of the interval, over which t
 ###### A.4.4.1.3.2.1.4.1.1.2 - Collect Borrow And Supply Events [Core]  <!-- UUID: e196d2f1-fb65-4e31-b511-5ed9ebbaa164 -->
 
 Data is then collected on all supply and borrow events, sorted by time, where:
-    
-◦ $t_{i}$ is the timestamp of event $i$;
-◦ $B_{i}$ is the total amount borrowed at time $t_{i}$;
-◦ $S_{i}$ is the total amount supplied at time $t_{i}$; and
-◦ $U_{i}$ is the utilization at time $t_{i}$, $\frac{B_{i}}{S_{i}}
-$.
+
+- $t_{i}$ is the timestamp of event $i$;
+- $B_{i}$ is the total amount borrowed at time $t_{i}$;
+- $S_{i}$ is the total amount supplied at time $t_{i}$; and
+- $U_{i}$ is the utilization at time $t_{i}$, $\frac{B_{i}}{S_{i}}$.
 
 ###### A.4.4.1.3.2.1.4.1.1.3 - Insert Synthetic Events [Core]  <!-- UUID: 9242854f-4b5b-4ca0-9fd4-ca0a4f7dc516 -->
 
@@ -17197,7 +16705,7 @@ The parameters of the SKY Borrow Minimum Rate formula are further defined in the
 ##### A.4.4.1.3.6 - stUSDS Risk Parameters [Core]  <!-- UUID: fac38a01-4c67-4810-af22-3e7b2d855567 -->
 
 The liquidation parameters for SKY-backed loans funded via stUSDS are:
- 
+
 - Liquidation Ratio: 120%
 - `Calc`: StairstepExponentialDecrease
 - `Tau`: 0 days
@@ -17279,18 +16787,18 @@ The stUSDS BEAM parameters for each stUSDS parameter set by the stUSDS BEAM are 
 ###### A.4.4.1.3.8.2.1 - Str Parameters [Core]  <!-- UUID: 516eccc7-dd7f-4782-84d5-55121bc1ae44 -->
 
 The stUSDS BEAM parameters for the `str` stUSDS parameter are as follows:
-    
-◦ `max` - 5,000 basis points,    
-◦ `min` - 200 basis points,    
-◦ `step` - 1,500 basis points.
+
+- `max` - 5,000 basis points,
+- `min` - 200 basis points,
+- `step` - 1,500 basis points.
 
 ###### A.4.4.1.3.8.2.2 - Duty Parameters [Core]  <!-- UUID: 94da2be4-e21c-4de7-8c0c-21e17718d32b -->
 
 The stUSDS BEAM parameters for the `duty` stUSDS parameter are as follows:
-    
-◦ `max` - 5,000 basis points,
-◦ `min` - 210 basis points,    
-◦ `step` - 1,500 basis points.
+
+- `max` - 5,000 basis points,
+- `min` - 210 basis points,
+- `step` - 1,500 basis points.
 
 ###### A.4.4.1.3.8.3 - Parameter Adjustments [Core]  <!-- UUID: 91152a4b-6f97-4b8a-831a-0f85c16a78ab -->
 
@@ -17335,9 +16843,9 @@ The address of the Operator Hot Wallet on the Ethereum Mainnet is `0xd06C1482004
 ###### A.4.4.1.3.8.4.2.2 - Update Of stUSDS Parameters For Hot Wallet [Core]  <!-- UUID: 877f2d58-df39-4cb9-97cc-e529a5c62146 -->
 
 When the Operator Hot Wallet is added as an Operator of the stUSDS Rate, the stUSDS BEAM parameters must be updated as follows:
-    
-◦ The `step` parameters for the `str` and `duty` parameters must be reduced to 400 basis points; and    
-◦ The `tau` parameter must be reduced to 4 hours.
+
+- The `step` parameters for the `str` and `duty` parameters must be reduced to 400 basis points; and
+- The `tau` parameter must be reduced to 4 hours.
 
 These changes are authorized to proceed directly to an Executive Vote without a prior Governance Poll.
 
@@ -17352,11 +16860,11 @@ The stUSDS parameters set by the stUSDS BEAM are managed by the stUSDS BEAM Oper
 ###### A.4.4.1.3.8.5.1 - Initial Parameter Values Set In Executive Vote [Core]  <!-- UUID: 13c51e11-8ea3-4d4e-b631-2e99c559a914 -->
 
 The initial parameters set by the stUSDS BEAM in the Executive Vote deploying stUSDS and the stUSDS BEAM are:
-    
-◦ `str` - 0 basis points    
-◦ `duty` - 2,000 basis points    
-◦ `cap` - 200,000,000 USDS    
-◦ `line` - 200,000,000 USDS
+
+- `str` - 0 basis points
+- `duty` - 2,000 basis points
+- `cap` - 200,000,000 USDS
+- `line` - 200,000,000 USDS
 
 ###### A.4.4.1.3.8.5.2 - Manual Parameter Updates By Operator Multisig [Core]  <!-- UUID: 944c2573-1184-4d6b-bbe9-0b84c11956cf -->
 
@@ -17456,11 +16964,9 @@ In the long term, the `line` must be gradually increased when Utilization is abo
 
 In order to prevent excessive price spikes if there is high demand for leverage against SKY tokens, which could potentially lead to excessive USDS borrowing against SKY, a wrapper for the SKY OSM contract has been developed.
 
-The wrapper enforces an upper limit on the price of SKY for the purposes of SKY-Backed 
-Borrowing, which is set to be the minimum value of:
+The wrapper enforces an upper limit on the price of SKY for the purposes of SKY-Backed Borrowing, which is set to be the minimum value of:
 
 1. The current price reported by PIP_SKY.
-
 2. The `cap` that has been set on the OSM wrapper contract.
 
 ###### A.4.4.1.3.9.1 - Cap Parameter [Core]  <!-- UUID: 532ed9cb-51de-4ac2-ade9-58c07b3ea3d5 -->
@@ -17551,7 +17057,7 @@ The Vesting Stream contract manages various vesting streams that vest SKY Tokens
 
 ###### A.4.4.1.4.2.1.3.1 - Vesting Stream [Core]  <!-- UUID: 89155294-6652-481f-938f-a562d5b40e65 -->
 
-The address of the Vesting Stream contract is the address corresponding to the  `MCD_VEST_SKY_TREASURY` key in the Chainlog.
+The address of the Vesting Stream contract is the address corresponding to the `MCD_VEST_SKY_TREASURY` key in the Chainlog.
 
 ###### A.4.4.1.4.2.1.3.2 - Vesting Stream Contract Parameters [Core]  <!-- UUID: 148e2c86-0f30-49c1-923c-9b32f92aa40f -->
 
@@ -17563,7 +17069,7 @@ The Vesting Duration `vestTau` is the total duration over which the Vesting Tota
 
 ###### A.4.4.1.4.2.1.3.2.2 - Vesting Total [Core]  <!-- UUID: 8bc59b3a-5bf4-4e2c-a793-b51a4ff58ef6 -->
 
-The Vesting Total `vestTot` is the number of rewards tokens to be vested in total over the Vesting Duration. The  value of the `vestTot` parameter is 838,182,330 SKY.
+The Vesting Total `vestTot` is the number of rewards tokens to be vested in total over the Vesting Duration. The value of the `vestTot` parameter is 838,182,330 SKY.
 
 ###### A.4.4.1.4.2.1.3.3 - Vesting Stream Parameter Modification [Core]  <!-- UUID: 7da0cd7a-238f-400f-89a7-a419ed25ce37 -->
 
@@ -17669,7 +17175,7 @@ The Accessibility communication channel budget is available to maintain the task
 
 The Accessibility communication channel budget is:
 
-- 0 USDS per month, implemented with DssVest. 
+- 0 USDS per month, implemented with DssVest.
 
 It is a monthly recurring budget.
 
@@ -17720,9 +17226,7 @@ Limited filtering requires frontends operated by Ecosystem Actors to avoid displ
 The features that must be restricted from being displayed or described to users flagged for Limited Filtering are:
 
 - Staking Rewards
-
 - Sky Savings Rate
-
 - Any other feature related to yield or rewards.
 
 ##### A.5.4.1.3.2 - Flagged IPs [Core]  <!-- UUID: db9e3649-3ccb-4cc4-aede-78ca1d870101 -->
@@ -17785,6 +17289,7 @@ The documents herein specify all of the logic for Spark, including Spark’s str
 ##### A.6.1.1.1.1 - Introduction [Core]  <!-- UUID: fee4e7c1-bc69-496e-8e1b-a1f7a76daa70 -->
 
 Spark is an Agent focused on building on USDS in the Ethereum and adjacent DeFi ecosystem. This includes driving adoption of USDS and deploying collateral backing USDS at attractive risk-adjusted returns. Spark does this through the Spark Liquidity Layer, SparkLend, and Spark Savings.
+
 - The Spark Liquidity Layer directly provides USDS, sUSDS, and USDC liquidity across networks and DeFi markets.
 - SparkLend is a lending market focused on USDS borrowing, sourcing liquidity directly from Sky to provide the best borrow rates for USDS.
 - Spark Savings enables stablecoin holders to earn the best risk-adjusted rate in DeFi, at large scale, with minimal liquidity constraints.
@@ -18155,19 +17660,19 @@ SPK Company Ltd transferred 6.5 billion SPK tokens from the SPK Company Ltd acco
 
 ###### A.6.1.1.1.2.1.4.2.1.2.3 - Transfer Of Tokens To Spark SubProxy Account [Core]  <!-- UUID: 34c854ac-2a38-4e44-9d49-ad5d1c1c1605 -->
 
-SPK Company Ltd transferred 918,760,451 SPK tokens from the SPK Company Ltd account to the Spark SubProxy Account. The SPK Company Ltd account is specified in [A.6.1.1.1.2.1.4.2.1.2.1 - Minting Of Tokens To SPK Company Ltd](8b3b46b1-e16a-4d1a-b4d0-52b4cc01ca4f). 
+SPK Company Ltd transferred 918,760,451 SPK tokens from the SPK Company Ltd account to the Spark SubProxy Account. The SPK Company Ltd account is specified in [A.6.1.1.1.2.1.4.2.1.2.1 - Minting Of Tokens To SPK Company Ltd](8b3b46b1-e16a-4d1a-b4d0-52b4cc01ca4f).
 
 The Spark SubProxy Account is specified in [A.6.1.1.1.2.1.1.3.1.1.2 - SubProxy Account](378950e0-85c9-4f12-94cd-fb36cde59ba9).
 
 ###### A.6.1.1.1.2.1.4.2.1.2.4 - Transfer Of Tokens For Token Launch [Core]  <!-- UUID: 950458c9-dfa7-4c1f-a30a-05d7468fa1c6 -->
 
-The SPK Company Ltd account will transfer SPK tokens in connection with the token launch. The SPK Company Ltd account is specified in [A.6.1.1.1.2.1.4.2.1.2.1 - Minting Of Tokens To SPK Company Ltd](8b3b46b1-e16a-4d1a-b4d0-52b4cc01ca4f). 
+The SPK Company Ltd account will transfer SPK tokens in connection with the token launch. The SPK Company Ltd account is specified in [A.6.1.1.1.2.1.4.2.1.2.1 - Minting Of Tokens To SPK Company Ltd](8b3b46b1-e16a-4d1a-b4d0-52b4cc01ca4f).
 
 The amount and nature of these distributions will be specified in a future iteration of the Spark Artifact.
 
 ###### A.6.1.1.1.2.1.4.2.1.2.5 - Transfer Of Tokens To Spark Foundation [Core]  <!-- UUID: e68b9cb2-81b0-414d-bea0-f05dbd6ed5a7 -->
 
-The SPK Company Ltd account will transfer all of the SPK tokens held by it, other than the tokens specified in [A.6.1.1.1.2.1.4.2.1.2.4 - Transfer Of Tokens For Token Launch](950458c9-dfa7-4c1f-a30a-05d7468fa1c6), to the Spark Foundation. The SPK Company Ltd account is specified in [A.6.1.1.1.2.1.4.2.1.2.1 - Minting Of Tokens To SPK Company Ltd](8b3b46b1-e16a-4d1a-b4d0-52b4cc01ca4f). 
+The SPK Company Ltd account will transfer all of the SPK tokens held by it, other than the tokens specified in [A.6.1.1.1.2.1.4.2.1.2.4 - Transfer Of Tokens For Token Launch](950458c9-dfa7-4c1f-a30a-05d7468fa1c6), to the Spark Foundation. The SPK Company Ltd account is specified in [A.6.1.1.1.2.1.4.2.1.2.1 - Minting Of Tokens To SPK Company Ltd](8b3b46b1-e16a-4d1a-b4d0-52b4cc01ca4f).
 
 The address of the Spark Foundation on the Ethereum Mainnet is `0x92e4629a4510AF5819d7D1601464C233599fF5ec`.
 
@@ -18901,7 +18406,7 @@ The documents herein define the process for the ongoing management of the SparkL
 
 ###### A.6.1.1.1.2.5.1.2.1.2.1 - Routine Protocol [Core]  <!-- UUID: a419b055-7d92-41b9-89f4-8f1fe082b814 -->
 
-This document defines the protocol for routine ongoing management of the SparkLend Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.1.2.4.1 - Routine Protocol](c2abdd22-fe0f-489e-b281-450e066db701), subject to the qualifications specified in [A.2.2.8.1.2.1.4.3.1 - Near-Term Process](05fb732b-de55-4886-81a7-7c5d4c13d2d2). 
+This document defines the protocol for routine ongoing management of the SparkLend Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.1.2.4.1 - Routine Protocol](c2abdd22-fe0f-489e-b281-450e066db701), subject to the qualifications specified in [A.2.2.8.1.2.1.4.3.1 - Near-Term Process](05fb732b-de55-4886-81a7-7c5d4c13d2d2).
 
 Modifications to the base operational logic automatically propagate to this Instance. In future iterations of the Spark Artifact, a version of the full process definition customized to Spark will be included herein.
 
@@ -18937,9 +18442,11 @@ The materials associated with preparing the Artifact Edit Proposal during the In
 
 ###### A.6.1.1.1.2.5.1.2.1.3.4 - Distribution Reward Payments [Active Data Controller]  <!-- UUID: 971d047b-4e7b-4545-9090-6d509e572aa0 -->
 
-The Distribution Reward payments for the SparkLend Instance of the Distribution Reward Primitive are defined as Active Data. 
+The Distribution Reward payments for the SparkLend Instance of the Distribution Reward Primitive are defined as Active Data.
+
 The Active Data is updated as follows:
-- The Responsible Party is Operational GovOps. 
+
+- The Responsible Party is Operational GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.6.1.1.1.2.5.1.2.1.3.4.0.6.1 - List Of Distribution Reward Payments [Active Data]  <!-- UUID: 055fe10c-2d08-49a1-90c5-e124e2e0b4f9 -->
@@ -19048,7 +18555,7 @@ The documents herein define the process for the ongoing management of the Aave I
 
 ###### A.6.1.1.1.2.5.2.2.1.2.1 - Routine Protocol [Core]  <!-- UUID: 57fa2a62-f7d5-4926-b07a-50689a519942 -->
 
-This document defines the protocol for routine ongoing management of the Aave Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.2.2.4 - Instance Ongoing Management Protocol](805381e5-89e7-4fb9-bda7-a97e84b531ba), subject to the qualifications specified in [A.2.2.8.2.2.1.3.2.1 - Near Term Process](4ab621b4-ef8e-4b01-a6aa-9296601033c5). 
+This document defines the protocol for routine ongoing management of the Aave Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.2.2.4 - Instance Ongoing Management Protocol](805381e5-89e7-4fb9-bda7-a97e84b531ba), subject to the qualifications specified in [A.2.2.8.2.2.1.3.2.1 - Near Term Process](4ab621b4-ef8e-4b01-a6aa-9296601033c5).
 
 Modifications to the base operational logic automatically propagate to this Instance. In future iterations of the Spark Artifact, a version of the full process definition customized to Spark will be included herein.
 
@@ -19084,10 +18591,12 @@ The materials associated with preparing the Artifact Edit Proposal during the In
 
 ###### A.6.1.1.1.2.5.2.2.1.3.4 - Integration Boost Payments [Active Data Controller]  <!-- UUID: c3ca980e-56a7-42fc-a3f2-76516fb42088 -->
 
-The Integration Boost payments for the Aave Instance of the Integration Boost Primitive are defined as Active Data. 
+The Integration Boost payments for the Aave Instance of the Integration Boost Primitive are defined as Active Data.
+The Integration Boost payments for the Aave Instance of the Integration Boost Primitive are defined as Active Data.
 
 The Active Data is updated as follows:
-- The Responsible Party is Operational GovOps. 
+
+- The Responsible Party is Operational GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.6.1.1.1.2.5.2.2.1.3.4.0.6.1 - List Of Integration Boost Payments [Active Data]  <!-- UUID: 839e995c-cc05-40a7-ba31-a72bce152328 -->
@@ -19596,7 +19105,7 @@ This document contains the ALM Contract Addresses for the SLL on Arbitrum.
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.3.1 - ALM Controller (ForeignController Arbitrum) Contract Address [Core]  <!-- UUID: 60979099-707d-497d-ad65-4fd6dd6c7cb0 -->
 
-The address of the ALM_CONTROLLER (ForeignController) contract is: 
+The address of the ALM_CONTROLLER (ForeignController) contract is:
 TBC
 
 ###### A.6.1.1.1.2.6.1.2.1.1.1.2.3.2 - ALM Controller (ForeignController Arbitrum) Contract Version [Core]  <!-- UUID: ea182fbb-586b-4df2-ac03-ea8291702649 -->
@@ -19714,12 +19223,14 @@ The document herein lists the current off-chain operational parameters for the S
 ###### A.6.1.1.1.2.6.1.2.1.1.2.1.1 - Minimum Operation Size Ethereum Mainnet [Core]  <!-- UUID: fc5d7d30-b863-4be9-8ce2-66f88ce51d74 -->
 
 The minimum transaction size for operations on Ethereum Mainnet is (`MAINNET_MIN_OPERATION_SIZE`):
-◦ 500,000
+
+- 500,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.2.1.2 - Debt Ceiling Buffer Ethereum Mainnet [Core]  <!-- UUID: faa7bb3a-7e8c-4f00-b80f-fb10862d943c -->
 
 The buffer amount below the maximum debt ceiling is (`DEBT_CEILING_BUFFER`):
-◦ 10,000
+
+- 10,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.2.2 - Off-chain Operational Parameters For Base [Core]  <!-- UUID: 0aa39269-9d5c-48af-a1de-6b1d5f5058b5 -->
 
@@ -19728,22 +19239,26 @@ The document herein lists the current off-chain operational parameters for the S
 ###### A.6.1.1.1.2.6.1.2.1.1.2.2.1 - Minimum Operation Size Base [Core]  <!-- UUID: c97c059e-23e4-4cf4-830f-e67020bb73d7 -->
 
 The minimum transaction size for operations on Base is (`BASE_MIN_OPERATION_SIZE`):
-◦ 100,000
+
+- 100,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.2.2.2 - Minimum Maintained Balance Of USDC On Base [Core]  <!-- UUID: 73d73cb8-3692-4dcf-9446-e25243715bcf -->
 
 The minimum balance of USDC that must be maintained in a Base account within the Spark Liquidity Layer is (`USDC_MIN_BALANCE_BASE`):
-◦ 800,000
+
+- 800,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.2.2.3 - Ideal Balance Of USDC On Base [Core]  <!-- UUID: e7641f75-dfd5-4f65-8294-052475389ac2 -->
 
 The ideal balance of USDC that should be maintained in a Base account within the Spark Liquidity Layer is (`USDC_OPTIMAL_BALANCE_BASE`):
-◦ 800,000
+
+- 800,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.2.2.4 - Maximum Balance Of USDC On Base [Core]  <!-- UUID: 96791401-16fb-498f-9f00-34ff820c325a -->
 
 The maximum balance of USDC that should be maintained in a Base account within the Spark Liquidity Layer is (`USDC_MAX_BALANCE_BASE`):
-◦ 800,000
+
+- 800,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.2.3 - Off-chain Operational Parameters For Arbitrum Parameters [Core]  <!-- UUID: 0f305c45-a2a2-4007-ae0e-9d829a09aba7 -->
 
@@ -19752,22 +19267,26 @@ The documents herein list the current off-chain operational parameters for the S
 ###### A.6.1.1.1.2.6.1.2.1.1.2.3.1 - Minimum Operation Size Arbitrum [Core]  <!-- UUID: 57117d7b-c4ad-4848-beda-894eab3cdbda -->
 
 The minimum transaction size for operations on Arbitrum is (`ARBITRUM_MIN_OPERATION_SIZE`):
-◦ 100,000
+
+- 100,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.2.3.2 - Minimum Maintained Balance Of USDC On Arbitrum [Core]  <!-- UUID: d6bcfcf6-851d-48b4-9a29-4f85be428475 -->
 
 The minimum balance of USDC that must be maintained in an Arbitrum account within the Spark Liquidity Layer is (`USDC_MIN_BALANCE_ARBITRUM`):
-◦ This parameter will be specified in a future iteration of the Spark Artifact.
+
+- This parameter will be specified in a future iteration of the Spark Artifact.
 
 ###### A.6.1.1.1.2.6.1.2.1.1.2.3.3 - Ideal Balance Of USDC On Arbitrum [Core]  <!-- UUID: 8f1288a8-bf03-4190-a44b-b63aa31428c1 -->
 
 The ideal balance of USDC that should be maintained in an Arbitrum account within the Spark Liquidity Layer is (`USDC_OPTIMAL_BALANCE_ARBITRUM`):
-◦ This parameter will be specified in a future iteration of the Spark Artifact.
+
+- This parameter will be specified in a future iteration of the Spark Artifact.
 
 ###### A.6.1.1.1.2.6.1.2.1.1.2.3.4 - Maximum Balance Of USDC On Arbitrum [Core]  <!-- UUID: b8c1a6c1-c1a4-404c-ad41-5e1ed4dd672c -->
 
 The maximum balance of USDC that should be maintained in an Arbitrum account within the Spark Liquidity Layer is (`USDC_MAX_BALANCE_ARBITRUM`):
-◦ This parameter will be specified in a future iteration of the Spark Artifact.
+
+- This parameter will be specified in a future iteration of the Spark Artifact.
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3 - RateLimits [Core]  <!-- UUID: cdf6df73-045a-4bcb-a456-03441aa4530e -->
 
@@ -19780,30 +19299,35 @@ The documents herein list the current `RateLimits` for the Spark Liquidity Layer
 ###### A.6.1.1.1.2.6.1.2.1.1.3.1.1 - USDS Mint Maximum [Core]  <!-- UUID: ae234813-233e-4231-926b-5d0a8c09c684 -->
 
 The maximum amount of USDS that can be minted within the Spark Liquidity Layer (`LIMIT_USDS_MINT`) is specified in the document herein.
+
 - `maxAmount` (USDS): 500,000,000
 - `slope` (USDS/ day): 500,000,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.1.2 - USDS Burn Maximum [Core]  <!-- UUID: 85d01cb5-2bbf-4df9-998c-63131d83d9db -->
 
 The maximum amount of USDS that can be burned within the Spark Liquidity Layer (`LIMIT_USDS_BURN`) is specified in the document herein.
+
 - `maxAmount` (USDS): 0
 - `slope` (USDS/ day): 0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.1.3 - USDS For USDC Swap Maximum [Core]  <!-- UUID: cd6ad021-80f4-432d-b00f-1d26e7984297 -->
 
 The maximum amount of USDS that can be swapped for USDC by the Spark Liquidity Layer in the Mainnet PSM (`LIMIT_USDS_TO_USDC`) is specified in the document herein.
+
 - `maxAmount` (USDC): 500,000,000
 - `slope` (USDC/ day): 300,000,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.1.4 - USDC Mainnet ALM Proxy Maximum [Core]  <!-- UUID: 9024c8ce-40a6-4eb7-90c7-62dee7d5e408 -->
 
 The maximum amount of USDC that can be sent to the Ethereum Mainnet ALM Proxy (`LIMIT_USDC_TO_DOMAIN`, hashed with Ethereum domain) is specified in the document herein.
+
 - `maxAmount` (USDC): 4,000,000
 - `slope` (USDC/ day): 2,000,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.1.4.1 - USDC Mainnet ALM Proxy Circle Cross-Chain Transfer Protocol Maximum [Core]  <!-- UUID: 77d2f2c3-c1a6-4d63-ac8f-dd1b8dedaab8 -->
 
 The maximum amount of USDC that can be bridged to Ethereum Mainnet ALM Proxy using the Circle Cross-Chain Transfer Protocol (`LIMIT_USDC_TO_CCTP_ETH`) is specified in the document herein.
+
 - `maxAmount` (USDC): 200,000,000
 - `slope` (USDC/ day): 500,000,000
 
@@ -19814,48 +19338,56 @@ The documents herein list the current `RateLimits` for the Spark Liquidity Layer
 ###### A.6.1.1.1.2.6.1.2.1.1.3.2.1 - Base USDC Deposit Maximum [Core]  <!-- UUID: 6cd396d6-8f98-4ca8-a61d-8b49def2a793 -->
 
 The maximum amount of USDC that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDC`) is specified in the document herein.
+
 - `maxAmount` (USDC): 50,000,000
 - `slope` (USDC/ day): 50,000,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.2.2 - Base USDC Withdrawal Maximum [Core]  <!-- UUID: 3cd83281-90cf-4c29-a3a5-6dc83099750b -->
 
 The maximum amount of USDC that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDC`) is specified in the document herein.
+
 - `maxAmount` (USDC): 50,000,000
 - `slope` (USDC/ day): 50,000,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.2.3 - Base USDS Deposit Maximum [Core]  <!-- UUID: 38d0e2c3-3702-4906-b230-66a152dd998d -->
 
 The maximum amount of USDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDS`) is specified in the document herein.
+
 - `maxAmount` (USDS): Unlimited
 - `slope` (USDS/ day): Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.2.4 - Base USDS Withdrawal Maximum [Core]  <!-- UUID: 2cac91fb-e1e2-443d-ad12-ee45211eba1d -->
 
 The maximum amount of USDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDS`) is specified in the document herein.
+
 - `maxAmount` (USDS): max
 - `slope` (USDS/ day): 0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.2.5 - Base sUSDS Deposit Maximum [Core]  <!-- UUID: f9e926e1-e127-42ec-883d-d11baecb0fd6 -->
 
 The maximum amount of sUSDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_SUSDS`) is specified in the document herein.
+
 - `maxAmount` (sUSDS): Unlimited
 - `slope` (sUSDS/ day): Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.2.6 - Base sUSDS Withdrawal Maximum [Core]  <!-- UUID: 521cc062-0b43-4d93-91c3-fdc29e4792f1 -->
 
 The maximum amount of sUSDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_SUSDS`) is specified in the document herein.
+
 - `maxAmount` (sUSDS): max
 - `slope` (sUSDS/ day): 0
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.2.7 - USDC Base ALM Proxy Maximum [Core]  <!-- UUID: 59bc4c89-3edf-4a1b-a288-151cd5cfc624 -->
 
 The maximum amount of USDC that can be sent to the Base ALM Proxy (`LIMIT_USDC_TO_DOMAIN`, hashed with Base domain) is specified in the document herein.
+
 - `maxAmount` (USDC): 4,000,000
 - `slope` (USDC/ day): 2,000,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.2.7.1 - USDC Base ALM Proxy Circle Cross-Chain Transfer Protocol Maximum [Core]  <!-- UUID: 2a8a7903-983a-4dc5-9f77-0b90ab66f9ae -->
 
 The maximum amount of USDC that can be bridged to Base ALM Proxy using the Circle Cross-Chain Transfer Protocol (`LIMIT_USDC_TO_CCTP_BASE`) is specified in the document herein.
+
 - `maxAmount` (USDC): 200,000,000
 - `slope` (USDC/ day): 500,000,000
 
@@ -19866,36 +19398,42 @@ The documents herein list the current `RateLimits` for the Spark Liquidity Layer
 ###### A.6.1.1.1.2.6.1.2.1.1.3.3.1 - Arbitrum USDC Deposit Maximum [Core]  <!-- UUID: ffbc3f81-fd95-4a38-9f95-6c834d01212a -->
 
 The maximum amount of USDC that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDC`) is specified in the document herein.
+
 - `maxAmount` (USDC): This parameter will be specified in a future iteration of the Spark Artifact.
 - `slope` (USDC/ day): This parameter will be specified in a future iteration of the Spark Artifact.
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.3.2 - Arbitrum USDC Withdrawal Maximum [Core]  <!-- UUID: f7e5dc3b-b26c-4a44-9e0b-0b385ad22704 -->
 
 The maximum amount of USDC that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDC`) is specified in the document herein.
+
 - `maxAmount` (USDC): This parameter will be specified in a future iteration of the Spark Artifact.
 - `slope` (USDC/ day): This parameter will be specified in a future iteration of the Spark Artifact.
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.3.3 - Arbitrum USDS Deposit Maximum [Core]  <!-- UUID: ddf6a5b7-5c41-4c80-8ad9-0222ef558fb4 -->
 
 The maximum amount of USDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDS`) is specified in the document herein.
+
 - `maxAmount` (USDS): This parameter will be specified in a future iteration of the Spark Artifact.
 - `slope` (USDS/ day): This parameter will be specified in a future iteration of the Spark Artifact.
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.3.4 - Arbitrum USDS Withdrawal Maximum [Core]  <!-- UUID: f5a14451-b476-46ea-91e8-009f6230ac3e -->
 
 The maximum amount of USDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDS`) is specified in the document herein.
+
 - `maxAmount` (USDS): This parameter will be specified in a future iteration of the Spark Artifact.
 - `slope` (USDS/ day): This parameter will be specified in a future iteration of the Spark Artifact.
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.3.5 - Arbitrum sUSDS Deposit Maximum [Core]  <!-- UUID: 8be6ab2f-9b82-4727-be24-e2d6ac5c4c5f -->
 
 The maximum amount of sUSDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_SUSDS`) is specified in the document herein.
+
 - `maxAmount` (USDS worth of sUSDS): 10,000,000
 - `slope` (USDS worth of sUSDS): 5,000,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.3.6 - Arbitrum sUSDS Withdrawal Maximum [Core]  <!-- UUID: 127e7438-d797-4b3e-a464-230f8253f0d2 -->
 
 The maximum amount of sUSDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_SUSDS`) is specified in the document herein.
+
 - `maxAmount` (sUSDS): Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.4 - Unichain [Core]  <!-- UUID: 40eb29f0-9d83-4c83-ae68-ea46b9f1bcac -->
@@ -19905,36 +19443,42 @@ The documents herein list the current `RateLimits` for the Spark Liquidity Layer
 ###### A.6.1.1.1.2.6.1.2.1.1.3.4.1 - Unichain USDC Deposit Maximum [Core]  <!-- UUID: c02294b9-1938-40b5-af8c-57b82c7b1f51 -->
 
 The maximum amount of USDC that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDC`) is specified in the document herein.
+
 - `maxAmount` (USDC): 50,000,000
 - `slope` (USDC/ day): 50,000,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.4.2 - Unichain USDC Withdrawal Maximum [Core]  <!-- UUID: cb146c46-207d-4a52-be6d-9a4623f2d921 -->
 
 The maximum amount of USDC that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDC`) is specified in the document herein.
+
 - `maxAmount` (USDC): 50,000,000
 - `slope` (USDC/ day): 50,000,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.4.3 - Unichain USDS Deposit Maximum [Core]  <!-- UUID: f998ce83-747f-4c60-95ba-26f1f2facdb8 -->
 
 The maximum amount of USDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDS`) is specified in the document herein.
+
 - `maxAmount` (USDS): Unlimited
 - `slope` (USDS/ day): Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.4.4 - Unichain USDS Withdrawal Maximum [Core]  <!-- UUID: 3a6e6efd-314a-4f21-b238-0ffa148fb8e3 -->
 
 The maximum amount of USDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDS`) is specified in the document herein.
+
 - `maxAmount` (USDS): Unlimited
 - `slope` (USDS/ day): Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.4.5 - Unichain sUSDS Deposit Maximum [Core]  <!-- UUID: 1741e5ba-e45a-4960-b193-f8bee9d595c9 -->
 
 The maximum amount of sUSDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_SUSDS`) is specified in the document herein.
+
 - `maxAmount` (USDS worth of sUSDS): Unlimited
 - `slope` (USDS worth of sUSDS): Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.4.6 - Unichain sUSDS Withdrawal Maximum [Core]  <!-- UUID: 16004284-de05-4ee4-a9db-762de1270de9 -->
 
 The maximum amount of sUSDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_SUSDS`) is specified in the document herein.
+
 - `maxAmount` (sUSDS): Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.5 - Optimism [Core]  <!-- UUID: 13bda6de-0abf-4b64-9379-4653c8f4875e -->
@@ -19944,36 +19488,42 @@ The documents herein list the current `RateLimits` for the Spark Liquidity Layer
 ###### A.6.1.1.1.2.6.1.2.1.1.3.5.1 - Optimism USDC Deposit Maximum [Core]  <!-- UUID: 3f08e295-8edc-489a-8d46-9b4b7ca83d01 -->
 
 The maximum amount of USDC that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDC`) is specified in the document herein.
+
 - `maxAmount` (USDC): 50,000,000
 - `slope` (USDC/ day): 50,000,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.5.2 - Optimism USDC Withdrawal Maximum [Core]  <!-- UUID: 90c809f2-3f2c-4a76-beb8-06140822e2cd -->
 
 The maximum amount of USDC that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDC`) is specified in the document herein.
+
 - `maxAmount` (USDC): 50,000,000
 - `slope` (USDC/ day): 50,000,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.5.3 - Optimism USDS Deposit Maximum [Core]  <!-- UUID: f162baa7-9400-4368-adf8-5793415de5b3 -->
 
 The maximum amount of USDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDS`) is specified in the document herein.
+
 - `maxAmount` (USDS): Unlimited
 - `slope` (USDS/ day): Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.5.4 - Optimism USDS Withdrawal Maximum [Core]  <!-- UUID: f04f600b-3cc0-4c10-8540-1dce56d130e2 -->
 
 The maximum amount of USDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDS`) is specified in the document herein.
+
 - `maxAmount` (USDS): Unlimited
 - `slope` (USDS/ day): Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.5.5 - Optimism sUSDS Deposit Maximum [Core]  <!-- UUID: ae241843-1492-42b4-8a66-687701ba4dc0 -->
 
 The maximum amount of sUSDS that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_SUSDS`) is specified in the document herein.
+
 - `maxAmount` (USDS worth of sUSDS): Unlimited
 - `slope` (USDS worth of sUSDS): Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.5.6 - Optimism sUSDS Withdrawal Maximum [Core]  <!-- UUID: a9d4793d-da6a-440e-9435-993070700b60 -->
 
 The maximum amount of sUSDS that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_SUSDS`) is specified in the document herein.
+
 - `maxAmount` (sUSDS): Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.6 - Avalanche [Core]  <!-- UUID: bf7f9935-ef38-4d33-a871-d4273cb341e0 -->
@@ -19983,24 +19533,28 @@ The documents herein list the current `RateLimits` for the Spark Liquidity Layer
 ###### A.6.1.1.1.2.6.1.2.1.1.3.6.1 - Avalanche USDC Deposit Maximum [Core]  <!-- UUID: 3d180927-6af0-462e-b507-ecd3b76aead9 -->
 
 The maximum amount of USDC that can be deposited into the PSM (`LIMIT_PSM_DEPOSIT_USDC`) is specified in the document herein.
+
 - `maxAmount` (USDC): Unlimited
 - `slope` (USDC/ day): Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.6.2 - Avalanche USDC Withdrawal Maximum [Core]  <!-- UUID: 8b9fa488-8005-488a-8537-11a8bdcb205b -->
 
 The maximum amount of USDC that can be withdrawn from the PSM (`LIMIT_PSM_WITHDRAW_USDC`) is specified in the document herein.
+
 - `maxAmount` (USDC): Unlimited
 - `slope` (USDC/ day): Unlimited
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.6.3 - USDC Avalanche ALM Proxy Maximum [Core]  <!-- UUID: 59673606-e50f-4c75-86e1-6bbc968321f0 -->
 
 The maximum amount of USDC that can be sent to the Avalanche ALM Proxy (`LIMIT_USDC_TO_DOMAIN`, hashed with Avalanche domain) is specified in the document herein.
+
 - `maxAmount` (USDC): 100,000,000
 - `slope` (USDC/ day): 50,000,000
 
 ###### A.6.1.1.1.2.6.1.2.1.1.3.6.3.1 - USDC Avalanche ALM Proxy Circle Cross-Chain Transfer Protocol Maximum [Core]  <!-- UUID: 0de9f0f1-ccef-4f17-b699-7dedb79673b9 -->
 
 The maximum amount of USDC that can be bridged to Avalanche ALM Proxy using the Circle Cross-Chain Transfer Protocol (`LIMIT_USDC_TO_CCTP_AVALANCHE`) is specified in the document herein.
+
 - `maxAmount` (USDC): 100,000,000
 - `slope` (USDC/ day): 50,000,000
 
@@ -20134,7 +19688,7 @@ The documents herein defines roles (Admin, Relayer, Freezer) and their responsib
 
 ###### A.6.1.1.1.2.6.1.2.2.1.1.1 - Default Admin Role [Core]  <!-- UUID: da2e149b-e70c-4373-94da-6da6c4c26048 -->
 
-The admin role (`DEFAULT_ADMIN_ROLE`) is the role that can grant and revoke any role, including itself and all other roles defined in the contract. The admin role is also used for general admin functions in all contracts. This role is fully controlled by Sky Governance via the Spark Proxy. 
+The admin role (`DEFAULT_ADMIN_ROLE`) is the role that can grant and revoke any role, including itself and all other roles defined in the contract. The admin role is also used for general admin functions in all contracts. This role is fully controlled by Sky Governance via the Spark Proxy.
 
 `constructor(address admin) {
         _grantRole(DEFAULT_ADMIN_ROLE, admin);`
@@ -20169,10 +19723,10 @@ The documents herein define the process to set the `mintRecipient` for a specifi
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.1.1.1 - Admin Role [Core]  <!-- UUID: a6f085f5-4670-443e-ad83-b538527b8c24 -->
 
-The operator must ensure they are working as an Admin. Only the `DEFAULT_ADMIN_ROLE` is allowed to `setMintRecipient`. 
+The operator must ensure they are working as an Admin. Only the `DEFAULT_ADMIN_ROLE` is allowed to `setMintRecipient`.
 
 `function setMintRecipient(uint32 destinationDomain, bytes32 mintRecipient)
-        external 
+        external
         onlyRole(DEFAULT_ADMIN_ROLE)`
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.1.1.2 - Associate Mint Recipient With Domain [Core]  <!-- UUID: 0d7bbcaf-477f-4b07-bb8b-fca7cf316f57 -->
@@ -20206,13 +19760,13 @@ The documents herein define the steps for an operator to `mint` USDS from the Sk
 The operator must ensure they are working as a `Relayer`. Only the `RELAYER` role is allowed to `mintUSDS`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
 `function mintUSDS(uint256 usdsAmount)
-        external 
-        onlyRole(RELAYER) 
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.1.1.2 - Check RateLimits [Core]  <!-- UUID: 4414c19c-3194-4481-8db1-42b6dd718c5a -->
 
-The operator must ensure the `RateLimits` allow for minting the required amount. 
+The operator must ensure the `RateLimits` allow for minting the required amount.
 
 ` rateLimited(LIMIT_USDS_MINT, usdsAmount)`
 
@@ -20263,13 +19817,13 @@ The documents herein define the steps for an operator to return and then `burn` 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `burnUSDS`. They must also ensure the contract `isActive` i.e. can process the request.
 
 `function burnUSDS(uint256 usdsAmount)
-        external 
-        onlyRole(RELAYER) 
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.1.2.2 - Check RateLimits [Core]  <!-- UUID: efbe3b04-022f-4181-b7c9-402728536931 -->
 
-The operator must ensure the `RateLimits` allow for minting the required amount. 
+The operator must ensure the `RateLimits` allow for minting the required amount.
 
 `cancelRateLimit(LIMIT_USDS_MINT, usdsAmount)`
 
@@ -20318,46 +19872,33 @@ The documents herein define the general SLL operational procedures for interacti
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.2.1 - General Deposit to ERC-4626 Tokens Procedure [Core]  <!-- UUID: 862f4064-47e5-4f76-908d-64edfcfe0ddd -->
 
 This document defines the steps for an operator to deposit assets from the ALM Proxy to the ERC-4626 vault to receive yield-bearing shares.
-    
-◦ The SLL Operator, acting as `RELAYER`, initiates a deposit.
-    
-◦ Pre-conditions are checked: SLL contract `isActive`, ALM Proxy has sufficient underlying asset, and the deposit amount is within instance-specific `RateLimits` (defined in the relevant Instance Configuration Document).
-    
-◦ The SLL Operator approves the target ERC4626 vault (identified by its `token` address in the Instance Configuration Document) to spend the underlying `asset` from the ALM Proxy.
-    
-◦ The SLL Operator calls the `deposit(uint256 amount, address receiver)` function on the target ERC4626 vault, specifying the `amount` of underlying asset and the ALM `proxy` as the receiver of vault shares.
-    
-◦ The number of shares received is recorded.
-    
-◦ For detailed call structures, instance-specific parameters (vault address, asset address, rate limits), and operational examples, refer to the specific ERC4626 Instance Configuration Document (ICD) (e.g., [A.6.1.1.1.2.6.1.3.1.5.1.3 - Instance-specific Operational Processes](3bc424bf-079e-4b6b-8749-58c942c7d57b) or other relevant ERC4626 ICDs).
+
+- The SLL Operator, acting as `RELAYER`, initiates a deposit.
+- Pre-conditions are checked: SLL contract `isActive`, ALM Proxy has sufficient underlying asset, and the deposit amount is within instance-specific `RateLimits` (defined in the relevant Instance Configuration Document).
+- The SLL Operator approves the target ERC4626 vault (identified by its `token` address in the Instance Configuration Document) to spend the underlying `asset` from the ALM Proxy.
+- The SLL Operator calls the `deposit(uint256 amount, address receiver)` function on the target ERC4626 vault, specifying the `amount` of underlying asset and the ALM `proxy` as the receiver of vault shares.
+- The number of shares received is recorded.
+- For detailed call structures, instance-specific parameters (vault address, asset address, rate limits), and operational examples, refer to the specific ERC4626 Instance Configuration Document (ICD) (e.g., [A.6.1.1.1.2.6.1.3.1.5.1.3 - Instance-specific Operational Processes](3bc424bf-079e-4b6b-8749-58c942c7d57b) or other relevant ERC4626 ICDs).
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.2.2 - General Withdraw from ERC-4626 Tokens Procedure [Core]  <!-- UUID: e797d1cc-9161-4b7a-8c16-db20a026d001 -->
 
 This document defines the steps for an operator to withdraw a yield-earning balance from the ERC-4626 vault to the ALM Proxy.
-    
-◦ The SLL Operator, acting as `RELAYER`, initiates a withdrawal.
-    
-◦ Pre-conditions are checked: SLL contract `isActive`, ALM Proxy has sufficient shares of the ERC4626 vault token, and the withdrawal amount is within instance-specific `RateLimits` (defined in the relevant ICD).
-    
-◦ SLL calls the `withdraw(uint256 assets, address receiver, address owner)` function on the target ERC4626 vault, specifying the `amount` of underlying assets to withdraw, with the ALM `proxy` as both `receiver` (of assets) and `owner` (of shares being burned).
-    
-◦ The number of shares burned is recorded.
-    
-◦ For detailed call structures, instance-specific parameters, and operational examples, refer to the specific ERC4626 Instance Configuration Document.
+
+- The SLL Operator, acting as `RELAYER`, initiates a withdrawal.
+- Pre-conditions are checked: SLL contract `isActive`, ALM Proxy has sufficient shares of the ERC4626 vault token, and the withdrawal amount is within instance-specific `RateLimits` (defined in the relevant ICD).
+- SLL calls the `withdraw(uint256 assets, address receiver, address owner)` function on the target ERC4626 vault, specifying the `amount` of underlying assets to withdraw, with the ALM `proxy` as both `receiver` (of assets) and `owner` (of shares being burned).
+- The number of shares burned is recorded.
+- For detailed call structures, instance-specific parameters, and operational examples, refer to the specific ERC4626 Instance Configuration Document.
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.2.3 - General Redeem from ERC-4626 Tokens Procedure [Core]  <!-- UUID: ed774ab7-c761-444b-963d-7407bf91e243 -->
 
 This document defines the steps for an operator to redeem yield-bearing shares from the ERC-4626 vault, receiving the corresponding amount of underlying assets into the ALM Proxy.
-    
-◦ The SLL Operator, acting as `RELAYER`, initiates a redemption of shares.
-    
-◦ Pre-conditions are checked: SLL contract `isActive`, ALM Proxy has sufficient shares of the ERC4626 vault token.
-    
-◦ SLL calls the `redeem(uint256 shares, address receiver, address owner)` function on the target ERC4626 vault, specifying the number of `shares` to redeem, with the ALM `proxy` as both `receiver` (of assets) and `owner` (of shares being redeemed).
-    
-◦ The amount of underlying assets received is recorded, and relevant `RateLimits` (for withdrawal) are updated.
-    
-◦ For detailed call structures, instance-specific parameters, and operational examples, refer to the specific ERC4626 Instance Configuration Document.
+
+- The SLL Operator, acting as `RELAYER`, initiates a redemption of shares.
+- Pre-conditions are checked: SLL contract `isActive`, ALM Proxy has sufficient shares of the ERC4626 vault token.
+- SLL calls the `redeem(uint256 shares, address receiver, address owner)` function on the target ERC4626 vault, specifying the number of `shares` to redeem, with the ALM `proxy` as both `receiver` (of assets) and `owner` (of shares being redeemed).
+- The amount of underlying assets received is recorded, and relevant `RateLimits` (for withdrawal) are updated.
+- For detailed call structures, instance-specific parameters, and operational examples, refer to the specific ERC4626 Instance Configuration Document.
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.3 - Aave Functions [Core]  <!-- UUID: 9922dcf0-4562-445b-9a46-712f677cce64 -->
 
@@ -20366,36 +19907,25 @@ The documents herein describe the general SLL operational procedures for deposit
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.3.1 - General Deposit to Aave ATokens Procedure [Core]  <!-- UUID: 316008c1-0c1f-487a-a5bf-1966e86fb946 -->
 
 This document defines the steps for an operator to deposit to Aave lending pools.
-    
-◦ The SLL Operator, acting as `RELAYER`, initiates a deposit to an Aave instance.
-    
-◦ Pre-conditions are checked: SLL contract `isActive`, ALM Proxy has sufficient underlying asset, and the deposit amount is within instance-specific `RateLimits` (defined in the relevant Aave ICD).
-    
-◦ The SLL Operator identifies the `underlying` asset address and Aave `pool` address from the specific Aave ICD.
-    
-◦ The SLL Operator approves the Aave `pool` to spend the `underlying` asset from the ALM Proxy.
-    
-◦ The SLL Operator calls the `supply(address asset, uint256 amount, address onBehalfOf, uint16 referralCode)` function on the Aave `pool`, providing the `underlying` asset address, `amount`, ALM `proxy` address (as `onBehalfOf`), and referral code (typically 0).
-    
-◦ The ALM Proxy receives `aTokens` representing the deposited assets.
-    
-◦ For detailed call structures, instance-specific parameters (aToken address, underlying asset address, pool address, rate limits), and operational examples, refer to the specific Aave Instance Configuration Document (ICD) (e.g., [A.6.1.1.1.2.6.1.3.1.2.1.3 - Instance-specific Operational Processes](7895798c-50e2-4fa6-b4e9-5b9f259f822d) or other relevant Aave ICDs).
+
+- The SLL Operator, acting as `RELAYER`, initiates a deposit to an Aave instance.
+- Pre-conditions are checked: SLL contract `isActive`, ALM Proxy has sufficient underlying asset, and the deposit amount is within instance-specific `RateLimits` (defined in the relevant Aave ICD).
+- The SLL Operator identifies the `underlying` asset address and Aave `pool` address from the specific Aave ICD.
+- The SLL Operator approves the Aave `pool` to spend the `underlying` asset from the ALM Proxy.
+- The SLL Operator calls the `supply(address asset, uint256 amount, address onBehalfOf, uint16 referralCode)` function on the Aave `pool`, providing the `underlying` asset address, `amount`, ALM `proxy` address (as `onBehalfOf`), and referral code (typically 0).
+- The ALM Proxy receives `aTokens` representing the deposited assets.
+- For detailed call structures, instance-specific parameters (aToken address, underlying asset address, pool address, rate limits), and operational examples, refer to the specific Aave Instance Configuration Document (ICD) (e.g., [A.6.1.1.1.2.6.1.3.1.2.1.3 - Instance-specific Operational Processes](7895798c-50e2-4fa6-b4e9-5b9f259f822d) or other relevant Aave ICDs).
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.3.2 - General Withdraw from Aave ATokens Procedure [Core]  <!-- UUID: 6e75a2bd-70b7-4081-bb9f-39cf6b321066 -->
 
 This document defines the steps for an operator to withdraw from Aave lending pools.
-    
-◦ The SLL Operator, acting as `RELAYER`, initiates a withdrawal from an Aave instance.
-    
-◦ Pre-conditions are checked: SLL contract `isActive`, ALM Proxy has sufficient `aTokens` for the instance, and the withdrawal amount is within instance-specific `RateLimits` (defined in the relevant Aave ICD).
-    
-◦ The SLL Operator identifies the `underlying` asset address and Aave `pool` address from the specific Aave ICD.
-    
-◦ The SLL Operator calls the `withdraw(address asset, uint256 amount, address to)` function on the Aave `pool`, providing the `underlying` asset address, `amount` to withdraw, and the ALM `proxy` address (as `to`).
-    
-◦ The amount of underlying assets withdrawn is recorded, and relevant `RateLimits` are updated.
-    
-◦ For detailed call structures, instance-specific parameters, and operational examples, refer to the specific Aave ICD.
+
+- The SLL Operator, acting as `RELAYER`, initiates a withdrawal from an Aave instance.
+- Pre-conditions are checked: SLL contract `isActive`, ALM Proxy has sufficient `aTokens` for the instance, and the withdrawal amount is within instance-specific `RateLimits` (defined in the relevant Aave ICD).
+- The SLL Operator identifies the `underlying` asset address and Aave `pool` address from the specific Aave ICD.
+- The SLL Operator calls the `withdraw(address asset, uint256 amount, address to)` function on the Aave `pool`, providing the `underlying` asset address, `amount` to withdraw, and the ALM `proxy` address (as `to`).
+- The amount of underlying assets withdrawn is recorded, and relevant `RateLimits` are updated.
+- For detailed call structures, instance-specific parameters, and operational examples, refer to the specific Aave ICD.
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.4 - PSM Functions [Core]  <!-- UUID: 70785812-c0aa-4efc-8790-093e6c23ef52 -->
 
@@ -20410,13 +19940,13 @@ The documents herein define a series of operations for an operator to `swap` USD
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `swapUSDSToUSDC`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
 `function swapUSDSToUSDC(uint256 usdcAmount)
-        external 
-        onlyRole(RELAYER) 
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.4.1.2 - Check RateLimits [Core]  <!-- UUID: a1dddb9b-93cf-4064-816e-928f761a1239 -->
 
-The operator must ensure that `RateLimits` allows for swapping the required USDS amount to USDC. 
+The operator must ensure that `RateLimits` allows for swapping the required USDS amount to USDC.
 
 `rateLimited(LIMIT_USDS_TO_USDC, usdcAmount)`
 
@@ -20433,7 +19963,7 @@ The operator must ensure that the ALM Proxy has enough USDS balance to `swap` fo
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.4.1.5 - Approve Contract Spend [Core]  <!-- UUID: f3f447b4-22c4-4e49-a128-1672c38a2fb9 -->
 
-The operator must approve the `daiUsds` contract to spend the `usdsAmount` on behalf of the `proxy`. `daiUsds` is a contract that facilitates a 1:1 swap between USDS and DAI. 
+The operator must approve the `daiUsds` contract to spend the `usdsAmount` on behalf of the `proxy`. `daiUsds` is a contract that facilitates a 1:1 swap between USDS and DAI.
 
 `proxy.doCall(
             address(usds),
@@ -20477,13 +20007,13 @@ The documents herein define a series of operations for an operator to `swap` USD
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `swapUSDCToUSDS`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
 `function swapUSDCToUSDS(uint256 usdcAmount)
-        external 
-        onlyRole(RELAYER) 
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.4.2.2 - Check RateLimits [Core]  <!-- UUID: 084174bc-eaa4-4474-80ca-8a7ab0d21c6e -->
 
-The operator must ensure that `RateLimits` allows for swapping the required USDC amount to USDS. 
+The operator must ensure that `RateLimits` allows for swapping the required USDC amount to USDS.
 
 `cancelRateLimit(LIMIT_USDS_TO_USDC, usdcAmount)`
 
@@ -20520,16 +20050,12 @@ If `direct swap` is not possible, the operator must perform an `iterative swap` 
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.4.2.8 - Split Into Multiple Swaps If Limit Exceeded [Core]  <!-- UUID: 99e4d243-b61f-48b6-b127-b5d1855a849c -->
 
-If the `usdcAmount` exceeds the limit, the operator must split the swap into multiple smaller swaps as follows. 
-    
-1. The operator must refill the PSM with DAI by calling `psm.fill()`. 
-    
-2. The operator must recalculate the limit to see how much USDC can be swapped after the refill. 
-    
-3. The operator must swap the maximum possible USDC amount that doesn't exceed the limit. 
-    
-4. The operator must update `remainingUsdcToSwap` by subtracting the amount just swapped. 
-    
+If the `usdcAmount` exceeds the limit, the operator must split the swap into multiple smaller swaps as follows.
+
+1. The operator must refill the PSM with DAI by calling `psm.fill()`.
+2. The operator must recalculate the limit to see how much USDC can be swapped after the refill.
+3. The operator must swap the maximum possible USDC amount that doesn't exceed the limit.
+4. The operator must update `remainingUsdcToSwap` by subtracting the amount just swapped.
 5. The operator must repeat the process until the full `usdcAmount` is swapped.
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.4.2.9 - Split Into Multiple Swaps If Limit Exceeded [Core]  <!-- UUID: 5b50fe5d-22a9-4ea4-a9e1-de7feba453a3 -->
@@ -20618,7 +20144,7 @@ The operator must ensure the ALM Proxy has enough USDC to cover the amount instr
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.5.1.5 - Approve Contract Spend [Core]  <!-- UUID: f7ef5ebb-e30e-4941-918c-63706690b7e0 -->
 
-The operator must approve the CCTP to spend USDC on behalf of the `proxy`. This action is necessary for the CCTP contract to initiate the cross-chain transfer. 
+The operator must approve the CCTP to spend USDC on behalf of the `proxy`. This action is necessary for the CCTP contract to initiate the cross-chain transfer.
 
 `proxy.doCall(
     address(usdc),
@@ -20631,7 +20157,7 @@ The operator must initiate the USDC transfer through CCTP.
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.5.1.6.1 - Check CCTP Transfer Limit [Core]  <!-- UUID: b25fcca3-374b-408d-9715-bb514ee209b1 -->
 
-The operator must check the `transfer limit`. They must retrieve the maximum amount of USDC that can be transferred in a single CCTP message. This limit is fetched from the `localMinter` contract associated with CCTP. 
+The operator must check the `transfer limit`. They must retrieve the maximum amount of USDC that can be transferred in a single CCTP message. This limit is fetched from the `localMinter` contract associated with CCTP.
 
 `uint256 burnLimit = cctp.localMinter().burnLimitsPerMessage(address(usdc));`
 
@@ -20645,10 +20171,9 @@ If a single transaction is possible within the per-message limit, the operator m
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.1.2.5.1.6.3 - Initiate Smaller Transactions If Needed [Core]  <!-- UUID: 6423437d-d062-4a4f-ac03-7f056938d3c6 -->
 
-If `usdcAmount` exceeds the per-message limit, the transfer must be split into multiple smaller batches executing the following loop until the remaining amount is less than or equal to the limit. 
-    
+If `usdcAmount` exceeds the per-message limit, the transfer must be split into multiple smaller batches executing the following loop until the remaining amount is less than or equal to the limit.
+
 1. The operator must transfer the maximum allowed (`burnLimit`) using `_initiateCCTPTransfer`.
-    
 2. The operator must reduce the remaining `usdcAmount` by the `burnLimit`.
 
 `while (usdcAmount > burnLimit) {
@@ -20682,10 +20207,10 @@ The documents herein define the process for an operator to set a `mintRecipient`
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.2.1.1.1 - Admin Role [Core]  <!-- UUID: 80c322c2-586d-46be-9421-acdb69cbc622 -->
 
-The operator must ensure they are working as an Admin. Only the `DEFAULT_ADMIN_ROLE` is allowed to `setMintRecipient`. 
+The operator must ensure they are working as an Admin. Only the `DEFAULT_ADMIN_ROLE` is allowed to `setMintRecipient`.
 
 `function setMintRecipient(uint32 destinationDomain, bytes32 mintRecipient)
-        external 
+        external
         onlyRole(DEFAULT_ADMIN_ROLE)`
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.2.1.1.2 - Associate Mint Recipient With Domain [Core]  <!-- UUID: d8c986af-3586-4b01-b03e-eb75cb39bb28 -->
@@ -20712,13 +20237,13 @@ The documents herein define the operations that are performed to deposit and wit
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.2.2.1.1 - Deposit to ERC-4626 Vault [Core]  <!-- UUID: 8ffb4820-ae4a-408e-a328-1b1a39d6b374 -->
 
-This document defines the steps to deposit assets from the ALM Proxy to the ERC-4626 vault to receive yield-bearing shares. 
+This document defines the steps to deposit assets from the ALM Proxy to the ERC-4626 vault to receive yield-bearing shares.
 
 The process for depositing to ERC-4626 Tokens on destination blockchain through the `ForeignController` contract is the same as the one for depositing to ERC-4626 Tokens on Ethereum Mainnet through the `MainnetController` contract; see [A.6.1.1.1.2.6.1.2.2.1.2.1.2.2.1 - General Deposit to ERC-4626 Tokens Procedure](862f4064-47e5-4f76-908d-64edfcfe0ddd).
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.2.2.1.2 - Withdraw ERC-4626 Tokens [Core]  <!-- UUID: c2bbf44a-496c-4cf6-b0f6-25f77e66465b -->
 
-This document defines the steps to withdraw a yield-earning balance from the ERC-4626 vault to the ALM Proxy. 
+This document defines the steps to withdraw a yield-earning balance from the ERC-4626 vault to the ALM Proxy.
 
 The process for withdrawing ERC-4626 Tokens on destination blockchain through the `ForeignController` contract is the same as the one for withdrawing ERC-4626 Tokens on Ethereum Mainnet through the `MainnetController` contract, see [A.6.1.1.1.2.6.1.2.2.1.2.1.2.2.2 - General Withdraw from ERC-4626 Tokens Procedure](e797d1cc-9161-4b7a-8c16-db20a026d001).
 
@@ -20734,19 +20259,19 @@ The documents herein define the operations that are performed to deposit and wit
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.2.2.2.1 - Deposit to Aave ATokens [Core]  <!-- UUID: 4b3ec104-dc60-4cb0-8e90-5b96c495c974 -->
 
-This document defines the steps to deposit assets from the ALM Proxy to the Aave pool to receive yield-bearing ATokens. 
+This document defines the steps to deposit assets from the ALM Proxy to the Aave pool to receive yield-bearing ATokens.
 
 The process for depositing to Aave ATokens on destination blockchain through the `ForeignController` contract is the same as the one for depositing to Aave ATokens on Ethereum Mainnet through the `MainnetController` contract, see [A.6.1.1.1.2.6.1.2.2.1.2.1.2.3.1 - General Deposit to Aave ATokens Procedure](316008c1-0c1f-487a-a5bf-1966e86fb946).
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.2.2.2.2 - Withdraw Aave ATokens [Core]  <!-- UUID: 5b090e5a-a2e7-4548-a1b4-53be86db6516 -->
 
-This document defines the steps to withdraw a yield-earning balance from the Aave AToken vaults to the ALM Proxy. 
+This document defines the steps to withdraw a yield-earning balance from the Aave AToken vaults to the ALM Proxy.
 
 The process for withdrawing Aave ATokens on destination blockchain through the `ForeignController` contract is the same as the one for withdrawing Aave ATokens on Ethereum Mainnet through the `MainnetController` contract, see [A.6.1.1.1.2.6.1.2.2.1.2.1.2.3.2 - General Withdraw from Aave ATokens Procedure](6e75a2bd-70b7-4081-bb9f-39cf6b321066).
 
 ###### A.6.1.1.1.2.6.1.2.2.1.2.2.2.2.3 - Withdraw Aave ATokens [Core]  <!-- UUID: 35cf8ecc-ce16-4498-81f5-d96073ec5724 -->
 
-This document defines the steps to withdraw a yield-earning balance from the Aave AToken vaults to the ALM Proxy. 
+This document defines the steps to withdraw a yield-earning balance from the Aave AToken vaults to the ALM Proxy.
 
 The process for withdrawing Aave ATokens on destination blockchain through the `ForeignController` contract is the same as the one for withdrawing Aave ATokens on Ethereum Mainnet through the `MainnetController` contract, see [A.6.1.1.1.2.6.1.2.2.1.2.1.2.3.2 - General Withdraw from Aave ATokens Procedure](6e75a2bd-70b7-4081-bb9f-39cf6b321066).
 
@@ -20898,7 +20423,7 @@ The documents herein define all the possible actions that can be taken in case o
 
 ###### A.6.1.1.1.2.6.1.2.2.3.1 - Remove Compromised Relayer As Freezer [Core]  <!-- UUID: 7bd4a4cc-315b-4365-a793-923cd4aaacff -->
 
-In the event of a compromised Relayer, the `FREEZER_ROLE` can call the function to `removeRelayer` from the Controller contract. This function takes an address, and then the Freezer can remove the compromised Relayer, thereby preventing it from doing any harm to the system. The backstop relayer can then take over. This function should only be used if the keys to the relayer multisig have been leaked or compromised, and the relayer is now in the hands of an external bad actor. 
+In the event of a compromised Relayer, the `FREEZER_ROLE` can call the function to `removeRelayer` from the Controller contract. This function takes an address, and then the Freezer can remove the compromised Relayer, thereby preventing it from doing any harm to the system. The backstop relayer can then take over. This function should only be used if the keys to the relayer multisig have been leaked or compromised, and the relayer is now in the hands of an external bad actor.
 
 `mainnetController.removeRelayer(compromisedRelayer)`
 
@@ -20920,7 +20445,7 @@ For more detailed instructions on the code to execute this, see [A.6.1.1.1.2.6.1
 
 ###### A.6.1.1.1.2.6.1.2.2.3.2.3 - Aave AToken Withdrawal Action [Core]  <!-- UUID: 2560adbb-4a5c-4c95-86cb-04647bb33836 -->
 
-In order to withdraw all AToken balances, the operator must execute the following action: 
+In order to withdraw all AToken balances, the operator must execute the following action:
 
 `foreignController.withdrawAave(aToken, aToken.balanceOf(address(proxy)))
 `
@@ -20928,7 +20453,7 @@ For more detailed instructions on the code to execute this, see [A.6.1.1.1.2.6.1
 
 ###### A.6.1.1.1.2.6.1.2.2.3.2.4 - Aave AToken Withdrawal Action [Core]  <!-- UUID: c1f708eb-7373-448d-a54c-b178d0fd909a -->
 
-In order to withdraw all AToken balances, the operator must execute the following action: 
+In order to withdraw all AToken balances, the operator must execute the following action:
 
 `foreignController.withdrawAave(aToken, aToken.balanceOf(address(proxy))
 `
@@ -21069,12 +20594,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.1.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 4fae5f20-61df-4df3-8018-2be0a287de79 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 200,000,000 USDS
 - `slope`: 400,000,000 USDS per day
 
 ###### A.6.1.1.1.2.6.1.3.1.1.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: e2216e6c-7075-464e-9df6-98b02d8ee4a0 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: Unlimited
 
@@ -21141,12 +20668,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.1.2.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 4e05fefc-c013-4f04-8173-7f96cdb90d1e -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 100,000,000 USDC
 - `slope`: 200,000,000 USDC per day
 
 ###### A.6.1.1.1.2.6.1.3.1.1.2.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: ff880422-b0e0-401d-8d01-e541f7643ffc -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: Unlimited
 
@@ -21209,12 +20738,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.1.3.2.3.1 - Inflow Rate Limits [Core]  <!-- UUID: 381c40f3-008e-4541-81c7-6192a186def7 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 100,000,000 DAI
 - `slope`: 50,000,000 DAI per day
 
 ###### A.6.1.1.1.2.6.1.3.1.1.3.2.3.2 - Outflow Rate Limits [Core]  <!-- UUID: 101cf682-0eda-4e40-81e0-601e3d2895aa -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.3.1.1.3.3 - Instance-specific Operational Processes [Core]  <!-- UUID: 9427c9de-cc7b-4ea0-ad1f-d1ceb6d7e866 -->
@@ -21276,12 +20807,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.1.4.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 4a4f3cb4-fc31-4901-b684-c26234dca7bb -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 250,000,000 USDT
 - `slope`: 2,000,000,000 USDT per day
 
 ###### A.6.1.1.1.2.6.1.3.1.1.4.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: dadcd267-a47c-4bc0-9216-98369b470b72 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.3.1.1.4.2.5 - Off-chain Operational Parameters [Core]  <!-- UUID: 126b8574-c161-4c0e-b7a6-a5ceb032a395 -->
@@ -21347,12 +20880,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.1.5.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: be156d9d-6c3b-4694-b598-0beb95ee57e9 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 100,000,000 pyUSD
 - `slope`: 100,000,000 pyUSD per day
 
 ###### A.6.1.1.1.2.6.1.3.1.1.5.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 42fbe675-1c41-432c-93cc-67fe79e2718d -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.3.1.1.5.2.5 - Off-chain Operational Parameters [Core]  <!-- UUID: 74c6841c-6608-4673-9baa-ffea94f9f699 -->
@@ -21426,12 +20961,14 @@ The current `maxAmount` and `slope` for this conduit's inflow/outflow are de
 ###### A.6.1.1.1.2.6.1.3.1.1.6.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: c8320b60-3cf3-4047-aad1-e12cc6ca46f8 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 50,000 ETH
 - `slope`: 10,000 ETH per day
 
 ###### A.6.1.1.1.2.6.1.3.1.1.6.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 68716e71-a257-4f6c-b227-fba7abc8ec31 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.3.1.1.6.2.5 - Off-chain Operational Parameters [Core]  <!-- UUID: ab2d6946-b18e-4199-a27c-61f44dd1fe7a -->
@@ -21505,12 +21042,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.2.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 4ed25455-3128-4395-9b58-cf24e275498c -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 50,000,000 USDS
 - `slope`: 50,000,000 USDS per day
 
 ###### A.6.1.1.1.2.6.1.3.1.2.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 6dc14672-e655-49fd-a351-45537408c74b -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: Unlimited
 
@@ -21528,7 +21067,7 @@ The documents herein define the steps to deposit assets from the ALM Proxy to th
 
 ###### A.6.1.1.1.2.6.1.3.1.2.1.3.1.1 - Relayer Role [Core]  <!-- UUID: 25fd8f89-cb76-464e-b659-e2e1885ac4c5 -->
 
-The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `depositAave`. Also, they must ensure the contract `isActive`  i.e. can process the request.
+The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `depositAave`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
 `function depositAave(address aToken, uint256 amount)
 external
@@ -21737,12 +21276,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.2.2.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 6b65dffb-15a2-4c2c-83a2-ef5325b1f8cc -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 50,000,000 USDC
 - `slope`: 25,000,000 USDC per day
 
 ###### A.6.1.1.1.2.6.1.3.1.2.2.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 89b3f4e4-c845-4a6c-bdce-a383bf11a947 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: Unlimited
 
@@ -21809,12 +21350,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.2.3.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 27876101-2e16-4a33-811d-c662df211b2c -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 50,000,000 USDS
 - `slope`: 25,000,000 USDS per day
 
 ###### A.6.1.1.1.2.6.1.3.1.2.3.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: c02c329a-9e38-472b-ae0f-b2974694982e -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: Unlimited
 
@@ -21881,12 +21424,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.2.4.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 42c4a115-4fed-4d24-a260-d86dc2a71bea -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 10,000,000 USDT
 - `slope`: 1,000,000,000 USDT per day
 
 ###### A.6.1.1.1.2.6.1.3.1.2.4.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: c52a5acc-ef73-4e13-ab15-8c1c1daf12a6 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: Unlimited
 
@@ -21953,12 +21498,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.2.5.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: ce159b4f-4e1a-48e9-9a73-b16c5fe19288 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 250,000,000 USDe
 - `slope`: 100,000,000 USDe per day
 
 ###### A.6.1.1.1.2.6.1.3.1.2.5.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: a773878d-3f7c-492c-9486-139788f5b50f -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: Unlimited
 
@@ -22033,12 +21580,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.3.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: b5d5ba32-342f-4d98-a51e-4d43ff458b48 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 100,000,000 USDC
 - `slope`: 20,000,000 USDC per day
 
 ###### A.6.1.1.1.2.6.1.3.1.3.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: ce4681b7-b94f-4acb-a2de-49b92b70245b -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
 
@@ -22111,12 +21660,14 @@ The current `maxAmount` and `slope` for this conduit's inflow/outflow are de
 ###### A.6.1.1.1.2.6.1.3.1.3.2.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 9bf306d1-bc24-4214-9799-53a00ab04ab5 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 25,000,000 USDT
 - `slope`: 100,000,000 USDT per day
 
 ###### A.6.1.1.1.2.6.1.3.1.3.2.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: fc23d5a1-6e97-4e3e-bead-9a41955441c6 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: Unlimited
 
@@ -22200,12 +21751,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.4.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: c45e65d9-9577-4414-b163-5f55c4335d3c -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 250,000,000 USDC
 - `slope`: 100,000,000 USDC per day
 
 ###### A.6.1.1.1.2.6.1.3.1.4.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: fecaf504-50ea-4f75-bd4d-b5f26c724bc2 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: 500,000,000 USDe
 - `slope`: 200,000,000 USDe per day
 
@@ -22224,8 +21777,8 @@ The documents herein contain the addresses authorized as `delegatedSigners` in t
 ###### A.6.1.1.1.2.6.1.3.1.4.1.3.1.1 - Addresses Of Delegated Signers [Core]  <!-- UUID: 7fcbd408-2aef-427f-b88d-d301350bd41b -->
 
 `delegatedSigner` addresses
-    
-◦ These addesses will be specified in a future iteration of the Spark Artifact.
+
+- These addesses will be specified in a future iteration of the Spark Artifact.
 
 ###### A.6.1.1.1.2.6.1.3.1.4.1.3.2 - Set A Delegated Signer In The EthenaMinter Contract [Core]  <!-- UUID: 4413579c-6ca5-4ff5-9dd5-ff669606eeb7 -->
 
@@ -22235,9 +21788,9 @@ The documents herein define the process for an operator to set a delegated signe
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `setDelegatedSigner`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function setDelegatedSigner(address delegatedSigner) 
-        external 
-        onlyRole(RELAYER) 
+`function setDelegatedSigner(address delegatedSigner)
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.1.2.6.1.3.1.4.1.3.2.2 - Encode Function [Core]  <!-- UUID: 77e7f0e6-016f-4d66-b7cf-39efa5b4f0b2 -->
@@ -22259,9 +21812,9 @@ The documents herein define the process for an operator to remove a delegated si
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `removeDelegatedSigner`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function removeDelegatedSigner(address delegatedSigner) 
-        external 
-        onlyRole(RELAYER) 
+`function removeDelegatedSigner(address delegatedSigner)
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.1.2.6.1.3.1.4.1.3.3.2 - Encode Function [Core]  <!-- UUID: 71d2f286-960f-4264-86db-b48154f38366 -->
@@ -22283,9 +21836,9 @@ The documents herein define the process for an operator to approve the minting o
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `prepareUSDeMint`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function prepareUSDeMint(uint256 usdcAmount) 
-        external 
-        onlyRole(RELAYER) 
+`function prepareUSDeMint(uint256 usdcAmount)
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.1.2.6.1.3.1.4.1.3.4.2 - Enforce Rate Limit [Core]  <!-- UUID: 62adede2-12c9-4388-b078-dbb3ef41e875 -->
@@ -22313,9 +21866,9 @@ The documents herein define the process for an operator to approve the burning o
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `prepareUSDeBurn`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function prepareUSDeBurn(uint256 usdeAmount) 
-        external 
-        onlyRole(RELAYER) 
+`function prepareUSDeBurn(uint256 usdeAmount)
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.1.2.6.1.3.1.4.1.3.5.2 - Enforce Rate Limit [Core]  <!-- UUID: b31a63bd-3163-4d8d-8fe1-c664a989a709 -->
@@ -22394,12 +21947,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.4.2.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 9acb1a46-3e4a-470f-b8b8-61edc40c3a04 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 250,000,000 USDe
 - `slope`: 100,000,000 USDe per day
 
 ###### A.6.1.1.1.2.6.1.3.1.4.2.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: a58592c6-f4f0-4874-bee1-ef11fb91c544 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: unlimited
 - `slope`: unlimited
 
@@ -22415,9 +21970,9 @@ The documents herein define the process for an operator to initiate a sUSDe Cool
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `cooldownAssetsSUSDe`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function cooldownAssetsSUSDe(uint256 usdeAmount) 
-        external 
-        onlyRole(RELAYER) 
+`function cooldownAssetsSUSDe(uint256 usdeAmount)
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.1.2.6.1.3.1.4.2.3.1.2 - Enforce Rate Limit [Core]  <!-- UUID: 11d78bab-58b4-4ee0-8d73-124e1f9a8972 -->
@@ -22445,9 +22000,9 @@ The documents herein define the process for an operator to cool down sUSDe share
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `cooldownSharesSUSDe`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function cooldownSharesSUSDe(uint256 susdeAmount) 
-        external 
-        onlyRole(RELAYER) 
+`function cooldownSharesSUSDe(uint256 susdeAmount)
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.1.2.6.1.3.1.4.2.3.2.2 - Encode Function [Core]  <!-- UUID: 8ab94554-c56e-4c2c-aa04-7be2d887beb3 -->
@@ -22482,9 +22037,9 @@ The documents herein define the process for an operator to unstake sUSDe and ret
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `unstakeSUSDe`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function unstakeSUSDe() 
-        external 
-        onlyRole(RELAYER) 
+`function unstakeSUSDe()
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.1.2.6.1.3.1.4.2.3.3.2 - Encode Function [Core]  <!-- UUID: 24486f09-3df1-4620-bd0f-8368b1e3ed7c -->
@@ -22577,12 +22132,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.5.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: f9c88aaf-90d0-404e-b870-182846f58bf6 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 10,000,000 sUSDS
 - `slope`: 5,000,000 sUSDS per day
 
 ###### A.6.1.1.1.2.6.1.3.1.5.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 67155bd0-093a-49ff-9b96-eb6a8aa22c68 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: 10,000,000 fsUSDS
 - `slope`: 5,000,000 fsUSDS per day
 
@@ -22656,7 +22213,7 @@ The operator must send the encoded call using `proxy.doCall()` to the `deposit` 
 
 ###### A.6.1.1.1.2.6.1.3.1.5.1.3.1.5.3 - Decode Vault Shares [Core]  <!-- UUID: 1c4f95da-5479-4c47-bc8b-4e7875cf8139 -->
 
-The operator must decode the raw bytes data returned from the `doCall()` function into `uint256` value, representing the number of vault `shares` minted from the deposit. 
+The operator must decode the raw bytes data returned from the `doCall()` function into `uint256` value, representing the number of vault `shares` minted from the deposit.
 
 `        // Deposit asset into the token, proxy receives token shares, decode the resulting shares
         shares = abi.decode(
@@ -22813,13 +22370,11 @@ The documents herein define the Instance contract addresses.
 
 ###### A.6.1.1.1.2.6.1.3.1.6.1.2.3 - Rate Limit IDs [Core]  <!-- UUID: 8e52e9d6-6cb0-44e9-9068-21257c1cde34 -->
 
-The specific `RateLimitID`(s) for this conduit’s inflow and outflow is: 
-- `USTB_DEPOSIT`: 
-`0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e
-`- `USTB_REDEEM`: 
-`0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e`
-- `USTB_REDEEM` (instant liquidity): 
-`0x4c21B7577C8FE8b0B0669165ee7C8f67fa1454Cf`
+The specific `RateLimitID`(s) for this conduit’s inflow and outflow is:
+
+- `USTB_DEPOSIT`: `0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e`
+- `USTB_REDEEM`: `0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e`
+- `USTB_REDEEM` (instant liquidity): `0x4c21B7577C8FE8b0B0669165ee7C8f67fa1454Cf`
 
 ###### A.6.1.1.1.2.6.1.3.1.6.1.2.4 - Rate Limits [Core]  <!-- UUID: 69e164bc-ef0c-4d74-a17d-e56bf498b7e0 -->
 
@@ -22828,12 +22383,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.6.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 04975455-99e4-447b-8629-0a6088174e69 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: This parameter will be specified in a future iteration of the Spark Artifact.
 - `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
 
 ###### A.6.1.1.1.2.6.1.3.1.6.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 8639aa8f-3902-4f81-9c1e-a56b4c57f03d -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
 
@@ -22908,6 +22465,7 @@ The current `maxAmount,` `slope` and slippage for this conduit’s inflow/out
 ###### A.6.1.1.1.2.6.1.3.1.7.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 186761a1-5152-40f5-85f3-1e8868d8c6df -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 5,000,000
 - `slope`: 20,000,000 per day
 - Max slippage: 0.15%
@@ -22915,6 +22473,7 @@ The inflow rate limits are:
 ###### A.6.1.1.1.2.6.1.3.1.7.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: f3f5e19c-f85b-484f-b0fb-4ee96e54a616 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: 5,000,000
 - `slope`: 20,000,000 per day
 - Max slippage: 0.15%
@@ -22922,6 +22481,7 @@ The outflow rate limits are:
 ###### A.6.1.1.1.2.6.1.3.1.7.1.2.4.3 - Swap Rate Limits [Core]  <!-- UUID: 6f9628a6-7574-4f63-a28f-797bd581e907 -->
 
 The swap rate limits are:
+
 - `maxAmount`: 5,000,000
 - `slope`: 20,000,000 per day
 - Max slippage: 0.15%
@@ -22993,18 +22553,21 @@ The current `maxAmount,` `slope` and slippage for this conduit’s inflow/out
 ###### A.6.1.1.1.2.6.1.3.1.7.2.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 10ce5b4c-068d-44a8-bd34-a4afdb52ac9e -->
 
 The inflow rate limits are:
+
 - `maxAmount`: N/A - swap only
 - `slope`: N/A - swap only
 
 ###### A.6.1.1.1.2.6.1.3.1.7.2.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 997cbc11-99ee-4d26-87a8-a8a01e0a0537 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: N/A - swap only
 - `slope`: N/A - swap only
 
 ###### A.6.1.1.1.2.6.1.3.1.7.2.2.4.3 - Swap Rate Limits [Core]  <!-- UUID: 8b143018-298a-4878-9516-9b71049f1d0b -->
 
 The swap rate limits are:
+
 - `maxAmount`: 5,000,000
 - `slope`: 20,000,000 per day
 - Max slippage: 0.05%
@@ -23068,16 +22631,19 @@ The current `maxAmount`, `slope` and slippage for this conduit’s inflow/out
 ###### A.6.1.1.1.2.6.1.3.1.7.3.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 893256f7-00f6-42e7-92cd-218af9beac76 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 0
 
 ###### A.6.1.1.1.2.6.1.3.1.7.3.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: dfcceae6-65f0-44e2-9d47-9ad2324d983d -->
 
 The outflow rate limits are:
+
 - `maxAmount`: 0
 
 ###### A.6.1.1.1.2.6.1.3.1.7.3.2.4.3 - Swap Rate Limits [Core]  <!-- UUID: 2b4a19db-137d-404d-b475-3008eda3c82d -->
 
 The swap rate limits are:
+
 - `maxAmount`: 5,000,000
 - `slope`: 100,000,000 per day
 - Max slippage: 0.1%
@@ -23141,18 +22707,21 @@ The current `maxAmount`, `slope` and slippage for this conduit’s inflow/out
 ###### A.6.1.1.1.2.6.1.3.1.7.4.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 00d72073-ebb7-49d6-8ece-e5c506c7cf0c -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 5,000,000
 - `slope`: 50,000,000 per day
 
 ###### A.6.1.1.1.2.6.1.3.1.7.4.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 5547c29e-0dcd-40c0-9811-f88f4a906825 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: 5,000,000
 - `slope`: 100,000,000 per day
 
 ###### A.6.1.1.1.2.6.1.3.1.7.4.2.4.3 - Swap Rate Limits [Core]  <!-- UUID: 664c8068-a848-42aa-b50a-3000f3081507 -->
 
 The swap rate limits are:
+
 - `maxAmount`: 5,000,000
 - `slope`: 50,000,000 per day
 - Max slippage: 0.2%
@@ -23314,12 +22883,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.8.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 27c105d3-a93c-45b9-b951-050e60a50c51 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 200,000,000 DAI
 - `slope`: 100,000,000 DAI per day
 
 ###### A.6.1.1.1.2.6.1.3.1.8.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 5cbdb15a-3a5b-4ea3-9fc2-4098f512712c -->
 
 The outflow rate limits are:
+
 - `maxAmount`: This parameter will be specified in a future iteration of the Spark Artifact.
 - `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
 
@@ -23390,12 +22961,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.8.2.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 6fb6752a-a468-4f67-92a3-f86038be581d -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 200,000,000 USDS
 - `slope`: 100,000,000 USDS per day
 
 ###### A.6.1.1.1.2.6.1.3.1.8.2.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 6f8914eb-62e1-4946-901a-ae70839845fc -->
 
 The outflow rate limits are:
+
 - `maxAmount`: This parameter will be specified in a future iteration of the Spark Artifact.
 - `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
 
@@ -23486,12 +23059,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.8.3.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 024d6105-55ae-4a54-b5be-c5e17987fb0f -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 50,000,000 USDC
 - `slope`: 25,000,000 USDC per day
 
 ###### A.6.1.1.1.2.6.1.3.1.8.3.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 7385df6a-1431-41ef-8f05-bc4e78d48ed3 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: This parameter will be specified in a future iteration of the Spark Artifact.
 - `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
 
@@ -23582,12 +23157,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.8.4.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 0c654529-b8b7-4071-bc72-5eee02d295c9 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 50,000,000 USDT
 - `slope`: 1,000,000,000 USDT per day
 
 ###### A.6.1.1.1.2.6.1.3.1.8.4.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 6dab7518-caa3-4339-a573-718675fe19ee -->
 
 The outflow rate limits are:
+
 - `maxAmount`: unlimited
 - `slope`: unlimited
 
@@ -24134,29 +23711,27 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.1.10.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: ce2b927e-3338-4101-a538-ca1a02ae917c -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 5,000,000 USDC
 - `slope`: 5,000,000 USDC per day
 
 ###### A.6.1.1.1.2.6.1.3.1.10.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 61f4c11f-73d0-49f2-ba54-abf214c60881 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 
 ###### A.6.1.1.1.2.6.1.3.1.10.1.2.5 - Off-chain Operational Parameters [Core]  <!-- UUID: 389d1003-434b-4acb-a0db-7a587a5ee006 -->
 
 The documents herein contain specific off-chain parameters for this Instance.
 
-###### A.6.1.1.1.2.6.1.3.1.10.1.2.5.1 - Interim Deployment [Core]  <!-- UUID: e3cf4dc4-c24b-4ecd-a4f9-b8709cf55fb5 -->
+###### A.6.1.1.1.2.6.1.3.1.10.1.2.5.1 - Maximum Exposure [Core]  <!-- UUID: baf1fbad-0ef7-424e-832f-bd0c47377144 -->
 
-This Instance is currently defined as an Interim Deployment (see [A.1.9.2.3.2.2.2 - Interim Deployments](9b3edbbf-89d1-42da-a9c3-18f858f8471f)) and as such has CRR of 100%. The testing parameters of this Interim Deployment are specified in the documents herein.
+The Maximum Exposure for this Instance is $50 million.
 
-###### A.6.1.1.1.2.6.1.3.1.10.1.2.5.1.1 - Maximum Exposure [Core]  <!-- UUID: baf1fbad-0ef7-424e-832f-bd0c47377144 -->
+###### A.6.1.1.1.2.6.1.3.1.10.1.2.5.2 - Instance Capital Requirement Ratio [Core]  <!-- UUID: c9cc845b-9971-4ee5-a5ec-e3d2771d85e2 -->
 
-The Maximum Exposure for all Interim Deployments in Arkis is $20 million.
-
-###### A.6.1.1.1.2.6.1.3.1.10.1.2.5.1.2 - Instance Capital Requirement Ratio [Core]  <!-- UUID: c9cc845b-9971-4ee5-a5ec-e3d2771d85e2 -->
-
-The Instance Capital Requirement Ratio for all Interim Deployments in Arkis is 100%.
+The Instance Capital Requirement Ratio for this Instance is 50%.
 
 ###### A.6.1.1.1.2.6.1.3.1.10.1.3 - Instance-specific Operational Processes [Core]  <!-- UUID: 0a1caa15-48bb-4047-bf18-76f65ba20410 -->
 
@@ -24221,18 +23796,21 @@ The current `maxAmount,` `slope`, slippage, ticks, and fee for this conduit�
 ###### A.6.1.1.1.2.6.1.3.1.11.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 02ca893e-879e-47fa-a2f1-ca783ccf2106 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 10,000,000
 - `slope`: 100,000,000 per day
 
 ###### A.6.1.1.1.2.6.1.3.1.11.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 7b1bcd5c-8af6-46bd-8fb0-cbac22bae80a -->
 
 The outflow rate limits are:
+
 - `maxAmount`: 50,000,000
 - `slope`: 200,000,000 per day
 
 ###### A.6.1.1.1.2.6.1.3.1.11.1.2.4.3 - Swap Rate Limits [Core]  <!-- UUID: 1a2ba197-1389-4cdd-8e55-ca950ecacdca -->
 
 The swap rate limits are:
+
 - `maxAmount`: 5,000,000
 - `slope`: 50,000,000 per day
 
@@ -24313,18 +23891,21 @@ The current `maxAmount,` `slope`, slippage, ticks, and fee for this conduit’s 
 ###### A.6.1.1.1.2.6.1.3.1.11.2.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: a6105d1a-16d8-4920-808c-780891e2112d -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 5,000,000
 - `slope`: 50,000,000 per day
 
 ###### A.6.1.1.1.2.6.1.3.1.11.2.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 2a7d1855-feb9-4a16-b726-144f52c89dd3 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: 50,000,000
 - `slope`: 200,000,000 per day
 
 ###### A.6.1.1.1.2.6.1.3.1.11.2.2.4.3 - Swap Rate Limits [Core]  <!-- UUID: 18355afe-c656-47a5-8867-206263d8cb09 -->
 
 The swap rate limits are:
+
 - `maxAmount`: 5,000,000
 - `slope`: 50,000,000 per day
 
@@ -24837,12 +24418,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.2.1.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 97aa974e-5b7d-43fb-be88-947454d69a53 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 100,000,00 USDC
 - `slope`: 50,000,00 USDC per day
 
 ###### A.6.1.1.1.2.6.1.3.2.1.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 63e50c95-64fd-4266-86c0-096681fa54e6 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: This parameter will be specified in a future iteration of the Spark Artifact.
 - `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
 
@@ -24947,12 +24530,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.2.2.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 29114e51-9590-4585-b494-b78417f35910 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 10,000,000 USDS
 - `slope`: 5,000,000 USDS per day
 
 ###### A.6.1.1.1.2.6.1.3.2.2.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: f8a431bd-2d0b-4d60-886c-6e3dac42989e -->
 
 The outflow rate limits are:
+
 - `maxAmount`: 10,000,000 fsUSDS
 - `slope`: 5,000,000 fsUSDS per day
 
@@ -25027,12 +24612,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.2.3.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 3ef9417d-39af-46ba-b26d-4fbe11ef153b -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 50,000,000 USDC
 - `slope`: 25,000,000 USDC per day
 
 ###### A.6.1.1.1.2.6.1.3.2.3.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 89e0b1fb-f660-4cf2-8977-ccb872854ced -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: Unlimited
 
@@ -25107,12 +24694,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.3.1.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 6c0b965a-f912-454e-9214-1fb23974ad2c -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 10,000,000 USDS
 - `slope`: 5,000,000 USDS per day
 
 ###### A.6.1.1.1.2.6.1.3.3.1.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 4abd5303-6a27-42fa-8128-4c6e65f089ee -->
 
 The outflow rate limits are:
+
 - `maxAmount`: 10,000,000 fsUSDS
 - `slope`: 5,000,000 fsUSDS per day
 
@@ -25187,12 +24776,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.3.3.2.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: be3d1475-4efe-4eee-99eb-3f9941b858fa -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 50,000,000 USDC
 - `slope`: 50,000,000 USDC per day
 
 ###### A.6.1.1.1.2.6.1.3.3.2.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 254af84a-fe4c-471f-bc8c-dde31c728141 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: Unlimited
 
@@ -25267,12 +24858,14 @@ The current `maxAmount` and `slope` for this conduit's inflow/outflow are de
 ###### A.6.1.1.1.2.6.1.3.4.1.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: ae6e143b-db94-46c3-b42f-96d73a0e2c0a -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 20,000,000 USDC
 - `slope`: 10,000,000 USDC per day
 
 ###### A.6.1.1.1.2.6.1.3.4.1.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: e3c0527d-368e-4c8c-bf7f-47ffb010f54c -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: Unlimited
 
@@ -25455,6 +25048,7 @@ The documents herein define the Instance contract addresses.
 ###### A.6.1.1.1.2.6.1.4.1.1.2.3 - Rate Limit IDs [Core]  <!-- UUID: 43f9fa01-68a2-4c8f-b1f4-fe775927562e -->
 
 The specific `RateLimitID`(s) for this conduit’s inflow and outflow is:
+
 - `BUIDLI_DEPOSIT`: `0xD1917664bE3FdAea377f6E8D5BF043ab5C3b1312`
 - `BUIDL_REDEEM` (Circle redeem): `0x31D3F59Ad4aAC0eeE2247c65EBE8Bf6E9E470a53`
 - `BUIDLI_REDEEM` (Offchain redeem): `0x8780Dd016171B91E4Df47075dA0a947959C34200`
@@ -25466,12 +25060,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.4.1.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 4ec7ede8-416b-486e-ba56-160b02189a7b -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 0
 - `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
 
 ###### A.6.1.1.1.2.6.1.4.1.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 1fc9d6f3-3996-4245-a096-53dad4a624ea -->
 
 The outflow rate limits are:
+
 - `maxAmount`: This parameter will be specified in a future iteration of the Spark Artifact.
 - `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
 
@@ -25542,12 +25138,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.1.2.6.1.4.2.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 81ab5665-f9b9-4363-9d05-0d7bf371394a -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 0
 - `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
 
 ###### A.6.1.1.1.2.6.1.4.2.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 997c0581-022d-4fdd-8fde-cb43d58c8940 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: This parameter will be specified in a future iteration of the Spark Artifact.
 - `slope`: This parameter will be specified in a future iteration of the Spark Artifact.
 
@@ -25865,16 +25463,16 @@ A Delegate can voluntarily offboard by submitting a resignation message in the S
 
 A Delegate is automatically offboarded if they:
 
-◦ Fail to vote on ≥ 3 proposals in a row; or    
-◦ Maintain a voting percentage less than 85%.
+- Fail to vote on ≥ 3 proposals in a row; or
+- Maintain a voting percentage less than 85%.
 
 ###### A.6.1.1.1.3.1.3.5.3 - Emergency Removal [Core]  <!-- UUID: b016a208-3fce-4429-aea8-381fe6d4fb28 -->
 
 The Spark Risk Council can immediately offboard a delegate if they:
-    
-◦ Breach disclosure / conflict-of-interest duties;    
-◦ Engage in malicious or negligent conduct; or    
-◦ Fail to provide acceptable KYC or updated KYC when requested.
+
+- Breach disclosure / conflict-of-interest duties;
+- Engage in malicious or negligent conduct; or
+- Fail to provide acceptable KYC or updated KYC when requested.
 
 ###### A.6.1.1.1.3.1.3.5.4 - Updating of Status [Core]  <!-- UUID: a80aee08-2be5-419f-999c-44749fcf6a18 -->
 
@@ -25901,18 +25499,18 @@ The security requirements and procedure for a compromised key are specified in t
 ###### A.6.1.1.1.3.1.3.7.1 - Operational Security [Core]  <!-- UUID: b5d668cd-5f19-4660-8846-8293126c5a57 -->
 
 Delegates must:
-    
-◦ Sign votes from a hardware wallet or an equivalent secure device.    
-◦ Use unique signing keys that are never reused for personal transactions.    
-◦ Enable Multi-Factor Authentication on any platform accounts used for governance communication.
+
+- Sign votes from a hardware wallet or an equivalent secure device.
+- Use unique signing keys that are never reused for personal transactions.
+- Enable Multi-Factor Authentication on any platform accounts used for governance communication.
 
 ###### A.6.1.1.1.3.1.3.7.2 - Compromised Key Response [Core]  <!-- UUID: 05dbbbcc-7702-4d17-a222-9c93356be7cd -->
 
 If a Delegate suspects key compromise, the following steps must be taken:
-    
-◦ The Delegate must notify the SRC as soon as the breach is discovered.    
-◦ SRC flags the Delegate in Registry of Delegates as "Suspended - Security Review" and notifies the governance community on the Sky Forum. All voting power to the suspended address is annulled.    
-◦ The Delegate may submit a new verified address; upon SRC approval, suspensions are lifted and delegations migrate at the next snapshot-block.
+
+- The Delegate must notify the SRC as soon as the breach is discovered.
+- SRC flags the Delegate in Registry of Delegates as "Suspended - Security Review" and notifies the governance community on the Sky Forum. All voting power to the suspended address is annulled.
+- The Delegate may submit a new verified address; upon SRC approval, suspensions are lifted and delegations migrate at the next snapshot-block.
 
 ###### A.6.1.1.1.3.1.3.7.3 - Non-Compliance [Core]  <!-- UUID: e66be018-f2f2-4294-9357-be8ee6484e6c -->
 
@@ -25927,16 +25525,18 @@ The subdocuments herein list each active Delegate’s name, wallet address, effe
 The list of Delegates must follow this template for each recorded Delegate:
 
 [Insert Delegate Handle]
-◦ Delegate Name: [Insert Handle]   
-◦ Delegate Wallet Address:    
-◦ Effective Date:    
-◦ Status: Active/Inactive/Suspended
+
+- Delegate Name: [Insert Handle]
+- Delegate Wallet Address:
+- Effective Date:
+- Status: Active/Inactive/Suspended
 
 ###### A.6.1.1.1.3.1.3.8.2 - Updating List of Delegates [Active Data Controller]  <!-- UUID: 7802904e-51fd-4308-ae9f-5f4595eca3e5 -->
 
-The list of Delegates is defined as Active Data in [A.6.1.1.1.3.1.3.8.2.0.6.1 - List of Delegates](daa90217-00f4-4579-bc6d-cacb6afc70dc). 
+The list of Delegates is defined as Active Data in [A.6.1.1.1.3.1.3.8.2.0.6.1 - List of Delegates](daa90217-00f4-4579-bc6d-cacb6afc70dc).
 
 The Active Data is updated as follows:
+
 - Responsible Party: Operational Facilitator.
 - Trigger: Receipt of onboarding, renewal/re-approval, term-end automatic offboarding, or discretionary offboarding notice from the Spark Foundation.
 - Update Process: Direct Edit.
@@ -25947,20 +25547,20 @@ The Active Data is updated as follows:
 The information for each Delegate is listed below:
 
 - Remi
-    ◦ Delegate Name: Remi
-    ◦ Delegate Wallet Address: `0xDC5D4228a42880F5bbd577A184035503Bd55799a`
-    ◦ Effective Date: 2025-08-21
-    ◦ Status: Active
+    - Delegate Name: Remi
+    - Delegate Wallet Address: `0xDC5D4228a42880F5bbd577A184035503Bd55799a`
+    - Effective Date: 2025-08-21
+    - Status: Active
 - NeoNode
-    ◦ Delegate Name: NeoNode
-    ◦ Delegate Wallet Address: `0x71faa03C0cEbCbB53236763B6b118aD906d9F6d3`
-    ◦ Effective Date: 2025-08-21
-    ◦ Status: Active
+    - Delegate Name: NeoNode
+    - Delegate Wallet Address: `0x71faa03C0cEbCbB53236763B6b118aD906d9F6d3`
+    - Effective Date: 2025-08-21
+    - Status: Active
 - TheMoon
-    ◦ Delegate Name: TheMoon
-    ◦ Delegate Wallet Address: `0xF80A26ee68Bdf0224c18F85876b20858ee5206A9`
-    ◦ Effective Date: 2026-01-14
-    ◦ Status: Active
+    - Delegate Name: TheMoon
+    - Delegate Wallet Address: `0xF80A26ee68Bdf0224c18F85876b20858ee5206A9`
+    - Effective Date: 2026-01-14
+    - Status: Active
 
 ###### A.6.1.1.1.3.1.3.9 - Subject to Change [Core]  <!-- UUID: 57f6f628-dfc3-4819-8265-c85a38c0fc9f -->
 
@@ -26009,11 +25609,11 @@ The subdocuments herein set out the threshold, process and implications of a "Fa
 ###### A.6.1.1.1.3.1.4.4.1 - Standard [Core]  <!-- UUID: 85633365-939a-44c4-8a55-aa17fa4a7809 -->
 
 A determination of "Failed SRC Review" may be exercised when a proposal is determined to be:
-    
-◦ malicious or exploitative;    
-◦ procedurally non-compliant with the Sky Core Atlas or Spark Artifact;    
-◦ likely to expose Spark to substantial, unreasonable risk; or
-◦ in need of revisions in order for the SRC to evaluate the proposal.
+
+- malicious or exploitative;
+- procedurally non-compliant with the Sky Core Atlas or Spark Artifact;
+- likely to expose Spark to substantial, unreasonable risk; or
+- in need of revisions in order for the SRC to evaluate the proposal.
 
 ###### A.6.1.1.1.3.1.4.4.2 - Threshold [Core]  <!-- UUID: 0d0a0212-4439-4fb3-a8b2-77e53a1d60db -->
 
@@ -26121,18 +25721,19 @@ The subdocuments herein contain the registry of SRC members, including name or a
 
 The SRC Membership Registry is defined as Active Data in [A.6.1.1.1.3.1.4.11.1.0.6.1 - SRC Membership Registry List](d9c6ed16-5b0d-4a6f-bb43-387398090afc).
 
-The Active Data is updated as follows:    
-◦ The Responsible Party is the Operational Facilitator.    
-◦ The Update Process must follow the protocol for ‘Direct Edit’.
+The Active Data is updated as follows:
+
+- The Responsible Party is the Operational Facilitator.
+- The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.6.1.1.1.3.1.4.11.1.0.6.1 - SRC Membership Registry List [Active Data]  <!-- UUID: d9c6ed16-5b0d-4a6f-bb43-387398090afc -->
 
-The information for each member of the SRC is listed below:  
-  
-| Name or Alias        | Domain Expertise | Verified Governance Address | Start Date  | Term Status  | Standing |  
-|----------------------|------------------|-----------------------------|-------------|--------------|----------|  
-| Blockworks Advisory  | Risk             | N/A                         | 2025-10-03  | Active Term  | Active   |  
-| L2 Beat              | Risk             | N/A                         | 2025-10-03  | Active Term  | Active   |  
+The information for each member of the SRC is listed below:
+
+| Name or Alias        | Domain Expertise | Verified Governance Address | Start Date  | Term Status  | Standing |
+|----------------------|------------------|-----------------------------|-------------|--------------|----------|
+| Blockworks Advisory  | Risk             | N/A                         | 2025-10-03  | Active Term  | Active   |
+| L2 Beat              | Risk             | N/A                         | 2025-10-03  | Active Term  | Active   |
 | Aragon               | Risk             | N/A                         | 2025-10-03  | Active Term  | Active   |
 
 ###### A.6.1.1.1.3.1.5 - Sky Ecosystem Emergency Response [Core]  <!-- UUID: 0483b49d-b074-4a98-bb4b-bc5d222dabf1 -->
@@ -26173,14 +25774,11 @@ supply rate = market utilization * borrow rate * (1-reserve factor)
 The Interest Rate Model ("IRM") is defined by four main parameters:
 
 1. Base Rate - the starting rate at 0% utilization,
-
 2. Variable Slope 1 - the rate at optimal utilization,
-
 3. Variable Slope 2 - the rate at 100% utilization,
-
 4. Utilization - the utilization itself.
 
-The Base Rate, Slope 1, and Slope 2 parameters are further defined in: [A.6.1.1.1.3.2.1.1.1.13 - Base Rate Definition](9372deb9-5115-4010-bf72-34023b846525); [A.6.1.1.1.3.2.1.1.1.15 - Slope 1 Definition](c16b2b24-d663-4877-8bb3-cbd32e977360); and [A.6.1.1.1.3.2.1.1.1.17 - Slope 2 Definition](56bc7808-5ef8-42af-ba17-708b995194cc). 
+The Base Rate, Slope 1, and Slope 2 parameters are further defined in: [A.6.1.1.1.3.2.1.1.1.13 - Base Rate Definition](9372deb9-5115-4010-bf72-34023b846525); [A.6.1.1.1.3.2.1.1.1.15 - Slope 1 Definition](c16b2b24-d663-4877-8bb3-cbd32e977360); and [A.6.1.1.1.3.2.1.1.1.17 - Slope 2 Definition](56bc7808-5ef8-42af-ba17-708b995194cc).
 
 All markets except Dai use this IRM. The IRM for Dai is independent of utilization and is defined as a spread over the Sky Savings Rate set forth in [A.3.1.2.2 - Sky Savings Rate](2674cccb-d779-4868-b83f-8cb86648c88a). The spread is determined by the Stability Facilitators, in consultation with the Core Council Risk Advisor.
 
@@ -26274,13 +25872,13 @@ If the Flash Loan Enabled parameter is activated, then the asset may be borrowed
 
 ###### A.6.1.1.1.3.2.1.1.1.24 - Total Flash Loan Fee Definition [Core]  <!-- UUID: 250bb1bd-128b-48d2-aa56-53006dab795e -->
 
-The Total Flash Loan Fee incorporates a fee paid to the protocol and a fee paid to liquidity providers. This total fee is calculated as a percentage of the flash loan amount. Of the Total Flash Loan Fee, the Protocol Flash Loan Fee is paid to the protocol, with the remainder paid to liquidity providers. 
+The Total Flash Loan Fee incorporates a fee paid to the protocol and a fee paid to liquidity providers. This total fee is calculated as a percentage of the flash loan amount. Of the Total Flash Loan Fee, the Protocol Flash Loan Fee is paid to the protocol, with the remainder paid to liquidity providers.
 
 The Total Flash Loan Fee is set on a protocol level, regardless of what assets are being borrowed.
 
 ###### A.6.1.1.1.3.2.1.1.1.25 - Protocol Flash Loan Fee Definition [Core]  <!-- UUID: 638d0e6b-8d6a-48e9-9bf9-e8ee201e0e97 -->
 
-The Protocol Flash Loan Fee is the fee for a flash loan paid to the protocol as a percentage of the flash loan amount. 
+The Protocol Flash Loan Fee is the fee for a flash loan paid to the protocol as a percentage of the flash loan amount.
 
 The Protocol Flash Loan Fee is set on a protocol level, regardless of what assets are being borrowed.
 
@@ -26297,41 +25895,23 @@ The subdocuments herein define the current configuration of the SparkLend Ethere
 The current GNO risk parameters are:
 
 - LTV: 0%
-
 - Liquidation Threshold: 25%
-
 - E-mode Category: N/A
-
 - Liquidation Bonus: 10%
-
 - Reserve Factor: 0%
-
 - Supply Cap: N/A
-
 - Borrow Cap: N/A
-
 - Optimal Utilization: 100%
-
 - Isolated Debt Ceiling: $5,000,000
-
 - Base Rate: 1%
-
 - Slope 1: 0%
-
 - Slope 2: 0%
-
 - Reserve State: Frozen
-
 - Collateral: Yes
-
 - Borrowing: No
-
 - Isolated Collateral: Yes
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: No
 
 ###### A.6.1.1.1.3.2.1.1.2.1.2 - Dai Risk Parameters [Core]  <!-- UUID: 7d8ed55b-4aca-483b-af6d-24badb49d042 -->
@@ -26339,41 +25919,23 @@ The current GNO risk parameters are:
 The current Dai risk parameters are:
 
 - LTV: 0%
-
 - Liquidation Threshold: 0.01%
-
 - E-mode Category: N/A
-
 - Liquidation Bonus: 4.5%
-
 - Reserve Factor: 10%
-
 - Supply Cap: N/A
-
 - Borrow Cap: N/A
-
 - Optimal Utilization: 80%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: SSR + 1.25%
-
 - Slope 2: 15%
-
 - Reserve State: Active
-
 - Collateral: Yes
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: Yes
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: Yes
 
 The Dai Borrow Rate is set through the Interest Rate Model as a spread over the Sky Savings Rate. The spread is set directly by the Stability Facilitators in consultation with the Core Council Risk Advisor.
@@ -26383,42 +25945,24 @@ The Dai Borrow Rate is set through the Interest Rate Model as a spread over the 
 The current USDS risk parameters are:
 
 - LTV: 0%
-
 - Liquidation Threshold: 0%
-
 - E-mode Category: N/A
-
 - Liquidation Bonus: 0%
-
 - Reserve Factor: 10%
-
 - Supply Cap: Unlimited
-
 - Borrow Cap: Unlimited
-
 - Optimal Utilization: 80%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: SSR + 1.25%
-
 - Slope 2: 15%
-
 - Reserve State: Active
-
 - Collateral: Yes
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: Yes
-
 - Siloed Borrowing: No
-
-- Flash Loan Enabled: Yes. 
+- Flash Loan Enabled: Yes.
 
 The USDS Borrow Rate is set through the Interest Rate Model as a spread over the Sky Savings Rate. The spread is set directly by the Stability Facilitators in consultation with the Core Council Risk Advisor.
 
@@ -26427,45 +25971,28 @@ The USDS Borrow Rate is set through the Interest Rate Model as a spread over the
 The current WETH risk parameters are:
 
 - LTV: 85%
-
 - Liquidation Threshold: 86%
-
 - E-mode Category: ETH
-
 - Liquidation Bonus: 5%
-
 - Reserve Factor: 5%
-
 - Supply Cap: Set by cap automator
-
 - Borrow Cap: Set by cap automator
-
 - Optimal Utilization: 90%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: N/A
-
 - Slope 1 Spread: -0.30%
-
 - Slope 2: 120%
-
 - Reserve State: Active
-
 - Collateral: Yes
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: Yes
+
 The Slope 1 parameter for WETH is calculated based on the following formula:
+
 slope 1 = stETH yield + slope 1 spread - base rate
 
 ###### A.6.1.1.1.3.2.1.1.2.1.5 - USDT Risk Parameters [Core]  <!-- UUID: 4999a374-380b-4694-a67c-0fa471b4cf43 -->
@@ -26473,41 +26000,23 @@ slope 1 = stETH yield + slope 1 spread - base rate
 The current USDT risk parameters are:
 
 - LTV: 0%
-
 - Liquidation Threshold: 0%
-
 - E-mode Category: USD
-
 - Liquidation Bonus: 0%
-
 - Reserve Factor: 1%
-
 - Supply Cap: Set by cap automator
-
 - Borrow Cap: Set by cap automator
-
 - Optimal Utilization: 95%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: SSR value + 1.25%
-
 - Slope 2: 15%
-
 - Reserve State: Active
-
 - Collateral: No
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: Yes
 
 ###### A.6.1.1.1.3.2.1.1.2.1.6 - WBTC Risk Parameters [Core]  <!-- UUID: c3c3830f-4829-48fc-aced-30dcdd2a5ba7 -->
@@ -26515,41 +26024,23 @@ The current USDT risk parameters are:
 The current WBTC risk parameters are:
 
 - LTV: 0%
-
 - Liquidation Threshold: 35%
-
 - E-mode Category: N/A
-
 - Liquidation Bonus: 7%
-
 - Reserve Factor: 20%
-
 - Supply Cap: Set by cap automator
-
 - Borrow Cap: Set by cap automator
-
 - Optimal Utilization: 60%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: 2%
-
 - Slope 2: 300%
-
 - Reserve State: Active
-
 - Collateral: Yes
-
 - Borrowing: No
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: No
 
 ###### A.6.1.1.1.3.2.1.1.2.1.7 - sDai Risk Parameters [Core]  <!-- UUID: 61c21da3-22ff-4dba-8736-4a9a8556a32b -->
@@ -26557,41 +26048,23 @@ The current WBTC risk parameters are:
 The current sDai risk parameters are:
 
 - LTV: 79%
-
 - Liquidation Threshold: 80%
-
 - E-mode Category: USD
-
 - Liquidation Bonus: 5%
-
 - Reserve Factor: 10%
-
 - Supply Cap: Set by cap automator
-
 - Borrow Cap: N/A
-
 - Optimal Utilization: 100%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 1%
-
 - Slope 1: 0%
-
 - Slope 2: 0%
-
 - Reserve State: Active
-
 - Collateral: Yes
-
 - Borrowing: No
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: No
 
 ###### A.6.1.1.1.3.2.1.1.2.1.8 - wstETH Risk Parameters [Core]  <!-- UUID: 5d721ab3-be87-4989-b4a2-b32ff38b912f -->
@@ -26599,41 +26072,23 @@ The current sDai risk parameters are:
 The current wstETH risk parameters are:
 
 - LTV: 83%
-
 - Liquidation Threshold: 84%
-
 - E-mode Category: ETH
-
 - Liquidation Bonus: 7%
-
 - Reserve Factor: 30%
-
 - Supply Cap: Set by cap automator
-
 - Borrow Cap: Set by cap automator
-
 - Optimal Utilization: 70%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: 2%
-
 - Slope 2: 200%
-
 - Reserve State: Active
-
 - Collateral: Yes
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: Yes
 
 ###### A.6.1.1.1.3.2.1.1.2.1.9 - USDC Risk Parameters [Core]  <!-- UUID: d8242d1a-18f2-4000-a98b-0521486b0708 -->
@@ -26641,41 +26096,23 @@ The current wstETH risk parameters are:
 The current USDC risk parameters are:
 
 - LTV: 0%
-
 - Liquidation Threshold: 0%
-
 - E-mode Category: USD
-
 - Liquidation Bonus: 0%
-
 - Reserve Factor: 1%
-
 - Supply Cap: Set by cap automator
-
 - Borrow Cap: Set by cap automator
-
 - Optimal Utilization: 95%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: SSR value + 1.25%
-
 - Slope 2: 15%
-
 - Reserve State: Active
-
 - Collateral: No
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: Yes
 
 ###### A.6.1.1.1.3.2.1.1.2.1.10 - weETH Risk Parameters [Core]  <!-- UUID: 6ed18918-a695-44a6-82e7-547a3fbcafd3 -->
@@ -26683,41 +26120,23 @@ The current USDC risk parameters are:
 The current weETH risk parameters are:
 
 - LTV: 79%
-
 - Liquidation Threshold: 80%
-
 - E-mode Category: N/A
-
 - Liquidation Bonus: 10%
-
 - Reserve Factor: 15%
-
 - Supply Cap: Set by cap automator
-
 - Borrow Cap: N/A
-
 - Optimal Utilization: 45%
-
 - Isolated Debt Ceiling: $200,000,000
-
 - Base Rate: 5%
-
 - Slope 1: 15%
-
 - Slope 2: 300%
-
 - Reserve State: Active
-
 - Collateral: Yes
-
 - Borrowing: No
-
 - Isolated Collateral: Yes
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: No
 
 ###### A.6.1.1.1.3.2.1.1.2.1.11 - rETH Risk Parameters [Core]  <!-- UUID: 9ef0bc64-db94-4d78-ac8b-cef71d28fedc -->
@@ -26725,41 +26144,23 @@ The current weETH risk parameters are:
 The current rETH risk parameters are:
 
 - LTV: 79%
-
 - Liquidation Threshold: 80%
-
 - E-mode Category: ETH
-
 - Liquidation Bonus: 7%
-
 - Reserve Factor: 15%
-
 - Supply Cap: Set by cap automator
-
 - Borrow Cap: Set by cap automator
-
 - Optimal Utilization: 45%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0.25%
-
 - Slope 1: 7%
-
 - Slope 2: 300%
-
 - Reserve State: Active
-
 - Collateral: Yes
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: Yes
 
 ###### A.6.1.1.1.3.2.1.1.2.1.12 - LBTC Risk Parameters [Core]  <!-- UUID: 37ff9748-6f72-4adf-af97-0f90cb7154b4 -->
@@ -26767,41 +26168,23 @@ The current rETH risk parameters are:
 The current LBTC risk parameters are:
 
 - LTV: 74%
-
 - Liquidation Threshold: 75%
-
 - E-mode Category: 3
-
 - Liquidation Bonus: 8%
-
 - Reserve Factor: 15%
-
 - Supply Cap: Set by cap automator
-
 - Borrow Cap: 0
-
 - Optimal Utilization: 45%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 5%
-
 - Slope 1: 15%
-
 - Slope 2: 300%
-
 - Reserve State: Active
-
 - Collateral: Yes
-
 - Borrowing: No
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: No
 
 ###### A.6.1.1.1.3.2.1.1.2.1.13 - tBTC Risk Parameters [Core]  <!-- UUID: 17e2cc64-6172-48f8-a4f1-a2a7bc5edbbb -->
@@ -26809,41 +26192,23 @@ The current LBTC risk parameters are:
 The current tBTC risk parameters are:
 
 - LTV: 74%
-
 - Liquidation Threshold: 75%
-
 - E-mode Category: 0
-
 - Liquidation Bonus: 8%
-
 - Reserve Factor: 99%
-
 - Supply Cap: Set by cap automator
-
 - Borrow Cap: Set by cap automator
-
 - Optimal Utilization: 80%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: 1%
-
 - Slope 2: 300%
-
 - Reserve State: Frozen
-
 - Collateral: Yes
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: Yes
 
 ###### A.6.1.1.1.3.2.1.1.2.1.14 - ezETH Risk Parameters [Core]  <!-- UUID: 51f3555b-57a3-4275-b462-a4ba85f3b8fe -->
@@ -26851,41 +26216,23 @@ The current tBTC risk parameters are:
 The current ezETH risk parameters are:
 
 - LTV: 75%
-
 - Liquidation Threshold: 76%
-
 - E-mode Category: 0
-
 - Liquidation Bonus: 10%
-
 - Reserve Factor: 15%
-
 - Supply Cap: Set by cap automator
-
 - Borrow Cap: 0
-
 - Optimal Utilization: 45%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 5%
-
 - Slope 1: 15%
-
 - Slope 2: 300%
-
 - Reserve State: Frozen
-
 - Collateral: Yes
-
 - Borrowing: No
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: No
 
 ###### A.6.1.1.1.3.2.1.1.2.1.15 - rsETH Risk Parameters [Core]  <!-- UUID: 1da6ef90-fca2-4f72-9b8d-13a3786a3c1c -->
@@ -26893,41 +26240,23 @@ The current ezETH risk parameters are:
 The current rsETH risk parameters are:
 
 - LTV: 75%
-
 - Liquidation Threshold: 76%
-
 - E-mode Category: 0
-
 - Liquidation Bonus: 10%
-
 - Reserve Factor: 15%
-
 - Supply Cap: Set by cap automator
-
 - Borrow Cap: 0
-
 - Optimal Utilization: 45%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 5%
-
 - Slope 1: 15%
-
 - Slope 2: 300%
-
 - Reserve State: Frozen
-
 - Collateral: Yes
-
 - Borrowing: No
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: No
 
 ###### A.6.1.1.1.3.2.1.1.2.1.16 - cbBTC Risk Parameters [Core]  <!-- UUID: 63038ac2-7666-40bb-ad9f-dba7c1a546b8 -->
@@ -26935,39 +26264,22 @@ The current rsETH risk parameters are:
 The current cbBTC risk parameters are:
 
 - LTV: 81%
-
 - Liquidation Threshold: 82%
-
 - E-mode Category: BTC
-
 - Liquidation Bonus: 8%
-
 - Reserve Factor: 20%
-
 - Supply Cap: 500 cbBTC
-
 - Borrow Cap: 50 cbBTC
-
 - Optimal Utilization: 80%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: 1%
-
 - Slope 2: 300%
-
 - Reserve State: Active
-
 - Collateral: Yes
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
 
 ###### A.6.1.1.1.3.2.1.1.2.1.17 - sUSDS Risk Parameters [Core]  <!-- UUID: 1d7f757a-aabb-463d-9d3d-3f34f1c0656a -->
@@ -26975,39 +26287,22 @@ The current cbBTC risk parameters are:
 The current sUSDS risk parameters are:
 
 - LTV: 79%
-
 - Liquidation Threshold: 80%
-
 - E-mode Category: USD
-
 - Liquidation Bonus: 5%
-
 - Reserve Factor: 10%
-
 - Supply Cap: 50,000,000 sUSDS
-
 - Borrow Cap: 0 sUSDS
-
 - Optimal Utilization: 80%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: 2%
-
 - Slope 2: 300%
-
 - Reserve State: Active
-
 - Collateral: Yes
-
 - Borrowing: No
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
 
 ###### A.6.1.1.1.3.2.1.1.2.1.18 - pyUSD Risk Parameters [Core]  <!-- UUID: 5e05e5d8-8477-460f-a197-4b49bfa8652f -->
@@ -27015,39 +26310,22 @@ The current sUSDS risk parameters are:
 The current pyUSD risk parameters are:
 
 - LTV: 0%
-
 - Liquidation Threshold: 0%
-
 - E-mode Category: USD
-
 - Liquidation Bonus: 10%
-
 - Reserve Factor: 10%
-
 - Supply Cap: Set by cap automator
-
 - Borrow Cap: Set by cap automator
-
 - Optimal Utilization: 95%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: SSR + 1.5%
-
 - Slope 2: 15%
-
 - Reserve State: Active
-
 - Collateral: Yes
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
 
 ###### A.6.1.1.1.3.2.1.1.2.1.19 - Total Flash Loan Fee Current Value [Core]  <!-- UUID: fdd544f0-fa59-42f5-afb8-290cd812eb35 -->
@@ -27067,41 +26345,23 @@ The subdocuments herein define the current configuration of the SparkLend Gnosis
 The current GNO risk parameters are:
 
 - LTV: 40%
-
 - Liquidation Threshold: 50%
-
 - E-mode Category: N/A
-
 - Liquidation Bonus: 12%
-
 - Reserve Factor: 50%
-
 - Supply Cap: 100,000 GNO
-
 - Borrow Cap: N/A
-
 - Optimal Utilization: 80%
-
 - Isolated Debt Ceiling: $1,000,000
-
 - Base Rate: 0%
-
 - Slope 1: 0%
-
 - Slope 2: 0%
-
 - Reserve State: Frozen
-
 - Collateral: Yes
-
 - Borrowing: No
-
 - Isolated Collateral: Yes
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: No
 
 ###### A.6.1.1.1.3.2.1.1.2.2.2 - WETH Risk Parameters [Core]  <!-- UUID: dc3b3c32-f891-49fa-bdb4-8944d14e3d56 -->
@@ -27109,41 +26369,23 @@ The current GNO risk parameters are:
 The current WETH risk parameters are:
 
 - LTV: 70%
-
 - Liquidation Threshold: 75%
-
 - E-mode Category: ETH
-
 - Liquidation Bonus: 5%
-
 - Reserve Factor: 50%
-
 - Supply Cap: 5,000 ETH
-
 - Borrow Cap: 3,000 ETH
-
 - Optimal Utilization: 80%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: 2.5%
-
 - Slope 2: 120%
-
 - Reserve State: Frozen
-
 - Collateral: Yes
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: Yes
 
 ###### A.6.1.1.1.3.2.1.1.2.2.3 - USDT Risk Parameters [Core]  <!-- UUID: f5a396c7-dc2c-4d67-adff-89c5a8c62652 -->
@@ -27151,41 +26393,23 @@ The current WETH risk parameters are:
 The current USDT risk parameters are:
 
 - LTV: 0%
-
 - Liquidation Threshold: 0%
-
 - E-mode Category: USD
-
 - Liquidation Bonus: 0%
-
 - Reserve Factor: 50%
-
 - Supply Cap: 10,000,000 USDT
-
 - Borrow Cap: 8,000,000 USDT
-
 - Optimal Utilization: 95%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: 9%
-
 - Slope 2: 15%
-
 - Reserve State: Frozen
-
 - Collateral: No
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: Yes
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: Yes
 
 ###### A.6.1.1.1.3.2.1.1.2.2.4 - sDai Risk Parameters [Core]  <!-- UUID: 2c982dbd-dee3-45ce-9e45-48d7ebc33acb -->
@@ -27193,41 +26417,23 @@ The current USDT risk parameters are:
 The current sDai risk parameters are:
 
 - LTV: 70%
-
 - Liquidation Threshold: 75%
-
 - E-mode Category: USD
-
 - Liquidation Bonus: 6%
-
 - Reserve Factor: 50%
-
 - Supply Cap: 40,000,000 sDai
-
 - Borrow Cap: N/A
-
 - Optimal Utilization: 80%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: 0%
-
 - Slope 2: 0%
-
 - Reserve State: Frozen
-
 - Collateral: Yes
-
 - Borrowing: No
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: No
 
 ###### A.6.1.1.1.3.2.1.1.2.2.5 - wstETH Risk Parameters [Core]  <!-- UUID: a07d0682-9249-4a4f-b2a3-c0dfb163c683 -->
@@ -27235,41 +26441,23 @@ The current sDai risk parameters are:
 The current wstETH risk parameters are:
 
 - LTV: 65%
-
 - Liquidation Threshold: 72.5%
-
 - E-mode Category: ETH
-
 - Liquidation Bonus: 8%
-
 - Reserve Factor: 50%
-
 - Supply Cap: 15,000 wstETH
-
 - Borrow Cap: 100 wstETH
-
 - Optimal Utilization: 45%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 1%
-
 - Slope 1: 3%
-
 - Slope 2: 100%
-
 - Reserve State: Frozen
-
 - Collateral: Yes
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: Yes
 
 ###### A.6.1.1.1.3.2.1.1.2.2.6 - USDC Risk Parameters [Core]  <!-- UUID: f54fff22-1cad-4ccd-80ae-f05f0345c384 -->
@@ -27277,41 +26465,23 @@ The current wstETH risk parameters are:
 The current USDC risk parameters are:
 
 - LTV: 0%
-
 - Liquidation Threshold: 0%
-
 - E-mode Category: USD
-
 - Liquidation Bonus: 0%
-
 - Reserve Factor: 50%
-
 - Supply Cap: 10,000,000 USDC
-
 - Borrow Cap: 1,000,000 USDC
-
 - Optimal Utilization: 80%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: 9%
-
 - Slope 2: 50%
-
 - Reserve State: Frozen
-
 - Collateral: No
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: Yes
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: Yes
 
 ###### A.6.1.1.1.3.2.1.1.2.2.7 - USDC.e Risk Parameters [Core]  <!-- UUID: b54fc943-6d64-4c67-9aa2-150665be6493 -->
@@ -27319,41 +26489,23 @@ The current USDC risk parameters are:
 The current USDC.e risk parameters are:
 
 - LTV: 0%
-
 - Liquidation Threshold: 0%
-
 - E-mode Category: USD
-
 - Liquidation Bonus: 0%
-
 - Reserve Factor: 50%
-
 - Supply Cap: 10,000,000 USDC.e
-
 - Borrow Cap: 8,000,000 USDC.e
-
 - Optimal Utilization: 95%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: 9%
-
 - Slope 2: 15%
-
 - Reserve State: Frozen
-
 - Collateral: No
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: Yes
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: No
 
 ###### A.6.1.1.1.3.2.1.1.2.2.8 - WXDAI Risk Parameters [Core]  <!-- UUID: 57bae006-ff07-4da7-adc3-ea3649ce7e38 -->
@@ -27361,41 +26513,23 @@ The current USDC.e risk parameters are:
 The current WXDAI risk parameters are:
 
 - LTV: 0%
-
 - Liquidation Threshold: 75%
-
 - E-mode Category: USD
-
 - Liquidation Bonus: 5%
-
 - Reserve Factor: 50%
-
 - Supply Cap: 20,000,000 WXDAI
-
 - Borrow Cap: 16,000,000 WXDAI
-
 - Optimal Utilization: 95%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: 9%
-
 - Slope 2: 15%
-
 - Reserve State: Frozen
-
 - Collateral: Yes
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: Yes
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: No
 
 ###### A.6.1.1.1.3.2.1.1.2.2.9 - EURe Risk Parameters [Core]  <!-- UUID: 1a8186bd-c557-4a6d-80e3-a8140a215e06 -->
@@ -27403,53 +26537,33 @@ The current WXDAI risk parameters are:
 The current EURe risk parameters are:
 
 - LTV: 0%
-
 - Liquidation Threshold: 0%
-
 - E-mode Category: N/A
-
 - Liquidation Bonus: 0%
-
 - Reserve Factor: 50%
-
 - Supply Cap: 5,000,000 EURe
-
 - Borrow Cap: 4,000,000 EURe
-
 - Optimal Utilization: 95%
-
 - Isolated Debt Ceiling: N/A
-
 - Base Rate: 0%
-
 - Slope 1: 5%
-
 - Slope 2: 15%
-
 - Reserve State: Frozen
-
 - Collateral: No
-
 - Borrowing: Yes
-
 - Isolated Collateral: No
-
 - Isolated Borrowing: No
-
 - Siloed Borrowing: No
-
 - Flash Loan Enabled: No
 
 ###### A.6.1.1.1.3.2.1.1.3 - SparkLend Risk Parameters Cap Automators [Core]  <!-- UUID: 6ffdb8ee-b083-40f5-b51b-1c91e954b68b -->
 
-Cap Automators allow the Supply Cap defined in [A.6.1.1.1.3.2.1.1.1.9 - Supply Cap Definition](e222b8da-abda-42f5-8106-20c6f2881dc7) and the Borrow Cap defined in [A.6.1.1.1.3.2.1.1.1.10 - Borrow Cap Definition](a2d6a99e-c63a-4f30-87f3-a3d66b1eda92) to be dynamically adjusted. 
+Cap Automators allow the Supply Cap defined in [A.6.1.1.1.3.2.1.1.1.9 - Supply Cap Definition](e222b8da-abda-42f5-8106-20c6f2881dc7) and the Borrow Cap defined in [A.6.1.1.1.3.2.1.1.1.10 - Borrow Cap Definition](a2d6a99e-c63a-4f30-87f3-a3d66b1eda92) to be dynamically adjusted.
 
 The cap automator is defined in terms of three parameters:
 
 1. `gap` - the target available exposure
-
 2. `ttl` - the cooldown period for cap increases
-
 3. `max` - the absolute maximum exposure
 
 Authorized parties can update a covered Supply Cap or Borrow Cap so the available exposure is equal to the target, as long as the resulting exposure does not exceed the specified maximum limit and the cooldown period has elapsed in the case of increases to the Supply Cap or Borrow Cap.
@@ -27479,300 +26593,195 @@ The subdocuments herein define the current configuration of the cap automators f
 The current WETH cap automator parameters are:
 
 - Supply cap
-
-    ◦ `gap`: 150,000 WETH
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 2 million WETH
-
+    - `gap`: 150,000 WETH
+    - `ttl`: 12 hours
+    - `max`: 2 million WETH
 - Borrow cap
-
-    ◦ `gap`: 20,000 WETH
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 1 million WETH
+    - `gap`: 20,000 WETH
+    - `ttl`: 12 hours
+    - `max`: 1 million WETH
 
 ###### A.6.1.1.1.3.2.1.1.3.2.2 - SparkLend Cap Automator wstETH Parameters [Core]  <!-- UUID: 93b851d7-9825-4022-a583-51a4bbdf4f9c -->
 
 The current wstETH cap automator parameters are:
 
 - Supply cap
-
-    ◦ `gap`: 50,000 wstETH
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 2 million wstETH
-
+    - `gap`: 50,000 wstETH
+    - `ttl`: 12 hours
+    - `max`: 2 million wstETH
 - Borrow cap
-
-    ◦ `gap`: 10,000 wstETH
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 1 wstETH
+    - `gap`: 10,000 wstETH
+    - `ttl`: 12 hours
+    - `max`: 1 wstETH
 
 ###### A.6.1.1.1.3.2.1.1.3.2.3 - SparkLend Cap Automator rETH Parameters [Core]  <!-- UUID: 4bec80b2-33d2-48a9-83e6-26bb2a00e303 -->
 
 The current rETH cap automator parameters are:
 
 - Supply cap
-
-    ◦ `gap`: 10,000 rETH
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 80,000 rETH
-
+    - `gap`: 10,000 rETH
+    - `ttl`: 12 hours
+    - `max`: 80,000 rETH
 - Borrow cap
-
-    ◦ `gap`: 100 rETH
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 1 rETH
+    - `gap`: 100 rETH
+    - `ttl`: 12 hours
+    - `max`: 1 rETH
 
 ###### A.6.1.1.1.3.2.1.1.3.2.4 - SparkLend Cap Automator WBTC Parameters [Core]  <!-- UUID: b67fb946-b21d-4173-b57b-e5505128f003 -->
 
 The current WBTC cap automator parameters are:
 
 - Supply cap
-
-    ◦ `gap`: 200 WBTC
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 5,000 WBTC
-
+    - `gap`: 200 WBTC
+    - `ttl`: 12 hours
+    - `max`: 5,000 WBTC
 - Borrow cap
-
-    ◦ `gap`: 1 WBTC
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 1 WBTC
+    - `gap`: 1 WBTC
+    - `ttl`: 12 hours
+    - `max`: 1 WBTC
 
 ###### A.6.1.1.1.3.2.1.1.3.2.5 - SparkLend Cap Automator sDai Parameters [Core]  <!-- UUID: 21bdfe50-0996-494d-8413-1d41966fb4f6 -->
 
 The current sDai cap automator parameters are:
 
 - Supply cap
-
-    ◦ `gap`: 50 million sDai
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 1 billion sDai
-
+    - `gap`: 50 million sDai
+    - `ttl`: 12 hours
+    - `max`: 1 billion sDai
 - Borrow cap: n/a - not a borrowable asset
-
-    ◦ `gap`: n/a
-
-    ◦ `ttl`: n/a
-
-    ◦ `max`: 0 sDAI
+    - `gap`: n/a
+    - `ttl`: n/a
+    - `max`: 0 sDAI
 
 ###### A.6.1.1.1.3.2.1.1.3.2.6 - SparkLend Cap Automator USDC Parameters [Core]  <!-- UUID: 07f1853e-ec34-44ae-b137-708a81cd3195 -->
 
 The current USDC cap automator parameters are:
 
 - Supply cap
-
-    ◦ `gap`: 150 million USDC
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 0 (no cap)
-
+    - `gap`: 150 million USDC
+    - `ttl`: 12 hours
+    - `max`: 0 (no cap)
 - Borrow cap
-
-    ◦ `gap`: 50 million USDC
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 0 (no cap)
+    - `gap`: 50 million USDC
+    - `ttl`: 12 hours
+    - `max`: 0 (no cap)
 
 ###### A.6.1.1.1.3.2.1.1.3.2.7 - SparkLend Cap Automator USDT Parameters [Core]  <!-- UUID: 7edd58f1-df79-4346-803b-4d01883e3f09 -->
 
 The current USDT cap automator parameters are:
 
 - Supply cap
-
-    ◦ `gap`: 1 billion USDT
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 0 (no cap)
-
+    - `gap`: 1 billion USDT
+    - `ttl`: 12 hours
+    - `max`: 0 (no cap)
 - Borrow cap
-
-    ◦ `gap`: 200 million USDT
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 0 (no cap)
+    - `gap`: 200 million USDT
+    - `ttl`: 12 hours
+    - `max`: 0 (no cap)
 
 ###### A.6.1.1.1.3.2.1.1.3.2.8 - SparkLend Cap Automator cbBTC Parameters [Core]  <!-- UUID: e2b2d7b0-56f9-408e-a49c-cfd211a20748 -->
 
 The current cbBTC cap automator parameters are:
 
 - Supply cap
-
-    ◦ `gap`: 500 cbBTC
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 20,000 cbBTC
-
+    - `gap`: 500 cbBTC
+    - `ttl`: 12 hours
+    - `max`: 20,000 cbBTC
 - Borrow cap
-
-    ◦ `gap`: 50 cbBTC
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 10,000 cbBTC
+    - `gap`: 50 cbBTC
+    - `ttl`: 12 hours
+    - `max`: 10,000 cbBTC
 
 ###### A.6.1.1.1.3.2.1.1.3.2.9 - SparkLend Cap Automator sUSDS Parameters [Core]  <!-- UUID: 061ca4e3-08a7-4262-aa22-9a79b988cf89 -->
 
 The current sUSDS cap automator parameters are:
 
 - Supply cap
-
-    ◦ `gap`: 50 millions sUSDS
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 500 million sUSDS
-
+    - `gap`: 50 millions sUSDS
+    - `ttl`: 12 hours
+    - `max`: 500 million sUSDS
 - Borrow cap
-
-    ◦ `gap`: N/A
-
-    ◦ `ttl`: N/A
-
-    ◦ `max`: N/A
+    - `gap`: N/A
+    - `ttl`: N/A
+    - `max`: N/A
 
 ###### A.6.1.1.1.3.2.1.1.3.2.10 - SparkLend Cap Automator weETH Parameters [Core]  <!-- UUID: cc049d6b-327f-4c85-aab0-97c976405e39 -->
 
 The current weETH cap automator parameters are:
 
 - Supply cap
-
-    ◦ `gap`: 10,000 weETH
-
-    ◦ `ttl`: 12 hours
-
-    ◦ `max`: 500,000 weETH
-
+    - `gap`: 10,000 weETH
+    - `ttl`: 12 hours
+    - `max`: 500,000 weETH
 - Borrow cap
-
-    ◦ `gap`: N/A
-
-    ◦ `ttl`: N/A
-
-    ◦ `max`: N/A
+    - `gap`: N/A
+    - `ttl`: N/A
+    - `max`: N/A
 
 ###### A.6.1.1.1.3.2.1.1.3.2.11 - SparkLend Cap Automator LBTC Parameters [Core]  <!-- UUID: b0837675-5d32-43ee-84f9-076fe644c61e -->
 
 The current LBTC cap automator parameters are:
 
 - Supply cap
-
-  ◦ `gap`: 500 LBTC
-
-  ◦ `ttl`: 12 hours
-
-  ◦ `max`: 10,000 LBTC
-
+    - `gap`: 500 LBTC
+    - `ttl`: 12 hours
+    - `max`: 10,000 LBTC
 - Borrow cap
-
-  ◦ `gap`: N/A
-
-  ◦ `ttl`: N/A
-
-  ◦ `max`: N/A
+    - `gap`: N/A
+    - `ttl`: N/A
+    - `max`: N/A
 
 ###### A.6.1.1.1.3.2.1.1.3.2.12 - SparkLend Cap Automator tBTC Parameters [Core]  <!-- UUID: 33ee5bdf-e28d-4c9f-98a2-3e7b28bd9b50 -->
 
 The current tBTC cap automator parameters are:
 
 - Supply cap
-
-  ◦ `gap`: 125 tBTC
-
-  ◦ `ttl`: 12 hours
-
-  ◦ `max`: 1,000 tBTC
-
+    - `gap`: 125 tBTC
+    - `ttl`: 12 hours
+    - `max`: 1,000 tBTC
 - Borrow cap
-
-  ◦ `gap`: 25 tBTC
-
-  ◦ `ttl`: 12 hours
-
-  ◦ `max`: 900 tBTC
+    - `gap`: 25 tBTC
+    - `ttl`: 12 hours
+    - `max`: 900 tBTC
 
 ###### A.6.1.1.1.3.2.1.1.3.2.13 - SparkLend Cap Automator ezETH Parameters [Core]  <!-- UUID: 10f81b39-59d8-4f8c-837b-6f8eb00804b8 -->
 
 The current ezETH cap automator parameters are:
 
 - Supply cap
-
-  ◦ `gap`: 5,000 ezETH
-
-  ◦ `ttl`: 12 hours
-
-  ◦ `max`: 40,000 ezETH
-
+    - `gap`: 5,000 ezETH
+    - `ttl`: 12 hours
+    - `max`: 40,000 ezETH
 - Borrow cap
-
-  ◦ `gap`: N/A
-
-  ◦ `ttl`: N/A
-
-  ◦ `max`: N/A
+    - `gap`: N/A
+    - `ttl`: N/A
+    - `max`: N/A
 
 ###### A.6.1.1.1.3.2.1.1.3.2.14 - SparkLend Cap Automator rsETH Parameters [Core]  <!-- UUID: e8012cc7-5e8c-47e7-af44-d7e61bd16b3e -->
 
 The current rsETH cap automator parameters are:
 
 - Supply cap
-
-  ◦ `gap`: 5,000 rsETH
-
-  ◦ `ttl`: 12 hours
-
-  ◦ `max`: 40,000 rsETH
-
+    - `gap`: 5,000 rsETH
+    - `ttl`: 12 hours
+    - `max`: 40,000 rsETH
 - Borrow cap
-
-  ◦ `gap`: N/A
-
-  ◦ `ttl`: N/A
-
-  ◦ `max`: N/A
+    - `gap`: N/A
+    - `ttl`: N/A
+    - `max`: N/A
 
 ###### A.6.1.1.1.3.2.1.1.3.2.15 - SparkLend Cap Automator pyUSD Parameters [Core]  <!-- UUID: c06b8247-1397-4887-b1e6-0ea370d25dc9 -->
 
 The current pyUSD cap automator parameters are:
 
 - Supply cap
-
-  ◦ `gap`: 50 million pyUSD
-
-  ◦ `ttl`: 12 hours
-
-  ◦ `max`: 0 (no cap)
-
+    - `gap`: 50 million pyUSD
+    - `ttl`: 12 hours
+    - `max`: 0 (no cap)
 - Borrow cap
-
-  ◦ `gap`: 25 million pyUSD
-
-  ◦ `ttl`: 12 hours
-
-  ◦ `max`: 0 (no cap)
+    - `gap`: 25 million pyUSD
+    - `ttl`: 12 hours
+    - `max`: 0 (no cap)
 
 ###### A.6.1.1.1.3.2.1.1.3.3 - SparkLend Cap Automator Authorized Parties [Core]  <!-- UUID: e58645fb-0085-4ea2-aba5-c4b5968038b8 -->
 
@@ -27786,7 +26795,7 @@ The SparkLend Cap Automator Version is: 1.1
 
 ###### A.6.1.1.1.3.2.1.1.4 - SparkLend Risk Parameters Kill Switch [Core]  <!-- UUID: 38329b4f-7666-4f68-ba66-74ebb2e60e13 -->
 
-The kill switch disables all borrowing across SparkLend markets in the event of a depeg on key collateral assets. 
+The kill switch disables all borrowing across SparkLend markets in the event of a depeg on key collateral assets.
 
 The kill switch is defined in terms of a threshold for specified pegged assets. If the ratio of the price of a specified asset to its peg is equal to or less than the threshold, then any user can trigger the kill switch to disable borrowing across all SparkLend markets.
 
@@ -27809,14 +26818,9 @@ The documents herein define the process for the ongoing management of SparkLend.
 
 ###### A.6.1.1.1.3.2.1.2.1 - SparkLend Risk Parameters Modification [Core]  <!-- UUID: 6029a425-ad81-46c5-866d-94e2ff663873 -->
 
-The modification of SparkLend parameters is temporarily controlled by Sky Core, but will be transitioned to Spark in the future. Currently, the Stability Facilitators, in consultation with the Core Council Risk Advisor and Phoenix Labs, may recommend changes to any of the parameters specified in the subdocuments of [A.6.1.1.1.3.2.1.1.1 - SparkLend Risk Parameters Definitions](667abf8c-64a3-4029-b218-e7a6e7000bbd) or [A.6.1.1.1.3.2.1.1.3.1 - SparkLend Risk Parameters Cap Automator Parameter Definitions](e6bc54e6-91df-4095-a032-0e1128c2cab7).
+The modification of SparkLend parameters is temporarily controlled by Sky Core, but will be transitioned to Spark in the future. Currently, the Core Council Risk Advisor, in consultation with Phoenix Labs, may recommend changes to any of the parameters specified in the subdocuments of [A.6.1.1.1.3.2.1.1.1 - SparkLend Risk Parameters Definitions](667abf8c-64a3-4029-b218-e7a6e7000bbd) or [A.6.1.1.1.3.2.1.1.3.1 - SparkLend Risk Parameters Cap Automator Parameter Definitions](e6bc54e6-91df-4095-a032-0e1128c2cab7).
 
-As a general rule, the modification of said parameters is pursuant to the Operational Weekly Cycle and can be effected directly via an Executive Vote, without requiring a Governance Poll. 
-
-Changes to the parameters defined in the following documents are exceptions to the general rule and require a Governance Poll followed by an Executive Vote: 
-
-- [A.6.1.1.1.3.2.1.1.1.5 - Liquidation Threshold Definition](2dd2045c-6a33-4229-b6c8-e531d6ecd27a) 
-- [A.6.1.1.1.3.2.1.1.1.7 - Liquidation Bonus Definition](173ff961-bf1f-4c6c-992c-4a67b269e544)
+As a general rule, the modification of said parameters is pursuant to the Operational Weekly Cycle and can be effected directly via an Executive Vote, without requiring a Governance Poll.
 
 ###### A.6.1.1.1.3.2.1.2.2 - Collateral Onboarding/Offboarding [Core]  <!-- UUID: 1a1f4bef-d19d-42ff-8ac4-746498df9fbc -->
 
@@ -27828,17 +26832,17 @@ Spark Protocol must pay out 10% of the income it generates from operating the bo
 
 ###### A.6.1.1.1.3.2.1.2.3.1 - Sky Core Governance Responsibility For Virtual Revenue Share Prior to Launch of SPK [Core]  <!-- UUID: f84a1cb6-7f77-4bd0-904f-8bf7b368d2d6 -->
 
-Before the launch of Agent tokens, Sky Governance is temporarily responsible for paying out a "virtual revenue share" on behalf of Spark Protocol. It is calculated by taking the total amount of Dai borrowed from Spark Protocol, and then assuming a "virtual income" equivalent to 1% of this supply, and calculating a revenue share of 10% on that basis. The calculations and payments must be done manually by the Support Facilitators at the end of each quarter. 
+Before the launch of Agent tokens, Sky Governance is temporarily responsible for paying out a "virtual revenue share" on behalf of Spark Protocol. It is calculated by taking the total amount of Dai borrowed from Spark Protocol, and then assuming a "virtual income" equivalent to 1% of this supply, and calculating a revenue share of 10% on that basis. The calculations and payments must be done manually by the Support Facilitators at the end of each quarter.
 
-As an example: if, before the launch of Agent tokens, 200 million Dai is borrowed on Spark Protocol, then the virtual income is 1% of 200 million Dai, which gives 2 million Dai; and of that 2 million Dai the virtual revenue share is 200,000 Dai. 
+As an example: if, before the launch of Agent tokens, 200 million Dai is borrowed on Spark Protocol, then the virtual income is 1% of 200 million Dai, which gives 2 million Dai; and of that 2 million Dai the virtual revenue share is 200,000 Dai.
 
-This 200,000 Dai must be paid out in incremental payments each quarter directly by Sky Governance from the Sky Surplus Buffer to a smart contract under the control of Aave Governance. If, before the launch of Agent tokens, less than 100 million Dai is borrowed from Spark Protocol by the Sky Protocol, accrual towards the virtual revenue share payments are paused (unpaid virtual revenue share that already accrued is still paid out at the end of the quarter), and the counting down of the revenue share duration is paused. The virtual revenue share payments and the counting down of the remaining revenue share duration is resumed when at least 100 million Dai is again borrowed from Spark Protocol by the Sky Protocol. 
+This 200,000 Dai must be paid out in incremental payments each quarter directly by Sky Governance from the Sky Surplus Buffer to a smart contract under the control of Aave Governance. If, before the launch of Agent tokens, less than 100 million Dai is borrowed from Spark Protocol by the Sky Protocol, accrual towards the virtual revenue share payments are paused (unpaid virtual revenue share that already accrued is still paid out at the end of the quarter), and the counting down of the revenue share duration is paused. The virtual revenue share payments and the counting down of the remaining revenue share duration is resumed when at least 100 million Dai is again borrowed from Spark Protocol by the Sky Protocol.
 
 Once SPK tokens launch, the virtual revenue share system will be discontinued, and the standard rules of the Spark Protocol Aave Revenue Share Ecosystem Agreement shall take effect. See [A.6.1.1.1.3.2.1.2.3.2 - Standard Agreement Post SPK Launch](bb867551-5231-4a5b-ac37-09d545bf70ce).
 
 ###### A.6.1.1.1.3.2.1.2.3.2 - Standard Agreement Post SPK Launch [Core]  <!-- UUID: bb867551-5231-4a5b-ac37-09d545bf70ce -->
 
-Post SPK launch, the following revenue-share operational process takes effect. The revenue share payment must be calculated manually at the end of each quarter by the Spark and manually paid as Dai to a smart contract under the control of Aave Governance from Spark. The payments must occur for the revenue share duration of two (2) years, starting from September 25th, 2023. 
+Post SPK launch, the following revenue-share operational process takes effect. The revenue share payment must be calculated manually at the end of each quarter by the Spark and manually paid as Dai to a smart contract under the control of Aave Governance from Spark. The payments must occur for the revenue share duration of two (2) years, starting from September 25th, 2023.
 
 If at any point in time after the launch of Agent tokens, Spark Protocol is generating less than 1 million Dai per year in income for Spark Agent, accrual towards the revenue share payments are paused (unpaid revenue share that already accrued is still paid out at the end of the quarter), and the counting down of the revenue share duration is paused. The revenue share payments and the counting down of the remaining revenue share duration is resumed when Spark Protocol is generating more than 1 million Dai per year in income again.
 
@@ -27856,19 +26860,20 @@ The parameters of the Spark Pre-launch Token Rewards are specified in the subdoc
 
 ###### A.6.1.1.1.3.2.2.1.1 - Conditions For The Pre-launch Token Rewards [Core]  <!-- UUID: 93dddb43-1d2e-4ea8-ab18-eb0518a193ba -->
 
-Spark has a pre-launch token rewards program based on the usage of its lending platform. Users of the platform will receive an airdrop of SPK tokens, depending on how much and how long they have used the platform during the pre-launch token reward period. These rewards are only for users on Ethereum Mainnet. 
+Spark has a pre-launch token rewards program based on the usage of its lending platform. Users of the platform will receive an airdrop of SPK tokens, depending on how much and how long they have used the platform during the pre-launch token reward period. These rewards are only for users on Ethereum Mainnet.
 
-There are two seasons of the Spark pre-launch token rewards: Season 1 and Season 2. 
+There are two seasons of the Spark pre-launch token rewards: Season 1 and Season 2.
 
-Season 1 of pre-launch token rewards was active from August 20 2023 and lasted for nine months, ending on May 20 2024. 130,434,783 SPK tokens were allocated in this period. 
+Season 1 of pre-launch token rewards was active from August 20 2023 and lasted for nine months, ending on May 20 2024. 130,434,783 SPK tokens were allocated in this period.
 
-In Season 2 14,478,261 SPK will be rewarded per month to SparkLend users who qualify for the airdrop. 
+In Season 2 14,478,261 SPK will be rewarded per month to SparkLend users who qualify for the airdrop.
 
-Season 2 is an additional pre-farming period, which runs until the Spark Agent launches as part of Sky Endgame launch season. 
+Season 2 is an additional pre-farming period, which runs until the Spark Agent launches as part of Sky Endgame launch season.
 
 The monthly SPK rewards are allocated as follows:
-◦ 80 % is allocated to users borrowing DAI and/or USDS
-◦ 20 % is allocated to users supplying ETH
+
+- 80 % is allocated to users borrowing DAI and/or USDS
+- 20 % is allocated to users supplying ETH
 
 The proposed full anti-cheat SPK Airdrop for SparkLend is calculated using the following formula:
 
@@ -27882,17 +26887,18 @@ The documents herein define the process for the ongoing management of the Spark 
 
 ###### A.6.1.1.1.3.2.2.2.1 - Special Pre-launch Token Reward Programs [Core]  <!-- UUID: 9906332c-bc2d-4864-97d4-589f206d6482 -->
 
-Spark can activate a new SPK token pre-launch token reward airdrop program to capture other growth opportunities. 
+Spark can activate a new SPK token pre-launch token reward airdrop program to capture other growth opportunities.
 
-The program can last until the moment SPK launches, or a shorter duration. When activated, the exact details of the special pre-launch token reward airdrop program must be specified in [A.6.1.1.1.3.2.2.2.1.1.0.6.1 - Special Pre-launch Token Reward Program Details](51316a6c-fd6a-4507-b99d-731e80fc9f76). 
+The program can last until the moment SPK launches, or a shorter duration. When activated, the exact details of the special pre-launch token reward airdrop program must be specified in [A.6.1.1.1.3.2.2.2.1.1.0.6.1 - Special Pre-launch Token Reward Program Details](51316a6c-fd6a-4507-b99d-731e80fc9f76).
 
 The SPK tokens for the future Spark Airdrop are allocated between all borrowers based on a formula announced by Spark and specified in the above cited document. The rate of SPK tokens being earned is 7,239,130 SPK per month, distributed on a per block basis proportional to the formula specified in the above cited document.
 
 ###### A.6.1.1.1.3.2.2.2.1.1 - Special Pre-launch Token Reward Program Details [Active Data Controller]  <!-- UUID: 1e4ea33d-2d0d-4cfc-8ac2-febce5baf883 -->
 
-The special pre-launch token reward airdrop program is defined as Active Data in [A.6.1.1.1.3.2.2.2.1.1.0.6.1 - Special Pre-launch Token Reward Program Details](51316a6c-fd6a-4507-b99d-731e80fc9f76). 
+The special pre-launch token reward airdrop program is defined as Active Data in [A.6.1.1.1.3.2.2.2.1.1.0.6.1 - Special Pre-launch Token Reward Program Details](51316a6c-fd6a-4507-b99d-731e80fc9f76).
 
 The Active Data is updated as follows:
+
 - The Responsible Party is Operational GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
@@ -27902,7 +26908,7 @@ Active pre-launch token reward programs established by [A.6.1.1.1.3.2.2.2.1 - Sp
 
 Aave V3 Main Market sUSDS (7,239,130 SPK per month, ending with SPK token launch):
 
-sUSDS supplies on Aave V3 Main Market are eligible to earn 7,239,130 SPK tokens per month. The SPK rewards program will start on the block during which the sUSDS market is onboarded onto the Aave V3 Main Market and lasts until the issuance of the SPK token, based on the following formula: 
+sUSDS supplies on Aave V3 Main Market are eligible to earn 7,239,130 SPK tokens per month. The SPK rewards program will start on the block during which the sUSDS market is onboarded onto the Aave V3 Main Market and lasts until the issuance of the SPK token, based on the following formula:
 
 `sUSDS Supplies - Sum_i(Stablecoin_i Borrow Amount (in USD) / Stablecoin_i Liquidation Threshold)`
 
@@ -28077,16 +27083,16 @@ The SPK contributor vesting is a 4-year linear vesting schedule that compensates
 The current SPK contributor vesting parameters are:
 
 - DssVest
-  - Recipient address(es): `0xEFF097C5CC7F63e9537188FE381D1360158c1511`
-  - Start date: 17 June 2025
-  - Cliff date: 17 June 2026
-  - End date: 16 June 2029
-  - Vesting method: Linear per block with cliff
-  - Claim auth: Permissionless
+    - Recipient address(es): `0xEFF097C5CC7F63e9537188FE381D1360158c1511`
+    - Start date: 17 June 2025
+    - Cliff date: 17 June 2026
+    - End date: 16 June 2029
+    - Vesting method: Linear per block with cliff
+    - Claim auth: Permissionless
 - SubDAO Proxy actions
-  - Approve SPK
-    - Address: `0x6Bad07722818Ceff1deAcc33280DbbFdA4939A09`
-    - Amount: 1.2 billion SPK (12% of total supply)
+    - Approve SPK
+        - Address: `0x6Bad07722818Ceff1deAcc33280DbbFdA4939A09`
+        - Amount: 1.2 billion SPK (12% of total supply)
 
 ###### A.6.1.1.1.3.5 - Spark Savings Configuration [Core]  <!-- UUID: 9b4ce799-3baa-42e8-a742-7e8deb377dfc -->
 
@@ -28142,7 +27148,7 @@ The subdocuments herein provide the current configuration of Spark Savings oncha
 
 ###### A.6.1.1.1.3.5.2.2.1 - Spark Savings USDC on Ethereum [Core]  <!-- UUID: e541391b-f470-480f-adea-5453f3f7da7a -->
 
-The current parameters for Spark Savings USDC on Ethereum are: 
+The current parameters for Spark Savings USDC on Ethereum are:
 
 - Default admin role: 0x3300f198988e4C9C63F75dF86De36421f06af8c4
 - Setter role: 0x9Ad87668d49ab69EEa0AF091de970EF52b0D5178
@@ -28154,7 +27160,7 @@ The current parameters for Spark Savings USDC on Ethereum are: 
 
 ###### A.6.1.1.1.3.5.2.2.2 - Spark Savings USDT on Ethereum [Core]  <!-- UUID: 39a398d7-600e-472a-ac85-c789866fddfc -->
 
-The current parameters for Spark Savings USDT on Ethereum are: 
+The current parameters for Spark Savings USDT on Ethereum are:
 
 - Default admin role: 0x3300f198988e4C9C63F75dF86De36421f06af8c4
 - Setter role: 0x9Ad87668d49ab69EEa0AF091de970EF52b0D5178
@@ -28166,7 +27172,7 @@ The current parameters for Spark Savings USDT on Ethereum are: 
 
 ###### A.6.1.1.1.3.5.2.2.3 - Spark Savings ETH on Ethereum [Core]  <!-- UUID: 02c0847b-5608-4c12-a1f6-df889538722f -->
 
-The current parameters for Spark Savings ETH on Ethereum are: 
+The current parameters for Spark Savings ETH on Ethereum are:
 
 - Default admin role: 0x3300f198988e4C9C63F75dF86De36421f06af8c4
 - Setter role: 0x9Ad87668d49ab69EEa0AF091de970EF52b0D5178
@@ -28178,7 +27184,7 @@ The current parameters for Spark Savings ETH on Ethereum are: 
 
 ###### A.6.1.1.1.3.5.2.2.4 - Spark Savings USDC on Avalanche [Core]  <!-- UUID: fc108236-9f07-45fb-9ff1-4c806975e049 -->
 
-The current parameters for Spark Savings USDC on Avalanche are: 
+The current parameters for Spark Savings USDC on Avalanche are:
 
 - Default admin role: 0x7566DEbC906C17338524A414343fA61BcA26A843
 - Setter role: 0x45d91340B3B7B96985A72b5c678F7D9e8D664b62
@@ -28311,9 +27317,9 @@ Spark's strategic investment will be undertaken with the following terms:
 - Recipient: PRM LBS LTD, at address 0xD5FF8bdeF23fc3C8Ff6815C6B4051F9809C877a5
 - Arkis post-money valuation: $45 million
 - Deal structure:
-    ◦ Simple Agreement for Future Equity (SAFE) substantially mirroring the Ycombinator SAFE format
-    ◦ Token warrant providing for token ownership share equal to at least 50% of Spark's share of equity ownership at the time of token launch
-    ◦ Side letter providing for most favored nation rights, pro rata rights, information rights, major investor rights, and right to elect one director
+    - Simple Agreement for Future Equity (SAFE) substantially mirroring the Ycombinator SAFE format
+    - Token warrant providing for token ownership share equal to at least 50% of Spark's share of equity ownership at the time of token launch
+    - Side letter providing for most favored nation rights, pro rata rights, information rights, major investor rights, and right to elect one director
 - Fee reduction: Spark will benefit from reduced fees for use of Arkis protocol for 5 years with Spark Foundation holding the option to extend by 2 additional years, assessed as a 50% reduction vs the lowest rate of fees paid by any other user
 
 ###### A.6.1.1.1.3.6.2.1.2 - Delegation of Authority [Core]  <!-- UUID: 483d37f0-0143-44cc-b470-63bbe7913f6d -->
@@ -29437,11 +28443,9 @@ Where their review of the proposal results in a finding of alignment with the Sk
 ###### A.6.1.1.2.2.2.2.2.1.2.1.4.1 - Circulating Supply Definition [Core]  <!-- UUID: 4cd4f590-6a01-4824-a6e7-bbf4a6f5225e -->
 
 For purposes of [A.6.1.1.2.2.2.2.2.1.2.1.4 - Root Edit Token Holder Vote](f6dd56ae-ee72-4109-be99-eaf69c92c3be), the circulating supply of GROVE tokens is equal to the total supply of GROVE tokens minus the sum of:
-    
+
 1. Tokens retained by Sky and not yet distributed as token rewards (see [A.2.8.2.2.2.1.2.2 - Sky Retained Tokens And Reward Pools](fb447af6-1581-4711-b73c-dc2e8d65e843)); and
-    
 2. Tokens retained in vesting agreements for Grove contributors and not yet distributed; and
-    
 3. Tokens in the Grove SubProxy Account (see [A.6.1.1.2.2.1.1.3.1.1.2 - SubProxy Account](d143241d-5819-432d-a6ba-892961502838)).
 
 ###### A.6.1.1.2.2.2.2.2.1.2.1.5 - Root Edit Artifact Update [Core]  <!-- UUID: a3dcb3c9-7e5a-48b1-aac8-9af4b5dfcfc2 -->
@@ -30523,12 +29527,14 @@ The document herein lists the current off-chain operational parameters for the G
 ###### A.6.1.1.2.2.6.1.2.1.1.2.1.1 - Minimum Operation Size Ethereum Mainnet [Core]  <!-- UUID: cad9056b-c097-4b3c-9958-e8962d8ef1ca -->
 
 The minimum transaction size for operations on Ethereum Mainnet is (`MAINNET_MIN_OPERATION_SIZE`):
-◦ This parameter will be specified in a future iteration of the Grove Artifact.
+
+- This parameter will be specified in a future iteration of the Grove Artifact.
 
 ###### A.6.1.1.2.2.6.1.2.1.1.2.1.2 - Debt Ceiling Buffer Ethereum Mainnet [Core]  <!-- UUID: 1500fd24-2b7e-4a1c-8725-84e7a0b8adc5 -->
 
-The buffer amount below the maximum debt ceiling is (`DEBT_CEILING_BUFFER`):    
-◦ This parameter will be specified in a future iteration of the Grove Artifact.
+The buffer amount below the maximum debt ceiling is (`DEBT_CEILING_BUFFER`):
+
+- This parameter will be specified in a future iteration of the Grove Artifact.
 
 ###### A.6.1.1.2.2.6.1.2.1.1.2.2 - Off-chain Operational Parameters For Avalanche [Core]  <!-- UUID: ad3dbd7b-602b-4457-bc5e-25ed5708fbc2 -->
 
@@ -30537,7 +29543,8 @@ The document herein lists the current off-chain operational parameters for the G
 ###### A.6.1.1.2.2.6.1.2.1.1.2.2.1 - Minimum Operation Size Avalanche [Core]  <!-- UUID: 29e17dd9-c575-496a-9c20-658aa92a260b -->
 
 The minimum transaction size for operations on Avalanche is (`AVALANCHE_MIN_OPERATION_SIZE`):
-◦ This parameter will be specified in a future iteration of the Grove Artifact.
+
+- This parameter will be specified in a future iteration of the Grove Artifact.
 
 ###### A.6.1.1.2.2.6.1.2.1.1.3 - RateLimits [Core]  <!-- UUID: c485dc9b-e21b-4df9-8323-0d2856524a71 -->
 
@@ -30550,30 +29557,35 @@ The documents herein list the current `RateLimits` for the Grove Liquidity Layer
 ###### A.6.1.1.2.2.6.1.2.1.1.3.1.1 - USDS Mint Maximum [Core]  <!-- UUID: 104541de-f257-405a-8870-ab26d099f57b -->
 
 The maximum amount of USDS that can be minted within the Grove Liquidity Layer (`LIMIT_USDS_MINT`) is specified in the document herein.
+
 - `maxAmount` (USDS): 100,000,000
 - `slope` (USDS/ day): 50,000,000
 
 ###### A.6.1.1.2.2.6.1.2.1.1.3.1.2 - USDS Burn Maximum [Core]  <!-- UUID: cf829503-02cf-4b84-8c04-7d05de1d82dd -->
 
 The maximum amount of USDS that can be burned within the Grove Liquidity Layer (`LIMIT_USDS_BURN`) is specified in the document herein.
+
 - `maxAmount` (USDS): This parameter will be specified in a future iteration of the Grove Artifact.
 - `slope` (USDS/ day): This parameter will be specified in a future iteration of the Grove Artifact.
 
 ###### A.6.1.1.2.2.6.1.2.1.1.3.1.3 - USDS For USDC Swap Maximum [Core]  <!-- UUID: a591104c-5c45-480d-a156-46484440e163 -->
 
 The maximum amount of USDS that can be swapped for USDC by the Grove Liquidity Layer in the Mainnet PSM (`LIMIT_USDS_TO_USDC`) is specified in the document herein.
+
 - `maxAmount` (USDC): 100,000,000
 - `slope` (USDC/ day): 50,000,000
 
 ###### A.6.1.1.2.2.6.1.2.1.1.3.1.4 - USDC Mainnet ALM Proxy Maximum [Core]  <!-- UUID: 8a462b2a-68dc-4caf-ab26-855552f57d4f -->
 
 The maximum amount of USDC that can be sent to the Ethereum Mainnet ALM Proxy (`LIMIT_USDC_TO_DOMAIN`, hashed with Ethereum domain) is specified in the document herein.
+
 - `maxAmount` (USDC): This parameter will be specified in a future iteration of the Grove Artifact.
 - `slope` (USDC/ day): This parameter will be specified in a future iteration of the Grove Artifact.
 
 ###### A.6.1.1.2.2.6.1.2.1.1.3.1.5 - USDC Mainnet ALM Proxy Circle Cross-Chain Transfer Protocol Maximum [Core]  <!-- UUID: b43ee2cd-06b9-4615-bcb4-ac44e2b8c693 -->
 
 The maximum amount of USDC that can be bridged to Ethereum Mainnet ALM Proxy using the Circle Cross-Chain Transfer Protocol (`LIMIT_USDC_TO_CCTP_ETH`) is specified in the document herein.
+
 - `maxAmount` (USDC): max
 - `slope` (USDC/ day): 0
 
@@ -30584,18 +29596,21 @@ The documents herein list the current `RateLimits` for the Grove Liquidity Layer
 ###### A.6.1.1.2.2.6.1.2.1.1.3.2.1 - USDC Avalanche ALM Proxy Maximum [Core]  <!-- UUID: 00b438d4-d359-4e2f-a1fa-4c12aaf8c978 -->
 
 The maximum amount of USDC that can be sent to the Avalanche ALM Proxy (`LIMIT_USDC_TO_DOMAIN`, hashed with Avalanche domain) is specified in the document herein.
+
 - `maxAmount` (USDC): This parameter will be specified in a future iteration of the Grove Artifact.
 - `slope` (USDC/ day): This parameter will be specified in a future iteration of the Grove Artifact.
 
 ###### A.6.1.1.2.2.6.1.2.1.1.3.2.2 - USDC Avalanche ALM Proxy Circle Cross-Chain Transfer Protocol Maximum [Core]  <!-- UUID: d5b284c1-8cb7-4e49-8efc-6253b517f36e -->
 
 The maximum amount of USDC that can be bridged to Avalanche ALM Proxy using the Circle Cross-Chain Transfer Protocol (`LIMIT_USDC_TO_CCTP_Avalanche`) is specified in the document herein.
+
 - `maxAmount` (USDC): 50,000,000
 - `slope` (USDC/ day): 50,000,000
 
 ###### A.6.1.1.2.2.6.1.2.1.1.3.2.3 - USDC Ethereum Mainnet ALM Proxy Circle Cross-Chain Transfer Protocol Maximum [Core]  <!-- UUID: a3b52620-db3f-40fa-80d5-a7eacf52090c -->
 
 The maximum amount of USDC that can be bridged to Ethereum Mainnet from the Avalanche ALM Proxy using the Circle Cross-Chain Transfer Protocol (`LIMIT_USDC_TO_CCTP_Ethereum`) is specified in the document herein.
+
 - `maxAmount` (USDC): 50,000,000
 - `slope` (USDC/ day): 50,000,000
 
@@ -30772,7 +29787,7 @@ The documents herein defines roles (Admin, Relayer, Freezer) and their responsib
 
 ###### A.6.1.1.2.2.6.1.2.2.1.1.1 - Default Admin Role [Core]  <!-- UUID: dc515367-2fa0-4f98-b3d1-1b82d7ce782f -->
 
-The admin role (`DEFAULT_ADMIN_ROLE`) is the role that can grant and revoke any role, including itself and all other roles defined in the contract. The admin role is also used for general admin functions in all contracts. This role is fully controlled by Sky Governance via the Grove Proxy. 
+The admin role (`DEFAULT_ADMIN_ROLE`) is the role that can grant and revoke any role, including itself and all other roles defined in the contract. The admin role is also used for general admin functions in all contracts. This role is fully controlled by Sky Governance via the Grove Proxy.
 
 `constructor(address admin) {
         _grantRole(DEFAULT_ADMIN_ROLE, admin);`
@@ -30807,10 +29822,10 @@ The documents herein define the process to set the `mintRecipient` for a specifi
 
 ###### A.6.1.1.2.2.6.1.2.2.1.2.1.1.1.1 - Admin Role [Core]  <!-- UUID: 310f2d02-371c-4fa1-b0bf-1e07d80464ee -->
 
-The operator must ensure they are working as an Admin. Only the `DEFAULT_ADMIN_ROLE` is allowed to `setMintRecipient`. 
+The operator must ensure they are working as an Admin. Only the `DEFAULT_ADMIN_ROLE` is allowed to `setMintRecipient`.
 
 `function setMintRecipient(uint32 destinationDomain, bytes32 mintRecipient)
-        external 
+        external
         onlyRole(DEFAULT_ADMIN_ROLE)`
 
 ###### A.6.1.1.2.2.6.1.2.2.1.2.1.1.1.2 - Associate Mint Recipient With Domain [Core]  <!-- UUID: c639083a-417f-45c8-ba94-c0713d1539ac -->
@@ -30844,8 +29859,8 @@ The documents herein define the steps for an operator to `mint` USDS from the Sk
 The operator must ensure they are working as a `Relayer`. Only the `RELAYER` role is allowed to `mintUSDS`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
 `function mintUSDS(uint256 usdsAmount)
-        external 
-        onlyRole(RELAYER) 
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.2.2.6.1.2.2.1.2.1.2.1.1.2 - Check RateLimits [Core]  <!-- UUID: e3f04b74-9b6d-45e9-9363-e76bda9ba6dc -->
@@ -30901,8 +29916,8 @@ The documents herein define the steps for an operator to return and then `burn` 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `burnUSDS`. They must also ensure the contract `isActive` i.e. can process the request.
 
 `function burnUSDS(uint256 usdsAmount)
-        external 
-        onlyRole(RELAYER) 
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.2.2.6.1.2.2.1.2.1.2.1.2.2 - Check RateLimits [Core]  <!-- UUID: 6449fd5a-ec8b-4d71-aa03-7cac23780c2c -->
@@ -30956,46 +29971,33 @@ The documents herein define the general Grove Liquidity Layer operational proced
 ###### A.6.1.1.2.2.6.1.2.2.1.2.1.2.2.1 - General Deposit to ERC-4626 Tokens Procedure [Core]  <!-- UUID: 4876005c-31a8-4be8-8133-e239bd0ac53b -->
 
 This document defines the steps for an operator to deposit assets from the ALM Proxy to the ERC-4626 vault to receive yield-bearing shares.
-    
-◦ The Grove Liquidity Layer Operator, acting as `RELAYER`, initiates a deposit.
-    
-◦ Pre-conditions are checked: Grove Liquidity Layer contract `isActive`, ALM Proxy has sufficient underlying asset, and the deposit amount is within instance-specific `RateLimits` (defined in the relevant Instance Configuration Document).
-    
-◦ The Grove Liquidity Layer Operator approves the target ERC4626 vault (identified by its `token` address in the Instance Configuration Document) to spend the underlying `asset` from the ALM Proxy.
-    
-◦ The Grove Liquidity Layer Operator calls the `deposit(uint256 amount, address receiver)` function on the target ERC4626 vault, specifying the `amount` of underlying asset and the ALM `proxy` as the receiver of vault shares.
-    
-◦ The number of shares received is recorded.
-    
-◦ For detailed call structures, instance-specific parameters (vault address, asset address, rate limits), and operational examples, refer to the specific ERC4626 Instance Configuration Document (ICD).
+
+- The Grove Liquidity Layer Operator, acting as `RELAYER`, initiates a deposit.
+- Pre-conditions are checked: Grove Liquidity Layer contract `isActive`, ALM Proxy has sufficient underlying asset, and the deposit amount is within instance-specific `RateLimits` (defined in the relevant Instance Configuration Document).
+- The Grove Liquidity Layer Operator approves the target ERC4626 vault (identified by its `token` address in the Instance Configuration Document) to spend the underlying `asset` from the ALM Proxy.
+- The Grove Liquidity Layer Operator calls the `deposit(uint256 amount, address receiver)` function on the target ERC4626 vault, specifying the `amount` of underlying asset and the ALM `proxy` as the receiver of vault shares.
+- The number of shares received is recorded.
+- For detailed call structures, instance-specific parameters (vault address, asset address, rate limits), and operational examples, refer to the specific ERC4626 Instance Configuration Document (ICD).
 
 ###### A.6.1.1.2.2.6.1.2.2.1.2.1.2.2.2 - General Withdraw from ERC-4626 Tokens Procedure [Core]  <!-- UUID: 7b560160-e427-45a2-a3ac-3c23cf6fe943 -->
 
 This document defines the steps for an operator to withdraw a yield-earning balance from the ERC-4626 vault to the ALM Proxy.
-    
-◦ The Grove Liquidity Layer Operator, acting as `RELAYER`, initiates a withdrawal.
-    
-◦ Pre-conditions are checked: Grove Liquidity Layer contract `isActive`, ALM Proxy has sufficient shares of the ERC4626 vault token, and the withdrawal amount is within instance-specific `RateLimits` (defined in the relevant ICD).
-    
-◦ Grove Liquidity Layer calls the `withdraw(uint256 assets, address receiver, address owner)` function on the target ERC4626 vault, specifying the `amount` of underlying assets to withdraw, with the ALM `proxy` as both `receiver` (of assets) and `owner` (of shares being burned).
-    
-◦ The number of shares burned is recorded.
-    
-◦ For detailed call structures, instance-specific parameters, and operational examples, refer to the specific ERC4626 Instance Configuration Document.
+
+- The Grove Liquidity Layer Operator, acting as `RELAYER`, initiates a withdrawal.
+- Pre-conditions are checked: Grove Liquidity Layer contract `isActive`, ALM Proxy has sufficient shares of the ERC4626 vault token, and the withdrawal amount is within instance-specific `RateLimits` (defined in the relevant ICD).
+- Grove Liquidity Layer calls the `withdraw(uint256 assets, address receiver, address owner)` function on the target ERC4626 vault, specifying the `amount` of underlying assets to withdraw, with the ALM `proxy` as both `receiver` (of assets) and `owner` (of shares being burned).
+- The number of shares burned is recorded.
+- For detailed call structures, instance-specific parameters, and operational examples, refer to the specific ERC4626 Instance Configuration Document.
 
 ###### A.6.1.1.2.2.6.1.2.2.1.2.1.2.2.3 - General Redeem from ERC-4626 Tokens Procedure [Core]  <!-- UUID: 7e90e505-42b9-474d-9cc5-9b4da6af7375 -->
 
 This document defines the steps for an operator to redeem yield-bearing shares from the ERC-4626 vault, receiving the corresponding amount of underlying assets into the ALM Proxy.
-    
-◦ The Grove Liquidity Layer Operator, acting as `RELAYER`, initiates a redemption of shares.
-    
-◦ Pre-conditions are checked: Grove Liquidity Layer contract `isActive`, ALM Proxy has sufficient shares of the ERC4626 vault token.
-    
-◦ Grove Liquidity Layer calls the `redeem(uint256 shares, address receiver, address owner)` function on the target ERC4626 vault, specifying the number of `shares` to redeem, with the ALM `proxy` as both `receiver` (of assets) and `owner` (of shares being redeemed).
-    
-◦ The amount of underlying assets received is recorded, and relevant `RateLimits` (for withdrawal) are updated.
-    
-◦ For detailed call structures, instance-specific parameters, and operational examples, refer to the specific ERC4626 Instance Configuration Document.
+
+- The Grove Liquidity Layer Operator, acting as `RELAYER`, initiates a redemption of shares.
+- Pre-conditions are checked: Grove Liquidity Layer contract `isActive`, ALM Proxy has sufficient shares of the ERC4626 vault token.
+- Grove Liquidity Layer calls the `redeem(uint256 shares, address receiver, address owner)` function on the target ERC4626 vault, specifying the number of `shares` to redeem, with the ALM `proxy` as both `receiver` (of assets) and `owner` (of shares being redeemed).
+- The amount of underlying assets received is recorded, and relevant `RateLimits` (for withdrawal) are updated.
+- For detailed call structures, instance-specific parameters, and operational examples, refer to the specific ERC4626 Instance Configuration Document.
 
 ###### A.6.1.1.2.2.6.1.2.2.1.2.1.2.3 - PSM Functions [Core]  <!-- UUID: 2df8d8c7-17ee-4427-a75b-fc3ce08913d4 -->
 
@@ -31010,13 +30012,13 @@ The documents herein define a series of operations for an operator to `swap` USD
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `swapUSDSToUSDC`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
 `function swapUSDSToUSDC(uint256 usdcAmount)
-        external 
-        onlyRole(RELAYER) 
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.2.2.6.1.2.2.1.2.1.2.3.1.2 - Check RateLimits [Core]  <!-- UUID: 532d5769-4224-48c0-9282-9c19e9fe6455 -->
 
-The operator must ensure that `RateLimits` allows for swapping the required USDS amount to USDC. 
+The operator must ensure that `RateLimits` allows for swapping the required USDS amount to USDC.
 
 `rateLimited(LIMIT_USDS_TO_USDC, usdcAmount)`
 
@@ -31033,7 +30035,7 @@ The operator must ensure that the ALM Proxy has enough USDS balance to `swap` fo
 
 ###### A.6.1.1.2.2.6.1.2.2.1.2.1.2.3.1.5 - Approve Contract Spend [Core]  <!-- UUID: 348d05d6-74cb-484e-85dc-68bbce3e97df -->
 
-The operator must approve the `daiUsds` contract to spend the `usdsAmount` on behalf of the `proxy`. `daiUsds` is a contract that facilitates a 1:1 swap between USDS and DAI. 
+The operator must approve the `daiUsds` contract to spend the `usdsAmount` on behalf of the `proxy`. `daiUsds` is a contract that facilitates a 1:1 swap between USDS and DAI.
 
 `proxy.doCall(
             address(usds),
@@ -31077,8 +30079,8 @@ The documents herein define a series of operations for an operator to `swap` USD
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `swapUSDCToUSDS`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
 `function swapUSDCToUSDS(uint256 usdcAmount)
-        external 
-        onlyRole(RELAYER) 
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.2.2.6.1.2.2.1.2.1.2.3.2.2 - Check RateLimits [Core]  <!-- UUID: 462537ca-626a-4516-afd6-a3a344d1e241 -->
@@ -31121,15 +30123,11 @@ If `direct swap` is not possible, the operator must perform an `iterative swap` 
 ###### A.6.1.1.2.2.6.1.2.2.1.2.1.2.3.2.8 - Split Into Multiple Swaps If Limit Exceeded [Core]  <!-- UUID: 20dba0ba-3dd2-47cb-8e7a-793de6a11c5d -->
 
 If the `usdcAmount` exceeds the limit, the operator must split the swap into multiple smaller swaps as follows.
-    
+
 1. The operator must refill the PSM with DAI by calling `psm.fill()`.
-    
 2. The operator must recalculate the limit to see how much USDC can be swapped after the refill.
-    
 3. The operator must swap the maximum possible USDC amount that doesn't exceed the limit.
-    
 4. The operator must update `remainingUsdcToSwap` by subtracting the amount just swapped.
-    
 5. The operator must repeat the process until the full `usdcAmount` is swapped.
 
 ###### A.6.1.1.2.2.6.1.2.2.1.2.1.2.3.2.9 - Split Into Multiple Swaps If Limit Exceeded [Core]  <!-- UUID: fcd50c06-9606-4a47-9bf8-fd28522535c1 -->
@@ -31302,7 +30300,7 @@ The documents herein define all the possible actions that can be taken in case o
 
 ###### A.6.1.1.2.2.6.1.2.2.3.1 - Remove Compromised Relayer As Freezer [Core]  <!-- UUID: 53ff94d4-d7b5-4696-a66e-f6102deef3ac -->
 
-In the event of a compromised Relayer, the `FREEZER_ROLE` can call the function to `removeRelayer` from the Controller contract. This function takes an address, and then the Freezer can remove the compromised Relayer, thereby preventing it from doing any harm to the system. The backstop relayer can then take over. This function should only be used if the keys to the relayer multisig have been leaked or compromised, and the relayer is now in the hands of an external bad actor. 
+In the event of a compromised Relayer, the `FREEZER_ROLE` can call the function to `removeRelayer` from the Controller contract. This function takes an address, and then the Freezer can remove the compromised Relayer, thereby preventing it from doing any harm to the system. The backstop relayer can then take over. This function should only be used if the keys to the relayer multisig have been leaked or compromised, and the relayer is now in the hands of an external bad actor.
 
 `mainnetController.removeRelayer(compromisedRelayer)`
 
@@ -31405,12 +30403,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.2.2.6.1.3.1.1.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 9af18990-c582-46f9-a78e-0c4e4ce233fc -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 50,000,000 USDC
 - `slope`(per day): 50,000,000 USDC
 
 ###### A.6.1.1.2.2.6.1.3.1.1.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: ad10bea9-b609-4be9-bce8-56aba87da4c9 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: This parameter will be specified in a future iteration of the Grove Artifact.
 
@@ -31477,12 +30477,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.2.2.6.1.3.1.1.2.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 52d37b01-d8f2-4b9f-b251-c0f6e025c078 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 100,000,000 USDC.
 - `slope`(per day): 50,000,000 USDC.
 
 ###### A.6.1.1.2.2.6.1.3.1.1.2.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: f8705bd9-bc30-49c5-89fa-b529ebaee123 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: This parameter will be specified in a future iteration of the Grove Artifact.
 
@@ -31642,12 +30644,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.2.2.6.1.3.1.2.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 5edb937d-c579-42e3-ae25-821150cddda2 -->
 
 The inflow rate limits are:
-- `maxAmount`:  50,000,000
-- `slope`(per day):  50,000,000
+
+- `maxAmount`: 50,000,000
+- `slope`(per day): 50,000,000
 
 ###### A.6.1.1.2.2.6.1.3.1.2.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 0b80d875-47a9-4863-8cf9-7a564e49d7ff -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: This parameter will be specified in a future iteration of the Grove Artifact.
 
@@ -31718,12 +30722,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.2.2.6.1.3.1.3.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: bde14e56-5d3b-4797-9ab4-6cd689d74a8c -->
 
 The inflow rate limits are:
+
 - `maxAmount`: This parameter will be specified in a future iteration of the Grove Artifact.
 - `slope`: This parameter will be specified in a future iteration of the Grove Artifact.
 
 ###### A.6.1.1.2.2.6.1.3.1.3.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 35aaf86f-8a8e-487a-8f1d-65f263223da1 -->
 
 The outflow rate limits are:
+
 - `maxAmount`: This parameter will be specified in a future iteration of the Grove Artifact.
 - `slope`: This parameter will be specified in a future iteration of the Grove Artifact.
 
@@ -31798,12 +30804,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.2.2.6.1.3.1.4.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: cb1ffa0f-bdc8-4bd5-80ce-1592429758b8 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 250,000,000
 - `slope`: 100,000,000 per day
 
 ###### A.6.1.1.2.2.6.1.3.1.4.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 6cf9b977-565d-44f3-9400-0ad1b05f57bd -->
 
 The outflow rate limits are:
+
 - `maxAmount`: 500,000,000
 - `slope`: 200,000,000 per day
 
@@ -31822,8 +30830,8 @@ The documents herein contain the addresses authorized as `delegatedSigners` in t
 ###### A.6.1.1.2.2.6.1.3.1.4.1.3.1.1 - Addresses Of Delegated Signers [Core]  <!-- UUID: ba1c514f-026a-4ecd-bb9a-c736cca59728 -->
 
 `delegatedSigner` addresses
-    
-◦ These addesses will be specified in a future iteration of the Spark Artifact.
+
+- These addesses will be specified in a future iteration of the Spark Artifact.
 
 ###### A.6.1.1.2.2.6.1.3.1.4.1.3.2 - Set A Delegated Signer In The EthenaMinter Contract [Core]  <!-- UUID: 18b6c02a-45bc-419d-bcb6-acbbd44f75c0 -->
 
@@ -31833,9 +30841,9 @@ The documents herein define the process for an operator to set a delegated signe
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `setDelegatedSigner`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function setDelegatedSigner(address delegatedSigner) 
-        external 
-        onlyRole(RELAYER) 
+`function setDelegatedSigner(address delegatedSigner)
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.2.2.6.1.3.1.4.1.3.2.2 - Encode Function [Core]  <!-- UUID: 0338eae8-0c00-4eb4-858f-50d66f2c65d7 -->
@@ -31857,9 +30865,9 @@ The documents herein define the process for an operator to remove a delegated si
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `removeDelegatedSigner`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function removeDelegatedSigner(address delegatedSigner) 
-        external 
-        onlyRole(RELAYER) 
+`function removeDelegatedSigner(address delegatedSigner)
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.2.2.6.1.3.1.4.1.3.3.2 - Encode Function [Core]  <!-- UUID: e3f7d68f-d4af-4809-b6c9-2457b00ec991 -->
@@ -31881,9 +30889,9 @@ The documents herein define the process for an operator to approve the minting o
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `prepareUSDeMint`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function prepareUSDeMint(uint256 usdcAmount) 
-        external 
-        onlyRole(RELAYER) 
+`function prepareUSDeMint(uint256 usdcAmount)
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.2.2.6.1.3.1.4.1.3.4.2 - Enforce Rate Limit [Core]  <!-- UUID: 3b26a2c4-fb16-4f72-8b46-ca96f0352681 -->
@@ -31911,9 +30919,9 @@ The documents herein define the process for an operator to approve the burning o
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `prepareUSDeBurn`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function prepareUSDeBurn(uint256 usdeAmount) 
-        external 
-        onlyRole(RELAYER) 
+`function prepareUSDeBurn(uint256 usdeAmount)
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.2.2.6.1.3.1.4.1.3.5.2 - Enforce Rate Limit [Core]  <!-- UUID: e2f185ba-fcd6-4f46-8f7e-9b09c111a75d -->
@@ -31992,12 +31000,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.2.2.6.1.3.1.4.2.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: d25089f6-ed8a-4af9-adb1-9830e0daf0bc -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 250,000,000
 - `slope`: 100,000,000 per day
 
 ###### A.6.1.1.2.2.6.1.3.1.4.2.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: d33504c7-812f-43fb-b825-fc23aa177a3e -->
 
 The outflow rate limits are:
+
 - `maxAmount`: unlimited
 - `slope`: unlimited
 
@@ -32017,9 +31027,9 @@ The documents herein define the process for an operator to initiate a sUSDe Cool
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `cooldownAssetsSUSDe`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function cooldownAssetsSUSDe(uint256 usdeAmount) 
-        external 
-        onlyRole(RELAYER) 
+`function cooldownAssetsSUSDe(uint256 usdeAmount)
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.2.2.6.1.3.1.4.2.3.1.2 - Enforce Rate Limit [Core]  <!-- UUID: c9040dc5-3f47-4e47-861c-6ddac774ecb6 -->
@@ -32047,9 +31057,9 @@ The documents herein define the process for an operator to cool down sUSDe share
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `cooldownSharesSUSDe`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function cooldownSharesSUSDe(uint256 susdeAmount) 
-        external 
-        onlyRole(RELAYER) 
+`function cooldownSharesSUSDe(uint256 susdeAmount)
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.2.2.6.1.3.1.4.2.3.2.2 - Encode Function [Core]  <!-- UUID: 038cb6fe-4040-4f3a-b1a8-9c6f2f3a4f72 -->
@@ -32084,9 +31094,9 @@ The documents herein define the process for an operator to unstake sUSDe and ret
 
 The operator must ensure they are working as a `RELAYER`. Only the `RELAYER` role is allowed to `unstakeSUSDe`. Also, they must ensure the contract `isActive` i.e. can process the request.
 
-`function unstakeSUSDe() 
-        external 
-        onlyRole(RELAYER) 
+`function unstakeSUSDe()
+        external
+        onlyRole(RELAYER)
         isActive`
 
 ###### A.6.1.1.2.2.6.1.3.1.4.2.3.3.2 - Encode Function [Core]  <!-- UUID: 516ca684-b183-4d57-9feb-97a7a9b58e42 -->
@@ -32187,18 +31197,21 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.2.2.6.1.3.1.4.3.2.4.1 - Deposit Rate Limits (via FalconX) [Core]  <!-- UUID: 7a93740b-d794-4ca9-aece-6c7db42bebf2 -->
 
 The deposit rate limits are:
+
 - `maxAmount`: 50 million USDC
 - `slope`: 50 million USDC
 
 ###### A.6.1.1.2.2.6.1.3.1.4.3.2.4.2 - Withdrawal Rate Limits (via FalconX) [Core]  <!-- UUID: e198f465-0b25-4f45-860f-66eacc575f9f -->
 
 The withdrawal rate limits are:
+
 - `maxAmount`: 50 million USDC
 - `slope`: 50 million USDC
 
 ###### A.6.1.1.2.2.6.1.3.1.4.3.2.4.3 - Redemption Rate Limits (via Pendle Protocol) [Core]  <!-- UUID: 9dce58c1-0c6d-44f4-8145-c4243e8c02a9 -->
 
 The redemption rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: Unlimited
 
@@ -32281,18 +31294,21 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.2.2.6.1.3.1.4.4.2.4.1 - Deposit Rate Limits (via FalconX) [Core]  <!-- UUID: e66a0529-5419-46ef-8b9c-e6f6c255c3e3 -->
 
 The deposit rate limits are:
+
 - `maxAmount`: 50 million USDC
 - `slope`: 50 million USDC
 
 ###### A.6.1.1.2.2.6.1.3.1.4.4.2.4.2 - Withdrawal Rate Limits (via FalconX) [Core]  <!-- UUID: c3fa15e7-7193-4e4d-9463-9dc6001f3d75 -->
 
 The withdrawal rate limits are:
+
 - `maxAmount`: 50 million USDC
 - `slope`: 50 million USDC
 
 ###### A.6.1.1.2.2.6.1.3.1.4.4.2.4.3 - Redemption Rate Limits (via Pendle Protocol) [Core]  <!-- UUID: 5d0649b9-c4ce-4a8a-bd2c-c6c0cc3de322 -->
 
 The redemption rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: Unlimited
 
@@ -32373,7 +31389,6 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 The deposit rate limits are:
 
 - `maxAmount`: 50 million USDC
-
 - `slope`: 25 million USDC per day
 
 ###### A.6.1.1.2.2.6.1.3.1.5.1.2.4.2 - Withdrawal Rate Limits [Core]  <!-- UUID: 3c8495c0-5a34-48e6-9442-0c11420e2c79 -->
@@ -32455,7 +31470,6 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 The deposit rate limits are:
 
 - `maxAmount`: 50 million RLUSD
-
 - `slope`: 25 million RLUSD per day
 
 ###### A.6.1.1.2.2.6.1.3.1.5.2.2.4.2 - Withdrawal Rate Limits [Core]  <!-- UUID: 2709008d-ca7f-45ab-a8c1-ef6bebedea30 -->
@@ -32537,7 +31551,6 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 The deposit rate limits are:
 
 - `maxAmount`: 50 million USDC
-
 - `slope`: 25 million USDC per day
 
 ###### A.6.1.1.2.2.6.1.3.1.5.3.2.4.2 - Withdrawal Rate Limits [Core]  <!-- UUID: 08e95e2d-2390-40ed-8a79-f312162f7640 -->
@@ -32619,7 +31632,6 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 The deposit rate limits are:
 
 - `maxAmount`: 50 million RLUSD
-
 - `slope`: 25 million RLUSD per day
 
 ###### A.6.1.1.2.2.6.1.3.1.5.4.2.4.2 - Withdrawal Rate Limits [Core]  <!-- UUID: db19cefb-7b08-4d82-8a21-66e97b23d435 -->
@@ -32713,7 +31725,6 @@ The current `maxAmount`, `slope` and `maxSlippage` for this conduit’s inflo
 The deposit rate limits are:
 
 - `maxAmount`: N/A - swap only
-
 - `slope`: N/A - swap only
 
 ###### A.6.1.1.2.2.6.1.3.1.6.1.2.4.2 - Withdrawal Rate Limits [Core]  <!-- UUID: a3a60b38-055f-42e4-b35d-bb04eb829b67 -->
@@ -32727,9 +31738,7 @@ The withdrawal rate limits are:
 The swap rate limits are:
 
 - `maxAmount`: 20 million
-
 - `slope`: 100 million per day
-
 - `maxSlippage`: 0.1%
 
 ###### A.6.1.1.2.2.6.1.3.1.6.1.2.5 - Off-chain Operational Parameters [Core]  <!-- UUID: 8dbe4e53-e70b-4b52-b607-558e9b023b56 -->
@@ -33813,7 +32822,7 @@ The documents herein contain operational parameters or configuration details uni
 
 Controllers now have protections that require a `maxExchangeRate` to be set for deposits. The following ensures 1 share can represent at most 3 RLUSD:
 
-- `setMaxExchangeRate(SENTORA_RLUSD_MAIN_V2, 1e18, 3e6)`
+- `setMaxExchangeRate(SENTORA_RLUSD_MAIN_V2, 1e18, 3e18)`
 
 ###### A.6.1.1.2.2.6.1.3.1.8 - Securitize [Core]  <!-- UUID: b05d9fc2-9a93-4f3b-b0d8-b4f77bc294ce -->
 
@@ -34062,7 +33071,7 @@ The deposit rate limits are:
 The withdrawal rate limits are:
 
 - `maxAmount`: N/A
-  
+
 ###### A.6.1.1.2.2.6.1.3.1.9.2.2.5 - Off-chain Operational Parameters [Core]  <!-- UUID: 68cad9ca-620b-4aef-b47f-781d01640c87 -->
 
 The documents herein contain specific off-chain parameters for this Instance.
@@ -34626,12 +33635,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.2.2.6.1.3.2.1.1.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 0c432f68-5bbf-449e-b9fb-c089f3c750c7 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 50,000,000 USDC
 - `slope`(per day): 50,000,000 USDC
 
 ###### A.6.1.1.2.2.6.1.3.2.1.1.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 6e549221-bbf2-4c58-922d-649e7beee41c -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: This parameter will be specified in a future iteration of the Grove Artifact.
 
@@ -34698,12 +33709,14 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 ###### A.6.1.1.2.2.6.1.3.2.1.2.2.4.1 - Inflow Rate Limits [Core]  <!-- UUID: 338e8892-584c-4ca3-9a8c-8872e4105717 -->
 
 The inflow rate limits are:
+
 - `maxAmount`: 50,000,000 USDC.
 - `slope`(per day): 50,000,000 USDC.
 
 ###### A.6.1.1.2.2.6.1.3.2.1.2.2.4.2 - Outflow Rate Limits [Core]  <!-- UUID: 9c214444-96bf-4982-9c96-7ae79769262a -->
 
 The outflow rate limits are:
+
 - `maxAmount`: Unlimited
 - `slope`: This parameter will be specified in a future iteration of the Grove Artifact.
 
@@ -35204,10 +34217,10 @@ Grove will consider allocations to basis trades, Pendle PTs, and other delta-neu
 
 Grove’s phased plan to execute its strategy includes:
 
-1) Deploy infrastructure to enable initial allocation conduits;
-2) Establish manual reallocation processes; and 
-3) Develop quantitative reallocation parameters and conditions to optimize and decentralize conduit management over time; and
-4) Develop transparent insights into the allocation of the balance sheet.
+1. Deploy infrastructure to enable initial allocation conduits;
+2. Establish manual reallocation processes; and
+3. Develop quantitative reallocation parameters and conditions to optimize and decentralize conduit management over time; and
+4. Develop transparent insights into the allocation of the balance sheet.
 
 ###### A.6.1.1.2.3.4 - Management Of Infrastructure Inherited From Sky Core [Core]  <!-- UUID: 55a72d83-1de3-401c-aef4-9bb330abb774 -->
 
@@ -35639,7 +34652,8 @@ The documents herein define the custom parameters of the Single Instance of the 
 
 ###### A.6.1.1.3.2.1.4.2.1.2 - Operational Process Definition [Core]  <!-- UUID: 1eaa59a7-4c50-4ace-ba78-956b8a4d9219 -->
 
-The documents herein define the operational processes for minting and initial distribution of the tokens from the Genesis Supply. 
+The documents herein define the operational processes for minting and initial distribution of the tokens from the Genesis Supply.
+
 - These processes will be defined in a future iteration of the Keel Artifact.
 
 ###### A.6.1.1.3.2.1.4.2.1.3 - Data Repository [Core]  <!-- UUID: 50d5319f-6c7f-4318-83a2-2bc2eb87a134 -->
@@ -35844,9 +34858,9 @@ A future iteration of the Keel Artifact will specify guidelines for obtaining sp
 
 ###### A.6.1.1.3.2.2.2.2.1.2.1.3 - Root Edit Proposal Review By Operational Facilitator [Core]  <!-- UUID: 5caf90a5-60dc-4698-9ef7-70aba1c38efe -->
 
-Within seven (7) days of the proposal being submitted, the Operational Facilitator must review the Root Edit Proposal for alignment. 
+Within seven (7) days of the proposal being submitted, the Operational Facilitator must review the Root Edit Proposal for alignment.
 
-If the proposal is aligned, the Operational Facilitator must respond to the Forum post to announce their finding. In this Forum post, the Operational Facilitator must also confirm that the proposal is feasible for Operational GovOps to operationalize. 
+If the proposal is aligned, the Operational Facilitator must respond to the Forum post to announce their finding. In this Forum post, the Operational Facilitator must also confirm that the proposal is feasible for Operational GovOps to operationalize.
 
 If the proposal is misaligned, the Operational Facilitator must respond to the Forum post to announce their finding and provide the reasoning for it.
 
@@ -36448,7 +35462,7 @@ The documents herein define the process for the ongoing management of the Kamino
 
 ###### A.6.1.1.3.2.5.2.2.1.2.1 - Routine Protocol [Core]  <!-- UUID: ee4adbeb-b6eb-42cc-8aca-4c0dfa34b7b0 -->
 
-This document defines the protocol for routine ongoing management of the Kamino Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.2.2.4 - Instance Ongoing Management Protocol](805381e5-89e7-4fb9-bda7-a97e84b531ba), subject to the qualifications specified in [A.2.2.8.2.2.1.3.2.1 - Near Term Process](4ab621b4-ef8e-4b01-a6aa-9296601033c5). 
+This document defines the protocol for routine ongoing management of the Kamino Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.2.2.4 - Instance Ongoing Management Protocol](805381e5-89e7-4fb9-bda7-a97e84b531ba), subject to the qualifications specified in [A.2.2.8.2.2.1.3.2.1 - Near Term Process](4ab621b4-ef8e-4b01-a6aa-9296601033c5).
 
 Modifications to the base operational logic automatically propagate to this Instance. In future iterations of the Keel Artifact, a version of the full process definition customized to Keel will be included herein.
 
@@ -36484,9 +35498,11 @@ The materials associated with preparing the Artifact Edit Proposal during the In
 
 ###### A.6.1.1.3.2.5.2.2.1.3.4 - Integration Boost Payments [Active Data Controller]  <!-- UUID: f02b9ea5-ceae-42dd-8ca0-9565f7148efb -->
 
-The Integration Boost payments for the Kamino Instance of the Integration Boost Primitive are defined as Active Data. 
+The Integration Boost payments for the Kamino Instance of the Integration Boost Primitive are defined as Active Data.
+
 The Active Data is updated as follows:
-- The Responsible Party is Operational GovOps. 
+
+- The Responsible Party is Operational GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.6.1.1.3.2.5.2.2.1.3.4.0.6.1 - List Of Integration Boost Payments [Active Data]  <!-- UUID: 0abca082-24c3-425d-a02f-631766a438d1 -->
@@ -36539,7 +35555,7 @@ The documents herein define the process for the ongoing management of the Drift 
 
 ###### A.6.1.1.3.2.5.2.2.2.2.1 - Routine Protocol [Core]  <!-- UUID: e329ad9b-8788-4261-82e3-891cf51ca6f2 -->
 
-This document defines the protocol for routine ongoing management of the Drift Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.2.2.4 - Instance Ongoing Management Protocol](805381e5-89e7-4fb9-bda7-a97e84b531ba), subject to the qualifications specified in [A.2.2.8.2.2.1.3.2.1 - Near Term Process](4ab621b4-ef8e-4b01-a6aa-9296601033c5). 
+This document defines the protocol for routine ongoing management of the Drift Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.2.2.4 - Instance Ongoing Management Protocol](805381e5-89e7-4fb9-bda7-a97e84b531ba), subject to the qualifications specified in [A.2.2.8.2.2.1.3.2.1 - Near Term Process](4ab621b4-ef8e-4b01-a6aa-9296601033c5).
 
 Modifications to the base operational logic automatically propagate to this Instance. In future iterations of the Keel Artifact, a version of the full process definition customized to Keel will be included herein.
 
@@ -36575,9 +35591,11 @@ The materials associated with preparing the Artifact Edit Proposal during the In
 
 ###### A.6.1.1.3.2.5.2.2.2.3.4 - Integration Boost Payments [Active Data Controller]  <!-- UUID: de885def-4e9c-4116-9a16-899f0d45340f -->
 
-The Integration Boost payments for the Drift Instance of the Integration Boost Primitive are defined as Active Data. 
+The Integration Boost payments for the Drift Instance of the Integration Boost Primitive are defined as Active Data.
+
 The Active Data is updated as follows:
-- The Responsible Party is Operational GovOps. 
+
+- The Responsible Party is Operational GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.6.1.1.3.2.5.2.2.2.3.4.0.6.1 - List Of Integration Boost Payments [Active Data]  <!-- UUID: 1016d28e-fab4-4893-8e8f-846bed7e207d -->
@@ -36598,7 +35616,7 @@ The partner for the Save Integration Boost is Save.
 
 ###### A.6.1.1.3.2.5.2.2.3.1.2 - Integration Partner Reward Address [Core]  <!-- UUID: 9b3239d4-c331-45d2-ba53-2280ebaf7626 -->
 
-The reward address for the Save Integration Boost is  `5QbRL9MU5QakL5Fx2He9YaiUzB3TQpVAUBR2ARKN1NrM` on Solana.
+The reward address for the Save Integration Boost is `5QbRL9MU5QakL5Fx2He9YaiUzB3TQpVAUBR2ARKN1NrM` on Solana.
 
 ###### A.6.1.1.3.2.5.2.2.3.1.3 - Integration Partner Chain [Core]  <!-- UUID: c31ef8da-0d27-42f8-a6e7-cdd72fb89e15 -->
 
@@ -36630,7 +35648,7 @@ The documents herein define the process for the ongoing management of the Save I
 
 ###### A.6.1.1.3.2.5.2.2.3.2.1 - Routine Protocol [Core]  <!-- UUID: 0e669131-758f-4ab1-8835-4532cf22c29a -->
 
-This document defines the protocol for routine ongoing management of the Save Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.2.2.4 - Instance Ongoing Management Protocol](805381e5-89e7-4fb9-bda7-a97e84b531ba), subject to the qualifications specified in [A.2.2.8.2.2.1.3.2.1 - Near Term Process](4ab621b4-ef8e-4b01-a6aa-9296601033c5). 
+This document defines the protocol for routine ongoing management of the Save Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.2.2.4 - Instance Ongoing Management Protocol](805381e5-89e7-4fb9-bda7-a97e84b531ba), subject to the qualifications specified in [A.2.2.8.2.2.1.3.2.1 - Near Term Process](4ab621b4-ef8e-4b01-a6aa-9296601033c5).
 
 Modifications to the base operational logic automatically propagate to this Instance. In future iterations of the Keel Artifact, a version of the full process definition customized to Keel will be included herein.
 
@@ -36666,9 +35684,11 @@ The materials associated with preparing the Artifact Edit Proposal during the In
 
 ###### A.6.1.1.3.2.5.2.2.3.3.4 - Integration Boost Payments [Active Data Controller]  <!-- UUID: 5c116971-2a07-4074-9a41-422e18f5eaec -->
 
-The Integration Boost payments for the Save Instance of the Integration Boost Primitive are defined as Active Data. 
+The Integration Boost payments for the Save Instance of the Integration Boost Primitive are defined as Active Data.
+
 The Active Data is updated as follows:
-- The Responsible Party is Operational GovOps. 
+
+- The Responsible Party is Operational GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.6.1.1.3.2.5.2.2.3.3.4.0.6.1 - List Of Integration Boost Payments [Active Data]  <!-- UUID: 52237195-bbb7-4b4e-a13a-536f639bd0d0 -->
@@ -36721,7 +35741,7 @@ The documents herein define the process for the ongoing management of the Lifini
 
 ###### A.6.1.1.3.2.5.2.2.4.2.1 - Routine Protocol [Core]  <!-- UUID: e7eb4307-efd2-4112-9bed-e9f5e85f565b -->
 
-This document defines the protocol for routine ongoing management of the Lifinity Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.2.2.4 - Instance Ongoing Management Protocol](805381e5-89e7-4fb9-bda7-a97e84b531ba), subject to the qualifications specified in [A.2.2.8.2.2.1.3.2.1 - Near Term Process](4ab621b4-ef8e-4b01-a6aa-9296601033c5). 
+This document defines the protocol for routine ongoing management of the Lifinity Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.2.2.4 - Instance Ongoing Management Protocol](805381e5-89e7-4fb9-bda7-a97e84b531ba), subject to the qualifications specified in [A.2.2.8.2.2.1.3.2.1 - Near Term Process](4ab621b4-ef8e-4b01-a6aa-9296601033c5).
 
 Modifications to the base operational logic automatically propagate to this Instance. In future iterations of the Keel Artifact, a version of the full process definition customized to Keel will be included herein.
 
@@ -36757,9 +35777,11 @@ The materials associated with preparing the Artifact Edit Proposal during the In
 
 ###### A.6.1.1.3.2.5.2.2.4.3.4 - Integration Boost Payments [Active Data Controller]  <!-- UUID: b2077965-9350-4699-be85-847934f1d7b0 -->
 
-The Integration Boost payments for the Lifinity Instance of the Integration Boost Primitive are defined as Active Data. 
+The Integration Boost payments for the Lifinity Instance of the Integration Boost Primitive are defined as Active Data.
+
 The Active Data is updated as follows:
-- The Responsible Party is Operational GovOps. 
+
+- The Responsible Party is Operational GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.6.1.1.3.2.5.2.2.4.3.4.0.6.1 - List Of Integration Boost Payments [Active Data]  <!-- UUID: 4c94d227-1244-4926-be0b-d6cf87cd91b3 -->
@@ -36816,7 +35838,7 @@ The documents herein define the process for the ongoing management of the Margin
 
 ###### A.6.1.1.3.2.5.2.3.1.2.1 - Routine Protocol [Core]  <!-- UUID: a367b919-e9bb-4a9e-9dbd-b3a0f520201b -->
 
-This document defines the protocol for routine ongoing management of the MarginFi Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.2.2.4 - Instance Ongoing Management Protocol](805381e5-89e7-4fb9-bda7-a97e84b531ba), subject to the qualifications specified in [A.2.2.8.2.2.1.3.2.1 - Near Term Process](4ab621b4-ef8e-4b01-a6aa-9296601033c5). 
+This document defines the protocol for routine ongoing management of the MarginFi Instance. This Instance inherits the base class of operational logic defined in [A.2.2.8.2.2.4 - Instance Ongoing Management Protocol](805381e5-89e7-4fb9-bda7-a97e84b531ba), subject to the qualifications specified in [A.2.2.8.2.2.1.3.2.1 - Near Term Process](4ab621b4-ef8e-4b01-a6aa-9296601033c5).
 
 Modifications to the base operational logic automatically propagate to this Instance. In future iterations of the Keel Artifact, a version of the full process definition customized to Keel will be included herein.
 
@@ -36852,9 +35874,11 @@ The materials associated with preparing the Artifact Edit Proposal during the In
 
 ###### A.6.1.1.3.2.5.2.3.1.3.4 - Integration Boost Payments [Active Data Controller]  <!-- UUID: 61c17003-e1b0-46a8-8b67-0b120a0cdd5b -->
 
-The Integration Boost payments for the MarginFi Instance of the Integration Boost Primitive are defined as Active Data. 
+The Integration Boost payments for the MarginFi Instance of the Integration Boost Primitive are defined as Active Data.
+
 The Active Data is updated as follows:
-- The Responsible Party is Operational GovOps. 
+
+- The Responsible Party is Operational GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.6.1.1.3.2.5.2.3.1.3.4.0.6.1 - List Of Integration Boost Payments [Active Data]  <!-- UUID: bc103251-76b5-4969-b17f-520474e01a14 -->
@@ -37516,7 +36540,7 @@ The Core Operator Relayer Multisig holds a [A.6.1.1.3.2.6.1.2.2.2.1.1.2 - Relaye
 
 ###### A.6.1.1.3.2.6.1.2.1.2.3.3.1 - Address [Core]  <!-- UUID: f027ec03-4e5a-4262-9992-07fab72dc014 -->
 
-The address of the Core Operator Relayer Multisig on  Solana is `7JvfSy4mWcw1EAy7vjvsHnKeC28UZeAURhVi4nQjUM6h`.
+The address of the Core Operator Relayer Multisig on Solana is `7JvfSy4mWcw1EAy7vjvsHnKeC28UZeAURhVi4nQjUM6h`.
 
 ###### A.6.1.1.3.2.6.1.2.1.2.3.3.2 - State Address [Core]  <!-- UUID: 310849fb-a67d-4e9a-aadb-8c39ff2a8b8e -->
 
@@ -38095,7 +37119,7 @@ The documents herein define roles (Admin, Relayer, ALM Controller and Freezer) a
 
 ###### A.6.1.1.3.2.6.1.2.2.2.1.1.1 - Default Admin Role [Core]  <!-- UUID: 0270b595-8957-4fb2-a9cd-2bc197dc3367 -->
 
-The admin role is configured with the following permissions: `can_freeze_controller`, `can_unfreeze_controller`, `can_manage_permissions`, `can_suspend_permissions`, `can_manage_reserves_and_integrations`, `can_invoke_external_transfer`. This role can grant and revoke any role, including itself and all other roles defined in the contract. The admin role is also used for general admin functions in all contracts. This role is fully controlled by Sky Governance via the Keel Proxy. 
+The admin role is configured with the following permissions: `can_freeze_controller`, `can_unfreeze_controller`, `can_manage_permissions`, `can_suspend_permissions`, `can_manage_reserves_and_integrations`, `can_invoke_external_transfer`. This role can grant and revoke any role, including itself and all other roles defined in the contract. The admin role is also used for general admin functions in all contracts. This role is fully controlled by Sky Governance via the Keel Proxy.
 
 `constructor(address admin) {
 _grantRole(DEFAULT_ADMIN_ROLE, admin);`
@@ -38658,8 +37682,8 @@ The current `maxAmount` and `slope` for this conduit’s deposit and withdra
 
 The deposit rate limits are:
 
-- `maxAmount`: 25,000,000 USDG 
-- `slope`: 10,000,000 USDG  per day
+- `maxAmount`: 25,000,000 USDG
+- `slope`: 10,000,000 USDG per day
 
 ###### A.6.1.1.3.2.6.1.3.1.1.4.2.4.2 - Withdrawal Rate Limits [Core]  <!-- UUID: 5af501f7-f554-4b02-9cf0-742fa8aeee82 -->
 
@@ -38905,8 +37929,8 @@ The current `maxAmount` and `slope` for this conduit’s deposit and withdra
 
 The deposit rate limits are:
 
-- `maxAmount`: 25,000,000 USDC 
-- `slope`: 10,000,000 USDC  per day
+- `maxAmount`: 25,000,000 USDC
+- `slope`: 10,000,000 USDC per day
 
 ###### A.6.1.1.3.2.6.1.3.1.2.2.2.4.2 - Withdrawal Rate Limits [Core]  <!-- UUID: f2c12b28-6cea-400e-af47-f8c0acade37e -->
 
@@ -40634,6 +39658,7 @@ The Active Data is updated as follows:
 ###### A.6.1.1.4.2.5.1.2.3.3.5.0.6.1 - Payment Details Per Reward Period [Active Data]  <!-- UUID: 8fc2657e-fb6b-4d43-988c-6f47b71052f1 -->
 
 The payment details consist of a table where each entry represents a single payment. Each entry has the following fields:
+
 - Reward Period
 - Payee
 - Payment Address
@@ -40730,6 +39755,7 @@ The Active Data is updated as follows:
 ###### A.6.1.1.4.2.5.1.2.4.3.5.0.6.1 - Payment Details Per Reward Period [Active Data]  <!-- UUID: 88f6d49f-9473-46c2-a030-d3f74f2d1377 -->
 
 The payment details consist of a table where each entry represents a single payment. Each entry has the following fields:
+
 - Reward Period
 - Payee
 - Payment Address
@@ -40826,6 +39852,7 @@ The Active Data is updated as follows:
 ###### A.6.1.1.4.2.5.1.2.5.3.5.0.6.1 - Payment Details Per Reward Period [Active Data]  <!-- UUID: 3306dbf8-6c7c-4cfe-b98d-08105282272e -->
 
 The payment details consist of a table where each entry represents a single payment. Each entry has the following fields:
+
 - Reward Period
 - Payee
 - Payment Address
@@ -40922,6 +39949,7 @@ The Active Data is updated as follows:
 ###### A.6.1.1.4.2.5.1.2.6.3.5.0.6.1 - Payment Details Per Reward Period [Active Data]  <!-- UUID: 034c4a3d-46fc-46b4-afd0-1187bc29ea07 -->
 
 The payment details consist of a table where each entry represents a single payment. Each entry has the following fields:
+
 - Reward Period
 - Payee
 - Payment Address
@@ -41018,6 +40046,7 @@ The Active Data is updated as follows:
 ###### A.6.1.1.4.2.5.1.2.7.3.5.0.6.1 - Payment Details Per Reward Period [Active Data]  <!-- UUID: fc1a5e0b-0909-48d1-adc4-77e51a900050 -->
 
 The payment details consist of a table where each entry represents a single payment. Each entry has the following fields:
+
 - Reward Period
 - Payee
 - Payment Address
@@ -41203,6 +40232,7 @@ The Active Data is updated as follows:
 ###### A.6.1.1.4.2.5.1.3.1.3.2.0.6.1 - Payment Details Per Reward Period [Active Data]  <!-- UUID: 1b25a9fd-1bb0-4425-b9a1-372f737d3a45 -->
 
 The payment details consist of a table where each entry represents a single payment. Each entry has the following fields:
+
 - Reward Period
 - Payee
 - Payment Address
@@ -41319,6 +40349,7 @@ The Active Data is updated as follows:
 ###### A.6.1.1.4.2.5.1.4.1.4.5.0.6.1 - Payment Details Per Reward Period [Active Data]  <!-- UUID: aa0ea344-4e89-4b6e-8c32-afc5c19cf8d0 -->
 
 The payment details consist of a table where each entry represents a single payment. Each entry has the following fields:
+
 - Reward Period
 - Payee
 - Payment Address
@@ -41419,6 +40450,7 @@ The Active Data is updated as follows:
 ###### A.6.1.1.4.2.5.1.4.2.4.5.0.6.1 - Payment Details Per Reward Period [Active Data]  <!-- UUID: 1d995038-ec86-4f39-a02c-21ee651dd3cc -->
 
 The payment details consist of a table where each entry represents a single payment. Each entry has the following fields:
+
 - Reward Period
 - Payee
 - Payment Address
@@ -41519,6 +40551,7 @@ The Active Data is updated as follows:
 ###### A.6.1.1.4.2.5.1.4.3.4.5.0.6.1 - Payment Details Per Reward Period [Active Data]  <!-- UUID: 985b10b4-837a-48c6-884b-80de88e2462a -->
 
 The payment details consist of a table where each entry represents a single payment. Each entry has the following fields:
+
 - Reward Period
 - Payee
 - Payment Address
@@ -41599,6 +40632,7 @@ The materials associated with preparing the Artifact Edit Proposal during the In
 The Distribution Reward payments for the Piku.co Instance of the Distribution Reward Primitive are defined as Active Data.
 
 The Active Data is updated as follows:
+
 - The Responsible Party is Operational GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
@@ -41611,12 +40645,14 @@ The Distribution Reward Payments are:
 This Document records information pertaining to Skybase's payments to the Third Party Partner associated with this Instance. This information is defined as Active Data.
 
 The Active Data is updated as follows:
+
 - The Responsible Party is Operational GovOps.
 - The Update Process must follow the protocol for ‘Direct Edit’.
 
 ###### A.6.1.1.4.2.5.1.4.4.4.5.0.6.1 - Payment Details Per Reward Period [Active Data]  <!-- UUID: e0517981-c05e-4f31-b8e0-51a690853132 -->
 
 The payment details consist of a table where each entry represents a single payment. Each entry has the following fields:
+
 - Reward Period
 - Payee
 - Payment Address
@@ -43801,7 +42837,7 @@ The document herein lists the current off-chain operational parameters for the O
 
 ###### A.6.1.1.5.2.6.1.2.1.1.2.1.1 - Minimum Operation Size Ethereum Mainnet [Core]  <!-- UUID: 319b996c-7563-4d56-a7b2-4302cebc91f5 -->
 
-The minimum transaction size for operations on Ethereum Mainnet is (`MAINNET_MIN_OPERATION_SIZE`): 
+The minimum transaction size for operations on Ethereum Mainnet is (`MAINNET_MIN_OPERATION_SIZE`):
 
 - This parameter will be specified in a future iteration of the Obex Artifact.
 
@@ -44040,9 +43076,7 @@ The documents herein define the steps for an admin to specify which address shou
 Only an operator with the admin role is able to set the mint recipient for a destination domain. To do so, they must call the `setMintRecipient` function on the Controller contract on mainnet providing the destination domain and the mint recipient address. Calling this function will carry out the following actions:
 
 - The contract will confirm the admin status of the operator. If the caller does not have the admin role the transaction will revert.
-
 - The contract will set the selected mint recipient for the specified destination domain.
-
 - The contract will emit a `MintRecipientSet` event to the blockchain logs.
 
 The function call is as follows:
@@ -44058,9 +43092,7 @@ The documents herein define the steps for an admin to specify which address shou
 Only an operator with the admin role is able to set the LayerZero recipient for a destination endpoint. To do so, they must call the `setLayerZeroRecipient` function on the Controller contract on mainnet, providing the destination endpoint ID and the recipient address. Calling this function will carry out the following actions:
 
 - The contract will confirm the admin status of the operator. If the caller does not have the admin role, the transaction will revert.
-
 - The contract will set the selected LayerZero recipient for the specified destination endpoint.
-
 - The contract will emit a `LayerZeroRecipientSet` event to the blockchain logs.
 
 The function call is as follows:
@@ -44076,9 +43108,7 @@ The documents herein define the steps for an admin to set the maximum allowed sl
 Only an operator with the admin role is able to set the maximum slippage for a pool. To do so, they must call the `setMaxSlippage` function on the Controller contract on mainnet, providing the pool address and the maximum slippage value. Calling this function will carry out the following actions:
 
 - The contract will confirm the admin status of the operator. If the caller does not have the admin role, the transaction will revert.
-
 - The contract will set the maximum slippage for the specified pool.
-
 - The contract will emit a `MaxSlippageSet` event to the blockchain logs.
 
 The function call is as follows:
@@ -44102,13 +43132,9 @@ The documents herein define the steps for a relayer to mint USDS from the Sky Al
 Only an operator with the relayer role is able to mint USDS. To do so, they must call the `mintUSDS` function on the Controller contract on mainnet with the amount of USDS that is required for minting. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role the transaction will revert.
-
 - The contract will ensure the `Rate Limits` allow for minting the required amount. If the mint amount does not fall within the available Rate Limit the transaction will revert.
-
 - The contract will reduce the Rate Limit by the amount of USDS minted in this transaction.
-
 - The contract will mint the required USDS into the buffer contract.
-
 - The contract will transfer the newly minted USDS from the buffer to the Proxy.
 
 The function call is as follows:
@@ -44124,11 +43150,8 @@ The documents herein define the steps for a relayer to return and then burn Obex
 Only an operator with the relayer role is able to repay vault debt and burn USDS. To do so, they must call the `burnUSDS` function of the Controller contract on mainnet with the amount of USDS that they wish to burn. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role the transaction will revert.
-
 - The contract will increase the available Rate Limit for minting USDS by the amount of USDS being burned. This increase will be limited by the `maxAmount` parameter in the `Rate Limit` contract.
-
 - The contract will transfer USDS from the proxy to the buffer.
-
 - The contract will burn the USDS from the buffer and `wipe` an equivalent amount from the vault's debt.
 
 The function call is as follows:
@@ -44148,9 +43171,7 @@ The documents herein define the steps for a relayer to transfer ERC-20 tokens to
 Only an operator with the relayer role is able to transfer ERC-20 assets. To do so, they must call the `transferAsset` function on the Controller contract on mainnet, providing the ERC20 asset address, the destination address, and the amount to transfer. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role the transaction will revert.
-
 - The contract will ensure the `Rate Limits` allow for transferring the specified amount of the asset to the destination. If the transfer amount does not fall within the available Rate Limit, the transaction will revert.
-
 - The contract will execute the ERC-20 `transfer` function, sending the specified amount of the asset to the destination address.
 
 The function call is as follows:
@@ -44170,12 +43191,8 @@ The documents herein define the steps for a relayer to deposit assets from the A
 Only an operator with the relayer role can deposit assets into an ERC-4626 vault. To do so, they must call the `depositERC4626` function on the Controller contract on mainnet, providing the vault token address and the amount of the underlying asset to deposit. The operation will only succeed if the ALM Proxy holds at least the amount of the underlying asset specified for deposit; otherwise, the transaction will revert. The rate limit configuration serves as whitelisting for vaults. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
 - The contract will ensure the deposit amount is within the allowed rate limit for the specified vault.
-
-- The contract will approve the vault to spend the underlying asset from the ALM Proxy. The approval and 
-deposit are both performed from the ALM Proxy address.
-
+- The contract will approve the vault to spend the underlying asset from the ALM Proxy. The approval and deposit are both performed from the ALM Proxy address.
 - The contract will deposit the specified amount into the vault, and the ALM Proxy will receive the corresponding number of vault shares.
 
 The function call is as follows:
@@ -44191,11 +43208,8 @@ The documents herein define the steps for a relayer to withdraw a specified amou
 Only an operator with the relayer role can withdraw assets from an ERC-4626 vault. To do so, they must call the `withdrawERC4626` function on the Controller contract on mainnet, providing the vault token address and the amount of the underlying asset to withdraw. The operation will only succeed if the ALM Proxy holds at least the amount of the underlying asset specified for withdrawal; otherwise, the transaction will revert. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
 - The contract will ensure the withdrawal amount is within the allowed rate limit for the specified vault.
-
 - The contract will withdraw the specified amount from the vault, burning the necessary number of vault shares held by the ALM Proxy as part of the withdrawal process.
-
 - The withdrawn assets will be sent to the ALM Proxy.
 
 The function call is as follows:
@@ -44211,9 +43225,7 @@ The documents herein define the steps for a relayer to redeem vault shares for t
 Only an operator with the relayer role can redeem vault shares for the underlying asset. To do so, they must call the `redeemERC4626` function on the Controller contract on mainnet, providing the number of shares to redeem. The address is the ALM Proxy acting as both the owner of the shares being redeemed and the receiver of the resulting assets. The operation will only succeed if the ALM Proxy holds at least the number of shares specified for redemption; otherwise, the transaction will revert. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
 - The contract will redeem the specified number of shares from the vault, sending the resulting assets to the ALM Proxy.
-
 - After redemption, the contract will update the withdrawal rate limit based on the amount of assets received.
 
 The function call is as follows:
@@ -44233,11 +43245,8 @@ The documents herein define the steps for a relayer to request and claim deposit
 Only an operator with the relayer role can request a deposit into an ERC-7540 vault. To do so, they must call the `requestDepositERC7540` function on the Controller contract on mainnet, providing the vault token address and the amount of the underlying asset to deposit. The operation will only succeed if the ALM Proxy holds at least the amount of the underlying asset specified for deposit; otherwise, the transaction will revert. The Rate Limit configuration serves as whitelisting for vaults. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
 - The contract will ensure the deposit amount is within the allowed rate limit for the specified vault.
-
 - The contract will approve the vault to spend the underlying asset from the ALM Proxy. The approval and deposit are both performed from the ALM Proxy address.
-
 - The contract will submit a deposit request to the vault. Shares will not be received immediately; they must be claimed in a separate step after the vault processes the deposit.
 
 The function call is as follows:
@@ -44249,9 +43258,7 @@ The function call is as follows:
 Only an operator with the relayer role can claim shares from an ERC-7540 vault after a deposit request. To do so, they must call the `claimDepositERC7540` function on the Controller contract on mainnet, providing the vault token address. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
 - The contract will determine the maximum number of shares that can be claimed by the ALM Proxy.
-
 - The contract will claim the shares from the vault, and the ALM Proxy will receive the corresponding number of vault shares.
 
 The function call is as follows:
@@ -44267,9 +43274,7 @@ The documents herein define the steps for a relayer to request and redeem vault 
 Only an operator with the relayer role can request the redemption of shares from an ERC-7540 vault. To do so, they must call the `requestRedeemERC7540` function on the Controller contract on mainnet, providing the vault token address and the number of shares to redeem. The rate limit configuration serves as whitelisting for vaults. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
 - The contract will ensure the redemption amount is within the allowed rate limit for the specified vault.
-
 - The contract will submit a redemption request to the vault. Assets will not be received immediately; they must be claimed in a separate step after the vault processes the redemption.
 
 The function call is as follows:
@@ -44281,9 +43286,7 @@ The function call is as follows:
 Only an operator with the relayer role can claim assets from an ERC-7540 vault after a redemption request. To do so, they must call the `claimRedeemERC7540` function on the Controller contract on mainnet, providing the vault token address. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
 - The contract will determine the maximum amount of assets that can be claimed by the ALM Proxy.
-
 - The contract will claim the assets from the vault, and the ALM Proxy will receive the corresponding amount of underlying assets.
 
 The function call is as follows:
@@ -44303,9 +43306,7 @@ The documents herein define a series of operations for an operator to `swap` USD
 Only an operator with the relayer role can swap USDS to Dai. To do so, they must call the `swapUSDSToDAI` function on the Controller contract on mainnet, providing the usdsAmount. The operation will only succeed if the Proxy holds enough USDS for the swap; otherwise, the transaction will revert. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
 - The contract will approve the DaiUsds migrator to spend the specified USDS amount from the Proxy.
-
 - The contract will swap USDS to Dai at a 1:1 ratio by calling the `usdsToDai` function on the migrator, sending the resulting DAI to the proxy.
 
 The function call is as follows:
@@ -44321,9 +43322,7 @@ The documents herein define a series of operations for an operator to `swap` Dai
 Only an operator with the relayer role can swap Dai to USDS. To do so, they must call the `swapDAIToUSDS` function on the Controller contract on mainnet, providing the daiAmount. The operation will only succeed if the Proxy holds enough Dai for the swap; otherwise, the transaction will revert. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
 - The contract will approve the DaiUsds migrator to spend the specified Dai amount from the Proxy.
-
 - The contract will swap Dai to USDS at a 1:1 ratio by calling the `daiToUsds` function on the migrator, sending the resulting USDS to the proxy.
 
 The function call is as follows:
@@ -44343,17 +43342,11 @@ The documents herein define a series of operations for an operator to `swap` USD
 Only an operator with the relayer role can swap USDS to USDC via the PSM. To do so, they must call the `swapUSDSToUSDC` function on the Controller contract on mainnet, providing the usdcAmount (denominated in 1e6 precision to match PSM USDC handling). The operation will only succeed if the ALM Proxy holds at least the equivalent amount of USDS for the swap; otherwise, the transaction will revert. The rate limit configuration serves as whitelisting for swaps. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
 - The contract will ensure the swap amount is within the allowed rate limit (LIMIT_USDS_TO_USDC) for the PSM.
-
 - The contract will convert the USDC amount to an 18-decimal format using psmTo18ConversionFactor.
-
 - The contract will approve the daiUsds contract to spend the converted amount from the ALM Proxy.
-
 - The contract will swap USDS to Dai at a 1:1 ratio via daiUsds, sending Dai to the proxy.
-
 - The contract will approve the PSM to spend the Dai.
-
 - The contract will swap Dai to USDC at a 1:1 ratio with no fee via psm.buyGemNoFee, sending USDC to the proxy.
 
 The function call is as follows:
@@ -44369,21 +43362,13 @@ The documents herein define a series of operations for an operator to `swap` USD
 Only an operator with the relayer role can swap USDC to USDS via the PSM. To do so, they must call the `swapUSDCToUSDS` function on the Controller contract on mainnet, providing the usdcAmount (denominated in 1e6 precision to match PSM USDC handling). The operation will only succeed if the ALM Proxy holds at least the amount of USDC specified for the swap; otherwise, the transaction will revert. The rate limit configuration serves as whitelisting for swaps. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
 - The contract will ensure the swap amount is within the allowed rate limit (LIMIT_USDC_TO_USDS) for the PSM.
-
 - The contract will approve the PSM to spend the USDC from the ALM Proxy.
-
 - The contract will calculate the swap limit per transaction based on the Dai balance held by the PSM, converting with psmTo18ConversionFactor.
-
 - If the usdcAmount is less than or equal to the limit, the contract will perform a direct swap of USDC to Dai.
-
 - If the usdcAmount exceeds the limit, the contract will split the swap into multiple smaller swaps: refill the PSM with Dai via psm.fill, recalculate the limit, swap the maximum allowed amount, update the remaining amount, and repeat until complete (reverting with "DssLitePsm/nothing-to-fill" if PSM cannot be filled).
-
 - The contract will convert the USDC amount to a Dai amount, accounting for token decimal differences.
-
 - The contract will approve the daiUsds contract to spend the Dai amount from the ALM Proxy.
-
 - The contract will swap Dai to USDS at a 1:1 ratio via daiUsds, sending USDS to the proxy.
 
 The function call is as follows:
@@ -44399,15 +43384,10 @@ The documents herein define the steps for a relayer to `transfer` a token via La
 Only an operator with the relayer role can transfer tokens via LayerZero. To do so, they must call the `transferTokenLayerZero` function on the Controller contract on mainnet, providing the oftAddress, amount, and destinationEndpointId (payable for native fees). The operation will only succeed if the ALM Proxy holds sufficient tokens and fees; otherwise, the transaction will revert. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
 - The contract will ensure the transfer amount is within the allowed rate limit (built from LIMIT_LAYERZERO_TRANSFER, oftAddress, and destinationEndpointId).
-
 - If approval is required, the contract will approve the token for the oftAddress.
-
 - The contract will build LayerZero send options and a SendParam struct with destination details, amount, and recipient from layerZeroRecipients.
-
 - The contract will quote the OFT receipt to set the minimum amount received.
-
 - The contract will quote the messaging fee and execute the send via proxy.doCallWithValue, passing the fee value.
 
 The function call is as follows:
@@ -44433,11 +43413,8 @@ The function call is as follows:
 Only an operator with the admin role is able to set or update rate limit data for a specific key, including maxAmount, slope, and historical values. There are two overloads for flexibility. Calling these functions will carry out the following actions:
 
 - The contract will require that lastAmount is less than or equal to maxAmount, reverting with "Rate Limits/invalid-lastAmount" if not.
-
 - The contract will require that lastUpdated is less than or equal to the current block timestamp, reverting with "Rate Limits/invalid-lastUpdated" if not.
-
 - The contract will store the provided data in the _data mapping as a Rate LimitData struct.
-
 - The contract will emit a Rate LimitDataSet event with the key and provided values.
 
 The function calls are as follows:
@@ -44461,9 +43438,7 @@ The function call is as follows:
 Anyone can query the current rate limit value for a specific key, accounting for time-based slope accrual. Calling this function will carry out the following actions:
 
 - The contract will retrieve the Rate LimitData for the key from the _data mapping.
-
 - If maxAmount is type(uint256).max (unlimited case), the contract will return type(uint256).max.
-
 - Otherwise, the contract will calculate and return the minimum of (slope * time elapsed since lastUpdated + lastAmount) and maxAmount.
 
 The function call is as follows:
@@ -44475,19 +43450,12 @@ The function call is as follows:
 Only an operator with the controller role can trigger a decrease in the rate limit for a specific key by a given amount. Calling this function will carry out the following actions:
 
 - The contract will retrieve the Rate LimitData storage for the key from the data mapping.
-
 - The contract will require that maxAmount is greater than 0, reverting with "Rate Limits/zero-maxAmount" if not.
-
 - If maxAmount is type(uint256).max (unlimited case), the contract will return type(uint256).max without changes.
-
 - The contract will calculate the currentRate Limit using getCurrentRate Limit.
-
 - The contract will require that amountToDecrease is less than or equal to currentRate Limit, reverting with "Rate Limits/rate-limit-exceeded" if not.
-
 - The contract will update lastAmount to currentRate Limit minus amountToDecrease and set lastUpdated to the current block timestamp.
-
 - The contract will emit a Rate LimitDecreaseTriggered event with the key, amountToDecrease, currentRate Limit, and newLimit.
-
 - The contract will return the newLimit.
 
 The function call is as follows:
@@ -44515,9 +43483,7 @@ The documents herein define all the possible actions that can be taken in case o
 In the event of a compromised Relayer, the `FREEZER_ROLE` can call the function to `removeRelayer` from the Controller contract. Only an operator with the freezer role can remove a relayer. To do so, they must call the `removeRelayer` function on the Controller contract on mainnet, providing the compromised relayer’s address. Calling this function will carry out the following actions:
 
 - The contract will confirm the caller holds the freezer role. If the caller does not have the freezer role, the transaction will revert.
-
 - The contract will revoke the relayer role from the specified address.
-
 - The contract will emit a `RelayerRemoved(relayer)` event.
 
 The function call is as follows:
@@ -44639,7 +43605,6 @@ The current `maxAmount` and `slope` for this conduit’s inflow/outflow are 
 The deposit rate limits are:
 
 - `maxAmount`: 100,000,000 USDC
-
 - `slope`: 20,000,000 USDC per day
 
 ###### A.6.1.1.5.2.6.1.3.1.1.1.2.4.2 - Withdrawal Rate Limits [Core]  <!-- UUID: b29ac1d6-4cbd-46db-b77c-2f02d9705936 -->
@@ -44665,9 +43630,7 @@ The documents herein define the steps for a relayer to redeem vault shares from 
 Only an operator with the relayer role can request the redemption of shares from Maple. To do so, they must call the `requestMapleRedemption` function on the Controller contract on mainnet, providing the Maple token address and the number of shares to request. All Maple redemption operations are performed on behalf of the ALM Proxy and the destination address is always set to the proxy by the contract. Calling this function will carry out the following actions:
 
 - The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
 - The contract will ensure the redemption amount is within the allowed rate limit for the specified vault and decrease the rate limit for the redemption amount.
-
 - The contract will submit a redemption request to the vault. Assets will not be received immediately; they must be claimed in a separate step after the vault processes the redemption.
 
 The function call is as follows:
@@ -44678,11 +43641,9 @@ The function call is as follows:
 
 Only an operator with the relayer role can cancel a previously requested redemption of shares from Maple. To do so, they must call the `cancelMapleRedemption` function on the Controller contract on mainnet, providing the Maple token address and the number of shares to cancel. All Maple cancellations of redemption operations are performed on behalf of the ALM Proxy. Calling this function will carry out the following actions:
 
-◦ The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
-
-◦ The contract will check that a rate limit exists for the asset. If no rate limit exists the transaction will revert.
-
-◦ The contract will submit a cancellation request to the vault, removing the specified number of shares from the pending redemption.
+- The contract will confirm the relayer status of the operator. If the caller does not have the relayer role, the transaction will revert.
+- The contract will check that a rate limit exists for the asset. If no rate limit exists the transaction will revert.
+- The contract will submit a cancellation request to the vault, removing the specified number of shares from the pending redemption.
 
 The function call is as follows:
 
@@ -44885,7 +43846,6 @@ Obex is an incubation-focused Prime within the Sky Ecosystem. It provides capita
 Obex follows a direct-execution model rather than a multi-layered governance system. Key processes include:
 
 - **Incubation Selection:** Projects are sourced, evaluated, and onboarded based on strategic fit, feasibility, and alignment with Sky objectives.
-
 - **Capital Allocation:** All allocations occur through the Obex Incubator Prime, which deploys first-loss or operational capital under predefined parameters.
 
 ###### A.6.1.1.5.3.2.2 - Risk and Compliance [Core]  <!-- UUID: d3466d20-01c9-453a-aee0-e7b8f9e17cf0 -->
