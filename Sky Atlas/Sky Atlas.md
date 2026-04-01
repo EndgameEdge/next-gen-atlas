@@ -27094,6 +27094,30 @@ The current SPK contributor vesting parameters are:
         - Address: `0x6Bad07722818Ceff1deAcc33280DbbFdA4939A09`
         - Amount: 1.2 billion SPK (12% of total supply)
 
+###### A.6.1.1.1.3.4.2.4 - SPK Contributor Vesting [Core]  <!-- UUID: 3b2d9368-7dd5-424a-b9da-b6218ffb5c55 -->
+
+The documents herein define Spark’s policy for managing the SPK contributor vesting.
+
+###### A.6.1.1.1.3.4.2.4.1 - Definition [Core]  <!-- UUID: 318b9af4-5b49-41f1-b134-dd2133eafca8 -->
+
+The SPK contributor vesting is a 4-year linear vesting schedule that compensates Spark contributors.
+
+###### A.6.1.1.1.3.4.2.4.2 - Parameters [Core]  <!-- UUID: 0921d2d9-0270-40ab-bfad-726d3bcd345d -->
+
+The current SPK contributor vesting parameters are:
+
+- DssVest
+  - Recipient address(es): to be provided when available
+  - Start date: 17 June 2025
+  - Cliff date: 17 June 2026
+  - End date: 17 June 2029
+  - Vesting method: Linear per block with cliff
+  - Claim auth: Permissionless
+- SubDAO Proxy actions
+  - Approve SPK
+  - Address: DssVest contract address to be provided when available
+  - Amount: 1.2 billion SPK (12% of total supply)
+
 ###### A.6.1.1.1.3.5 - Spark Savings Configuration [Core]  <!-- UUID: 9b4ce799-3baa-42e8-a742-7e8deb377dfc -->
 
 The documents herein specify Spark's strategy and operational processes for managing parameters and liquidity for the Spark Savings protocol.
